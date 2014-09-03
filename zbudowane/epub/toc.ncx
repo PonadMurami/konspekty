@@ -1,0 +1,392 @@
+<?xml version="1.0"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="unknown"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Konspekty spotkań grupowych</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint1" playOrder="1">
+      <navLabel>
+        <text>Spis Treści</text>
+      </navLabel>
+      <content src="index.html" />
+    </navPoint>
+    <navPoint id="navPoint2" playOrder="2">
+      <navLabel>
+        <text>Odpowiedzialność za wspólnotę</text>
+      </navLabel>
+      <content src="miliardowice-2005-jesien/index.html" />
+      <navPoint id="navPoint3" playOrder="2">
+        <navLabel>
+          <text>Odpowiedzialność za wspólnotę</text>
+        </navLabel>
+        <content src="miliardowice-2005-jesien/index.html" />
+      </navPoint>
+      <navPoint id="navPoint4" playOrder="3">
+        <navLabel>
+          <text>Spotkanie 1 - Życie jako odpowiedź na powołanie do służby</text>
+        </navLabel>
+        <content src="miliardowice-2005-jesien/spotkanie1.html" />
+        <navPoint id="navPoint5" playOrder="3">
+          <navLabel>
+            <text>Spotkanie 1 - Życie jako odpowiedź na powołanie do służby</text>
+          </navLabel>
+          <content src="miliardowice-2005-jesien/spotkanie1.html" />
+        </navPoint>
+        <navPoint id="navPoint6" playOrder="4">
+          <navLabel>
+            <text>Wprowadzenie (nie)tylko dla animatora</text>
+          </navLabel>
+          <content src="miliardowice-2005-jesien/spotkanie1.html#wprowadzenie-nie-tylko-dla-animatora" />
+        </navPoint>
+        <navPoint id="navPoint7" playOrder="5">
+          <navLabel>
+            <text>Modltiwa początkowa</text>
+          </navLabel>
+          <content src="miliardowice-2005-jesien/spotkanie1.html#modltiwa-poczatkowa" />
+        </navPoint>
+        <navPoint id="navPoint8" playOrder="6">
+          <navLabel>
+            <text>Wprowadzenie do spotkania grupowego</text>
+          </navLabel>
+          <content src="miliardowice-2005-jesien/spotkanie1.html#wprowadzenie-do-spotkania-grupowego" />
+        </navPoint>
+        <navPoint id="navPoint9" playOrder="7">
+          <navLabel>
+            <text>Dar  życia: co z z nim zrobić? Czym  jest?</text>
+          </navLabel>
+          <content src="miliardowice-2005-jesien/spotkanie1.html#dar-zycia-co-z-z-nim-zrobic-czym-jest" />
+        </navPoint>
+        <navPoint id="navPoint10" playOrder="8">
+          <navLabel>
+            <text>Powołanie:  co zrobić z moim życiem? Jaka jest moja droga?</text>
+          </navLabel>
+          <content src="miliardowice-2005-jesien/spotkanie1.html#powolanie-co-zrobic-z-moim-zyciem-jaka-jest-moja-droga" />
+        </navPoint>
+        <navPoint id="navPoint11" playOrder="9">
+          <navLabel>
+            <text>Służba: postawa do naśladowania</text>
+          </navLabel>
+          <content src="miliardowice-2005-jesien/spotkanie1.html#sluzba-postawa-do-nasladowania" />
+        </navPoint>
+        <navPoint id="navPoint12" playOrder="10">
+          <navLabel>
+            <text>Powołanie  do służby konsekwencją daru życia</text>
+          </navLabel>
+          <content src="miliardowice-2005-jesien/spotkanie1.html#powolanie-do-sluzby-konsekwencja-daru-zycia" />
+        </navPoint>
+        <navPoint id="navPoint13" playOrder="11">
+          <navLabel>
+            <text>Zastosowanie</text>
+          </navLabel>
+          <content src="miliardowice-2005-jesien/spotkanie1.html#zastosowanie" />
+        </navPoint>
+        <navPoint id="navPoint14" playOrder="12">
+          <navLabel>
+            <text>Modlitwa końcowa</text>
+          </navLabel>
+          <content src="miliardowice-2005-jesien/spotkanie1.html#modlitwa-koncowa" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint15" playOrder="13">
+      <navLabel>
+        <text>Duchowość człowieka</text>
+      </navLabel>
+      <content src="babice2006-wiosna-knurow/index.html" />
+      <navPoint id="navPoint16" playOrder="13">
+        <navLabel>
+          <text>Duchowość człowieka</text>
+        </navLabel>
+        <content src="babice2006-wiosna-knurow/index.html" />
+      </navPoint>
+      <navPoint id="navPoint17" playOrder="14">
+        <navLabel>
+          <text>Spotkanie 1 - Duchowa kondycja człowieka</text>
+        </navLabel>
+        <content src="babice2006-wiosna-knurow/spotkanie1.html" />
+        <navPoint id="navPoint18" playOrder="14">
+          <navLabel>
+            <text>Spotkanie 1 - Duchowa kondycja człowieka</text>
+          </navLabel>
+          <content src="babice2006-wiosna-knurow/spotkanie1.html" />
+        </navPoint>
+        <navPoint id="navPoint19" playOrder="15">
+          <navLabel>
+            <text>Wprowadzenie dla Animatora</text>
+          </navLabel>
+          <content src="babice2006-wiosna-knurow/spotkanie1.html#wprowadzenie-dla-animatora" />
+        </navPoint>
+        <navPoint id="navPoint20" playOrder="16">
+          <navLabel>
+            <text>Wstęp. Dzielenie  się owocami dnia</text>
+          </navLabel>
+          <content src="babice2006-wiosna-knurow/spotkanie1.html#wstep-dzielenie-sie-owocami-dnia" />
+        </navPoint>
+        <navPoint id="navPoint21" playOrder="17">
+          <navLabel>
+            <text>Czym  jest duchowość?</text>
+          </navLabel>
+          <content src="babice2006-wiosna-knurow/spotkanie1.html#czym-jest-duchowosc" />
+        </navPoint>
+        <navPoint id="navPoint22" playOrder="18">
+          <navLabel>
+            <text>Pytanie  o naszą kondycję duchową</text>
+          </navLabel>
+          <content src="babice2006-wiosna-knurow/spotkanie1.html#pytanie-o-nasza-kondycje-duchowa" />
+        </navPoint>
+        <navPoint id="navPoint23" playOrder="19">
+          <navLabel>
+            <text>Co możemy z własną duchowością zrobić?</text>
+          </navLabel>
+          <content src="babice2006-wiosna-knurow/spotkanie1.html#co-mozemy-z-wlasna-duchowoscia-zrobic" />
+        </navPoint>
+        <navPoint id="navPoint24" playOrder="20">
+          <navLabel>
+            <text>Mądra odwaga stawiania sobie pytań</text>
+          </navLabel>
+          <content src="babice2006-wiosna-knurow/spotkanie1.html#madra-odwaga-stawiania-sobie-pytan" />
+        </navPoint>
+        <navPoint id="navPoint25" playOrder="21">
+          <navLabel>
+            <text>Zastosowanie</text>
+          </navLabel>
+          <content src="babice2006-wiosna-knurow/spotkanie1.html#zastosowanie" />
+        </navPoint>
+        <navPoint id="navPoint26" playOrder="22">
+          <navLabel>
+            <text>Modlitwa końcowa</text>
+          </navLabel>
+          <content src="babice2006-wiosna-knurow/spotkanie1.html#modlitwa-koncowa" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint27" playOrder="23">
+        <navLabel>
+          <text>Spotkanie 2 - Boże spojrzenie na człowieka</text>
+        </navLabel>
+        <content src="babice2006-wiosna-knurow/spotkanie2.html" />
+        <navPoint id="navPoint28" playOrder="23">
+          <navLabel>
+            <text>Spotkanie 2 - Boże spojrzenie na człowieka</text>
+          </navLabel>
+          <content src="babice2006-wiosna-knurow/spotkanie2.html" />
+        </navPoint>
+        <navPoint id="navPoint29" playOrder="24">
+          <navLabel>
+            <text>Wprowadzenie dla Animatora</text>
+          </navLabel>
+          <content src="babice2006-wiosna-knurow/spotkanie2.html#wprowadzenie-dla-animatora" />
+        </navPoint>
+        <navPoint id="navPoint30" playOrder="25">
+          <navLabel>
+            <text>Wstęp</text>
+          </navLabel>
+          <content src="babice2006-wiosna-knurow/spotkanie2.html#wstep" />
+        </navPoint>
+        <navPoint id="navPoint31" playOrder="26">
+          <navLabel>
+            <text>Jezus nadaje sens ludzkiemu życiu</text>
+          </navLabel>
+          <content src="babice2006-wiosna-knurow/spotkanie2.html#jezus-nadaje-sens-ludzkiemu-zyciu" />
+        </navPoint>
+        <navPoint id="navPoint32" playOrder="27">
+          <navLabel>
+            <text>Objawienie  w i pełni człowieka człowiekowi</text>
+          </navLabel>
+          <content src="babice2006-wiosna-knurow/spotkanie2.html#objawienie-w-i-pelni-czlowieka-czlowiekowi" />
+        </navPoint>
+        <navPoint id="navPoint33" playOrder="28">
+          <navLabel>
+            <text>Odkrycie  dogłębnej prawdy  o sobie</text>
+          </navLabel>
+          <content src="babice2006-wiosna-knurow/spotkanie2.html#odkrycie-doglebnej-prawdy-o-sobie" />
+        </navPoint>
+        <navPoint id="navPoint34" playOrder="29">
+          <navLabel>
+            <text>Zaduma  nad samym sobą</text>
+          </navLabel>
+          <content src="babice2006-wiosna-knurow/spotkanie2.html#zaduma-nad-samym-soba" />
+        </navPoint>
+        <navPoint id="navPoint35" playOrder="30">
+          <navLabel>
+            <text>Odważne przyjęcie Miłości</text>
+          </navLabel>
+          <content src="babice2006-wiosna-knurow/spotkanie2.html#odwazne-przyjecie-milosci" />
+        </navPoint>
+        <navPoint id="navPoint36" playOrder="31">
+          <navLabel>
+            <text>Zastosowanie</text>
+          </navLabel>
+          <content src="babice2006-wiosna-knurow/spotkanie2.html#zastosowanie" />
+        </navPoint>
+        <navPoint id="navPoint37" playOrder="32">
+          <navLabel>
+            <text>Modlitwa końcowa</text>
+          </navLabel>
+          <content src="babice2006-wiosna-knurow/spotkanie2.html#modlitwa-koncowa" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint38" playOrder="33">
+      <navLabel>
+        <text>Eucharystia</text>
+      </navLabel>
+      <content src="babice2006-jesien-knurow/index.html" />
+      <navPoint id="navPoint39" playOrder="33">
+        <navLabel>
+          <text>Eucharystia</text>
+        </navLabel>
+        <content src="babice2006-jesien-knurow/index.html" />
+      </navPoint>
+      <navPoint id="navPoint40" playOrder="34">
+        <navLabel>
+          <text>Spotkanie 1 - Eucharystia jako spotkanie z człowiekiem i Bogiem</text>
+        </navLabel>
+        <content src="babice2006-jesien-knurow/spotkanie1.html" />
+        <navPoint id="navPoint41" playOrder="34">
+          <navLabel>
+            <text>Spotkanie 1 - Eucharystia jako spotkanie z człowiekiem i Bogiem</text>
+          </navLabel>
+          <content src="babice2006-jesien-knurow/spotkanie1.html" />
+        </navPoint>
+        <navPoint id="navPoint42" playOrder="35">
+          <navLabel>
+            <text>Cel Spotkania</text>
+          </navLabel>
+          <content src="babice2006-jesien-knurow/spotkanie1.html#cel-spotkania" />
+        </navPoint>
+        <navPoint id="navPoint43" playOrder="36">
+          <navLabel>
+            <text>Wprowadzenie dla Animatora</text>
+          </navLabel>
+          <content src="babice2006-jesien-knurow/spotkanie1.html#wprowadzenie-dla-animatora" />
+        </navPoint>
+        <navPoint id="navPoint44" playOrder="37">
+          <navLabel>
+            <text>Modlitwa</text>
+          </navLabel>
+          <content src="babice2006-jesien-knurow/spotkanie1.html#modlitwa" />
+        </navPoint>
+        <navPoint id="navPoint45" playOrder="38">
+          <navLabel>
+            <text>Refleksja nad „Spotkaniem”</text>
+          </navLabel>
+          <content src="babice2006-jesien-knurow/spotkanie1.html#refleksja-nad-spotkaniem" />
+        </navPoint>
+        <navPoint id="navPoint46" playOrder="39">
+          <navLabel>
+            <text>Cechy Prawdziwego Spotkania</text>
+          </navLabel>
+          <content src="babice2006-jesien-knurow/spotkanie1.html#cechy-prawdziwego-spotkania" />
+        </navPoint>
+        <navPoint id="navPoint47" playOrder="40">
+          <navLabel>
+            <text>W poszukiwaniu Spotkania</text>
+          </navLabel>
+          <content src="babice2006-jesien-knurow/spotkanie1.html#w-poszukiwaniu-spotkania" />
+        </navPoint>
+        <navPoint id="navPoint48" playOrder="41">
+          <navLabel>
+            <text>Umocnienie w odkrywaniu i zastosowanie</text>
+          </navLabel>
+          <content src="babice2006-jesien-knurow/spotkanie1.html#umocnienie-w-odkrywaniu-i-zastosowanie" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint49" playOrder="42">
+        <navLabel>
+          <text>Spotkanie 2 - Eucharystia jako pokarm</text>
+        </navLabel>
+        <content src="babice2006-jesien-knurow/spotkanie2.html" />
+        <navPoint id="navPoint50" playOrder="42">
+          <navLabel>
+            <text>Spotkanie 2 - Eucharystia jako pokarm</text>
+          </navLabel>
+          <content src="babice2006-jesien-knurow/spotkanie2.html" />
+        </navPoint>
+        <navPoint id="navPoint51" playOrder="43">
+          <navLabel>
+            <text>Wprowadzenie dla Animatora</text>
+          </navLabel>
+          <content src="babice2006-jesien-knurow/spotkanie2.html#wprowadzenie-dla-animatora" />
+        </navPoint>
+        <navPoint id="navPoint52" playOrder="44">
+          <navLabel>
+            <text>Wstęp</text>
+          </navLabel>
+          <content src="babice2006-jesien-knurow/spotkanie2.html#wstep" />
+        </navPoint>
+        <navPoint id="navPoint53" playOrder="45">
+          <navLabel>
+            <text>Bóg troszczy się o nas</text>
+          </navLabel>
+          <content src="babice2006-jesien-knurow/spotkanie2.html#bog-troszczy-sie-o-nas" />
+        </navPoint>
+        <navPoint id="navPoint54" playOrder="46">
+          <navLabel>
+            <text>Sakrament</text>
+          </navLabel>
+          <content src="babice2006-jesien-knurow/spotkanie2.html#sakrament" />
+        </navPoint>
+        <navPoint id="navPoint55" playOrder="47">
+          <navLabel>
+            <text>„Co to jest?” = „lecz świat Go nie poznał”</text>
+          </navLabel>
+          <content src="babice2006-jesien-knurow/spotkanie2.html#co-to-jest-lecz-swiat-go-nie-poznal" />
+        </navPoint>
+        <navPoint id="navPoint56" playOrder="48">
+          <navLabel>
+            <text>Podsumowanie</text>
+          </navLabel>
+          <content src="babice2006-jesien-knurow/spotkanie2.html#podsumowanie" />
+        </navPoint>
+        <navPoint id="navPoint57" playOrder="49">
+          <navLabel>
+            <text>Zastosowanie</text>
+          </navLabel>
+          <content src="babice2006-jesien-knurow/spotkanie2.html#zastosowanie" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint58" playOrder="50">
+        <navLabel>
+          <text>Spotkanie 3 - Eucharystia jako zjednoczenie z ludźmi i Bogiem</text>
+        </navLabel>
+        <content src="babice2006-jesien-knurow/spotkanie3.html" />
+        <navPoint id="navPoint59" playOrder="50">
+          <navLabel>
+            <text>Spotkanie 3 - Eucharystia jako zjednoczenie z ludźmi i Bogiem</text>
+          </navLabel>
+          <content src="babice2006-jesien-knurow/spotkanie3.html" />
+        </navPoint>
+        <navPoint id="navPoint60" playOrder="51">
+          <navLabel>
+            <text>Wprowadzenie dla Animatora</text>
+          </navLabel>
+          <content src="babice2006-jesien-knurow/spotkanie3.html#wprowadzenie-dla-animatora" />
+        </navPoint>
+        <navPoint id="navPoint61" playOrder="52">
+          <navLabel>
+            <text>Eucharystia jako zbawcza obecność Jezusa we wspólnocie wiernych</text>
+          </navLabel>
+          <content src="babice2006-jesien-knurow/spotkanie3.html#eucharystia-jako-zbawcza-obecnosc-jezusa-we-wspolnocie-wiernych" />
+        </navPoint>
+        <navPoint id="navPoint62" playOrder="53">
+          <navLabel>
+            <text>Udział musi być czynny!</text>
+          </navLabel>
+          <content src="babice2006-jesien-knurow/spotkanie3.html#udzial-musi-byc-czynny" />
+        </navPoint>
+        <navPoint id="navPoint63" playOrder="54">
+          <navLabel>
+            <text>Zastosowanie</text>
+          </navLabel>
+          <content src="babice2006-jesien-knurow/spotkanie3.html#zastosowanie" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

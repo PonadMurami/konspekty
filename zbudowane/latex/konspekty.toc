@@ -1,0 +1,57 @@
+\select@language {polish}
+\contentsline {part}{I\hspace {1em}Odpowiedzialno\IeC {\'s}\IeC {\'c} za wsp\IeC {\'o}lnot\IeC {\k e}}{5}{part.1}
+\contentsline {paragraph}{Podstawowe informacje o rekolekcjach}{7}{paragraph*.3}
+\contentsline {chapter}{\numberline {1}Spotkanie 1 - \IeC {\.Z}ycie jako odpowied\IeC {\'z} na powo\IeC {\l }anie do s\IeC {\l }u\IeC {\.z}by}{9}{chapter.1}
+\contentsline {section}{\numberline {1.1}Wprowadzenie (nie)tylko dla animatora}{9}{section.1.1}
+\contentsline {section}{\numberline {1.2}Modltiwa pocz\IeC {\k a}tkowa}{11}{section.1.2}
+\contentsline {section}{\numberline {1.3}Wprowadzenie do spotkania grupowego}{11}{section.1.3}
+\contentsline {section}{\numberline {1.4}Dar \IeC {\.z}ycia: co z z nim zrobi\IeC {\'c}? Czym jest?}{11}{section.1.4}
+\contentsline {section}{\numberline {1.5}Powo\IeC {\l }anie: co zrobi\IeC {\'c} z moim \IeC {\.z}yciem? Jaka jest moja droga?}{12}{section.1.5}
+\contentsline {section}{\numberline {1.6}S\IeC {\l }u\IeC {\.z}ba: postawa do na\IeC {\'s}ladowania}{13}{section.1.6}
+\contentsline {section}{\numberline {1.7}Powo\IeC {\l }anie do s\IeC {\l }u\IeC {\.z}by konsekwencj\IeC {\k a} daru \IeC {\.z}ycia}{14}{section.1.7}
+\contentsline {section}{\numberline {1.8}Zastosowanie}{15}{section.1.8}
+\contentsline {section}{\numberline {1.9}Modlitwa ko\IeC {\'n}cowa}{15}{section.1.9}
+\contentsline {part}{II\hspace {1em}Duchowo\IeC {\'s}\IeC {\'c} cz\IeC {\l }owieka}{17}{part.2}
+\contentsline {paragraph}{Podstawowe informacje o rekolekcjach}{19}{paragraph*.4}
+\contentsline {chapter}{\numberline {2}Spotkanie 1 - Duchowa kondycja cz\IeC {\l }owieka}{21}{chapter.2}
+\contentsline {section}{\numberline {2.1}Wprowadzenie dla Animatora}{21}{section.2.1}
+\contentsline {section}{\numberline {2.2}Wst\IeC {\k e}p. Dzielenie si\IeC {\k e} owocami dnia}{21}{section.2.2}
+\contentsline {section}{\numberline {2.3}Czym jest duchowo\IeC {\'s}\IeC {\'c}?}{22}{section.2.3}
+\contentsline {section}{\numberline {2.4}Pytanie o nasz\IeC {\k a} kondycj\IeC {\k e} duchow\IeC {\k a}}{24}{section.2.4}
+\contentsline {section}{\numberline {2.5}Co mo\IeC {\.z}emy z w\IeC {\l }asn\IeC {\k a} duchowo\IeC {\'s}ci\IeC {\k a} zrobi\IeC {\'c}?}{24}{section.2.5}
+\contentsline {section}{\numberline {2.6}M\IeC {\k a}dra odwaga stawiania sobie pyta\IeC {\'n}}{26}{section.2.6}
+\contentsline {section}{\numberline {2.7}Zastosowanie}{27}{section.2.7}
+\contentsline {section}{\numberline {2.8}Modlitwa ko\IeC {\'n}cowa}{27}{section.2.8}
+\contentsline {chapter}{\numberline {3}Spotkanie 2 - Bo\IeC {\.z}e spojrzenie na cz\IeC {\l }owieka}{29}{chapter.3}
+\contentsline {section}{\numberline {3.1}Wprowadzenie dla Animatora}{29}{section.3.1}
+\contentsline {section}{\numberline {3.2}Wst\IeC {\k e}p}{30}{section.3.2}
+\contentsline {section}{\numberline {3.3}Jezus nadaje sens ludzkiemu \IeC {\.z}yciu}{30}{section.3.3}
+\contentsline {section}{\numberline {3.4}Objawienie w i pe\IeC {\l }ni cz\IeC {\l }owieka cz\IeC {\l }owiekowi}{31}{section.3.4}
+\contentsline {section}{\numberline {3.5}Odkrycie dog\IeC {\l }\IeC {\k e}bnej prawdy o sobie}{31}{section.3.5}
+\contentsline {section}{\numberline {3.6}Zaduma nad samym sob\IeC {\k a}}{32}{section.3.6}
+\contentsline {section}{\numberline {3.7}Odwa\IeC {\.z}ne przyj\IeC {\k e}cie Mi\IeC {\l }o\IeC {\'s}ci}{32}{section.3.7}
+\contentsline {section}{\numberline {3.8}Zastosowanie}{33}{section.3.8}
+\contentsline {section}{\numberline {3.9}Modlitwa ko\IeC {\'n}cowa}{33}{section.3.9}
+\contentsline {part}{III\hspace {1em}Eucharystia}{35}{part.3}
+\contentsline {paragraph}{Podstawowe informacje o rekolekcjach}{37}{paragraph*.5}
+\contentsline {chapter}{\numberline {4}Spotkanie 1 - Eucharystia jako spotkanie z cz\IeC {\l }owiekiem i Bogiem}{39}{chapter.4}
+\contentsline {section}{\numberline {4.1}Cel Spotkania}{39}{section.4.1}
+\contentsline {section}{\numberline {4.2}Wprowadzenie dla Animatora}{39}{section.4.2}
+\contentsline {section}{\numberline {4.3}Modlitwa}{40}{section.4.3}
+\contentsline {section}{\numberline {4.4}Refleksja nad \IeC {\quotedblbase }Spotkaniem\IeC {\textquotedblright }}{40}{section.4.4}
+\contentsline {section}{\numberline {4.5}Cechy Prawdziwego Spotkania}{41}{section.4.5}
+\contentsline {section}{\numberline {4.6}W poszukiwaniu Spotkania}{42}{section.4.6}
+\contentsline {section}{\numberline {4.7}Umocnienie w odkrywaniu i zastosowanie}{43}{section.4.7}
+\contentsline {chapter}{\numberline {5}Spotkanie 2 - Eucharystia jako pokarm}{45}{chapter.5}
+\contentsline {section}{\numberline {5.1}Wprowadzenie dla Animatora}{45}{section.5.1}
+\contentsline {section}{\numberline {5.2}Wst\IeC {\k e}p}{46}{section.5.2}
+\contentsline {section}{\numberline {5.3}B\IeC {\'o}g troszczy si\IeC {\k e} o nas}{47}{section.5.3}
+\contentsline {section}{\numberline {5.4}Sakrament}{49}{section.5.4}
+\contentsline {section}{\numberline {5.5}\IeC {\quotedblbase }Co to jest?\IeC {\textquotedblright } = \IeC {\quotedblbase }lecz \IeC {\'s}wiat Go nie pozna\IeC {\l }\IeC {\textquotedblright }}{50}{section.5.5}
+\contentsline {section}{\numberline {5.6}Podsumowanie}{51}{section.5.6}
+\contentsline {section}{\numberline {5.7}Zastosowanie}{52}{section.5.7}
+\contentsline {chapter}{\numberline {6}Spotkanie 3 - Eucharystia jako zjednoczenie z lud\IeC {\'z}mi i Bogiem}{53}{chapter.6}
+\contentsline {section}{\numberline {6.1}Wprowadzenie dla Animatora}{53}{section.6.1}
+\contentsline {section}{\numberline {6.2}Eucharystia jako zbawcza obecno\IeC {\'s}\IeC {\'c} Jezusa we wsp\IeC {\'o}lnocie wiernych}{54}{section.6.2}
+\contentsline {section}{\numberline {6.3}Udzia\IeC {\l } musi by\IeC {\'c} czynny!}{56}{section.6.3}
+\contentsline {section}{\numberline {6.4}Zastosowanie}{57}{section.6.4}
