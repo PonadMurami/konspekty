@@ -62,9 +62,7 @@ Tworzymy wspólnie na jakiejś kartce listę. Oto przykładowe rzeczy które mog
 
 Przypowieść o słoniu i ślepcach (pochodzenie 2000 lat przed Chrystusem) która uczy nas o konsekwencjach „wybierania sobie” elementów z całości:
 
-    Trzech ślepców chciało poznać co to jest słoń. Jeden chwycił za ucho i stwierdził:
-„słoń jest jak liść kapusty”. Drugi objął rękami jego nogę i powiedział: „słoń jest jak pień drzewa”. Trzeci chwycił słonia za ogon i powiedział: „słoń jest jak lina”. Wtedy
-– jak mówi przypowieść – zaczęli się sprzeczać, i wykrzykując: “słoń jest taki to a taki”, rzucili się jedni na drugich i zaczęli się okładać pięściami.
+    Trzech ślepców chciało poznać co to jest słoń. Jeden chwycił za ucho i stwierdził: „słoń jest jak liść kapusty”. Drugi objął rękami jego nogę i powiedział: „słoń jest jak pień drzewa”. Trzeci chwycił słonia za ogon i powiedział: „słoń jest jak lina”. Wtedy – jak mówi przypowieść – zaczęli się sprzeczać, i wykrzykując: “słoń jest taki to a taki”, rzucili się jedni na drugich i zaczęli się okładać pięściami.
 
 ====================================================
 Na czym budujemy własną tożsamość?
