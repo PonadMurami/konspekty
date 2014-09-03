@@ -388,5 +388,185 @@
         </navPoint>
       </navPoint>
     </navPoint>
+    <navPoint id="navPoint64" playOrder="55">
+      <navLabel>
+        <text>Ruch Światło-Życie - co to znaczy?</text>
+      </navLabel>
+      <content src="babice2006-jesien-gliwice/index.html" />
+      <navPoint id="navPoint65" playOrder="55">
+        <navLabel>
+          <text>Ruch Światło-Życie - co to znaczy?</text>
+        </navLabel>
+        <content src="babice2006-jesien-gliwice/index.html" />
+      </navPoint>
+      <navPoint id="navPoint66" playOrder="56">
+        <navLabel>
+          <text>Spotkanie 1 - Jesteśmy Oazą!</text>
+        </navLabel>
+        <content src="babice2006-jesien-gliwice/spotkanie1.html" />
+        <navPoint id="navPoint67" playOrder="56">
+          <navLabel>
+            <text>Spotkanie 1 - Jesteśmy Oazą!</text>
+          </navLabel>
+          <content src="babice2006-jesien-gliwice/spotkanie1.html" />
+        </navPoint>
+        <navPoint id="navPoint68" playOrder="57">
+          <navLabel>
+            <text>Cel Spotkania</text>
+          </navLabel>
+          <content src="babice2006-jesien-gliwice/spotkanie1.html#cel-spotkania" />
+        </navPoint>
+        <navPoint id="navPoint69" playOrder="58">
+          <navLabel>
+            <text>Modlitwa</text>
+          </navLabel>
+          <content src="babice2006-jesien-gliwice/spotkanie1.html#modlitwa" />
+        </navPoint>
+        <navPoint id="navPoint70" playOrder="59">
+          <navLabel>
+            <text>„Największe wartości” w których teraz mamy udział</text>
+          </navLabel>
+          <content src="babice2006-jesien-gliwice/spotkanie1.html#najwieksze-wartosci-w-ktorych-teraz-mamy-udzial" />
+        </navPoint>
+        <navPoint id="navPoint71" playOrder="60">
+          <navLabel>
+            <text>Co już zawdzięczamy wspólnocie</text>
+          </navLabel>
+          <content src="babice2006-jesien-gliwice/spotkanie1.html#co-juz-zawdzieczamy-wspolnocie" />
+        </navPoint>
+        <navPoint id="navPoint72" playOrder="61">
+          <navLabel>
+            <text>„Dotknięcie” wartości wspólnoty</text>
+          </navLabel>
+          <content src="babice2006-jesien-gliwice/spotkanie1.html#dotkniecie-wartosci-wspolnoty" />
+        </navPoint>
+        <navPoint id="navPoint73" playOrder="62">
+          <navLabel>
+            <text>Podsumowanie</text>
+          </navLabel>
+          <content src="babice2006-jesien-gliwice/spotkanie1.html#podsumowanie" />
+        </navPoint>
+        <navPoint id="navPoint74" playOrder="63">
+          <navLabel>
+            <text>Zastosowania</text>
+          </navLabel>
+          <content src="babice2006-jesien-gliwice/spotkanie1.html#zastosowania" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint75" playOrder="64">
+        <navLabel>
+          <text>Spotkanie 2 - Jestem Oazowiczem - co to znaczy?</text>
+        </navLabel>
+        <content src="babice2006-jesien-gliwice/spotkanie2.html" />
+        <navPoint id="navPoint76" playOrder="64">
+          <navLabel>
+            <text>Spotkanie 2 - Jestem Oazowiczem - co to znaczy?</text>
+          </navLabel>
+          <content src="babice2006-jesien-gliwice/spotkanie2.html" />
+        </navPoint>
+        <navPoint id="navPoint77" playOrder="65">
+          <navLabel>
+            <text>Cel Spotkania</text>
+          </navLabel>
+          <content src="babice2006-jesien-gliwice/spotkanie2.html#cel-spotkania" />
+        </navPoint>
+        <navPoint id="navPoint78" playOrder="66">
+          <navLabel>
+            <text>Modlitwa</text>
+          </navLabel>
+          <content src="babice2006-jesien-gliwice/spotkanie2.html#modlitwa" />
+        </navPoint>
+        <navPoint id="navPoint79" playOrder="67">
+          <navLabel>
+            <text>Co to znaczy być Oazowiczem? – teoria</text>
+          </navLabel>
+          <content src="babice2006-jesien-gliwice/spotkanie2.html#co-to-znaczy-byc-oazowiczem-teoria" />
+        </navPoint>
+        <navPoint id="navPoint80" playOrder="68">
+          <navLabel>
+            <text>Co to znaczy być Oazowiczem? – dzielenie się życiem</text>
+          </navLabel>
+          <content src="babice2006-jesien-gliwice/spotkanie2.html#co-to-znaczy-byc-oazowiczem-dzielenie-sie-zyciem" />
+        </navPoint>
+        <navPoint id="navPoint81" playOrder="69">
+          <navLabel>
+            <text>Refleksja nad jakością własnego przeżywania Ruchu</text>
+          </navLabel>
+          <content src="babice2006-jesien-gliwice/spotkanie2.html#refleksja-nad-jakoscia-wlasnego-przezywania-ruchu" />
+        </navPoint>
+        <navPoint id="navPoint82" playOrder="70">
+          <navLabel>
+            <text>Na czym budujemy własną tożsamość?</text>
+          </navLabel>
+          <content src="babice2006-jesien-gliwice/spotkanie2.html#na-czym-budujemy-wlasna-tozsamosc" />
+        </navPoint>
+        <navPoint id="navPoint83" playOrder="71">
+          <navLabel>
+            <text>Zastosowanie</text>
+          </navLabel>
+          <content src="babice2006-jesien-gliwice/spotkanie2.html#zastosowanie" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint84" playOrder="72">
+        <navLabel>
+          <text>Spotkanie 3 - Jestem oazowiczem – co z tego wynika?</text>
+        </navLabel>
+        <content src="babice2006-jesien-gliwice/spotkanie3.html" />
+        <navPoint id="navPoint85" playOrder="72">
+          <navLabel>
+            <text>Spotkanie 3 - Jestem oazowiczem – co z tego wynika?</text>
+          </navLabel>
+          <content src="babice2006-jesien-gliwice/spotkanie3.html" />
+        </navPoint>
+        <navPoint id="navPoint86" playOrder="73">
+          <navLabel>
+            <text>Cel i metoda spotkania</text>
+          </navLabel>
+          <content src="babice2006-jesien-gliwice/spotkanie3.html#cel-i-metoda-spotkania" />
+        </navPoint>
+        <navPoint id="navPoint87" playOrder="74">
+          <navLabel>
+            <text>Przygotowanie animatora</text>
+          </navLabel>
+          <content src="babice2006-jesien-gliwice/spotkanie3.html#przygotowanie-animatora" />
+        </navPoint>
+        <navPoint id="navPoint88" playOrder="75">
+          <navLabel>
+            <text>Modlitwa</text>
+          </navLabel>
+          <content src="babice2006-jesien-gliwice/spotkanie3.html#modlitwa" />
+        </navPoint>
+        <navPoint id="navPoint89" playOrder="76">
+          <navLabel>
+            <text>Widzieć</text>
+          </navLabel>
+          <content src="babice2006-jesien-gliwice/spotkanie3.html#widziec" />
+        </navPoint>
+        <navPoint id="navPoint90" playOrder="77">
+          <navLabel>
+            <text>Osądzić</text>
+          </navLabel>
+          <content src="babice2006-jesien-gliwice/spotkanie3.html#osadzic" />
+        </navPoint>
+        <navPoint id="navPoint91" playOrder="78">
+          <navLabel>
+            <text>Działać</text>
+          </navLabel>
+          <content src="babice2006-jesien-gliwice/spotkanie3.html#dzialac" />
+        </navPoint>
+        <navPoint id="navPoint92" playOrder="79">
+          <navLabel>
+            <text>Modlitwa</text>
+          </navLabel>
+          <content src="babice2006-jesien-gliwice/spotkanie3.html#id1" />
+        </navPoint>
+        <navPoint id="navPoint93" playOrder="80">
+          <navLabel>
+            <text>Materiały dodatkowe</text>
+          </navLabel>
+          <content src="babice2006-jesien-gliwice/spotkanie3.html#materialy-dodatkowe" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
   </navMap>
 </ncx>

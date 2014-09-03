@@ -9,3 +9,4 @@ Spis Treści
    miliardowice-2005-jesien/index
    babice2006-wiosna-knurow/index
    babice2006-jesien-knurow/index
+   babice2006-jesien-gliwice/index
