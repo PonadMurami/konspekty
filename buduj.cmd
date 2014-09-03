@@ -1,3 +1,4 @@
+@mkdir zbudowane
 CALL make clean
 CALL make html
 CALL make latexpdf
