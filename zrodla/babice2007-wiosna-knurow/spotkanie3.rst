@@ -3,7 +3,7 @@ Spotkanie 3 - Dynamizm wiary
 *************************************************************
 
 =====================================
-Uwagi dla animotora
+Uwagi dla animatora
 =====================================
 
 Dzisiejsze, ostatnie spotkanie jest rozmową o przeżyciach, których doznaliśmy w naszym życiu, opiera się głównie na doświadczeniu animatora. Zaproponowałem przykład gór, gdyż jest mi on najbliższy. Oczywiście, jeśli któs nie podziela mojej opinii może użyć innego. Ważne, aby odnosił się on do wędrówki, obojętne po czym. Dajmy też uczestnikom opowiedzieć własne. Niech czują się swobodnie opowiadając o swoich przeżyciach, Zaadniczą częśćią tego spotkania jest właśnie wymienienie doświadczeń z naszych wędrówek. Następnie spróbujemy poszukać analogii pomiędzy wiarą a drogą.

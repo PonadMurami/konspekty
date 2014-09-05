@@ -13,3 +13,6 @@ Spis Treści
    babice2006-jesien-knurow/index
    babice2006-jesien-gliwice/index
    babice2007-wiosna-knurow/index
+   babice2007-jesien/index
+   babice2008-wiosna/index
+   babice2008-jesien/index
