@@ -175,5 +175,6 @@ Faktycznie – podejmowanie wysiłku takiego życia z Bogiem „na 1oo%” jest 
 
 **Zadanie nie jest proste i należy przeznaczyć na nie z 10minut na wymyślenie przez uczestników zadań.** Przykład:
 
-| Praktyczne: W momencie gdy będziesz chciał coś bardzo zrobić dzisiejszego dnia odsuniesz to w czasie na 2 minuty i pójdziesz do kaplicy pomodlić się za świadectwa które są przed nami (siła woli)
-| Duchowe: przez 3 dni po babicach otworzysz sobie NT i poczytasz przez minimum 10 minut.
+   * Praktyczne: W momencie gdy będziesz chciał coś bardzo zrobić dzisiejszego dnia odsuniesz to w czasie na 2 minuty i pójdziesz do kaplicy pomodlić się za świadectwa które są przed nami (siła woli)
+
+   * Duchowe: przez 3 dni po babicach otworzysz sobie NT i poczytasz przez minimum 10 minut.

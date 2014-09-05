@@ -1,5 +1,5 @@
 *************************************************************
-Spotkanie 3 - Jestem oazowiczem – co z tego wynika?
+Spotkanie 3 - Jestem Oazowiczem – co z tego wynika?
 *************************************************************
 
 =====================================
@@ -73,39 +73,39 @@ Nie chcę narzucać interpretacji tekstu. Ważne jest to, co uczestnicy sami wyw
 * **Rz 12, 3–8** - Pawłową naukę o Kościele jako jednym ciele w Chrystusie  można odnieść również do wspólnoty  oazowej. Każdy ma swoje miejsce, według  daru, jakiego otrzymał. Jednocześnie św. Paweł wymienia funkcje, które w każdej chrześcijańskiej wspólnocie powinny być pełnione. Z konieczności w Oazie często jedna osoba wypełnia kilka funkcji. Niektóre  funkcje przejmuje kolegium animatorów, część może  być pełniona przez uczestników. Ważne, aby żadnej z nich nie brakowało  we wspólnocie:
 
     * dar proroctwa – Nie musi być rozumiany w sensie charyzmatu nadzwyczajnego. W kontekście wspólnoty jest to przede wszystkim rozeznawanie woli Bożej. Ktoś musi pełnić tę funkcję, zwykle kapłan lub kolegium moderatorów, skoro celem wspólnoty  jest pełnienie woli Bożej. Znowu św. Paweł wymienia ją na pierwszym miejscu. Jednak (w przeciwieństwie do dwóch następnych) św. Paweł wyraźnie nazywa proroctwo darem, więc nikt nie może pełnić tej funkcji z urzędu (np. kapłan) i nie można jej komukolwiek wyznaczyć. W praktyce sprowadza się ona do podsuwania pomysłów, dotyczących działania i ewentualnych zmian we wspólnocie. Ich źródłem powinna być zawsze modlitwa.
-    
+
     * urząd diakona – Znowu nie trzeba go rozumieć w sensie święceń. Greckie diakonos oznacza sługę, więc czynności diakońskie można rozumieć jako wszelkie konieczne posługi we wspólnocie. Może to być służba liturgiczna lub sprzątanie salki. Zwykle pełnione są przez uczestników, często w formie dyżurów.
-    
+
     * urząd nauczyciela – przekazywanie wiedzy. Z racji posługi, pełnią go wszyscy animatorzy.
-    
+
     * dar upominania – konieczny w każdej wspólnocie.
-    
+
     * przełożony – moderator, niekoniecznie kapłan.
-    
+
     * rozdawanie, uczynki miłosierdzia – Oaza, a przynajmniej  oazowicze, ma służyć potrzebującym. Nie chodzi o to, by zastępować parafialny oddział Caritas, ale raczej by z nim współpracować. Dobrze, jeśli wspólnota jako całość angażuje się w jakieś dzieła miłosierdzia. Jeżeli nie jest to możliwe, to oczywiście każdy członek Oazy powinien gdzieś jakoś komuś służyć. Wiara, jeśli nie byłaby połączona  z uczynkami,  martwa jest sama w sobie. (por. Jk 2, 14–19)
 
 * **Rz 12, 9–12** - Lista zasad, którymi należy się kierować w życiu wspólnotowym. Każda z niech jest ważna. Większość daje się prosto przełożyć na nasze realia, skomentuję więc tylko kilka:
 
     * Pełnijcie służbę Panu – Jest to chyba jedyne w całym tekście bezpośrednie odniesienie do liturgii. Tymczasem Eucharystia powinna być nieodłącznym elementem życia wspólnotowego, o czym mówią inne teksty pawłowe (por. np. 1 Kor 11, 17–34). W miarę możliwości oaza powinna gromadzić się co tydzień na wspólnej Mszy Św.
-    
+
     * W ucisku bądźcie cierpliwi – czyli we wszelkich tudnościach wewnętrznych i zewnętrznych.
-    
+
     * W modlitwie [bądźcie] wytrwali – Modlitwa wspólnotowa jest konieczna w każdej wspólnocie, w której Bóg ma stać w centrum. Jej braku w zasadzie nie ma czym usprawiedliwić. Potrzebne jest zarówno dziękczynienie, jak i modlitwa błagalna w intencjach  poszczególnych członków, całej wspólnoty parafialnej, całego Ruchu, a także za parafię, Ojczyznę, Kościół i świat. Konieczna jest też modlitwa indywidualna poszczególnych członków za wspólnotę.
 
 * **Rz 12, 13–18** -  Dalsze zasady, tym razem mówiące o stosunkach wspólnoty  ze „światem zewnętrznym”. Po opisie życia wewnętrznego wspólnoty, św. Paweł przechodzi do działań na zewnątrz i relacji z innymi ludźmi. Tu my także dochodzimy do głównego celu spotkania, bo ta część życia wspólnotowego  często w Oazie wykazuje braki. W  zasadzie wszystkie poruszane tu tematy  są ważne:
 
     * Zaradzajcie potrzebom świętych – Św. Paweł mówi o materialnym wspieraniu Kościoła. My możemy sobie zadać dodatkowo pytanie, czy i jak dbamy o finanse wspólnoty oraz całego Ruchu.
-    
+
     * Przestrzegajcie gościnności – Czy jesteśmy otwarci na nowych członków? Czy zapraszamy gości na spotkania?
-    
+
     * Błogosławcie tych, którzy was prześladują  – Oaza czasem spotyka się z krytyką z różnych stron. Trzeba na tę krytykę odpowiadać z chrześcijańską wrażliwością, próbując naprawić błędy i poprawić swój  wizerunek. A jeżeli krytyka jest  faktycznie bezpodstawna, odpowiedzią miłości jest modlitwa o światło Ducha dla tych, którzy nas niesłusznie osądzają.
-    
+
     * Weselcie się z tymi, którzy się weselą, płaczcie  z tymi, którzy płaczą – Oaza nie może być oderwana od rzeczywistości, w której się znajduje.  W szczególności powinna jednoczyć się z parafią w jej radościach, a w trudnościach wspierać ją w miarę możliwości.
-    
+
     * Nie uważajcie  samych siebie za mądrych – szczególnie za mądrzejszych od proboszcza, od rodziców...
-    
+
     * Starajcie się dobrze czynić wszystkim ludziom – Wracamy do tematu uczynków miłosierdzia.
-    
+
     * Żyjcie w zgodzie ze wszystkimi  ludźmi – Trzeba dbać po pierwsze o to, żeby oaza nie inicjowała żadnych sporów. Po drugie oaza powinna działać na rzecz łagodzenia wszelkich sporów. Nie tylko tych, które jej bezpośrednio dotyczą, ale także czasem w roli mediatora. Oczywiście z wyczuciem i nie wbrew komu kolwiek.
 
 Jak już wspomniałem wcześniej, animator może uznać niektóre sprawy za wymagające większej uwagi. Wtedy może wesprzeć się którymś z następujących tekstów:
@@ -140,18 +140,18 @@ Materiały dodatkowe
 
 **Z Kodeksu Prawa Kanonicznego, kanon 215**
     Wierni  mają prawo swobodnego zakładania  stowarzyszeń  i kierowania  nimi  dla celów miłości  lub pobożności  albo dla ożywienia  chrześcijańskiego  powołania  w świecie,  a także  odbywania  zebrań dla wspólnego osiągnięcia  tych celów
-    
+
 **Z adhortacji apostolskiej Jana Pawła  II Christifideles laici:**
     Konieczność istnienia wyraźnych i ścisłych kryteriów oceny i uznania zrzeszeń laikatu, określanych także jako „kryteria  charakteru kościelnego”, rozumiana jest zawsze w perspektywie dobra komunii  i misji Kościoła, a więc nie należy w niej  widzieć  ograniczenia  wolności zrzeszania się. Należy przyjąć następujące podstawowe kryteria określenia charakteru każdego  bez wyjątku zrzeszenia osób świeckich w Kościele:
 
     *  Stawianie na pierwszym miejscu powołania każdego chrześcijanina do świętości, które objawia się w owocach łaski, które Duch rodzi w wiernych i polega na dążeniu do osiągnięcia pełni chrześcijańskiego życia i doskonałości miłości. W myśl tej zasady wszystkie  bez wyjątku zrzeszenia laikatu starają się coraz bardziej spełniać w Kościele rolę narzędzia świętości oraz akcentują i wysuwają na pierwsze miejsce u swych członków ściślejszą łączność między życiem praktycznym  a wiarą.
-    
+
     *  Odpowiedzialność w wyznawaniu wiary katolickiej, wyrażająca się w tym, że przyjęcie  i przepowiadanie prawdy o Chrystusie, Kościele i człowieku  odbywa się zgodnie z jej autentyczną interpretacją Nauczycielskiego Urzędu Kościoła. (...)
-    
+
     *  Świadectwo trwałej i autentycznej komunii znajdujące wyraz w synowskim odniesieniu do papieża (...)  i do biskupa (...)
-    
+
     *  Zgodność z apostolskim  celem Kościoła i udział w jego realizacji, czyli w ewangelizacji i uświęcaniu ludzi oraz urabianiu na modłę chrześcijańską ich sumienia, by w ten sposób przepoić duchem ewangelicznym różne społeczności i środowiska. Wymaga to, by zrzeszenia laikatu, wszystkie razem i każde z osobna, pogłębiały  swoje zaangażowanie misyjne stając się w coraz większym stopniu podmiotem nowej ewangelizacji.
-    
+
     *  Zaangażowana  obecność w ludzkiej społeczności,  będąca zawsze - w świetle społecznej nauki Kościoła - służbą na rzecz pełnej godności człowieka. (...)
 
     Przedstawione tu podstawowe kryteria weryfikują się przez konkretne rezultaty towarzyszące życiu i działalności rozmaitych stowarzyszeń ludzi świeckich, jak na przykład ożywienie umiłowania modlitwy, kontemplacji,  życia liturgicznego  i sakramentalnego; działalność  na rzecz wzrostu powołań do chrześcijańskiego małżeństwa, do sakramentalnego kapłaństwa i do życia konsekrowanego;  gotowość uczestniczenia w przedsięwzięciach  i działaniach Kościoła zarówno  na szczeblu  lokalnym, jak  krajowym i międzynarodowym;  zaangażowanie w dziedzinie  katechezy i pedagogiczne umiejętności w wychowywaniu chrześcijan; pobudzenie do chrześcijańskiej  obecności w różnych środowiskach społecznych i udział w organizowaniu i animacji dzieł charytatywnych, kulturalnych i duchowych; duch wyrzeczenia i powrót do ewangelicznego ubóstwa  jako do źródła wspaniałomyślnej  miłości wszystkich ludzi; nawrócenie na drogę chrześcijańskiego życia lub powrót do wspólnoty ochrzczonych tych, którzy niegdyś „odeszli”.
