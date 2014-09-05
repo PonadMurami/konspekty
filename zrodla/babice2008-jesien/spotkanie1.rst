@@ -122,6 +122,7 @@ Pismo Święte
 ======================================
 
 * A czy znacie jakieś fragmenty Pisma Św. mówiące o poszukiwaniu? Kto, czego i dlaczego szuka?
+
    * Rdz 3, 9-10 [Bóg Jahwe zawołał na mężczyznę i zapytał go: "Gdzie jesteś?" On odpowiedział "Usłyszałem Twój głos w ogrodzie, przestraszyłem się, bo jestem nagi, i ukryłem się".] – Bóg poszukujący człowieka.
 
    * Łk 2, 41-50 [Rodzice Jego chodzili co roku do Jerozolimy na Święto Paschy. Gdy miał lat dwanaście, udali się tam zwyczajem świątecznym. Kiedy wracali po skończonych uroczystościach, został Jezus w Jerozolimie, a tego nie zauważyli Jego Rodzice. Przypuszczając, że jest w towarzystwie pątników, uszli dzień drogi i szukali Go wśród krewnych i znajomych. Gdy Go nie znaleźli, wrócili do Jerozolimy szukając Go. Dopiero po trzech dniach odnaleźli Go w świątyni, gdzie siedział między nauczycielami, przysłuchiwał się im i zadawał pytania. Wszyscy zaś, którzy Go słuchali, byli zdumieni bystrością Jego umysłu i odpowiedziami. Na ten widok zdziwili się bardzo, a Jego Matka rzekła do Niego: Synu, czemuś nam to uczynił? Oto ojciec Twój i ja z bólem serca szukaliśmy Ciebie. Lecz On im odpowiedział: Czemuście Mnie szukali? Czy nie wiedzieliście, że powinienem być w tym, co należy do mego Ojca?] – poszukiwanie 12-letniego Jezusa.
