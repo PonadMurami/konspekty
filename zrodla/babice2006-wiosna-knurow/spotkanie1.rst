@@ -39,6 +39,7 @@ Mamy zamiar rozmawiać o kondycji człowieka. Na osobę człowieka składa się 
     
 * Duchowość
     * „Niezwykłością sfery duchowej jest fakt, że w tej sferze i tylko w tej  sferze człowiek może zapytać się o własną tajemnicę nie z perspektywy cząstkowej (cielesnej czy psychicznej)  lecz z perspektywy całego człowieka. **I tylko w tej sferze może znaleźć ostateczną odpowiedź, która stanie się podstawą zajęcia dojrzałej  postawy wobec życia.** Duchowość zaczyna się zatem dopiero wtedy, gdy człowiek wznosi się **ponad swoje ciało i ponad swoją psychikę, aby  postawić sobie pytanie  o całą swoją  rzeczywistość**:  o to, kim jest  i po co żyje, o to, jaki sens ma jego ciało, jego myślenie i jego emocje i on sam.
+
 Nie  ma więc wolności bez duchowości, gdyż człowiek nie może odpowiedzialnie kierować sobą i swoim życiem dopóki nie wie, kim jest i po co żyje. **Człowiek  bez duchowości to człowiek z definicji uzależniony od jednej ze swoich sfer cząstkowych albo od nacisków płynących ze środowiska zewnętrznego**. To człowiek, który żyje jak małe dziecko, czyli nieświadomie i jedynie w oparciu o bodźce, które oddziałują na niego w danym momencie.”
 
 ====================================

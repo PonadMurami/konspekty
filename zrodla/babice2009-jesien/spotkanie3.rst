@@ -137,7 +137,7 @@ W chwilach najdrobniejszych ukryty jest smak życia
 
 * Czy łatwo jest żyć tak, żeby były połączone inne skrajne rzeczywistości, np nasza pasja i rutynowy plan dnia?
 
-.. center:: "Pasja wymaga poświęceń”
+.. centered:: "Pasja wymaga poświęceń”
 
 Musimy się zdobyć na wysiłek zadawania pytań, poszukiwania. Nasze pasje same się nie rozwiną, życie samo się nie zbuduje.
 

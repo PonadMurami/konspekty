@@ -42,7 +42,7 @@ Dlaczego ta niepewność pojawia się nie tylko w czasie samego wyboru, ale „c
 
 W takim rozumieniu konsekwencje są „nieprzyjemnym sprawdzianem”, „groźną perspektywą obnażenia naszych błędów”, „przestrogą odwołującą się do rozsądku” itd.  Nic dziwnego zatem, że nadużywamy sformułowania, które jest ucieczką od konsekwencji:
 
-.. center:: **„co ma być to będzie”**
+.. centered:: **„co ma być to będzie”**
 
 * Co oznacza takie sformułowanie?
 

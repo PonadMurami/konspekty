@@ -48,7 +48,7 @@ Są to skojarzenia bardzo, bardzo pozytywne.
 Wybór – co dzięki  niemu możemy  dać?
 =========================================
 
-.. center:: **„Wybrany znaczy wartościowy”!**
+.. centered:: **„Wybrany znaczy wartościowy”!**
 
 * Jak myślisz dlaczego tak jest?
 

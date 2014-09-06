@@ -30,7 +30,7 @@ Być „Człowiekiem poszukującym”
 
 Skojarzenia są często negatywne. Człowiek poszukujący to taki „któremu czegoś brakuje, z którym nie wszystko jest OK”. Przecież my już znaleźliśmy, jesteśmy „lepsi”. Dla jeszcze większego kontrastu w odczuciu – skonstruujmy takie zdanie:
 
-.. center:: **Człowiek wierzący to człowiek poszukujący**
+.. centered:: **Człowiek wierzący to człowiek poszukujący**
 
 Uwaga: Uczestnicy oczywiście mogą się już z tym zdaniem zgadzać (w końcu mówimy o tym od początku dnia, to głupio byłoby wyjść na takiego do którego to nie doszło)! Dlatego pytamy czy w powszechnym odczuciu takie zdanie byłoby całkowicie normalne czy „dziwne” (jak zareagowaliby np. nasi rodzice na takie twierdzenie?).
 

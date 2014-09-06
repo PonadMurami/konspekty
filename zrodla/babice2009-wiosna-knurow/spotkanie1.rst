@@ -72,8 +72,7 @@ Po krótkim okresie czasu Izraelici zmieniają spojrzenie na przejście przez mo
 
 Spróbujmy teraz przyjrzeć się miejscu, którego tak bardzo nie lubili Izraelici i je opisać. Może ktoś miał okazję być na prawdziwej pustyni. Ponieważ mieszkamy w takiej a nie innej strefie klimatycznej pewnie niewielu z nas mogło na pustyni przebywać. Będziemy przez to musieli odwoływać się mocno do naszej wyobraźni. Poniżej  cytuję wspomnienia ludzi, którzy mieli okazję być na pustyni.
 
-   Pustynia egipska nie tylko miejsce na mapie; to doznanie i trzeba przyznać, że nieco odbiegające od naszej codzienności; słońce, wszędobylski piasek (chciało by się powiedzieć wszędopylski) , spiekota, suchość w gardle powodują pragnienie nie tylko łaknienia kubka z wodą, pogłębiają wewnętrzne pragnienie nieskończoności. Ciekawe, że pot nie zdąży zawilgocić ubrania – tak szybko paruje. Nic się tu nie zmarnuje - dosłownie nic; każdy najmniejszy odpadek zawierający jakiekolwiek organiczne
-związki mineralne jest natychmiast przetwarzany w strukturalny kawałek łańcucha pokarmowego przez jej uczestników: chrabąszcze skarabeusze, seledynowe jaszczurki i pustynne liski zwane dziwnie brzmiąco fenkami.
+   Pustynia egipska nie tylko miejsce na mapie; to doznanie i trzeba przyznać, że nieco odbiegające od naszej codzienności; słońce, wszędobylski piasek (chciało by się powiedzieć wszędopylski) , spiekota, suchość w gardle powodują pragnienie nie tylko łaknienia kubka z wodą, pogłębiają wewnętrzne pragnienie nieskończoności. Ciekawe, że pot nie zdąży zawilgocić ubrania – tak szybko paruje. Nic się tu nie zmarnuje - dosłownie nic; każdy najmniejszy odpadek zawierający jakiekolwiek organiczne związki mineralne jest natychmiast przetwarzany w strukturalny kawałek łańcucha pokarmowego przez jej uczestników: chrabąszcze skarabeusze, seledynowe jaszczurki i pustynne liski zwane dziwnie brzmiąco fenkami.
 
    -- Anonim
 

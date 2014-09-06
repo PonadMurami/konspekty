@@ -86,7 +86,7 @@ Cel: wyciągnąć kontrast: człowiek przychodzi i pyta „o coś” (co nie by�
 * Czy ktoś Tobie zadał kiedyś takie pytanie? Kto?
 * (Czy ktoś kiedyś zapytał o to co dla Ciebie jest najważniejsze?)
 
-.. center:: **Wniosek: Jezus pyta nas o to, bo uznaje, że nasze pragnienia są ważne!**
+.. centered:: **Wniosek: Jezus pyta nas o to, bo uznaje, że nasze pragnienia są ważne!**
 
 Rodzi się pytanie: Dlaczego pragnienia są istotne? (grupa może spróbować sama na nie odpowiedzieć)
 
@@ -104,7 +104,7 @@ Przeczytajmy:
 
 * (animator może sam wymyśleć jeżeli będzie czas i potrzeba)
 
-.. center:: **Wniosek: Pragnienia mogą być bardzo pomocne, a nie tylko powodować ciągłe niezadowolenie z życia**
+.. centered:: **Wniosek: Pragnienia mogą być bardzo pomocne, a nie tylko powodować ciągłe niezadowolenie z życia**
 
 ==================================================
 Zastosowanie

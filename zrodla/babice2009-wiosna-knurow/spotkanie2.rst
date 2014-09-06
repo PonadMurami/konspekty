@@ -81,7 +81,7 @@ Człowiek ma na zmianę czas pustyni/strapienia i czas pocieszenia. To rytm nasz
 
 .. note:: jedno z najważniejszych pytań tego spotkania
 
-.. center:: **„Pustynia kształtuje, bo wprowadza nowe poprzez brak”**
+.. centered:: **„Pustynia kształtuje, bo wprowadza nowe poprzez brak”**
 
 * Jak rozumiesz to zdanie? Jak wyjaśnisz ten paradoks?
 

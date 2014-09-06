@@ -72,7 +72,7 @@ Sakrament
 
 Przeczytajmy:
 
-    | „Na świecie było [Słowo], a świat stał się przez Nie, lecz świat Go nie poznał.
+    | Na świecie było [Słowo], a świat stał się przez Nie, lecz świat Go nie poznał.
     | Przyszło do swojej własności, a swoi Go nie przyjęli.
     | Wszystkim tym jednak, którzy Je przyjęli, dało moc, aby się stali dziećmi Bożymi, tym, którzy wierzą w imię Jego -
     | którzy ani z krwi,
@@ -80,7 +80,7 @@ Przeczytajmy:
     | ale z Boga się narodzili. A Słowo stało się ciałem
     | i zamieszkało wśród nas.
     | I oglądaliśmy Jego chwałę,
-    " chwałę, jaką Jednorodzony otrzymuje od Ojca, pełen łaski i prawdy.
+    | chwałę, jaką Jednorodzony otrzymuje od Ojca, pełen łaski i prawdy.
 
     -- J 1, 10-14
     
