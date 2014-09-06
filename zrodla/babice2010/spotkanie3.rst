@@ -101,7 +101,7 @@ W Liście św. Pawła do Galatów czytamy:
 * Czy w obliczu powołania do wolności możemy nadal powiedzieć, że pełnienie woli Bożej nie jest nam koniecznie potrzebne?
 
 =============================================
-Dla	Grup Młodszych (i nie tylko) - dodatek
+Dla Grup Młodszych (i nie tylko) - dodatek
 =============================================
 
 Na kartce piszemy duży napis „Bóg” i kładziemy go pod kartkę stworzoną na początku spotkania.  Na tle okna na naszym pierwszym planie przeswtetla sie napis Bóg.
