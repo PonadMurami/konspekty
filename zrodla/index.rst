@@ -18,3 +18,4 @@ Spis Treści
    babice2008-jesien/index
    babice2009-wiosna-knurow/index
    babice2009-wiosna-gliwice/index
+   babice2009-jesien/index
