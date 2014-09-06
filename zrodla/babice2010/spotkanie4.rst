@@ -76,6 +76,10 @@ Opierając się na definicji KKK – jestem wolna, bo wybrałam dobro, dobro dla
 
    -- Tukidydes
 
+=========================================
+Podsumowanie
+=========================================
+
 Nie wiem czy człowiek kiedykolwiek w 100% będzie mógł powiedzieć, że jest szczęśliwy [wolny]. Musiałby się wyzbyć wszystkich ludzkich [w tym znaczeniu grzesznych] odruchów, nawyków i przyzwyczajeń. Musiałby się wyzbyć tej nuty egoizmu, która w nim tkwi [bo tkwi w każdym]. Musiałby wyzbyć się lęku, niepewności, zwątpienia, strachu .. musiałby wiele rzeczy. Ale czy aby nie takie jest nasze zadanie na ziemi? Praca nad sobą i nad tym aby MIEĆ ODWAGĘ bycia wolnym. Aby przeciwstawiać się schematom i aby o dobro walczyć.
 Nie wolno nam zapomnieć, że w tej walce nie jesteśmy sami. Przecież Jezus mówi „Odwagi” i „Nie bójcie się” (Mt 14,27) „Ja jestem z wami po wszystkie dni aż do skończenia świata” (Mt 28,20).
 
