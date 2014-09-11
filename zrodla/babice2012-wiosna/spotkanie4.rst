@@ -3,7 +3,7 @@ Spotkanie 4 - Duch Święty jako ten, który zmienia
 ***************************************************************
 
 ==================================
-Potrzebne pomoce:
+Potrzebne pomoce
 ==================================
 
 Teksty “Akatystu ku czci Ducha Świętego” dla każdego uczestnika.

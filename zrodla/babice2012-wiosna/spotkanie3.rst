@@ -91,6 +91,7 @@ Uczestnicy w czasie odkrywania kolejnych puzzli prawdopodobnie będą na bieżą
 * Czemu ich nie mamy? Jak myślicie?
 
 Tutaj uczestnicy mogą iść bardzo różnymi drogami w interpretacji. Fajnie, aby nie padły herezje (np. “Pismo Święte nie jest kompletne” :D) - wtedy prostujcie. Dwie myśli, które wyłapujemy lub na które naprowadzamy:
+
 	* Brakuje tutaj doświadczenia Ducha Świętego. O Duchu można czytać dużo, ale poznać go można tylko w doświadczeniu i jest to ważna “cecha Ducha”
 	* Brakuje tutaj niektórych puzzli bo nikt nie wie jaki one mają kształt i czym są. Duch Święty ma jedną ważną cechę - jest nieuchwytny. Nawet Kościół nie wie o nim wszystkiego. Jest w Nim tajemnica. Wymaka się On nieustannie naszym próbą usystematyzowania wiedzy na Jego temat. Dlatego ożywia i zaskakuje, bo przynosi Nowe i nieznane.
 
@@ -107,7 +108,7 @@ Możnaby jeszcze wiele o Duchu powiedzieć, ale na potrzeby tego spotkania zaakc
 .. image:: demotywator.*
    :align: center
    
-To   jest   ekstremalny,   może   nieco   przejaskrawiony   (ale   z   łagodniejszymi   przykładami spotykamy się na co dzień) przykład tego, co się dzieje w umyśle człowieka nieznającego i nieprzyjmującego działania Ducha. TO CHRZEŚCIJAŃSTWO nigdy nie nabierze sensu jeśli jego - Ducha - zabraknie.
+To jest ekstremalny, może nieco przejaskrawiony (ale z łagodniejszymi   przykładami spotykamy się na co dzień) przykład tego, co się dzieje w umyśle człowieka nieznającego i nieprzyjmującego działania Ducha. TO CHRZEŚCIJAŃSTWO nigdy nie nabierze sensu jeśli jego - Ducha - zabraknie.
 
 Wtedy dopiero można mówić o dojrzałej wierze - wierze, której sprawcą w nas jest Duch. 
 
