@@ -21,3 +21,4 @@ Spis Treści
    babice2009-jesien/index
    babice2010/index
    babice2011-wiosna/index
+   babice2011-jesien/index

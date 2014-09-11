@@ -1,5 +1,5 @@
 ***************************************************************
-Spotkanie 4 -Quo vadis?
+Spotkanie 4 - Quo vadis?
 ***************************************************************
 
 ==================================
@@ -18,7 +18,7 @@ Dostosowana do możliwości grupy.
 Wprowadzenie
 =========================================
 
-Zastanawiamy się i wiemy gdzie jesteśmy (dzień 1). Pytamy się siebie czy i jak idziemy.  Szukaliśmy własnych ambicji i celów, sensu (dzień 2 cz. I). Zostaliśmy wezwani przykładem drogi Jezusa do nie tylko mówienia o drodze, ale konkretnego kroczenia, bo… to On jest tym, który przychodzi po to, aby nas obudzić i podnieść do godności naszego powołania (dzień 2 cz. II), abyśmy budząc się otworzyli oczy i widzieli więcej (Ewangelia niedzielna). Co teraz?
+Zastanawiamy się i wiemy gdzie jesteśmy (dzień 1). Pytamy się siebie czy i jak idziemy.  Szukaliśmy własnych ambicji i celów, sensu (Spotkanie 2). Zostaliśmy wezwani przykładem drogi Jezusa do nie tylko mówienia o drodze, ale konkretnego kroczenia, bo… to On jest tym, który przychodzi po to, aby nas obudzić i podnieść do godności naszego powołania (Spotkanie 3), abyśmy budząc się otworzyli oczy i widzieli więcej (Ewangelia niedzielna). Co teraz?
 
 Jesteśmy razem z Nim na drodze i przed nami jedno proste pytanie: „gdzie teraz zrobić następny krok?”. Ogólnikowo na to pytanie odpowiedzieć jest łatwo, bo wiele razy słyszeliśmy te odpowiedzi „ku Miłości”, „ku Dobru”…. ale czy to pomaga mi podjąć decyzję jak spożytkuje jutrzejszy dzień lub dzisiejszy wieczór?
 
