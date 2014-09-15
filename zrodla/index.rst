@@ -25,3 +25,4 @@ Spis Treści
    babice2012-wiosna/index
    babice2012-jesien/index
    babice2013-wiosna/index
+   babice2013-jesien/index
