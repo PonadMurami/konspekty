@@ -6,8 +6,6 @@ Spotkanie 1 - Życie jako odpowiedź na powołanie do służby
 Wprowadzenie (nie)tylko dla animatora
 =====================================
 
-Zacznijmy od sprawdzenia podstawowych funkcji - takich jak cytowanie:
-   
     Każde stworzenie mówi i jest powołane do wyrażenia jakiegoś szczególnego aspektu myśli Boga. Tam odnajduje swoje imię i tożsamość; potwierdza i czyni bezpieczną swoją wolność i oryginalność
 
      --  Jan Paweł II - *Dokument Końcowy Kongresu Powołań w Rzymie*
@@ -22,7 +20,7 @@ Na początek warto przytoczyć kilka fragmentów, które rozjaśnią nam nieco c
 | Ks. dr Marek Dziewiecki od kwietnia 1999 jest krajowym duszpasterzem powołań. Dlatego często tutaj padają jego słowa gdyż zakładam, że jest to jedna z najbardziej kompetentnych osób piszących w języku polskim na ten temat.
 | *Przypomnienie:*
 | **Spotkania Ruchu Światło-Życie  mają charakter dzieleniowy, nie wykładowy. Mamy sami siebie ubogacać. Wartością spotkania nie ma być treść konspektu tylko spotkanie z drugim człowiekiem w duchu zaufania oraz podzielenie się samym sobą.**
- 
+
 
 ==========================
 Modltiwa początkowa
@@ -42,7 +40,7 @@ Odczytanie Fragmentu, a następnie umieszczenie go w widocznym miejscu, aby „t
     Stwarzając człowieka  na swój obraz i podobieństwo  oraz nieustannie podtrzymując go w istnieniu, Bóg wpisuje w człowieczeństwo mężczyzny i kobiety powołanie, a więc zdolność i odpowiedzialność za miłość i wspólnotę. Miłość jest zatem podstawowym i wrodzonym powołaniem każdej istoty ludzkiej
 
      --  Jan Paweł II - *Adhortacja „Familiaris consortio”*
-     
+
 Fragment ten jest równocześnie wprowadzeniem do tematyki spotkania – zapytać konkretnie kogoś jak reaguje gdy widzi taki tekst, czy są to dla niego „frazesy” czy może nieżyciowe rozważania, a może czymś co poruszyło?
 
 ==========================================
@@ -71,10 +69,10 @@ Bóg wybiera każdego z nas. On nas stworzył i nie dokonał tego „ot tak sobi
 
      --  Ks. Marek Dziewiecki
 
-* Czy zgadzamy  się z tymi słowami? Czy możemy  się podzielić doświadczeniem właśnie takiego działania Boga, że On wydobył z nas rzeczy które nas samych wprowadziły w zdumienie? 
+* Czy zgadzamy  się z tymi słowami? Czy możemy  się podzielić doświadczeniem właśnie takiego działania Boga, że On wydobył z nas rzeczy które nas samych wprowadziły w zdumienie?
 
 * Jak wygląda nasza wiara w to, że ta „najpiękniejsza wersja samego siebie” istnieje i mamy obowiązek  się o nią starać?
-     
+
 Powstaje perspektywa, że ten dar życia o którym mówiliśmy na początku ma konkretny cel. Nie jesteśmy tym czym moglibyśmy być. Jest ktoś prócz nas samych komu zależy na tym abyśmy tym byli. Ma on możliwości aby nam pomóc, musimy jednak z nim współpracować.
 
 ===============================
@@ -104,7 +102,7 @@ Powołanie  do służby konsekwencją daru życia
     Zrealizować we własnym życiu Boże powołanie to stać się wiernym uczniem Chrystusa, to stać się przedłużeniem Jego słów i Jego czynów, to stać się przedłużeniem Jego obecności na tej ziemi. To doprowadzić do sytuacji, w której za św. Pawłem możemy powiedzieć, że już nie ja żyję, lecz żyje we mnie Chrystus. To oddać Jezusowi do całkowitej dyspozycji samego siebie, aby poprzez nas Jego serce i Jego ręce mogły nadal obejmować małych i zagubionych, chorych i odrzuconych przez ludzi, słabych i grzeszników.
 
      --  Ks. Marek Dziewiecki
-    
+
 Oddanie Jezusowi samego siebie do całkowitej dyspozycji  to nic innego jak stanie się Jego narzędziem, a sługą dla bliźniego.
 
 Nie jednak tak, że od razu będziemy umieli do *„całkowitej dyspozycji”*. Przez całe nasze życie walczymy o to aby tak  było. Decydując się zatem na służbę drugiemu musimy zdawać sobie sprawę z tego, że nie będziemy potrafili  mu służyć doskonale! Będziemy ranić własny egoizmem, własną grzecznością, będziemy rozczarowywać!
