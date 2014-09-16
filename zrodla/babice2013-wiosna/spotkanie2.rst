@@ -137,8 +137,7 @@ Słowa tracące moc
 
 Zobaczmy, jak łatwo czasem jest nam zapominać o mocy słowa. Skupmy się i posłuchajmy pewnego tekstu:
 
-   Mam dziś jakby marzenie! Mam takie jakieś marzenie, że pewnego dnia chyba każda dolina będzie wyniesiona, chyba każdy szczyt i góra obniżona, szorstkie miejsca powinny zostać trochę wygładzone, krzywe powinny zostać nieco wyprostowane, a chwała Pana objawiona i chyba dobrze byłoby, gdyby ludzie to zobaczyli. To jakby nasza nadzieja. To jakby jest wiara, z którą może wrócę na Południe.
-Z tą wiarą będziemy chyba mogli wykuć z góry rozpaczy skałę jakiejś nadziei. Z tą wiarą będziemy może zdolni do zmiany brzęczących dysonansów w naszym kraju w jakąś, może piękną, symfonię braterstwa. Z tą wiarą będziemy być może zdolni do wspólnego działania, może do jakiejś wspólnej modlitwy, może do wspólnej walki, do pójścia jakby razem do więzienia, do wspólnego stanięcia w obronie wolności, jakby wiedząc, że pewnego dnia chyba będziemy wolni.
+   Mam dziś jakby marzenie! Mam takie jakieś marzenie, że pewnego dnia chyba każda dolina będzie wyniesiona, chyba każdy szczyt i góra obniżona, szorstkie miejsca powinny zostać trochę wygładzone, krzywe powinny zostać nieco wyprostowane, a chwała Pana objawiona i chyba dobrze byłoby, gdyby ludzie to zobaczyli. To jakby nasza nadzieja. To jakby jest wiara, z którą może wrócę na Południe. Z tą wiarą będziemy chyba mogli wykuć z góry rozpaczy skałę jakiejś nadziei. Z tą wiarą będziemy może zdolni do zmiany brzęczących dysonansów w naszym kraju w jakąś, może piękną, symfonię braterstwa. Z tą wiarą będziemy być może zdolni do wspólnego działania, może do jakiejś wspólnej modlitwy, może do wspólnej walki, do pójścia jakby razem do więzienia, do wspólnego stanięcia w obronie wolności, jakby wiedząc, że pewnego dnia chyba będziemy wolni.
 
 * Czy macie jakieś przypuszczenia co to za tekst? Kto to powiedział i kiedy?
 

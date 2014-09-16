@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="wykres4.pdf">
+   sodipodi:docname="wykres4.svg">
   <defs
      id="defs4">
     <marker
@@ -152,9 +152,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="446.08015"
-     inkscape:cy="37.719638"
+     inkscape:zoom="1.4"
+     inkscape:cx="532.99443"
+     inkscape:cy="70.459484"
      inkscape:document-units="px"
      inkscape:current-layer="g6566"
      showgrid="false"
@@ -175,7 +175,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -220,14 +220,14 @@
       <text
          xml:space="preserve"
          style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         x="1732.7024"
-         y="294.62674"
+         x="1727.6516"
+         y="293.11151"
          id="text6590-4"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan6592-8"
-           x="1732.7024"
-           y="294.62674"
+           x="1727.6516"
+           y="293.11151"
            style="font-size:12px">chrzest Jezusa</tspan></text>
       <text
          xml:space="preserve"
@@ -276,31 +276,31 @@
       <text
          xml:space="preserve"
          style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         x="1740.7836"
+         x="1721.0856"
          y="262.30182"
          id="text6590-11"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
-           x="1740.7836"
+           x="1721.0856"
            y="262.30182"
            style="font-size:12px"
            id="tspan6651">przypowieści</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:39.17956161px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         x="1956.2908"
-         y="158.54773"
+         x="1911.587"
+         y="143.94026"
          id="text6590-45-7"
          sodipodi:linespacing="125%"
-         transform="scale(0.97948909,1.0209404)"><tspan
+         transform="scale(0.9794891,1.0209404)"><tspan
            sodipodi:role="line"
-           x="1956.2908"
-           y="158.54773"
+           x="1911.587"
+           y="143.94026"
            style="font-size:11.75386906px"
            id="tspan6659-1">Oczekiwania </tspan><tspan
            sodipodi:role="line"
-           x="1956.2908"
-           y="173.24007"
+           x="1911.587"
+           y="158.6326"
            style="font-size:11.75386906px"
            id="tspan6687">uczniów</tspan></text>
       <path

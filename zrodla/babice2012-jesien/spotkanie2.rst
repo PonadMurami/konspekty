@@ -164,8 +164,7 @@ Zapytajmy:
 
 * Czy jestem gotów uznać, że to Bóg mnie określa? (=że jest „większy” ode mnie?)
 
-.. warning:: Ważne stwierdzenie!!!! (do tego mają doprowadzić fragmenty z burzy mózgów!!!): Trzeba tutaj podkreślić, że dzięki temu, jak Pan Bóg nas nazywa (co zobaczyliśmy wyżej) zyskujemy ogromną wartość-> jesteśmy PODOBNI Bogu!!! Jesteśmy przez Niego wybrani i dla Niego ważni oraz mamy zadanie do wykonania= nasze życie ma sens i ma wnieść wiele w ten świat.
-Z tych fragmentów dla uczestników musi wynikać, że Pan Bóg nadaje wartość ich istnieniu. I jest to wartość niezależna od okoliczności, sytuacji czy wydarzeń losowych ani od tego, czy coś zrobią czy nie. Ich wartość po prostu leży w tym, że Pan Bóg stworzył każdego z nich i każdego z nich chciał.
+.. warning:: Ważne stwierdzenie!!!! (do tego mają doprowadzić fragmenty z burzy mózgów!!!): Trzeba tutaj podkreślić, że dzięki temu, jak Pan Bóg nas nazywa (co zobaczyliśmy wyżej) zyskujemy ogromną wartość-> jesteśmy PODOBNI Bogu!!! Jesteśmy przez Niego wybrani i dla Niego ważni oraz mamy zadanie do wykonania= nasze życie ma sens i ma wnieść wiele w ten świat. Z tych fragmentów dla uczestników musi wynikać, że Pan Bóg nadaje wartość ich istnieniu. I jest to wartość niezależna od okoliczności, sytuacji czy wydarzeń losowych ani od tego, czy coś zrobią czy nie. Ich wartość po prostu leży w tym, że Pan Bóg stworzył każdego z nich i każdego z nich chciał.
 
 Świadectwo animatora:
    Myślę, że tu jest bardzo odpowiedni moment na świadectwo animatora- będziecie wiedzieć o czym ;) (mi się osobiście narzuca temat tego, że swoją wartość odkrywa się w relacji z Panem Bogiem ;); każdy z nas ma inne doświadczenia, więc posłuchajcie Ducha Świętego ;)

@@ -143,7 +143,7 @@ Ciekawość jest często motorem, który popycha do działania. Potrafi nawet uz
 
    -- Łk 19,1-10
 
- *Kim był Zacheusz?
+* Kim był Zacheusz?
 
 * Co zrobił; czy jego zachowanie było całkowicie normalne?
 

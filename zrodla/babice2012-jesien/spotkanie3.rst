@@ -69,8 +69,7 @@ Tekst Drogowskazu (pierwsza część). Ksiądz Franciszek Blachnicki Nową Kultu
 
 Przez grzech człowiek traci zdolność do tworzenia kultury wg zamysłu Bożego. Gdy człowiek żyje w grzechu, w oderwaniu od Boga, nie może tworzyć  rzeczy wolnych od zła i ciepienia, nawet jeśli nie widać tego na pierwszy rzut oka. Bóg w raju nakazał ludziom czynić sobie ziemię poddaną, ale w chwilę później oni popełnili grzech, odłączyli się od Boga, przez co zostali wygnani. Przekształcanie otaczającej rzeczywistości stało się przekleństwem i wraz  z grzechem zostało naznaczone piętnem cierpienia i śmierci
 
-   Nie będziesz z niego jeść - przeklęta niech będzie ziemia z twego powodu: w trudzie będziesz zdobywał od niej pożywienie dla siebie
-po wszystkie dni twego życia. Cierń i oset będzie ci ona rodziła, a przecież pokarmem twym są płody roli. W pocie więc oblicza twego będziesz musiał zdobywać pożywienie, póki nie wrócisz do ziemi, z której zostałeś wzięty; bo prochem jesteś i w proch się obrócisz!»
+   Nie będziesz z niego jeść - przeklęta niech będzie ziemia z twego powodu: w trudzie będziesz zdobywał od niej pożywienie dla siebie po wszystkie dni twego życia. Cierń i oset będzie ci ona rodziła, a przecież pokarmem twym są płody roli. W pocie więc oblicza twego będziesz musiał zdobywać pożywienie, póki nie wrócisz do ziemi, z której zostałeś wzięty; bo prochem jesteś i w proch się obrócisz!»
 
    -- Rdz 3, 17-19
 
