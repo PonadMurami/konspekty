@@ -7,12 +7,15 @@ Cel Spotkania
 =====================================
 
 * Podsumowanie i~wyciągnięcie wniosków z~minionych 2 dni:
+
    * Bóg jest stwórcą części moich pragnień
    * ja jestem obiektem pragnień Boga
    * w~relacji z~Bogiem mogą spełnić się wszystkie pragnienia mojego serca
 * Przygotowanie (na ile to możliwe) do codziennego życia uwzględniającego te odkrycia
+
    * Bóg nie tylko chce wypełniać nasze pragnienia, ale także je kształtować
    * Ziemia nie jest niebem i~tutaj będziemy zawsze odczuwać pragnienia
+
 * Podkreślenie roli wspólnoty
 
 =====================================

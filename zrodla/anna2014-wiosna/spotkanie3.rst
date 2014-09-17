@@ -331,4 +331,3 @@ Modlitwa
 Modlitwa o~umocnienie owoców tych rekolekcji w~naszym życiu. Modlitwa za wybraną inną małą grupę wstawienniczo (!) o....
 
 .. note:: Grupa niech sama zdecyduje o~co chce się modlić i~za jaką grupę - uczymy się odpowiedzialności. Jeśli ktoś będzie miał troskę, że w~ten sposób jakaś grupa może zostać "nieomodlona" proszę uspokoić i~wskazać na Diakonię Modlitwy ;)
-
