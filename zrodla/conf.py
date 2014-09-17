@@ -28,11 +28,15 @@ import os
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
+
+sys.path.append(os.path.abspath('./'));
+
 extensions = [
     'sphinx.ext.intersphinx',
     'sphinx.ext.todo',
     'sphinx.ext.ifconfig',
     'sphinx.ext.viewcode',
+	'szablon'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -100,6 +104,7 @@ pygments_style = 'sphinx'
 
 
 # -- Options for HTML output ----------------------------------------------
+html_translator_class = 'szablon.CustomHTMLTranslator'
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.

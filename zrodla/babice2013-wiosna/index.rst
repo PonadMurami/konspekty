@@ -2,7 +2,7 @@
 Słowa (nie)zapomniane
 ###########################################
 
-.. rubric:: Podstawowe informacje o rekolekcjach
+.. rubric:: Podstawowe informacje o~rekolekcjach
 
 * Data:
     * Wiosna 2013
@@ -17,7 +17,7 @@ Słowa (nie)zapomniane
 
 .. only:: html
 
-    .. rubric:: Spis konspektów spotkań w grupach
+    .. rubric:: Spis konspektów spotkań w~grupach
 
 .. toctree::
    spotkanie1.rst

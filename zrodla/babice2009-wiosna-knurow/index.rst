@@ -2,7 +2,7 @@
 Podróżowanie po pustyni
 ###########################################
 
-.. rubric:: Podstawowe informacje o rekolekcjach
+.. rubric:: Podstawowe informacje o~rekolekcjach
 
 * Data:
     * Wiosna 2009
@@ -17,7 +17,7 @@ Podróżowanie po pustyni
 
 .. only:: html
 
-    .. rubric:: Spis konspektów spotkań w grupach
+    .. rubric:: Spis konspektów spotkań w~grupach
 
 .. toctree::
    spotkanie1.rst

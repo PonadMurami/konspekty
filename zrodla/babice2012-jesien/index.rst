@@ -2,7 +2,7 @@
 Re-kreacja
 ###########################################
 
-.. rubric:: Podstawowe informacje o rekolekcjach
+.. rubric:: Podstawowe informacje o~rekolekcjach
 
 * Data:
     * 23- 25 listopada 2012
@@ -17,7 +17,7 @@ Re-kreacja
 
 .. only:: html
 
-    .. rubric:: Spis konspektów spotkań w grupach
+    .. rubric:: Spis konspektów spotkań w~grupach
 
 .. toctree::
    spotkanie1.rst

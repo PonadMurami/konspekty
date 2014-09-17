@@ -2,7 +2,7 @@
 Czy nie warto się obudzić?
 ###########################################
 
-.. rubric:: Podstawowe informacje o rekolekcjach
+.. rubric:: Podstawowe informacje o~rekolekcjach
 
 * Data:
     * 25- 27 marca 2011
@@ -17,7 +17,7 @@ Czy nie warto się obudzić?
 
 .. only:: html
 
-    .. rubric:: Spis konspektów spotkań w grupach
+    .. rubric:: Spis konspektów spotkań w~grupach
 
 .. toctree::
    spotkanie1.rst

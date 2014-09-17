@@ -2,7 +2,7 @@
 Eucharystia
 ###########################################
 
-.. rubric:: Podstawowe informacje o rekolekcjach
+.. rubric:: Podstawowe informacje o~rekolekcjach
 
 * Data:
     * Jesień 2006 roku
@@ -17,7 +17,7 @@ Eucharystia
 
 .. only:: html 
 
-    .. rubric:: Spis konspektów spotkań w grupach
+    .. rubric:: Spis konspektów spotkań w~grupach
 
 .. toctree::
    spotkanie1.rst

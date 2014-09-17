@@ -2,7 +2,7 @@
 Bo jak śmierć potężna jest miłość
 ###########################################
 
-.. rubric:: Podstawowe informacje o rekolekcjach
+.. rubric:: Podstawowe informacje o~rekolekcjach
 
 * Data:
     * Wiosna 2008
@@ -17,7 +17,7 @@ Bo jak śmierć potężna jest miłość
 
 .. only:: html
 
-    .. rubric:: Spis konspektów spotkań w grupach
+    .. rubric:: Spis konspektów spotkań w~grupach
 
 .. toctree::
    spotkanie1.rst

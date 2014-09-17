@@ -2,7 +2,7 @@
 Pragnienia człowieka, pragnienia Boga
 ###########################################
 
-.. rubric:: Podstawowe informacje o rekolekcjach
+.. rubric:: Podstawowe informacje o~rekolekcjach
 
 * Data:
     * 5-7 październik 2007
@@ -17,7 +17,7 @@ Pragnienia człowieka, pragnienia Boga
 
 .. only:: html
 
-    .. rubric:: Spis konspektów spotkań w grupach
+    .. rubric:: Spis konspektów spotkań w~grupach
 
 .. toctree::
    spotkanie1.rst

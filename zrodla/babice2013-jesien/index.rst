@@ -2,7 +2,7 @@
 Wartość bezwzględna
 ##################################################################
 
-.. rubric:: Podstawowe informacje o rekolekcjach
+.. rubric:: Podstawowe informacje o~rekolekcjach
 
 * Data:
     * Jesień 2013
@@ -17,7 +17,7 @@ Wartość bezwzględna
 
 .. only:: html
 
-    .. rubric:: Spis konspektów spotkań w grupach
+    .. rubric:: Spis konspektów spotkań w~grupach
 
 .. toctree::
    spotkanie1.rst
