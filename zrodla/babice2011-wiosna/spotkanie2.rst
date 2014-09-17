@@ -12,7 +12,7 @@ Ukazanie życia jako wędrówki. Moja motywacja do przebudzenia i wyruszenia w d
 Modlitwa
 ====================================
 
-Krótko, spontanicznie. Proponuję uwielbienie, dziękczynienie za podarunek „tego czasu”, na możliwość **przebudzenia**, „otworzenia oczu”.
+Krótko, spontanicznie. Proponuję uwielbienie, dziękczynienie za podarunek "tego czasu", na możliwość **przebudzenia**, "otworzenia oczu".
 
 =========================================
 "Mapy są nam niepotrzebne"
@@ -55,11 +55,11 @@ Zadajmy sobie pytania do tego wiersza:
    | Mapy są nam niepotrzebne
    | Przewodniki na bok odłóż
 
-* Jakimi „mapami” dysponuję w swoim życiu? Czym się kieruję w ważnych wyborach?
+* Jakimi "mapami" dysponuję w swoim życiu? Czym się kieruję w ważnych wyborach?
 
 * Na czym/na kim najbardziej polegam?
 
-* Czy „mapy” i „przewodniki” mogą być szkodliwe?
+* Czy "mapy" i "przewodniki" mogą być szkodliwe?
 
 Odczytajmy fragment:
 
@@ -67,7 +67,7 @@ Odczytajmy fragment:
    | W tej podróży niepotrzebne nam bagaże
    | Zabierzemy tylko z sobą trochę marzeń
 
-* Czy „mój świat” jest godny zaufania? Ile w moim życiu jest ufności, a ile lęku i podejrzliwości? Z czego to wynika?
+* Czy "mój świat" jest godny zaufania? Ile w moim życiu jest ufności, a ile lęku i podejrzliwości? Z czego to wynika?
 
 Przeczytajmy fragment Pisma Świętego:
 
@@ -75,9 +75,9 @@ Przeczytajmy fragment Pisma Świętego:
 
    -- Mt 19, 16-22
 
-* Z jakim „bagażem” idę? Jakie doświadczenia, wspomnienia pomagają mi „być w drodze”, a jakie „przytrzymują” w miejscu?
+* Z jakim "bagażem" idę? Jakie doświadczenia, wspomnienia pomagają mi "być w drodze", a jakie "przytrzymują" w miejscu?
 
-* Jak rozumiem marzenia? To miłe fantazje, konkretne plany, pragnienia…?
+* Jak rozumiem marzenia? To miłe fantazje, konkretne plany, pragnienia...?
 
 * Jakie motywacje w sobie odnajduję? Skąd się biorą?
 
@@ -93,7 +93,7 @@ Przeczytajmy fragment Pisma Świętego:
    | Gdy cel nęci
    | W tej podróży nam wystarczą dobre chęci.
 
-* Czy to, co uważam za swój cel, wybieram, bo „tak trzeba”, „powinienem”, czy dlatego, że „nęci”, „pragnę tego”?
+* Czy to, co uważam za swój cel, wybieram, bo "tak trzeba", "powinienem", czy dlatego, że "nęci", "pragnę tego"?
 
 Przeczytajmy fragment Pisma Świętego:
 
@@ -103,7 +103,7 @@ Przeczytajmy fragment Pisma Świętego:
 
 * Czy dobre chęci wystarczą? Nie potrzebujemy kompetencji, środków, narzędzi?
 
-* Jakich „narzędzi” potrzebujemy na drodze wiary?
+* Jakich "narzędzi" potrzebujemy na drodze wiary?
 
 Odczytajmy fragment:
 
@@ -127,7 +127,7 @@ Odczytajmy fragment:
 
 * Kto jest obok mnie w mojej drodze? Z kim idę?
 
-* W jakiej „kondycji” są moje relacje w domu, w szkole, w otoczeniu?
+* W jakiej "kondycji" są moje relacje w domu, w szkole, w otoczeniu?
 
 Odczytajmy fragment:
 
@@ -139,11 +139,11 @@ Odczytajmy fragment:
    | Które wszystkim nam jest dane
    | Tylko trzeba,tylko trzeba, tylko trzeba je odszukać!
 
-* Czy jest we mnie chęć, pragnienie, żeby „usłyszeć głos”, „wybrać się w podróż”?
+* Czy jest we mnie chęć, pragnienie, żeby "usłyszeć głos", "wybrać się w podróż"?
 
 * Co zrobić, jeśli nie ma takiego pragnienia, jeśli ogarnia mnie poczucie bezwładu, bezsensu?
 
-* Czy naprawdę od nas zależy „osiągnięcie celu”?
+* Czy naprawdę od nas zależy "osiągnięcie celu"?
 
 =========================================
 Podsumowanie

@@ -6,7 +6,7 @@ Spotkanie 4 - Quo vadis?
 Cel
 ==================================
 
-To nie jest koniec rekolekcji. Spotkanie nie jest żadną klamrą czy finiszowaniem. Celem jest odnalezienie zastosowania w życiu uczestników teorii rozważanej w ciągu ostatnich dni. Odpowiedzieć sobie na pytanie co robić, aby mądrze iść w kierunku celu. Przygotowanie na potknięcia bez „końca mojego świata”. Zwrócenie uwagi na innych w tej drodze.
+To nie jest koniec rekolekcji. Spotkanie nie jest żadną klamrą czy finiszowaniem. Celem jest odnalezienie zastosowania w życiu uczestników teorii rozważanej w ciągu ostatnich dni. Odpowiedzieć sobie na pytanie co robić, aby mądrze iść w kierunku celu. Przygotowanie na potknięcia bez "końca mojego świata". Zwrócenie uwagi na innych w tej drodze.
 
 ====================================
 Modlitwa
@@ -18,9 +18,9 @@ Dostosowana do możliwości grupy.
 Wprowadzenie
 =========================================
 
-Zastanawiamy się i wiemy gdzie jesteśmy (dzień 1). Pytamy się siebie czy i jak idziemy.  Szukaliśmy własnych ambicji i celów, sensu (Spotkanie 2). Zostaliśmy wezwani przykładem drogi Jezusa do nie tylko mówienia o drodze, ale konkretnego kroczenia, bo… to On jest tym, który przychodzi po to, aby nas obudzić i podnieść do godności naszego powołania (Spotkanie 3), abyśmy budząc się otworzyli oczy i widzieli więcej (Ewangelia niedzielna). Co teraz?
+Zastanawiamy się i wiemy gdzie jesteśmy (dzień 1). Pytamy się siebie czy i jak idziemy.  Szukaliśmy własnych ambicji i celów, sensu (Spotkanie 2). Zostaliśmy wezwani przykładem drogi Jezusa do nie tylko mówienia o drodze, ale konkretnego kroczenia, bo... to On jest tym, który przychodzi po to, aby nas obudzić i podnieść do godności naszego powołania (Spotkanie 3), abyśmy budząc się otworzyli oczy i widzieli więcej (Ewangelia niedzielna). Co teraz?
 
-Jesteśmy razem z Nim na drodze i przed nami jedno proste pytanie: „gdzie teraz zrobić następny krok?”. Ogólnikowo na to pytanie odpowiedzieć jest łatwo, bo wiele razy słyszeliśmy te odpowiedzi „ku Miłości”, „ku Dobru”…. ale czy to pomaga mi podjąć decyzję jak spożytkuje jutrzejszy dzień lub dzisiejszy wieczór?
+Jesteśmy razem z Nim na drodze i przed nami jedno proste pytanie: "gdzie teraz zrobić następny krok?". Ogólnikowo na to pytanie odpowiedzieć jest łatwo, bo wiele razy słyszeliśmy te odpowiedzi "ku Miłości", "ku Dobru".... ale czy to pomaga mi podjąć decyzję jak spożytkuje jutrzejszy dzień lub dzisiejszy wieczór?
 
 * Jak poszła mi realizacja zastosowania z ostatniego spotkania? Jak wyglądały pierwsze 45 sek mojego dzisiejszego dnia?
 
@@ -45,15 +45,15 @@ Każdy z uczestników otrzymuje kartkę z tabelką:
 +------------------------+------------------------+------------------------+------------------------+------------------------+
 
 
-Próbuje dla siebie wpisać rzeczy w kierunku których zmierza – zarówno to „mocne” jak i „być może, ale jeszcze nie wiem”. Te mocne wyróżniamy np. podkreśleniem. Wiadomo, że zadanie takie jest trudne do wykonania – robimy tylko to co umiemy.
+Próbuje dla siebie wpisać rzeczy w kierunku których zmierza – zarówno to "mocne" jak i "być może, ale jeszcze nie wiem". Te mocne wyróżniamy np. podkreśleniem. Wiadomo, że zadanie takie jest trudne do wykonania – robimy tylko to co umiemy.
 
 * Które pola było Ci najtrudniej wypełnić? Dlaczego?
 
 * Które najłatwiej? Czemu?
 
-* Ile rzeczy są Twoim kierunkiem/celem z Twojego wyboru, a ile „życie się potoczyło”?
+* Ile rzeczy są Twoim kierunkiem/celem z Twojego wyboru, a ile "życie się potoczyło"?
 
-Może rodzić się pytanie – czy planowanie na 10 lat do przodu ma sens? Przecież tyle może się zmienić. „Lepiej nie planować tak do przodu, bo potem człowiek się rozczarowuje”. Zestawmy ze sobą dwa fragmenty Pisma Świętego:
+Może rodzić się pytanie – czy planowanie na 10 lat do przodu ma sens? Przecież tyle może się zmienić. "Lepiej nie planować tak do przodu, bo potem człowiek się rozczarowuje". Zestawmy ze sobą dwa fragmenty Pisma Świętego:
 
    Nie troszczcie się więc zbytnio i nie mówcie: co będziemy jeść? co będziemy pić? czym będziemy się przyodziewać? Bo o to wszystko poganie zabiegają. Przecież Ojciec wasz niebieski wie, że tego wszystkiego potrzebujecie. Starajcie się naprzód o królestwo i o Jego sprawiedliwość, a to wszystko będzie wam dodane. Nie troszczcie się więc zbytnio o jutro, bo jutrzejszy dzień sam o siebie troszczyć się będzie. Dosyć ma dzień swojej biedy.
 
@@ -69,13 +69,13 @@ Może rodzić się pytanie – czy planowanie na 10 lat do przodu ma sens? Przec
 
 * Jak możemy rozumieć te dwa fragmenty zestawione razem?
 
-Te dwa fragmenty Pisma Świętego znakomicie opisują naszą kondycje duchowa. Z jednej strony potrzeba nam, abyśmy byli ludźmi głębokiej nadziei, którzy są gotowi do przyjęcia każdego dnia takim jaki go przygotuje dla nas Bóg. Z drugiej zaś strony Bóg nie chce, abyśmy byli nijacy i bezbarwni. Oczekuje od nas jasnego określenia się…. On sam nas przecież do tego wzywa.
+Te dwa fragmenty Pisma Świętego znakomicie opisują naszą kondycje duchowa. Z jednej strony potrzeba nam, abyśmy byli ludźmi głębokiej nadziei, którzy są gotowi do przyjęcia każdego dnia takim jaki go przygotuje dla nas Bóg. Z drugiej zaś strony Bóg nie chce, abyśmy byli nijacy i bezbarwni. Oczekuje od nas jasnego określenia się.... On sam nas przecież do tego wzywa.
 
 * Czy jest możliwe połączenie obu tych postaw? W jaki sposób?
 
 * To w końcu mamy planować gdzie chcemy być za 5 lat czy nie?
 
-Powinniśmy wiedzieć w jakim kierunku idziemy, aby nie błądzić. Znamy kierunek w jakim idziemy w danym momencie. Gdy założyłem, że moją drogą są studia matematyczne to nie rozważam co wykład przez 2h czy może, aby na pewno dobrze wybrałem swój kierunek – niechybnie doprowadzi mnie to do sytuacji w której z powodu braku czasu na naukę odkryję, że „Bóg pewno nie chce, abym studiował matematykę skoro nie zaliczyłem ani jednego egzaminu” :).
+Powinniśmy wiedzieć w jakim kierunku idziemy, aby nie błądzić. Znamy kierunek w jakim idziemy w danym momencie. Gdy założyłem, że moją drogą są studia matematyczne to nie rozważam co wykład przez 2h czy może, aby na pewno dobrze wybrałem swój kierunek – niechybnie doprowadzi mnie to do sytuacji w której z powodu braku czasu na naukę odkryję, że "Bóg pewno nie chce, abym studiował matematykę skoro nie zaliczyłem ani jednego egzaminu" :).
 
 .. note:: Jeżeli uczestnicy chcą to świetnie byłoby się podzielić jakimiś naszymi celami z kartki którą wypisywaliśmy
 
@@ -89,7 +89,7 @@ Nie zgubić celu sprzed oczu (?)
 
 * Do czego prowadzi zgubienie sensu sprzed oczu?
 
-W jakich momentach często ten sens gubimy w takich codziennych sprawach? Może patrząc na takie „zwykłe” przykłady będziemy mogli zauważyć jakieś powiązania?
+W jakich momentach często ten sens gubimy w takich codziennych sprawach? Może patrząc na takie "zwykłe" przykłady będziemy mogli zauważyć jakieś powiązania?
 
 .. note:: podpowiedzi dla animatora choć pewno będzie musiał znaleźć własne przykłady dla swojej grupy wiekowej:
 
@@ -113,7 +113,7 @@ Przeczytajmy:
 
    -- 2 Kor 13,5
 
-* Co robie wtedy gdy łapie się na tym, że „zgubiłem sens” jakiegoś mojego działania?
+* Co robie wtedy gdy łapie się na tym, że "zgubiłem sens" jakiegoś mojego działania?
 
 * Czy mam nawyk pytania się o moje motywacje podejmowania jakiś działań w myśl 2 Kor 13, 5?
 
@@ -123,9 +123,9 @@ Przeczytajmy:
 
 * Co robię, kiedy to dążenie do..., w moim odczuciu traci sens?
 
-Łatwiej jest wtedy gdy cele, które sobie wyznaczymy nie są tak bardzo odległe. Mogę np. założyć, że próbuję opanować jakiś program graficzny i daje sobie na to uczciwe 2h dziennie pracy przez 30 dni. Po tym czasie osiągnąłem na pewno swój cel…. bo nie było nim zostanie mistrzem komputerowej grafiki lecz podjęta próba. Po takim terminie mogę zdecydować „to nie było to” i nie wyznaczyć sobie następnego celu.
+Łatwiej jest wtedy gdy cele, które sobie wyznaczymy nie są tak bardzo odległe. Mogę np. założyć, że próbuję opanować jakiś program graficzny i daje sobie na to uczciwe 2h dziennie pracy przez 30 dni. Po tym czasie osiągnąłem na pewno swój cel.... bo nie było nim zostanie mistrzem komputerowej grafiki lecz podjęta próba. Po takim terminie mogę zdecydować "to nie było to" i nie wyznaczyć sobie następnego celu.
 
-Nie wiem zatem z góry czy będę architektem czy grafikiem…. ale przez 30 ostatnich dni nie tułałem się z miejsca na miejsce…. tylko miałem jasny cel. Ważne, aby nie skakać z kwiatka na kwiatek…. Co godzinę inny pomysł. I dotyczy to każdej sfery naszego życia….
+Nie wiem zatem z góry czy będę architektem czy grafikiem.... ale przez 30 ostatnich dni nie tułałem się z miejsca na miejsce.... tylko miałem jasny cel. Ważne, aby nie skakać z kwiatka na kwiatek.... Co godzinę inny pomysł. I dotyczy to każdej sfery naszego życia....
 
 * Czy zauważyłem, że świat proponuje mi 100 rzeczy na raz?
 
@@ -137,7 +137,7 @@ Nie wiem zatem z góry czy będę architektem czy grafikiem…. ale przez 30 ost
 Gubić odczucia, lecz zawsze ufać!
 =========================================
 
-Często tak mamy, że za wszelką cenę chcemy utrzymać się w „poczuciu sensu”, świetle. Gdy w naszym życiu **nie czujemy**, że ma ono sens to zakładamy, że od razu nie ma. Dzisiejszy psalm, tak doskonale znany wszystkim, że już praktycznie graniczy z cudem, aby spróbować widzieć w nim coś nowego, jest pod tym względem intrygujący:
+Często tak mamy, że za wszelką cenę chcemy utrzymać się w "poczuciu sensu", świetle. Gdy w naszym życiu **nie czujemy**, że ma ono sens to zakładamy, że od razu nie ma. Dzisiejszy psalm, tak doskonale znany wszystkim, że już praktycznie graniczy z cudem, aby spróbować widzieć w nim coś nowego, jest pod tym względem intrygujący:
 
    | Pan jest moim pasterzem:
    | niczego mi nie braknie,
@@ -156,19 +156,19 @@ Często tak mamy, że za wszelką cenę chcemy utrzymać się w „poczuciu sens
 
    -- Psalm 23, 1-4
 
-Bóg prowadzi po „właściwych ścieżkach”, ale mimo to od razu w następnej linijce jest mowa o „ciemnej dolinie”.
+Bóg prowadzi po "właściwych ścieżkach", ale mimo to od razu w następnej linijce jest mowa o "ciemnej dolinie".
 
 * Czym jest ciemna dolina?
 
-.. note:: Jeżeli prowadzi tam Bóg to nie może to być grzech… ciemnością mogą być „slumsy” w której brakuje światła, bo ludzie nadal czekają np. na mnie abym im pomógł odnaleźć  sens
+.. note:: Jeżeli prowadzi tam Bóg to nie może to być grzech... ciemnością mogą być "slumsy" w której brakuje światła, bo ludzie nadal czekają np. na mnie abym im pomógł odnaleźć  sens
 
 * Co sugeruje takie zestawienie w psalmie?
 
-.. note:: ciemna dolina może być częścią drogi Pana. Co więcej może to być właściwa ścieżką! Musimy jednak pamiętać „Ty jesteś ze mną” więc światło mnie nie opuściło
+.. note:: ciemna dolina może być częścią drogi Pana. Co więcej może to być właściwa ścieżką! Musimy jednak pamiętać "Ty jesteś ze mną" więc światło mnie nie opuściło
 
-* Czy macie doświadczenie przechodzenia przez „ciemną dolinę”, ale właśnie w obecności Jezusa?
+* Czy macie doświadczenie przechodzenia przez "ciemną dolinę", ale właśnie w obecności Jezusa?
 
-Droga czasami wiedzie przez ciemną dolinę. Można dyskutować z jakiego powodu, ale jedno możemy uznać za pewne: spotkamy ciemną dolinę w swoim życiu. Może nie należy uciekać od samej takiej myśli? Psalmista nie jest tą wizją przestraszony! Mówi „Nie ulęknę się, bo Ty jesteś ze mną”.
+Droga czasami wiedzie przez ciemną dolinę. Można dyskutować z jakiego powodu, ale jedno możemy uznać za pewne: spotkamy ciemną dolinę w swoim życiu. Może nie należy uciekać od samej takiej myśli? Psalmista nie jest tą wizją przestraszony! Mówi "Nie ulęknę się, bo Ty jesteś ze mną".
 
 Przeczytajmy:
 
@@ -210,7 +210,7 @@ Przeczytajmy:
 
    -- Raz, Dwa, Trzy -- Dalej niż sięga myśl
 
-Na drodze nie jesteśmy sami. Gdy dzisiaj na tych rekolekcjach 25 osób po raz kolejny wybiera jako swój kierunek życia Jezusa Chrystusa i **wykona** w tym kierunku krok... to siłą rzeczy wszyscy zbliżymy się do siebie (nierówność trójkąta). Im dalej każdy z nas w tej drodze będzie tym łatwiej będzie nam „wpadać na siebie”.
+Na drodze nie jesteśmy sami. Gdy dzisiaj na tych rekolekcjach 25 osób po raz kolejny wybiera jako swój kierunek życia Jezusa Chrystusa i **wykona** w tym kierunku krok... to siłą rzeczy wszyscy zbliżymy się do siebie (nierówność trójkąta). Im dalej każdy z nas w tej drodze będzie tym łatwiej będzie nam "wpadać na siebie".
 
 * Co to dla mnie znaczy, że coś jest łączeniem błękitu i lądu zarazem?
 
@@ -218,7 +218,7 @@ Na drodze nie jesteśmy sami. Gdy dzisiaj na tych rekolekcjach 25 osób po raz k
 
 * Co jest moim horyzontem, linią którą widzę najdalej choć mogę nie wiedzieć jak daleko się znajduje i kiedy tam dotrę?
 
-* Czy mam doświadczenie mistrza, który pozostawił mi „ślady stóp”?
+* Czy mam doświadczenie mistrza, który pozostawił mi "ślady stóp"?
 
 O tych ludziach na mojej drodze warto pamiętać. Warto nazwać po imieniu co od każdego z nich otrzymałem, jaką rolę spełnił/spełnia w naszej wędrówce.
 
@@ -297,17 +297,17 @@ Odczytujemy (słuchamy) wspólnie:
 
 * Czy to co chce jest dla mnie na tyle ważne, aby nie zrażać się?
 
-* „Każdy z was jest łodzią, w której może się z potopem mierzyć cało wyjść z burzowej chmury musi tylko w to uwierzyć” co to dla mnie znaczy?
+* "Każdy z was jest łodzią, w której może się z potopem mierzyć cało wyjść z burzowej chmury musi tylko w to uwierzyć" co to dla mnie znaczy?
 
 . warning: kluczowe pytanie podsumowania
 
-* „Ocalić trzeba co najdroższe A przecież tyle już tego jest!” - czy patrzę na swoje życie jako na coś czego nie można zmarnować z powodu tego co już w nim jest? (a nie dlatego co może być)
+* "Ocalić trzeba co najdroższe A przecież tyle już tego jest!" - czy patrzę na swoje życie jako na coś czego nie można zmarnować z powodu tego co już w nim jest? (a nie dlatego co może być)
 
-Dziś wracamy do domów i życie będzie się tam toczyło tak samo jak dwa dni temu. Czy te rekolekcje coś zmienią? Może nie, może tak. Bardzo dużo zależy od nas. Życie jest zbyt cenne, aby uciekło nam na graniu w gry online, oglądanie seriali i chodzenie po sklepach. Łatwo nazwać wszystko co się tutaj mówiło „piękna, ale nierealną wizją” usprawiedliwiając samego siebie. Łatwo żyć w marzeniach i narzekać na to co mam za oknem.
+Dziś wracamy do domów i życie będzie się tam toczyło tak samo jak dwa dni temu. Czy te rekolekcje coś zmienią? Może nie, może tak. Bardzo dużo zależy od nas. Życie jest zbyt cenne, aby uciekło nam na graniu w gry online, oglądanie seriali i chodzenie po sklepach. Łatwo nazwać wszystko co się tutaj mówiło "piękna, ale nierealną wizją" usprawiedliwiając samego siebie. Łatwo żyć w marzeniach i narzekać na to co mam za oknem.
 
-Chrześcijaństwo to branie byka za rogi, życie pełne pasji, szukania i znajdowania siebie w miejscach zaskakujących nas samych. Życie konsekwentne, ale nie siłą szablonu, który wypełniamy. Niestrudzenie dążymy za Duchem Świętym… a dzięki temu trafiamy w nowe miejsca i przestrzenie....
+Chrześcijaństwo to branie byka za rogi, życie pełne pasji, szukania i znajdowania siebie w miejscach zaskakujących nas samych. Życie konsekwentne, ale nie siłą szablonu, który wypełniamy. Niestrudzenie dążymy za Duchem Świętym... a dzięki temu trafiamy w nowe miejsca i przestrzenie....
 
-… a wszędzie tam tyle dobra, którego możemy stać się udziałem - „Musimy tylko w to uwierzyć”.
+... a wszędzie tam tyle dobra, którego możemy stać się udziałem - "Musimy tylko w to uwierzyć".
 
 =========================================
 Zastosowanie

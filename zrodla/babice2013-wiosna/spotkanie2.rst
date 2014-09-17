@@ -14,7 +14,7 @@ Cel
 Wprowadzenie dla animatora
 ====================================
 
-Jesteśmy po cichej Mszy i konferencji Kasi. I jesteśmy przed indywidualnym rozważaniem Słowa Bożego. I mamy przekonać o wartości słowa, o tym, że słowo ma moc. Podejdźmy do tego spotkania z wiarą, że “moje słowo ma moc i słowo każdego uczestnika ma moc”- doświadczmy tego, że słowo DZIAŁA na tym spotkaniu. Bądźmy uważni w słuchaniu i w mówieniu.
+Jesteśmy po cichej Mszy i konferencji Kasi. I jesteśmy przed indywidualnym rozważaniem Słowa Bożego. I mamy przekonać o wartości słowa, o tym, że słowo ma moc. Podejdźmy do tego spotkania z wiarą, że "moje słowo ma moc i słowo każdego uczestnika ma moc"- doświadczmy tego, że słowo DZIAŁA na tym spotkaniu. Bądźmy uważni w słuchaniu i w mówieniu.
 
 ====================================
 Modlitwa
@@ -28,7 +28,7 @@ Wprowadzenie
 
 Rano uczestniczyliśmy we Mszy - nie śpiewaliśmy, słowa były ograniczone, były dłuższe chwile ciszy. Podzielmy się tym doświadczeniem.
 
-* Czy odczuliście brak słów? Brakowało Wam ich czy może “było lepiej niż zwykle”? Dlaczego?
+* Czy odczuliście brak słów? Brakowało Wam ich czy może "było lepiej niż zwykle"? Dlaczego?
 
 * Jak przeżyliście tę Mszę?
 
@@ -71,7 +71,7 @@ Posłuchajmy:
    | -Żyjemy w najcudowniejszym miejscu na świecie!
    | Pewnego dnia spokojne życie rodzinki zostało zakłócone przez serię krzyków. Pochodziły one od grupy dziewczynek, które przechadzały się po ścieżce nad brzegiem stawu:
    | -Och, co za wstrętny zapach!
-   | -To istne gnojowisko… Chodźmy stąd!
+   | -To istne gnojowisko... Chodźmy stąd!
    | -Woda zepsuta! Spójrzcie na te okropne ropuchy! Są odrażające!
    | -A ta mała, jakie straszne stworzenie!
    | Rodzice ropuchy ukryli się w błocie ze wstydem. Mała skryła się pod liściem nenufara, przygnębiona i zmartwiona. Szczęście w stawie skończyło się na zawsze.
@@ -86,17 +86,17 @@ Posłuchajmy:
    | Tak było codziennie. Przez wiele lat. A przecież jego serce nie znało nienawiści.
    | On pragnął być tylko normalny. Tymczasem był garbaty.
    | -Garbus, Garbus! – słyszał pewnego razu, śniąc w nocy.
-   | Pragnął spać, by zapomnieć. Otruł się…
+   | Pragnął spać, by zapomnieć. Otruł się...
 
    -- Reoul Follereau
 
-Są takie słowa, które sprawiają, że “rośniesz”. Są tez takie, które Cię niszczą. Często mówimy o tym, że słowa ranią. Często też mówimy o tym, że budują. Słowa mają moc. Gdy wypowiadzasz jakieś słowo, zmieniasz rzeczywistość: wypowiadając słowo, możesz zmienić czyjeś życie. Tak samo słuchając i przyjmując słowo kierowane do Ciebie, Twoje życie może zostać zmienione.
+Są takie słowa, które sprawiają, że "rośniesz". Są tez takie, które Cię niszczą. Często mówimy o tym, że słowa ranią. Często też mówimy o tym, że budują. Słowa mają moc. Gdy wypowiadzasz jakieś słowo, zmieniasz rzeczywistość: wypowiadając słowo, możesz zmienić czyjeś życie. Tak samo słuchając i przyjmując słowo kierowane do Ciebie, Twoje życie może zostać zmienione.
 
 * Czy możesz podać jakiś przykład kiedy słowo zmienia rzeczywistość?
 
 Nasze doświadczenia potwierdzają to, co wcześniej zrobił Bóg:
 
-   Wtedy Bóg rzekł: «Niechaj się stanie światłość!» I stała się światłość. Bóg widząc, że światłość jest dobra, oddzielił ją od ciemności. I nazwał Bóg światłość dniem, a ciemność nazwał nocą.”
+   Wtedy Bóg rzekł: «Niechaj się stanie światłość!» I stała się światłość. Bóg widząc, że światłość jest dobra, oddzielił ją od ciemności. I nazwał Bóg światłość dniem, a ciemność nazwał nocą."
 
    -- Rdz 1, 3-5a
 
@@ -127,9 +127,9 @@ Przeczytajmy:
 
 * Co to jest błogosławieństwo? Co to jest egzorcyzm? Co to jest zaklęcie?
 
-* Po co są te “formy wyrażania słów”? Czemu służą?
+* Po co są te "formy wyrażania słów"? Czemu służą?
 
-Słowo może być zarówno czymś leczącym, pozytywnym (błogosławieństwo), jak i niszczącym, i zniewalającym (zaklęcie, przekleństwo). Wypowiedziane słowo staje się rzeczywistością. Nie możemy uznać, że “mówiliśmy na niby”. Słowo działa.
+Słowo może być zarówno czymś leczącym, pozytywnym (błogosławieństwo), jak i niszczącym, i zniewalającym (zaklęcie, przekleństwo). Wypowiedziane słowo staje się rzeczywistością. Nie możemy uznać, że "mówiliśmy na niby". Słowo działa.
 
 =========================================
 Słowa tracące moc
@@ -155,11 +155,11 @@ Posłuchajmy oryginału:
 
 .. note:: Najpierw podzielmy się ogólnymi wrażeniami; potem możemy rozdać teksty, jeśli grupa będzie mieć problem z uchwyceniem KONKRETNYCH zmian słownych
 
-* Czy mnie zdaża się robić coś podobnego? Czy słyszę to wokół siebie?
+* Czy mnie zdarza się robić coś podobnego? Czy słyszę to wokół siebie?
 
 * Dlaczego to robimy?
 
-Przez takie zabiegi sprawiamy, że słowa tracą moc. Przestają znaczyć dokładnie to, co znaczą. Osłabiamy je. Co więcej: osłabiamy je przez inne słowa. Wystarczy małe “jakby”, żeby słowo “nadzieja” straciło swoją moc. I naprawdę potrzeba naszej dużej świadomości, kiedy chcemy “oduczyć” się tego nawyku, kiedy chcemy uważnie wypowiadać słowa, kiedy zdecydujemy się ich nie osłabiać.
+Przez takie zabiegi sprawiamy, że słowa tracą moc. Przestają znaczyć dokładnie to, co znaczą. Osłabiamy je. Co więcej: osłabiamy je przez inne słowa. Wystarczy małe "jakby", żeby słowo "nadzieja" straciło swoją moc. I naprawdę potrzeba naszej dużej świadomości, kiedy chcemy "oduczyć" się tego nawyku, kiedy chcemy uważnie wypowiadać słowa, kiedy zdecydujemy się ich nie osłabiać.
 
 * Które słowa są dla mnie tak ważne, że za nic nie chcielibyśmy, żeby znaczyły co innego niż znaczą?
 

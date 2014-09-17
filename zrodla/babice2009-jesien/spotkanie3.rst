@@ -42,7 +42,7 @@ Przeczytajmy:
 
    --  Ps 139,1-6
 
-Bóg wie, kiedy siadam i wstaję, widzi moje działanie i spoczynek; w określeniu tym widać semicki sposób (zwany „polaryzmem”) ogarnięcia całej rzeczywistości i życia zawierającego się między dwoma skrajnymi biegunami.
+Bóg wie, kiedy siadam i wstaję, widzi moje działanie i spoczynek; w określeniu tym widać semicki sposób (zwany "polaryzmem") ogarnięcia całej rzeczywistości i życia zawierającego się między dwoma skrajnymi biegunami.
 
 * Czy Bóg wybiera sobie jakąś część mojego życia i w niej działa a w innych nie?
 
@@ -99,7 +99,7 @@ Jezus mówi, że mamy stać się jak dzieci.
 
 * Co nas cieszyło, jak byliśmy dziećmi?
 
-„Tylko dziecko potrafi wziąć patyk, wbić go w ziemię i nazwać swoim przyjacielem”
+"Tylko dziecko potrafi wziąć patyk, wbić go w ziemię i nazwać swoim przyjacielem"
 
 * Zgadzacie się z tym? Tak ma wyglądać nasze życie?
 
@@ -137,7 +137,7 @@ W chwilach najdrobniejszych ukryty jest smak życia
 
 * Czy łatwo jest żyć tak, żeby były połączone inne skrajne rzeczywistości, np nasza pasja i rutynowy plan dnia?
 
-.. centered:: "Pasja wymaga poświęceń”
+.. centered:: "Pasja wymaga poświęceń"
 
 Musimy się zdobyć na wysiłek zadawania pytań, poszukiwania. Nasze pasje same się nie rozwiną, życie samo się nie zbuduje.
 

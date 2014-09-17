@@ -18,11 +18,11 @@ Dostosowana do możliwości grupy.
 Wprowadzenie
 =========================================
 
-Wczoraj z taką radością mówiliśmy – chcemy podejmować decyzje, chcemy decydować! Dzisiejszego dnia zaczęliśmy mówić o konsekwencjach wyborów. Z jednej strony dzięki wybieraniu możemy „czynić cennym” coś na tej ziemi z drugiej… no właśnie – narażamy się na straty, wyśmianie, porażkę.
+Wczoraj z taką radością mówiliśmy – chcemy podejmować decyzje, chcemy decydować! Dzisiejszego dnia zaczęliśmy mówić o konsekwencjach wyborów. Z jednej strony dzięki wybieraniu możemy "czynić cennym" coś na tej ziemi z drugiej... no właśnie – narażamy się na straty, wyśmianie, porażkę.
 
 Klasycznym przykładem jest tutaj podejmowanie decyzji np. w polityce. Dużo łatwiej nie musieć decydować o ważnych reformach kraju, pozwolić, aby zrobili to inni, a samemu usiąść na wygodnej pozycji krytyki. Aby decydować trzeba mieć odwagę, aby zmierzyć się z konsekwencjami.
 
-* Czy musiałeś kiedyś się zmierzyć z „przykrościami” spowodowanymi tym, że podjąłeś jakąś decyzję, gdy mogłeś „równie dobrze” zignorować całą sprawę i się nie angażować?(i wtedy byłbyś „fajny”)
+* Czy musiałeś kiedyś się zmierzyć z "przykrościami" spowodowanymi tym, że podjąłeś jakąś decyzję, gdy mogłeś "równie dobrze" zignorować całą sprawę i się nie angażować?(i wtedy byłbyś "fajny")
 
 * Czy masz takie decyzje w życiu, których sposobu dokonania jesteś na tyle pewien, że nie boisz się jakiejkolwiek krytyki, bo Ty **wiesz**, że wtedy był to najlepszy ruch?
 
@@ -30,29 +30,29 @@ Klasycznym przykładem jest tutaj podejmowanie decyzji np. w polityce. Dużo ła
 Pewność, niepewność
 =========================================
 
-Zgodzimy się chyba z tym, że takich decyzji w naszym życiu jest raczej mniej niż więcej. Normalnie niepewność towarzyszy nam mniej lub bardziej, ale nieustannie. Zawsze możemy zadać sobie to pytanie: „a jeżeli jednak…?” i rozpocząć od nowa analizę sytuacji. Niepewność bywa czasami nieznośna, mamy jej dosyć, staramy się za wszelką cenę wyeliminować.
+Zgodzimy się chyba z tym, że takich decyzji w naszym życiu jest raczej mniej niż więcej. Normalnie niepewność towarzyszy nam mniej lub bardziej, ale nieustannie. Zawsze możemy zadać sobie to pytanie: "a jeżeli jednak...?" i rozpocząć od nowa analizę sytuacji. Niepewność bywa czasami nieznośna, mamy jej dosyć, staramy się za wszelką cenę wyeliminować.
 
 * Jakiego typu decyzje powodują największe wątpliwości? Jak radzę sobie (reaguję na nie) z tymi sprawami?
 
-* Czy znam doświadczenie „wzmagania się niepewności” po dokonanym już wyborze?
+* Czy znam doświadczenie "wzmagania się niepewności" po dokonanym już wyborze?
 
-Dlaczego ta niepewność pojawia się nie tylko w czasie samego wyboru, ale „ciągnie się” później za nami? Bo zbliżają się konsekwencje. Im bliżej konsekwencji tym większa niepewność. Jest tak z powodu doskonale znanego nam fragmentu Ewangelii – „po owocach ich poznacie”, tak też jest z naszymi decyzjami. Nadchodzące konsekwencje to „moment próby” czy zrobiliśmy coś dobrze czy źle. Normalnym mechanizmem jest więc niepokój.
+Dlaczego ta niepewność pojawia się nie tylko w czasie samego wyboru, ale "ciągnie się" później za nami? Bo zbliżają się konsekwencje. Im bliżej konsekwencji tym większa niepewność. Jest tak z powodu doskonale znanego nam fragmentu Ewangelii – "po owocach ich poznacie", tak też jest z naszymi decyzjami. Nadchodzące konsekwencje to "moment próby" czy zrobiliśmy coś dobrze czy źle. Normalnym mechanizmem jest więc niepokój.
 
-* W jakich sposób kojarzy wam się wyraz konsekwencje? („pamiętaj o konsekwencjach”, „bądź konsekwentny”, „konsekwencje będziesz musiał nieść do końca życia” itd.).
+* W jakich sposób kojarzy wam się wyraz konsekwencje? ("pamiętaj o konsekwencjach", "bądź konsekwentny", "konsekwencje będziesz musiał nieść do końca życia" itd.).
 
-W takim rozumieniu konsekwencje są „nieprzyjemnym sprawdzianem”, „groźną perspektywą obnażenia naszych błędów”, „przestrogą odwołującą się do rozsądku” itd.  Nic dziwnego zatem, że nadużywamy sformułowania, które jest ucieczką od konsekwencji:
+W takim rozumieniu konsekwencje są "nieprzyjemnym sprawdzianem", "groźną perspektywą obnażenia naszych błędów", "przestrogą odwołującą się do rozsądku" itd.  Nic dziwnego zatem, że nadużywamy sformułowania, które jest ucieczką od konsekwencji:
 
-.. centered:: **„co ma być to będzie”**
+.. centered:: **"co ma być to będzie"**
 
 * Co oznacza takie sformułowanie?
 
 * Widzicie w nim pokorę mówiącego, który uznaje zależność od czegoś/kogoś większego czy raczej człowieka, który nie wierzy, że może wpływać na los świata?
 
-Takie sformułowanie nie ma za wiele wspólnego z chrześcijaństwem. Bóg nie chce, abyśmy żyli na świecie i pokornie dostosowywali się do tego co przynosi „los” a im lepiej to robimy tym bardziej Bóg się cieszy. Przeciwnie, może warto przypomnieć sobie te fragmenty:
+Takie sformułowanie nie ma za wiele wspólnego z chrześcijaństwem. Bóg nie chce, abyśmy żyli na świecie i pokornie dostosowywali się do tego co przynosi "los" a im lepiej to robimy tym bardziej Bóg się cieszy. Przeciwnie, może warto przypomnieć sobie te fragmenty:
 
 Przeczytajmy:
 
-   Stworzył więc Bóg człowieka na swój obraz, na obraz Boży go stworzył: stworzył mężczyznę i niewiastę. Po czym Bóg im błogosławił, mówiąc do nich: «Bądźcie płodni i rozmnażajcie się, abyście zaludnili ziemię i uczynili ją sobie poddaną; abyście panowali nad rybami morskimi, nad ptactwem powietrznym i nad wszystkimi zwierzętami pełzającymi po ziemi».”
+   Stworzył więc Bóg człowieka na swój obraz, na obraz Boży go stworzył: stworzył mężczyznę i niewiastę. Po czym Bóg im błogosławił, mówiąc do nich: «Bądźcie płodni i rozmnażajcie się, abyście zaludnili ziemię i uczynili ją sobie poddaną; abyście panowali nad rybami morskimi, nad ptactwem powietrznym i nad wszystkimi zwierzętami pełzającymi po ziemi»."
 
    -- Rdz 1,27-28
 
@@ -62,23 +62,23 @@ Przeczytajmy:
 
 * Dlaczego sługa, który zakopał talent okazał się złym sługą?
 
-(bo nie podjął decyzji, a przed nią uciekł – nie chciał ryzykować i „zajmować się” obrotem kapitałem i wybrał unik)
+(bo nie podjął decyzji, a przed nią uciekł – nie chciał ryzykować i "zajmować się" obrotem kapitałem i wybrał unik)
 
-Chrześcijanin nie mówi „co ma być to będzie”, lecz wchodzi w świat i swoimi decyzjami bierze odpowiedzialność za to co będzie! To jest nasz obowiązek dany nam przez Boga już w księdze Rodzaju.
+Chrześcijanin nie mówi "co ma być to będzie", lecz wchodzi w świat i swoimi decyzjami bierze odpowiedzialność za to co będzie! To jest nasz obowiązek dany nam przez Boga już w księdze Rodzaju.
 
-* Jak w takim razie rozumiesz słowa „Jezus Chrystus jest moim Panem”?
+* Jak w takim razie rozumiesz słowa "Jezus Chrystus jest moim Panem"?
 
-.. note:: wyłapać i omówić „slogan oazowy” – „Bóg nie raz mi pokazywał, że to On jest Panem mojego życia i ja z moimi decyzjami sobie mogę…”. To zdanie wypowiadane jest z jak najlepszą intencją, ale w gruncie rzeczy przegina w drugą stronę i może być zrozumiałe jako swego rodzaju ubezwłasnowolnienie!)
+.. note:: wyłapać i omówić "slogan oazowy" – "Bóg nie raz mi pokazywał, że to On jest Panem mojego życia i ja z moimi decyzjami sobie mogę...". To zdanie wypowiadane jest z jak najlepszą intencją, ale w gruncie rzeczy przegina w drugą stronę i może być zrozumiałe jako swego rodzaju ubezwłasnowolnienie!)
 
 =========================================
 Konsekwencje – druga strona medalu
 =========================================
 
-Z jednej strony więc konsekwencje jawią się nam jako coś „groźnego” z drugiej jesteśmy powołani, aby je powodować. Konsekwencje to nie „przekleństwo”, ale dar dzięki niemu właśnie możemy budować coś na ziemi (bo coś mogę zmieniać!). Skutki decyzji to realna siła i władza do zmieniania świata. Kojarzy się tutaj wiersz znany może niektórym z was z Stowarzyszenia Umarłych Poetów:
+Z jednej strony więc konsekwencje jawią się nam jako coś "groźnego" z drugiej jesteśmy powołani, aby je powodować. Konsekwencje to nie "przekleństwo", ale dar dzięki niemu właśnie możemy budować coś na ziemi (bo coś mogę zmieniać!). Skutki decyzji to realna siła i władza do zmieniania świata. Kojarzy się tutaj wiersz znany może niektórym z was z Stowarzyszenia Umarłych Poetów:
 
    | (..) Odpowiedz
    | że tu jesteś – że istnieje życie i tożsamość
-   | że sztuka trwa i także ty dopisać możesz wers.”
+   | że sztuka trwa i także ty dopisać możesz wers."
 
    -- W. Whitman
 
@@ -88,7 +88,7 @@ Z jednej strony więc konsekwencje jawią się nam jako coś „groźnego” z d
 
 * Czy umiesz wymienić konsekwencje swoich wyborów z których jesteś dumny?
 
-.. note:: to  pytanie  to   t akże   wyzwanie  czysto  psychologiczne  –  sprawdzian  czy  umiemy zobaczyć małe dobre rzeczy w naszym życiu i odnieść je do „wielkich spraw i treści”. Animatorzy mają obowiązek naprowadzać uczestników, aby odnaleźli coś takiego.  To  ważny cel spotkania.
+.. note:: to  pytanie  to   t akże   wyzwanie  czysto  psychologiczne  –  sprawdzian  czy  umiemy zobaczyć małe dobre rzeczy w naszym życiu i odnieść je do "wielkich spraw i treści". Animatorzy mają obowiązek naprowadzać uczestników, aby odnaleźli coś takiego.  To  ważny cel spotkania.
 
 Konsekwencje to silna sprawa, która może przerażać, ale daje też horyzont możliwości.
 
@@ -96,11 +96,11 @@ Konsekwencje to silna sprawa, która może przerażać, ale daje też horyzont m
 Konsekwencja – postawa życiowa
 =========================================
 
-Oprócz konsekwencji wyborów możemy mówić o konsekwencji jako postawie życiowej. Ten wyraz znowu ma nacechowanie pozytywne. „Być człowiekiem konsekwentnym” – brzmi świetnie i każdy chciałby usłyszeć to pod swoim adresem.
+Oprócz konsekwencji wyborów możemy mówić o konsekwencji jako postawie życiowej. Ten wyraz znowu ma nacechowanie pozytywne. "Być człowiekiem konsekwentnym" – brzmi świetnie i każdy chciałby usłyszeć to pod swoim adresem.
 
 * Jak się ma konsekwentna postawa do konsekwencji wyborów?
 
-Konsekwentna postawa bierze na serio skutki swoich wcześniejszych wyborów, a nie traktuje ich jako „aktualnych tylko w czasie ich podejmowania”.
+Konsekwentna postawa bierze na serio skutki swoich wcześniejszych wyborów, a nie traktuje ich jako "aktualnych tylko w czasie ich podejmowania".
 
 Konsekwencja (jako postawa) to kolejny etap świadczący o dojrzałości. Gdy już:
 

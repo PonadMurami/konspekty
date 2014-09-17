@@ -17,14 +17,14 @@ Modlitwa
 Dostosowana do możliwości grupy.
 
 =================================================
-„Największe wartości” w których teraz mamy udział
+"Największe wartości" w których teraz mamy udział
 =================================================
 
 (Animator przygotowuje dużą kartkę.)
 
 * *Wymieńmy (i zapiszmy) wartości/rzeczy które sprawiają, że ten czas rekolekcji jest niezwykły.*
 
-Prawdopodobne odpowiedzi: Pismo Św., Kościół, Msza, Krzyż, Duch Św. itd. Prawdopodobnie nikt nie napisze „my sami” lub „wspólnota”.
+Prawdopodobne odpowiedzi: Pismo Św., Kościół, Msza, Krzyż, Duch Św. itd. Prawdopodobnie nikt nie napisze "my sami" lub "wspólnota".
 
 Należy zwrócić uwagę na wyjątkowość faktu, że się **spotykamy**.
 
@@ -36,9 +36,9 @@ Zapytajmy:
 
 * Ile mamy doświadczeń takiego prawdziwego spotkania się z człowiekiem?
 
-Można poddać „krytycznemu spojrzeniu” nasze kontakty – na ile w nich jest otwarcia się na siebie. Jedną z podstawowych rzeczy która w Oazie pociąga (mniej lub bardziej świadomie) jest to, że tutaj się naprawdę rozmawia, a nie dyskutuje zza baszt swojego JA.
+Można poddać "krytycznemu spojrzeniu" nasze kontakty – na ile w nich jest otwarcia się na siebie. Jedną z podstawowych rzeczy która w Oazie pociąga (mniej lub bardziej świadomie) jest to, że tutaj się naprawdę rozmawia, a nie dyskutuje zza baszt swojego JA.
 
-* Czy jako „weterani” Oazowi patrzymy w ogóle z wdzięcznością na wspólnotę?
+* Czy jako "weterani" Oazowi patrzymy w ogóle z wdzięcznością na wspólnotę?
  
 * Czy doceniamy to coś naprawdę niezwykłego, że drugi człowiek chce ze mną rozmawiać o czymś więcej niż cenach nowych abonamentów telefonów komórkowych?
 
@@ -54,19 +54,19 @@ Jeżeli coś otrzymujemy to źle byłoby nawet tego nie zauważać – wtedy nie
 | Jutrzejsza Msza Św. może być doskonałą okazją, aby stała się dziękczynieniem za to ubogacenie waszego życia
 
 =================================================
-„Dotknięcie” wartości wspólnoty
+"Dotknięcie" wartości wspólnoty
 =================================================
 
 *(jest to zasadnicza cześć spotkania na którą powinien być położony największy akcent)*
 
-Wspólnota jest dużo większą wartością niż plan rekolekcji/ ten konspekt. To my sami sobie najwięcej możemy dać. Chcielibyśmy teraz to sobie „udowodnić”.
+Wspólnota jest dużo większą wartością niż plan rekolekcji/ ten konspekt. To my sami sobie najwięcej możemy dać. Chcielibyśmy teraz to sobie "udowodnić".
 
 Od tej pory spotkanie nie będzie nawet merytorycznie prowadzone przez animatora. Bez sensu jest Oaza jeżeli słów nie wypowiadamy dla zbudowania drugich. Przede
 wszystkim, na samym początku, w tym pierwszym dniu chcemy sobie to uświadomić.
 
 * *Każdy niech zapisze jedno pytanie które chce zadać całej grupie (włącznie z sobą). Nie jest to łatwe zadanie – musimy rozeznać o co zapytać, abyśmy dzięki niemu wszyscy wyszli z tego spotkania bogatsi (co nie oznacza że musi to być zakręcone pytanie filozoficzne!)*
 
-* *Następnie będziemy odpowiadać sobie na te pytania. Jednak, aby nie „rozcieńczać” tego spotkania umówmy się, że staramy się odpowiedzieć w 4 zdaniach! One na pewno wystarczą, aby na chwałę Boga zbudować bliźniego jeżeli się tylko o to postaramy.*
+* *Następnie będziemy odpowiadać sobie na te pytania. Jednak, aby nie "rozcieńczać" tego spotkania umówmy się, że staramy się odpowiedzieć w 4 zdaniach! One na pewno wystarczą, aby na chwałę Boga zbudować bliźniego jeżeli się tylko o to postaramy.*
 
 =================================================
 Podsumowanie
@@ -78,9 +78,9 @@ Bez cienia ironii:
     
     -- Hbr 10, 23-25
     
-„Bez” konspektu potrafiliśmy siebie głęboko ubogacić. Wspólnota to olbrzymia wartość jeżeli podchodzimy do niej świadomie (odpowiadamy „dla drugiego” a nie po to aby chwalić się przed drugim). Jest to też rzecz trudna – bo zależy od nas samych….
+"Bez" konspektu potrafiliśmy siebie głęboko ubogacić. Wspólnota to olbrzymia wartość jeżeli podchodzimy do niej świadomie (odpowiadamy "dla drugiego" a nie po to aby chwalić się przed drugim). Jest to też rzecz trudna – bo zależy od nas samych....
 
-I to właśnie dlatego z radością wołamy „Jesteśmy Oazą!”.
+I to właśnie dlatego z radością wołamy "Jesteśmy Oazą!".
 
 =================================================
 Zastosowania

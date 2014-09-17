@@ -24,7 +24,7 @@ Prosimy uczestników, by przedstawili się chociaż z imienia i nazwiska i podal
 
 * Bez czego nie potrafisz wyobrazić sobie życia ?
 
-.. note:: co jest dla nas ważne w życiu ? Czy potrafimy np. przeżyć jeden dzień bez facebooka. Co cenimy- przyjaźń, miłość ? Czy wyobrażamy sobie życie bez przyjaciół ? Można opowiedzieć o jakieś bliskiej osobie->to pytanie o system wartości ; piorytety,  jakie mamy w życiu
+.. note:: co jest dla nas ważne w życiu ? Czy potrafimy np. przeżyć jeden dzień bez facebooka. Co cenimy- przyjaźń, miłość ? Czy wyobrażamy sobie życie bez przyjaciół ? Można opowiedzieć o jakieś bliskiej osobie->to pytanie o system wartości ; priorytety,  jakie mamy w życiu
 
 * Jakie zachowania ludzi w  okół Ciebie doceniasz ?
 
@@ -46,7 +46,7 @@ Podsumowaniem powyższej wymiany zdań jest fragment z Ewangelii:
 
 * Co rozumiem pod pojęciem talent ?
 
-Talent to starożytna jednostka monetarna uzywana na terenach Bliskiego Wschodu i Grecji. Czy kiedykolwiek zastanawiałem się, jaką wartość ma ta moneta? Tutaj następuje "trik"" z Biblia Tysiąclecia. Otwieramy na słowie Talent i czytamy definicje. Pokazujemy, że jeden talent miał ogromna wartość. Żeby bardziej uświadomić sobie wartość tej monety podkreślamy, 1 talent=6000 dniówek   (32 kilogramy złota,1 TALENT). Podkreślić ten fakt można jeszcze tym, że pryz normalnej pracy w ciągu roku (tj.46 tyg. w roku,odliczając pryz tym dni świąteczne oraz czas urlopu) i 5 dniach roboczych z 8 godzinami pracy 46*5=230 dniówkę rocznie, co daje 26 lat pracy->po tylu latach dostalibyśmy zapłatę w wysokości 1 talentu.
+Talent to starożytna jednostka monetarna używana na terenach Bliskiego Wschodu i Grecji. Czy kiedykolwiek zastanawiałem się, jaką wartość ma ta moneta? Tutaj następuje "trik"" z Biblia Tysiąclecia. Otwieramy na słowie Talent i czytamy definicje. Pokazujemy, że jeden talent miał ogromna wartość. Żeby bardziej uświadomić sobie wartość tej monety podkreślamy, 1 talent=6000 dniówek   (32 kilogramy złota,1 TALENT). Podkreślić ten fakt można jeszcze tym, że pryz normalnej pracy w ciągu roku (tj.46 tyg. w roku,odliczając pryz tym dni świąteczne oraz czas urlopu) i 5 dniach roboczych z 8 godzinami pracy 46*5=230 dniówkę rocznie, co daje 26 lat pracy->po tylu latach dostalibyśmy zapłatę w wysokości 1 talentu.
 
 Dla porównania można przeczytać tekst o wdowim groszu:
 
@@ -71,7 +71,7 @@ Pytania:
 Bóg posiada nieograniczoną władzę, jest wszechpotężny i wielki. Jednak władzę nad tym wszystkim podarował człowiekowi, który patrząc na ogrom rzeczy stworzonych przez Boga, popada w zdumienie.
 
 WNIOSKI:
-   **Zachwyt nad Bogiem i jego dziełami budzi zachwyt nad człowieki em (nie na odwrót)**
+   **Zachwyt nad Bogiem i jego dziełami budzi zachwyt nad człowiekiem (nie na odwrót)**
 
 Pytania:
 
@@ -81,13 +81,13 @@ Bóg uczynił nas na swoje podobieństwo, uczynił nas panami tej ziemi, zyskali
 
 .. note:: poprosić uczestników, by podali przykłady świadczące o wielkości człowieka, np jakieś odkrycia naukowe, akcje humanitarne, szybkość podejmowania decyzji w wypadku np zagrożenia wojną, możliwość globalnej komunikacji itd.
 
-.. warning:: uświadomienie uczestnikom,że mowa jest o NICH, nie o INNYCH. O każdym z nich indywidualnie.   Możliwe, że nasi uczestnicy nie dokonali żadnych wielkich rzeczy typu odkrycie nowego pierwiastka i prawdopodobnie ich nie dokonają. Ale pod pojęciem wielkich rzeczy możemy podpisac takie rzcezy jak np. bycie wiernym przyjacielem, sumienne dotrzymywanie obowiązków, uczciwa praca w przyszłości, dzałalnosć wolontarialna.
+.. warning:: uświadomienie uczestnikom,że mowa jest o NICH, nie o INNYCH. O każdym z nich indywidualnie.   Możliwe, że nasi uczestnicy nie dokonali żadnych wielkich rzeczy typu odkrycie nowego pierwiastka i prawdopodobnie ich nie dokonają. Ale pod pojęciem wielkich rzeczy możemy podpisać takie rzeczy jak np. bycie wiernym przyjacielem, sumienne dotrzymywanie obowiązków, uczciwa praca w przyszłości, działalność wolontariacka.
 
 =========================================
 Zastosowanie
 =========================================
 
-Zastsowaniem z tego spotkania będzie udanie się na modlitwe wieczorną z refleksją na temat siebie-co dla mnie jest ważne, czym ja moge przysłuzyc sie innym ludziom.
+Zastosowaniem z tego spotkania będzie udanie się na modlitwę wieczorną z refleksją na temat siebie-co dla mnie jest ważne, czym ja mogę przysłużyć się innym ludziom.
 
 =========================================
 Zakończenie

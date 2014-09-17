@@ -13,7 +13,7 @@ Celem dzisiejszego spotkania jest:
 3. uświadomienie jakie zmiany do tej relacji wprowadza Jezus Chrystus, który jest **prawdziwym** pokarmem;
 4. zadanie pytania o rolę Eucharystii, przyjęcia Jezusa w komunii, w moim życiu i tym samy pogłębienie świadomości tego momentu Eucharystii.
 
-Dzisiejsze spotkanie odbywa się późno, jesteśmy już po Namiocie Spotkania oraz pieczeniu chleba. Do tych dwóch punktów to spotkanie będzie się przede wszystkim odwoływało. Jest to spotkanie w dużej mierze oparte o fragmenty z Pisma Św. Nie chodzi tu jednak, aby szybko je przeczytać i przejść jak najszybciej do następnego fragmentu. Każdy fragment należy bardzo dokładnie z uczestnikami omówić, wyjaśnić. Pomocne, zwłaszcza w grupach młodszych będzie opowiedzenie sytuacji ukazanej w Piśmie Św., tj. gdzie się odbywa, kto bierze udział, jak to mogło wyglądać, jakie towarzyszyły temu emocje itd., odwołanie się do znaczenia chleba w ich życiu, nawet poprzez takie pytania, jak: „jak często jecie chleb, jaki lubicie najbardziej itp.” oraz odwołanie do pieczenia chleba, które miało miejsce wcześniej. „Jak to jest być piekarzem?” Generalnie należy dążyć, aby to spotkanie było jak najbardziej ROZMOWĄ z uczestnikami. Absolutnie nie może być to wykład teologiczny aniamtora. W czasie spotkania należy ukazać różnice pomiędzy ST a NT, co nowego wnosi Jezus Chrystus.
+Dzisiejsze spotkanie odbywa się późno, jesteśmy już po Namiocie Spotkania oraz pieczeniu chleba. Do tych dwóch punktów to spotkanie będzie się przede wszystkim odwoływało. Jest to spotkanie w dużej mierze oparte o fragmenty z Pisma Św. Nie chodzi tu jednak, aby szybko je przeczytać i przejść jak najszybciej do następnego fragmentu. Każdy fragment należy bardzo dokładnie z uczestnikami omówić, wyjaśnić. Pomocne, zwłaszcza w grupach młodszych będzie opowiedzenie sytuacji ukazanej w Piśmie Św., tj. gdzie się odbywa, kto bierze udział, jak to mogło wyglądać, jakie towarzyszyły temu emocje itd., odwołanie się do znaczenia chleba w ich życiu, nawet poprzez takie pytania, jak: "jak często jecie chleb, jaki lubicie najbardziej itp." oraz odwołanie do pieczenia chleba, które miało miejsce wcześniej. "Jak to jest być piekarzem?" Generalnie należy dążyć, aby to spotkanie było jak najbardziej ROZMOWĄ z uczestnikami. Absolutnie nie może być to wykład teologiczny animatora. W czasie spotkania należy ukazać różnice pomiędzy ST a NT, co nowego wnosi Jezus Chrystus.
 
 ==================================
 Wstęp
@@ -25,8 +25,7 @@ Przeczytajmy:
 
     -- Wj 16, 1-18.35
 
-Izraelici szemrają przeciw Panu, gdyż nie mają pokarmu, nie mają chleba. Uważają, że lepiej dla nich byłoby żyć w Egipcie, gdzie przynajmniej mieli zagwarantowany pokarm. Przy tej okazji
-warto porozmawiać z uczestnikami o tym, jak wygląda chleb, z czego jest robiony. W Izrealu chleb (podpłomyk) był robiony z wody, soli i mąki (ew. jeszcze oliwy). Są to podstawowe składniki. Najprostsze. Chleb przaśny, używany podczas Paschy był robiony bez zakwasu (czyli reszty ciasta pozostałej z poprzedniego wypieku), tylko z wody i mąki. Po pieczeniu chleba uczestnicy powinni mieć świadomość prostoty chleba. Niech na początku tego spotkania podzielą się doświadczeniami, przemyśleniami, jakich doznali podczas pieczenia chleba. Poprzez tą prostotę chleb jest podstawowym pożywieniem wielu ludzi, zwłaszacza ubogich (gdzie jednocześnie jest jedynym składnikiem pożywienia). Zapytajmy o co najczęściej proszą ludzie ubodzy (oprócz pieniędzy).
+Izraelici szemrają przeciw Panu, gdyż nie mają pokarmu, nie mają chleba. Uważają, że lepiej dla nich byłoby żyć w Egipcie, gdzie przynajmniej mieli zagwarantowany pokarm. Przy tej okazji warto porozmawiać z uczestnikami o tym, jak wygląda chleb, z czego jest robiony. W Izraelu chleb (podpłomyk) był robiony z wody, soli i mąki (ew. jeszcze oliwy). Są to podstawowe składniki. Najprostsze. Chleb przaśny, używany podczas Paschy był robiony bez zakwasu (czyli reszty ciasta pozostałej z poprzedniego wypieku), tylko z wody i mąki. Po pieczeniu chleba uczestnicy powinni mieć świadomość prostoty chleba. Niech na początku tego spotkania podzielą się doświadczeniami, przemyśleniami, jakich doznali podczas pieczenia chleba. Poprzez tą prostotę chleb jest podstawowym pożywieniem wielu ludzi, zwłaszcza ubogich (gdzie jednocześnie jest jedynym składnikiem pożywienia). Zapytajmy o co najczęściej proszą ludzie ubodzy (oprócz pieniędzy).
 
 Następnie porozmawiajmy o tym, jak traktowany jest chleb w naszych domach.
 
@@ -36,7 +35,7 @@ Następnie porozmawiajmy o tym, jak traktowany jest chleb w naszych domach.
 Bóg troszczy się o nas
 ==================================
 
-Pan Bóg troszczy się także o nasze życie codzienne, o nasz pokarm doczesny (w „Ojcze nasz” prosimy o chleb powszedni, który może być rozumiany także jako ten ziemski). Bóg wysłuchuje szemrania Izraelitów, zsyła swój pokarm. Przy tym fragmencie z księgi Wyjścia zwróćmy uwagę na dwie rzeczy. Po pierwsze Izraelici pytali „co to jest?”, było to dla nich zjawisko niezwykłe, nowe. Po drugie każdy mógł zebrać tyle, żeby najeść się do syta. Bóg nie pozwala nikomu być głodnym. Porozmawiajmy o tym fragmencie, co się w nim wydarzyło, jeki były przyczyny, jakie skuki. Niech to będzie luźna rozmowa na temat tego fragmentu. Można przytoczyć fragment psalmu:
+Pan Bóg troszczy się także o nasze życie codzienne, o nasz pokarm doczesny (w "Ojcze nasz" prosimy o chleb powszedni, który może być rozumiany także jako ten ziemski). Bóg wysłuchuje szemrania Izraelitów, zsyła swój pokarm. Przy tym fragmencie z księgi Wyjścia zwróćmy uwagę na dwie rzeczy. Po pierwsze Izraelici pytali "co to jest?", było to dla nich zjawisko niezwykłe, nowe. Po drugie każdy mógł zebrać tyle, żeby najeść się do syta. Bóg nie pozwala nikomu być głodnym. Porozmawiajmy o tym fragmencie, co się w nim wydarzyło, jakie były przyczyny, jakie skutki. Niech to będzie luźna rozmowa na temat tego fragmentu. Można przytoczyć fragment psalmu:
 
     | Wystawiali Boga na próbę w swych sercach, żądając strawy dla swego pożądania.
     | Mówili przeciw Bogu, rzekli: «Czyż Bóg potrafi nakryć stół w pustyni?» Oto w skałę uderzył,
@@ -54,17 +53,17 @@ Pan Bóg troszczy się także o nasze życie codzienne, o nasz pokarm doczesny (
     
 Zapytajmy:
 
-* Dlaczego Bóg zsyła Izrealitom pokarm?
+* Dlaczego Bóg zsyła Izraelitom pokarm?
 
-* Jaka jest reakcja Izrealitów na to wydarzenie?
+* Jaka jest reakcja Izraelitów na to wydarzenie?
 
 * Jak zachowują się wobec Boga po tym wydarzeniu? Czy ich postępowanie zmienia się? 
 
-* Co znaczy określenie „chleb mocarzy”? Jak je rozumiesz?
+* Co znaczy określenie "chleb mocarzy"? Jak je rozumiesz?
 
 * Powracając do fragmentu z księgi Wyjścia: jak długo Izraelici spożywali chleb od Pana? Dlaczego? (Odkryć znaczenie symboliczne: wędrówka – całe nasze życie, Kanaan – niebo, nie wspominajmy jeszcze o Ciele Jezusa Chrystusa.)
 
-Bóg karmi swój naród przez całą jego wedrówkę, przez całą drogę. Pokarm ten pozwala im iść do celu, jaki przeznaczył im Bóg. Jednak ten cud nie powoduje, że Izraelici przestają szemrać, wątpić. Dlatego większość z nich pomarła i nie doszła do ziemi obiecanej.
+Bóg karmi swój naród przez całą jego wędrówkę, przez całą drogę. Pokarm ten pozwala im iść do celu, jaki przeznaczył im Bóg. Jednak ten cud nie powoduje, że Izraelici przestają szemrać, wątpić. Dlatego większość z nich pomarła i nie doszła do ziemi obiecanej.
 
 ==================================
 Sakrament
@@ -84,21 +83,21 @@ Przeczytajmy:
 
     -- J 1, 10-14
     
-W oparciu o powyższy fragment oraz Namiot Spotkania porozmawiajmyo Eucharystii, o Chlebie jaki możemy dziś spożywać. Niech uczestnicy podzielą się swoimi przemyśleniami z Namiotu Spotkania.
+W oparciu o powyższy fragment oraz Namiot Spotkania porozmawiajmy o Eucharystii, o Chlebie jaki możemy dziś spożywać. Niech uczestnicy podzielą się swoimi przemyśleniami z Namiotu Spotkania.
 
-* Jakie są analogie pomiędzy naszym życiem, a wędrówką Izraelitów? Zwróćmy uwagę, że manna była odpowiedzią Boga na szemranie ludzi. Scana z Namiotu Spotkania odbywa się po rozmnożeniu chleba, kiedy Jezus wyrzuca ludziom, że idą za nim tylko dlatego, że najedli się do syta, natomiast nie troszczą się o życie wieczne. Jaka następuje tutaj różnica pomiędzy Starym Testemantem a Nowym? Zastanówmy się jak jest w naszym życiu – czy przystępujemy do komunii tylko dlatego, żeby się najeść do syta?
+* Jakie są analogie pomiędzy naszym życiem, a wędrówką Izraelitów? Zwróćmy uwagę, że manna była odpowiedzią Boga na szemranie ludzi. Scena z Namiotu Spotkania odbywa się po rozmnożeniu chleba, kiedy Jezus wyrzuca ludziom, że idą za nim tylko dlatego, że najedli się do syta, natomiast nie troszczą się o życie wieczne. Jaka następuje tutaj różnica pomiędzy Starym Testamentem a Nowym? Zastanówmy się jak jest w naszym życiu – czy przystępujemy do komunii tylko dlatego, żeby się najeść do syta?
 
 Nawiążmy do przemyśleń z Namiotu Spotkania:
 
 * Czym tak naprawdę jest przyjęcie Jezusa, spożywanie Jego Ciała i Krwi? Jest to o wiele większy dar niż tylko pomoc w doczesnym życiu jak to miało miejsce w ST. Tutaj chleb oznacza życie wieczne, oznacza zjednoczenie z Chrystusem (o czym jutro, więc nie rozwijajmy tego wątku), oznacza wreszcie UDZIAŁ W OFIERZE CHRYSTUSA, a także zadatek, przedsmak nieba.
 
 ==========================================
-„Co to jest?” = „lecz świat Go nie poznał”
+"Co to jest?" = "lecz świat Go nie poznał"
 ==========================================
 
-Bóg pragnął pozostać między nami, nie chciał zostawić nas sierotami - „A Słowo stało się ciałem i zamieszkało wśród nas.” Zastanówmy się przez chwilę dlaczego Bóg pozostał z nami, dlaczego pozwolił nam spożywać się.
+Bóg pragnął pozostać między nami, nie chciał zostawić nas sierotami - "A Słowo stało się ciałem i zamieszkało wśród nas." Zastanówmy się przez chwilę dlaczego Bóg pozostał z nami, dlaczego pozwolił nam spożywać się.
 
-    Pan nasz Jezus Chrystus chciał zostawić nam zbawienie w swoim Ciele i Krwi. Dlaczego zaś każe nam spożywać swoje Ciało i Krew? Bo jest pokorny. Gdyby nie był pokorny, nie moglibyśmy Go spożywać ani pić. Patrz na Jego nieskończoność: „Na początku było Słowo i Słowo było u Boga i Bogiem było Słowo” (J 1,1). Oto Pokarm wiekuisty: lecz spożywają Go aniołowie, spożywają moce najwyższe i duchy niebieskie. Spożywając, nabierają mocy, a Ten, który obdarza ich nasyceniem i radością, pozostaje nie naruszony. Otóż, co człowiekowi do tego Pokarmu? Kto znajdzie serce dostosowane do takiego Pokarmu? Zatem w mleko się On przemienił i dostosował do maluczkich. Oto w jaki sposób Mądrość Boża karmi nas tym Pokarmem: „Słowo ciałem się stało i zamieszkało wśród nas” (J 1,14). Patrzcie, co za pokora! „Dałeś im Chleb z nieba, Chleb aniołów spożywa człowiek” (Ps 77,24). Słowo Przedwieczne, którym żywią się aniołowie, równe Ojcu, jest spożywane przez człowieka. Ponieważ „istniejąc w postaci Bożej, nie skorzystał ze sposobności, aby być na równi z Bogiem” — takim właśnie żywią się aniołowie — „lecz ogołocił samego siebie” — aby człowiek mógł spożywać Chleb aniołów — „przyjąwszy postać sługi, stawszy się podobnym do ludzi. A w zewnętrznym przejawie uznany za człowieka, uniżył samego siebie, stawszy się posłusznym aż do śmierci, i to śmierci na krzyżu” (Flp 2,6—8) — abyśmy z krzyża otrzymali Ciało i Krew Pańską jako nową ofiarę.
+    Pan nasz Jezus Chrystus chciał zostawić nam zbawienie w swoim Ciele i Krwi. Dlaczego zaś każe nam spożywać swoje Ciało i Krew? Bo jest pokorny. Gdyby nie był pokorny, nie moglibyśmy Go spożywać ani pić. Patrz na Jego nieskończoność: "Na początku było Słowo i Słowo było u Boga i Bogiem było Słowo" (J 1,1). Oto Pokarm wiekuisty: lecz spożywają Go aniołowie, spożywają moce najwyższe i duchy niebieskie. Spożywając, nabierają mocy, a Ten, który obdarza ich nasyceniem i radością, pozostaje nie naruszony. Otóż, co człowiekowi do tego Pokarmu? Kto znajdzie serce dostosowane do takiego Pokarmu? Zatem w mleko się On przemienił i dostosował do maluczkich. Oto w jaki sposób Mądrość Boża karmi nas tym Pokarmem: "Słowo ciałem się stało i zamieszkało wśród nas" (J 1,14). Patrzcie, co za pokora! "Dałeś im Chleb z nieba, Chleb aniołów spożywa człowiek" (Ps 77,24). Słowo Przedwieczne, którym żywią się aniołowie, równe Ojcu, jest spożywane przez człowieka. Ponieważ "istniejąc w postaci Bożej, nie skorzystał ze sposobności, aby być na równi z Bogiem" — takim właśnie żywią się aniołowie — "lecz ogołocił samego siebie" — aby człowiek mógł spożywać Chleb aniołów — "przyjąwszy postać sługi, stawszy się podobnym do ludzi. A w zewnętrznym przejawie uznany za człowieka, uniżył samego siebie, stawszy się posłusznym aż do śmierci, i to śmierci na krzyżu" (Flp 2,6—8) — abyśmy z krzyża otrzymali Ciało i Krew Pańską jako nową ofiarę.
 
     -- św. Augustyn
 
@@ -106,9 +105,9 @@ Jezus pragnie pozostać z nami, gdyż jest to przejaw Jego miłości do nas. On 
 
 * Czy współczesny człowiek pragnie zjednoczenia z Bogiem? Czy jest to także nasze największe pragnienie? 
 
-Nie może być Eucharystia źródłem i szczytem życia chrześciajanina, jego najważniejszym momentem, jeśli nie pragnie on przede wszystkim zjednoczenia ze swoim Zbawcą, jeśli nie będzie to jego najważniejszym celem. Stawiamy sobie tutaj pytanie o to, czy Bóg jest dla mnie najważniejszy. Jeśli popatrzymy na tą sytuację od strony Boga dostrzeżemy, że dla Niego nie ma nic ważniejszego jak zjednoczyć się ze swoim ludem, ze swoim stworzeniem. On ogołocił samego siebie, aby móc być z nami! 
+Nie może być Eucharystia źródłem i szczytem życia chrześcijanina, jego najważniejszym momentem, jeśli nie pragnie on przede wszystkim zjednoczenia ze swoim Zbawcą, jeśli nie będzie to jego najważniejszym celem. Stawiamy sobie tutaj pytanie o to, czy Bóg jest dla mnie najważniejszy. Jeśli popatrzymy na tą sytuację od strony Boga dostrzeżemy, że dla Niego nie ma nic ważniejszego jak zjednoczyć się ze swoim ludem, ze swoim stworzeniem. On ogołocił samego siebie, aby móc być z nami! 
 
-    W Eucharystii, w odróżnieniu od każdego innego sakramentu, tajamnica [komunii] jast tak doskonała, iż prowadzi do szczytu wszelkich dóbr: to tu znajduje kres wszelkie pragnienie, ponieważ tu otrzymujemy Boga i Bóg wchodzi w doskonałe zjednoczenie z nami.
+    W Eucharystii, w odróżnieniu od każdego innego sakramentu, tajemnica [komunii] jest tak doskonała, iż prowadzi do szczytu wszelkich dóbr: to tu znajduje kres wszelkie pragnienie, ponieważ tu otrzymujemy Boga i Bóg wchodzi w doskonałe zjednoczenie z nami.
     
     -- Jan Paweł II
     

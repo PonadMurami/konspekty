@@ -6,7 +6,7 @@ Spotkanie 1 - Moje dziś, wielkie dziś
 Cel
 ==================================
 
-Refleksja wprowadzająca w temat i atmosferę rekolekcji. Spróbujmy odpowiedzieć sobie na pytania: Czy potrafimy **patrzeć** na swoje życie „własnymi oczami”, w osobisty sposób?  Jak wygląda moje życie „tu i teraz”, w tym momencie? Jak postrzegam zmiany zachodzące w moim życiu?
+Refleksja wprowadzająca w temat i atmosferę rekolekcji. Spróbujmy odpowiedzieć sobie na pytania: Czy potrafimy **patrzeć** na swoje życie "własnymi oczami", w osobisty sposób?  Jak wygląda moje życie "tu i teraz", w tym momencie? Jak postrzegam zmiany zachodzące w moim życiu?
 
 =========================================
 Modlitwa
@@ -18,7 +18,7 @@ Wezwanie do Ducha Świętego. Modlitwa prośby o otwarcie na Jego działanie, ot
 Wprowadzenie
 =========================================
 
-   „[…] trzeba nam wiary w siłę oczarowań, jakie mogą nas spotkać, jeżeli tylko gotowi jesteśmy się im poddać. W chwilach najdrobniejszych, miejscach dobrze nam znanych, pośród tych, którzy są z nami od lat…, ukryty jest fenomen życia, jego smak. A wszystko tak naprawdę rozstrzyga się nie w gabinetach polityków, ale podczas wyboru książki, filmu  w kinie czy telewizyjnego programu. Wszystko rozstrzyga się w chwili, gdy decydujemy się na wizytę w teatrze lub filharmonii, gdy planujemy spacer, wakacje albo wieczór z przyjaciółmi. To są sprawy najprostsze, najdrobniejsze i najbardziej codzienne, ale to właśnie od tych chwil i od tych spraw najprostszych najwięcej zależy. I dlatego z pewnością nie żyjemy w czasach gorszych niż inni. Wręcz przeciwnie, żyjemy w najwspanialszej chwili naszego życia, bo ona jest naszym »teraz« i w nim możemy wybrać piękno, dobro i prawdę
+   "[...] trzeba nam wiary w siłę oczarowań, jakie mogą nas spotkać, jeżeli tylko gotowi jesteśmy się im poddać. W chwilach najdrobniejszych, miejscach dobrze nam znanych, pośród tych, którzy są z nami od lat..., ukryty jest fenomen życia, jego smak. A wszystko tak naprawdę rozstrzyga się nie w gabinetach polityków, ale podczas wyboru książki, filmu  w kinie czy telewizyjnego programu. Wszystko rozstrzyga się w chwili, gdy decydujemy się na wizytę w teatrze lub filharmonii, gdy planujemy spacer, wakacje albo wieczór z przyjaciółmi. To są sprawy najprostsze, najdrobniejsze i najbardziej codzienne, ale to właśnie od tych chwil i od tych spraw najprostszych najwięcej zależy. I dlatego z pewnością nie żyjemy w czasach gorszych niż inni. Wręcz przeciwnie, żyjemy w najwspanialszej chwili naszego życia, bo ona jest naszym »teraz« i w nim możemy wybrać piękno, dobro i prawdę
 
    -- Jacek Kurek -- W najwspanialszej chwili naszego życia. Myśli o Śląsku.
 
@@ -94,7 +94,7 @@ Przeczytajmy:
 
    -- Mt 7, 13-14
 
-* Czym może być w moim życiu „ciasna brama”?
+* Czym może być w moim życiu "ciasna brama"?
 
 Odczytajmy fragment:
 
@@ -105,7 +105,7 @@ Odczytajmy fragment:
 
 * Czy jestem otwarty na zmiany życiowe?
 
-* Czy jestem bardzo przywiązana do „mojego życia”, jego stabilności, poczucia bezpieczeństwa?
+* Czy jestem bardzo przywiązana do "mojego życia", jego stabilności, poczucia bezpieczeństwa?
 
 Odczytajmy fragment:
 
@@ -118,7 +118,7 @@ Odczytajmy fragment:
    | I tak budzę się od lat
    | by mu nową szansę dać
 
-* Czym jest to „moje dziś, wielkie dziś”?
+* Czym jest to "moje dziś, wielkie dziś"?
 
 * Co to znaczy żyć teraźniejszością?
 
@@ -138,7 +138,7 @@ Odczytajmy fragment:
    | Chociaż wczoraj, jutro, dziś
    | notoryczne dj vu
 
-* Co to znaczy „nadać życiu bieg”?
+* Co to znaczy "nadać życiu bieg"?
 
 * Czego oczekuję od życia?
 
@@ -154,9 +154,9 @@ Odczytajmy fragment:
    | i zachwycić, że to ja
    | Moje dziś, wielkie dziś
 
-* „Bycie sobą” – co to znaczy dla mnie?
+* "Bycie sobą" – co to znaczy dla mnie?
 
-* Czy masz doświadczenie zachwytu, że „to Ty”?
+* Czy masz doświadczenie zachwytu, że "to Ty"?
 
 Przeczytajmy:
 
@@ -164,7 +164,7 @@ Przeczytajmy:
 
    -- Mt 5, 13-16
 
-* Czym jest dla mnie „życiowa autentyczność”?
+* Czym jest dla mnie "życiowa autentyczność"?
 
 * Czy jest we mnie otwartość na podarowany mi czas, na inność tego czasu?
 

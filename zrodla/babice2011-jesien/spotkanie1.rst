@@ -6,33 +6,33 @@ Spotkanie 1 - Wspólnota - fenomen indywidualności czy konformizmu?
 Cel
 ==================================
 
-Zapoznanie się grupy, ale nie przez opowiadanie o sobie, ale rozmowę na temat. Zmierzenie się z pierwszym stereotypem wspólnoty jakim jest utrata siebie. (a nie “posiadaniem siebie w dawaniu siebie”!). Nakreślenie wizji Kościoła jak pojednanej różnorodności.
+Zapoznanie się grupy, ale nie przez opowiadanie o sobie, ale rozmowę na temat. Zmierzenie się z pierwszym stereotypem wspólnoty jakim jest utrata siebie. (a nie "posiadaniem siebie w dawaniu siebie"!). Nakreślenie wizji Kościoła jak pojednanej różnorodności.
 
 =================================================
 Wprowadzenie dla animatora - do całych rekolekcji
 =================================================
 
-Na tym spotkaniu sztucznie przeciwstawiamy indiwuduum grupie. Robimy to niejako w celach badawczych - aby coś odkryć. O tym jak w parze idą te dwa dążenia w nas jest koniec dzisiejszego dnia czyli modlitwa. Jeżeli uczestnicy będą się burzyć na taki rozdział należy im pogratulować, a nie bronić konspektu ;),a następnie przeczytać ten akapit.
+Na tym spotkaniu sztucznie przeciwstawiamy indywiduum grupie. Robimy to niejako w celach badawczych - aby coś odkryć. O tym jak w parze idą te dwa dążenia w nas jest koniec dzisiejszego dnia czyli modlitwa. Jeżeli uczestnicy będą się burzyć na taki rozdział należy im pogratulować, a nie bronić konspektu ;),a następnie przeczytać ten akapit.
 
 Zobacz: http://www.youtube.com/watch?v=o0ijs1GggU8
 
-Jakie uczucia się w Tobie rodzą? Widzisz bardziej wspólnote czy manipulacje? Bardziej jedność czy naśladownictwo? Widzisz w tym piękno “organizmu ponad organizmem” czy Cię to jakoś niepokoi? Tak samo ludzie niezwiązani z Kościołem mogą patrzeć na Msze Świętą i wspólnotę Kościoła(!). W przykładzie o dużym kontraście (a jak!) stań po drugiej stronie i popatrz przez ramię uczestnika w tym samym kierunku. Zmierz się z tymi uczuciami i je zapamiętaj. Podyskutuj z resztą diakonii. Poprowokujmy się trochę. Powodzenia! :).
+Jakie uczucia się w Tobie rodzą? Widzisz bardziej wspólnotę czy manipulacje? Bardziej jedność czy naśladownictwo? Widzisz w tym piękno "organizmu ponad organizmem" czy Cię to jakoś niepokoi? Tak samo ludzie niezwiązani z Kościołem mogą patrzeć na Msze Świętą i wspólnotę Kościoła(!). W przykładzie o dużym kontraście (a jak!) stań po drugiej stronie i popatrz przez ramię uczestnika w tym samym kierunku. Zmierz się z tymi uczuciami i je zapamiętaj. Podyskutuj z resztą diakonii. Poprowokujmy się trochę. Powodzenia! :).
 
 
 =========================================
 Modlitwa
 =========================================
 
-Nie wiemy *kim są i skąd przychodzą ludzie*, którzy zostali nam powierzeni. Modlitwa zatem nie powinna zakładać umiejętności modlitwy spontanicznej, ale koniecznie musi zawierać element znajomy dla uczestników (np. “Duchu Święty, który oświetlasz....”). Można zrobić na zasadzie kolekty - żeby każdy pomyślał o tym o co chce się pomodlić a zebrać to wspólnym Ojcze Nasz.
+Nie wiemy *kim są i skąd przychodzą ludzie*, którzy zostali nam powierzeni. Modlitwa zatem nie powinna zakładać umiejętności modlitwy spontanicznej, ale koniecznie musi zawierać element znajomy dla uczestników (np. "Duchu Święty, który oświetlasz...."). Można zrobić na zasadzie kolekty - żeby każdy pomyślał o tym o co chce się pomodlić a zebrać to wspólnym Ojcze Nasz.
 
 =========================================
 Wprowadzenie (nie tylko) do spotkania
 =========================================
 
-Po co są te spotkania? Żeby rozmawiać. Rozmawiać tzn przekazywać to co ma się w głowie i sercu. Nie ma “dobrych odpowiedzi które pasują do klucza”. Nie chodzi też o to, abyśmy używali słow Maryja, Jezus, Bóg, Modlitwa,  wstawiając pomiędzy nie pojedyncze wyrazy. (bo szczerze mówiąc sami mamy tego dosyć?). Chcemy się spotkać czyli dzielić się tym co myślimy, a nie tym co chcielibyśmy myśleć. To poważna róznica.
+Po co są te spotkania? Żeby rozmawiać. Rozmawiać tzn przekazywać to co ma się w głowie i sercu. Nie ma "dobrych odpowiedzi które pasują do klucza". Nie chodzi też o to, abyśmy używali słów Maryja, Jezus, Bóg, Modlitwa,  wstawiając pomiędzy nie pojedyncze wyrazy. (bo szczerze mówiąc sami mamy tego dosyć?). Chcemy się spotkać czyli dzielić się tym co myślimy, a nie tym co chcielibyśmy myśleć. To poważna różnica.
 
 =========================================
-Jaka jest moja “indywidualność”?
+Jaka jest moja "indywidualność"?
 =========================================
 
 .. note:: Animator przygotowuje dużo kartek z różnymi napisami: napisane niebieskim kolorem "słoń", podkreślony czarny napis "widelec" itd.
@@ -45,7 +45,7 @@ Poprosić grupę  żeby je podzieliła na grupy - jest dużo możliwości (kolor
 
 * Ile trzeba podać cech, aby w tym przypadku określić indywidualność?
 
-Jak powiem, że chodzi mi o dziewczyne z mojej klasy to nikt nie będzie wiedział o kogo chodzi. Jeżeli powiem, że o dziewczynę z blond włosami to prawdopodobnie zostanie już tylko kilka możliwości. Ile trzeba podać cech, aby jednoznacznie wyróżnić indywidualność?
+Jak powiem, że chodzi mi o dziewczynę z mojej klasy to nikt nie będzie wiedział o kogo chodzi. Jeżeli powiem, że o dziewczynę z blond włosami to prawdopodobnie zostanie już tylko kilka możliwości. Ile trzeba podać cech, aby jednoznacznie wyróżnić indywidualność?
 
 Wariant I:
    Spróbujmy czy w naszym przypadku wystarczy 5. Umówmy się, że pierwsze trzy z nich muszą dotyczyć czegoś innego niż wyglądu. Jaka jest moja indywidualność? Każdy z uczestników zapisuje 5 swoich cech na kartce i daje na środek. Animator wybiera je po kolei i odczytuje - próbujemy dopasować opis do osoby.
@@ -61,7 +61,7 @@ Wróćmy do naszych kartek.
 
 * Gdy położymy je w grupach (animator dzieli je ze względu na kolor) i patrzysz na nie to bardziej widzisz w nich indywidualność czy to, że leża tutaj wszystkie żółte?
 
-* Czy znasz jakieś przykłady z życia, że tak się dzieje? (gdy jest się w klasie uważaną za słabą, Polacy to złodzieje samochodów, wszyscy księża jeżdzą mercedesami, wszyscy faceci myślą o jednym)
+* Czy znasz jakieś przykłady z życia, że tak się dzieje? (gdy jest się w klasie uważaną za słabą, Polacy to złodzieje samochodów, wszyscy księża jeżdżą mercedesami, wszyscy faceci myślą o jednym)
 
 * Czy łatwo się czemuś takiemu przeciwstawić? Dlaczego?
 
@@ -69,7 +69,7 @@ Boimy się bycia wrzuconymi do jednego worka z innymi. Nie mamy wtedy kontroli n
 
 * Czy bycie w jakiejś grupie musi wiązać się z jakimś straceniem kontroli (np. nad wizerunkiem?
 
-Jak się zadaje takie pytanie to ma się ochotę bronić, że przecież tak nie musi być. Sęk w tym, że to nieprawda. Będąc w grupie jesteśmy postrzegani przez ten pryzmat. Dlatego niektórzy z nas nie chce być częścią zbioru, wolą ię kontrastować/wyróżniać się/zwracać na siebie uwagę.
+Jak się zadaje takie pytanie to ma się ochotę bronić, że przecież tak nie musi być. Sęk w tym, że to nieprawda. Będąc w grupie jesteśmy postrzegani przez ten pryzmat. Dlatego niektórzy z nas nie chce być częścią zbioru, wolą się kontrastować/wyróżniać się/zwracać na siebie uwagę.
 
 .. centered:: **Nie chcemy być częścią bezkształtnej masy.**
 
@@ -81,7 +81,7 @@ Zbiór to co innego niż wspólnota
 
 Mamy nowy zbiór obrazków - strzałki. Poukładajmy je jak poprzednio.
 
-.. note:: uczestnicy podzielą je na “skośne” oraz “proste” - innego wyboru nie ma
+.. note:: uczestnicy podzielą je na "skośne" oraz "proste" - innego wyboru nie ma
 
 Znowu wszystkie elementy są takie same, prawda? Zbiory są nieciekawe. To tylko i wyłącznie zaszufladkowane elementy. Nic dziwnego, że nas nie bawią. Można jednak inaczej.
 
@@ -95,7 +95,7 @@ Znowu wszystkie elementy są takie same, prawda? Zbiory są nieciekawe. To tylko
    * ta sama liczba elementów, dokładnie tych samych
    * wcześniej każdy element miał własny kierunek gdy leżał w grupie, a teraz mają wspólny
 
-* Czy nadal można powiedzieć, że ten zbiór to “bezkształtna masa”, której się boimy?
+* Czy nadal można powiedzieć, że ten zbiór to "bezkształtna masa", której się boimy?
 
 Uzyskaliśmy coś więcej niż sumę elementów - strukturę, kierunek.
 
@@ -127,7 +127,7 @@ Zwróćmy szczególną uwagę na 6 wers. Porównajmy dwie wersje:
    * "Jestem Bogiem ojca twego, Bogiem Abrahama, Bogiem Izaaka i Bogiem Jakuba"
    * "Jestem Bogiem ojca twego, Bogiem Abrahama, Izaaka i Jakuba"
 
-* Jak interpretujemy to, że Bóg sam się przedstawia używając takiej “dziwnej formy”?
+* Jak interpretujemy to, że Bóg sam się przedstawia używając takiej "dziwnej formy"?
 
 Komentatorzy Pisma Świętego interpretują to jako podkreślenie ze strony Boga indywidualności Jego relacji z każdym człowiekiem. Choć Bóg Abrahama i Bóg Izaaka to ten sam Jeden Bóg, to relacje Boga z Abrahamem i Izaakiem były różne. To pozorny paradoks, że bycie w grupie oraz indywidualność się wykluczają.
 
@@ -137,11 +137,11 @@ Przeczytajmy:
 
    -- Kor 1 12,12-21
 
-Taka jest wspólnota Kościoła. Jest złożona z indywidualnych osób choć jest “jednym ciałem”. Nie mamy być wszyscy tacy sami, nie mamy myśleć tego samego ani odczuwać tego samego. Jesteśmy jednak “jednym organizmem” więc mamy wspólny kierunek (jak przykład z strzałką). Mamy być  *pojednaną różnorodnością* (różnorodnością w jedności). To jest możliwe.
+Taka jest wspólnota Kościoła. Jest złożona z indywidualnych osób choć jest "jednym ciałem". Nie mamy być wszyscy tacy sami, nie mamy myśleć tego samego ani odczuwać tego samego. Jesteśmy jednak "jednym organizmem" więc mamy wspólny kierunek (jak przykład z strzałką). Mamy być  *pojednaną różnorodnością* (różnorodnością w jedności). To jest możliwe.
 
 * Patrzeliście kiedyś w ten sposób na Kościół?
 
-* Jak rozumiecie pojęcie “pojednana różnorodność”?
+* Jak rozumiecie pojęcie "pojednana różnorodność"?
 
 * Czy wierzycie, że Kościół właśnie taki jest?
 

@@ -69,9 +69,9 @@ Warto zadać sobie pytanie nad jakością naszych spotkań (wszelkich). Spróbow
 
 * Czy możemy się podzielić w jakich to było okolicznościach?
 
-Spotkanie to dar. Coś absolutnie niesamowitego. Jeżeli mamy niewiele wpisów na naszych kartkach to doskonale to rozumiemy bo prawdopodobnie „tęsknimy” za prawdziwą rozmową. Jeżeli nasze kartki są zapełnione to prawdopodobnie doświadczyliśmy tego i cenimy sobie te momenty.
+Spotkanie to dar. Coś absolutnie niesamowitego. Jeżeli mamy niewiele wpisów na naszych kartkach to doskonale to rozumiemy bo prawdopodobnie "tęsknimy" za prawdziwą rozmową. Jeżeli nasze kartki są zapełnione to prawdopodobnie doświadczyliśmy tego i cenimy sobie te momenty.
 
-    Dąży się dzisiaj nie tylko do „odczarowania” kontaktów międzyludzkich – z czym można by się nawet zgodzić – lecz także do ich radykalnego odtajemniczenia. To, co osobowe, nieustannie bliskie misterium, niegdyś podstawa najcichszych uniesień, ulega niwelacji.
+    Dąży się dzisiaj nie tylko do "odczarowania" kontaktów międzyludzkich – z czym można by się nawet zgodzić – lecz także do ich radykalnego odtajemniczenia. To, co osobowe, nieustannie bliskie misterium, niegdyś podstawa najcichszych uniesień, ulega niwelacji.
 
     -- Martin Buber
 
@@ -79,19 +79,19 @@ Spotkanie to dar. Coś absolutnie niesamowitego. Jeżeli mamy niewiele wpisów n
 
 * Czy podziękowaliśmy komuś za spotkanie? Czy nie jest tak, że wobec wielu osób nie wyraziliśmy swojej wdzięczności za rozmowę?
 
-Postanowienie: Świetną okazją, aby „podziękować” za ten „cud spotkania” osobą które pojawiły się w naszym życiu jest jutrzejsza Eucharystia! Niech to będzie pierwszym owocem tego spotkania (o ile ktoś chce) – aby jutrzejszą Eucharystię ofiarować w ich intencji.
+Postanowienie: Świetną okazją, aby "podziękować" za ten "cud spotkania" osobą które pojawiły się w naszym życiu jest jutrzejsza Eucharystia! Niech to będzie pierwszym owocem tego spotkania (o ile ktoś chce) – aby jutrzejszą Eucharystię ofiarować w ich intencji.
 
 ======================================
 Cechy Prawdziwego Spotkania
 ======================================
 
-*(Ten punkt, podobnie jak następny, można tylko zasygnalizować, nie trzeba go omawiać w całości. Warto jednak, aby uczestnicy poznali „paradoksy” ateizmu. Nawet jeśli animator zrobi miniwykład.)*
+*(Ten punkt, podobnie jak następny, można tylko zasygnalizować, nie trzeba go omawiać w całości. Warto jednak, aby uczestnicy poznali "paradoksy" ateizmu. Nawet jeśli animator zrobi miniwykład.)*
 
-Kiedy już doszliśmy do tych wniosków zastanówmy się nad zdaniem: „Można bez żadnych zastrzeżeń uznawać istnienie Boga, a zarazem być człowiekiem niewierzącym”, czyli czym tak naprawdę jest ateizm.
+Kiedy już doszliśmy do tych wniosków zastanówmy się nad zdaniem: "Można bez żadnych zastrzeżeń uznawać istnienie Boga, a zarazem być człowiekiem niewierzącym", czyli czym tak naprawdę jest ateizm.
 
 Często o Bogu mówi się jako o abstrakcie, odległym bycie. Taki Bóg oderwany od człowieka, nie mający z nim nic wspólnego jest Bogiem martwym. Tak Boga pojmowało Oświecenie.
 
-Kontakt z takim Biegiem był niemożliwy. Wyrazi to dobitnie Nietzsche w swoim słynnym stwierdzeniu „Bóg umarł”. Co tak naprawdę oznacza to stwierdzenie? Jakie niesie za sobą konsekwencje?
+Kontakt z takim Biegiem był niemożliwy. Wyrazi to dobitnie Nietzsche w swoim słynnym stwierdzeniu "Bóg umarł". Co tak naprawdę oznacza to stwierdzenie? Jakie niesie za sobą konsekwencje?
 
 Spróbujmy zapytać o to uczestników. Jak oni to rozumieją.
 
@@ -125,9 +125,9 @@ Oczywiście nie mogą to być pytania typu czy Bóg istnieje?, bo patrz Tomasz z
 
 Można przytoczyć tu następujące opowiadanie:
 
-    Pewien oświecony człowiek wielkiej nauki, usłyszawszy o rabbim berdyczowskim, postanowił go odwiedzić, aby jak to miał w zwyczaju – odbyć z nim dysputę i unicestwić wsteczne argumenty, którymi cadyk dowodził słuszności swojej wiary. Kiedy wszedł do izby, ujrzał, że rabbi, z ksiązką w ręku, chodzi po izbie, ogarnięty zachwyceniem i pogrążony w myślach. Nie zwrócił nawet uwagi na przybyłego. Wreszcie przystanął i rzekł: „A może to jednak prawda.” Uczony z trudem się opanował – kolana mu drżały, tak straszliwy był bowiem wygląd cadyka i tak straszliwie brzmiało jego proste powiedzenie. Ale rabbi Lewi Icchak zwrócił się ku niemu i z wolna zaczął mówić: „Mój synu, uczeni w Piśmie, z którymi wiodłeś spór, na próżno z tobą rozmawiali; odchodząc śmiałeś się z ich słów. Nie mogli wyłożyć ci na stół Boga i Jego Królestwa i ja też nie mogę tego uczynić. Ale pomyśl, mój synu: może to jednak prawda.” Oświecony zebrał całą swoją moc, aby odpowiedzieć: ale słowo „może”, które nieustannie brzmiało mu w uszach, złamało jego opór.
+    Pewien oświecony człowiek wielkiej nauki, usłyszawszy o rabbim berdyczowskim, postanowił go odwiedzić, aby jak to miał w zwyczaju – odbyć z nim dysputę i unicestwić wsteczne argumenty, którymi cadyk dowodził słuszności swojej wiary. Kiedy wszedł do izby, ujrzał, że rabbi, z ksiązką w ręku, chodzi po izbie, ogarnięty zachwyceniem i pogrążony w myślach. Nie zwrócił nawet uwagi na przybyłego. Wreszcie przystanął i rzekł: "A może to jednak prawda." Uczony z trudem się opanował – kolana mu drżały, tak straszliwy był bowiem wygląd cadyka i tak straszliwie brzmiało jego proste powiedzenie. Ale rabbi Lewi Icchak zwrócił się ku niemu i z wolna zaczął mówić: "Mój synu, uczeni w Piśmie, z którymi wiodłeś spór, na próżno z tobą rozmawiali; odchodząc śmiałeś się z ich słów. Nie mogli wyłożyć ci na stół Boga i Jego Królestwa i ja też nie mogę tego uczynić. Ale pomyśl, mój synu: może to jednak prawda." Oświecony zebrał całą swoją moc, aby odpowiedzieć: ale słowo "może", które nieustannie brzmiało mu w uszach, złamało jego opór.
 
-Podstawowym pytaniem wiary jest „może”. Wyraża ono jej istotę: nieustanne napięcie, niepewność, ten ciągły paradoks nie możności powiedzenia czegoś „obiektywnego”. Świat wiary to świat nieustannego „może”.
+Podstawowym pytaniem wiary jest "może". Wyraża ono jej istotę: nieustanne napięcie, niepewność, ten ciągły paradoks nie możności powiedzenia czegoś "obiektywnego". Świat wiary to świat nieustannego "może".
 
 ======================================
 Człowiek pytaniem dla siebie
@@ -137,23 +137,23 @@ Zastanówmy się nad pytaniem, które zadał św. Augustyn, fundamentalnym pytan
 
 * Kogo kochasz, kiedy kochasz swego Boga?
 
-Wiara chrześcijańska jest tym, co jest głębiej. Bóg nie przebywa „naprzeciw”, „u góry”, lecz
-„wewnątrz”. Dlatego pytaniem, które rodzi wiarę jest pytanie o samego człowieka, o jego postępowanie. To pytanie o samego siebie.
+Wiara chrześcijańska jest tym, co jest głębiej. Bóg nie przebywa "naprzeciw", "u góry", lecz
+"wewnątrz". Dlatego pytaniem, które rodzi wiarę jest pytanie o samego człowieka, o jego postępowanie. To pytanie o samego siebie.
 
     Człowiecze, który pragnąłeś zrozumieć sam siebie, znaleźć kiedyś wreszcie swoje własne oblicze, ujrzeć swoją istotę, poznać swoją duszę, tajemnice swej tożsamości: jeśli rzeczywiście pokornie i wnikliwie szukałeś, znalazłeś przez to o wiele więcej – znalazłeś oblicze Boga.
 
     -- św. Augustyn
 
 Wiara jest odkrywaniem głębi samego siebie, jest odnalezieniem własnej tożsamości, własnej świadomości, umiejscowieniem samego siebie wobec rzeczywistości. Wiara jest wreszcie zaangażowaniem całego siebie, całkowitym zwrotem ku tej rzeczywistości. Wiara jest
-nawróceniem. Jest pytaniem o samego siebie, trzeba stać się „sam dla siebie pytaniem”. Pytaniem w którym zawiera się niepewność, niestałość itp.
+nawróceniem. Jest pytaniem o samego siebie, trzeba stać się "sam dla siebie pytaniem". Pytaniem w którym zawiera się niepewność, niestałość itp.
 
 ======================================
 Czym jest wiara?
 ======================================
 
-Spróbujmy na koniec ułożyć „definicję wiary wynikającą z tego spotkania, a może bardziej określić czym ona jest i kim jest człowiek wierzący.
+Spróbujmy na koniec ułożyć "definicję wiary wynikającą z tego spotkania, a może bardziej określić czym ona jest i kim jest człowiek wierzący.
 
-Przykładowa „definicja” (warto ją przeczytać na koniec, bo jest b. interesująca):
+Przykładowa "definicja" (warto ją przeczytać na koniec, bo jest b. interesująca):
 
     Wiara zawsze zawiera coś z wielkiej przygody, zrywu i skoku, bo jest zawsze ryzykiem, że się przyjmie jako rzeczywiste i podstawowe to, czego bezpośrednio nie widać
 

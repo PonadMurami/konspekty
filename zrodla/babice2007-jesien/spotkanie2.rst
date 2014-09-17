@@ -16,10 +16,10 @@ Cel Spotkania
 Wprowadzenie dla aniamtora
 ==================================
 
-Tak  naprawdę w  spotkaniu  najważniejsze jest,  aby  dostrzec  sytuację  „po  grzechu”  nie  tylko z perspektywy grzeszności człowieka, ale także z punktu widzenia „osamotnionego” Boga, który stwarzając człowieka ujawnił swoją ogromną Miłość ku niemu. Problem ten niejako rozwiązuje się w Chrystusie i to ma być bardzo wyraźnie przedstawione. Proponuję także parę zagadnień mocniej
-„filozoficznych” (wg  moich  osobistych  upodobań), daję  je  w  nawias,  są  oczywiście nieobligatoryjne, ale zachęcam, nawet przy mniej ambitnej grupie, bo pobudzają do myślenia.
+Tak  naprawdę w  spotkaniu  najważniejsze jest,  aby  dostrzec  sytuację  "po  grzechu"  nie  tylko z perspektywy grzeszności człowieka, ale także z punktu widzenia "osamotnionego" Boga, który stwarzając człowieka ujawnił swoją ogromną Miłość ku niemu. Problem ten niejako rozwiązuje się w Chrystusie i to ma być bardzo wyraźnie przedstawione. Proponuję także parę zagadnień mocniej
+"filozoficznych" (wg  moich  osobistych  upodobań), daję  je  w  nawias,  są  oczywiście nieobligatoryjne, ale zachęcam, nawet przy mniej ambitnej grupie, bo pobudzają do myślenia.
 
-Spotkanie ma dosyć sporo „zastosowań” - animator musi wedle rozsądku wybrać niektóre z nich tak, aby nie przeciążyć grupy i aby w efekcie nie było tak, że żadne zadanie nie zostanie wykonane.
+Spotkanie ma dosyć sporo "zastosowań" - animator musi wedle rozsądku wybrać niektóre z nich tak, aby nie przeciążyć grupy i aby w efekcie nie było tak, że żadne zadanie nie zostanie wykonane.
 
 Cytaty do wykorzystania:
 
@@ -27,11 +27,11 @@ Cytaty do wykorzystania:
 
    -- św. Grzegorz z Nyssy
 
-   Gdyż ten sam Bóg, który oświadcza, że nie musi nam wcale mówić, czy jest głodny, nie wahał się żebrać u Samarytanki o trochę wody. Był spragniony... Lecz mówiąc „Daj mi pić”, Stworzyciel domagał się właśnie miłości od swego biednego stworzenia. Był spragniony miłości... Ach! Czuję to bardziej niż kiedykolwiek: Jezusowi chce się pić
+   Gdyż ten sam Bóg, który oświadcza, że nie musi nam wcale mówić, czy jest głodny, nie wahał się żebrać u Samarytanki o trochę wody. Był spragniony... Lecz mówiąc "Daj mi pić", Stworzyciel domagał się właśnie miłości od swego biednego stworzenia. Był spragniony miłości... Ach! Czuję to bardziej niż kiedykolwiek: Jezusowi chce się pić
 
    -- św. Matka Teresa z Kalkuty
 
-   Jest dla mnie bardzo jasne, że u Misjonarek i Misjonarzy Miłości (M.C.) wszystko ma na celu jedynie ugaszenie Pragnienia Jezusa. Jego słowa, zapisane na ścianie każdej kaplicy M.C., nie należą do przeszłości, ale są żywe tu i teraz, są wypowiadane dla Was. Czy w to wierzycie? Jeśli tak, to usłyszycie i odczujecie Jego obecność... jeśli mielibyście zapamiętać z tego listu tylko jedno, niech to będzie to: „Pragnę” to znacznie głębsze słowo, niż gdyby Jezus powiedział po prostu: „Kocham  was”.  Dopóki nie będziecie wiedzieli, i to w bardzo  osobisty sposób,  że  Jezus Was pragnie, nie będziecie w stanie poznać tego, kim chce On dla Was być; ani tego, kim chce, abyście Wy byli dla Niego
+   Jest dla mnie bardzo jasne, że u Misjonarek i Misjonarzy Miłości (M.C.) wszystko ma na celu jedynie ugaszenie Pragnienia Jezusa. Jego słowa, zapisane na ścianie każdej kaplicy M.C., nie należą do przeszłości, ale są żywe tu i teraz, są wypowiadane dla Was. Czy w to wierzycie? Jeśli tak, to usłyszycie i odczujecie Jego obecność... jeśli mielibyście zapamiętać z tego listu tylko jedno, niech to będzie to: "Pragnę" to znacznie głębsze słowo, niż gdyby Jezus powiedział po prostu: "Kocham  was".  Dopóki nie będziecie wiedzieli, i to w bardzo  osobisty sposób,  że  Jezus Was pragnie, nie będziecie w stanie poznać tego, kim chce On dla Was być; ani tego, kim chce, abyście Wy byli dla Niego
 
    -- św. Matka Teresa z Kalkuty
 
@@ -45,7 +45,7 @@ Dostosowana do możliwości grupy.
 Dzielenie się doświadczeniem nocnej adoracji
 ============================================
 
-* Jakie są wasze „wrażenia” po nocnej adoracji? Czy uważacie, że dobrze wykorzystałeś ten czas?
+* Jakie są wasze "wrażenia" po nocnej adoracji? Czy uważacie, że dobrze wykorzystałeś ten czas?
 
 * Czy wypełniliście zadanie jakie dostaliście?
 
@@ -84,12 +84,12 @@ Zamykamy oczy i próbujemy wyobrazić sobie scenę wygnania z raju, odprowadzaj�
 
 (to, być może naiwnie brzmiące ćwiczenie, dzięki cudownemu darowi empatii, powinno sprawić że na chwilę zaczniemy myśleć o grzechu także z perspektywy Boga. W tle animator może czytać fragment Rdz 3, 21-24, choć trochę obawiałabym się w związku z tym fragmentem trudnych pytań natury teologiczno-egzegetycznej i zejścia na dyskusję nie na temat)
 
-* Jak wyobrażamy sobie „odczucia” Boga?
+* Jak wyobrażamy sobie "odczucia" Boga?
 
 * Czy Bóg tęskni za człowiekiem?
 * Jak odpowiada na to dalej historia zbawienia?
 
-(próbujemy przypomnieć sobie znane nam fragmenty mówiące o Bogu poszukującym człowieka – na początek animator może przypomnieć Boga, który szuka Adama („Adamie, gdzie jesteś?”) czy Abla („gdzie jest brat twój, Abel?”) ponieważ podejrzewam że skojarzenia uczestników raczej pójdą w stronę Ewangelii – co jest dalece wskazane)
+(próbujemy przypomnieć sobie znane nam fragmenty mówiące o Bogu poszukującym człowieka – na początek animator może przypomnieć Boga, który szuka Adama ("Adamie, gdzie jesteś?") czy Abla ("gdzie jest brat twój, Abel?") ponieważ podejrzewam że skojarzenia uczestników raczej pójdą w stronę Ewangelii – co jest dalece wskazane)
 
 * które z tych fragmentów nas szczególnie uderzają? Co nas w nich porusza?
 
@@ -119,7 +119,7 @@ JEZUS jest człowiekiem, ukazujemy Go więc w perspektywie Jego pragnień. W tyc
 
 Do refleksji i ew. zastosowania w rozmowie:
 
-   Pragnę  to  znacznie głębsze słowo,  niż  gdyby  Jezus  powiedział po  prostu:  Kocham was. Dopóki nie będziecie wiedzieli, i to  w bardzo  osobisty  sposób,  że Jezus  Was  pragnie, nie będziecie w stanie poznać tego, kim chce On dla Was być; ani tego, kim chce, abyście Wy byli dla Niego”
+   Pragnę  to  znacznie głębsze słowo,  niż  gdyby  Jezus  powiedział po  prostu:  Kocham was. Dopóki nie będziecie wiedzieli, i to  w bardzo  osobisty  sposób,  że Jezus  Was  pragnie, nie będziecie w stanie poznać tego, kim chce On dla Was być; ani tego, kim chce, abyście Wy byli dla Niego"
 
    -- św. Matka Teresa z Kalkuty
 
@@ -133,6 +133,6 @@ Bóg bardzo konkretnie okazuje swoje uczucia, swoją tęsknotę za człowiekiem,
 
 2. Ułatwić ma nam to list pisany do osoby, za którą tęsknię. Na koniec spotkania namawiamy wszystkich by wykreślili imię osoby, do której go adresowali i wpisali swoje własne, a w miejscu podpisu wpisali: BÓG i w ten sposób przeczytali go sobie na modlitwie.
 
-3. Niech każdy pomyśli w chwili ciszy nad jednym pragnieniem, które wydaje się w jego życiu takie „świeckie” a zauważył, że może go ono prowadzić poza doczesność. Za chwilę w czasie modlitwy końcowej każdy z nas podziękuje wprost Bogu za tą rzecz (może wytłumaczyć dlaczego akurat za tą). Podzielimy się w taki sposób bardzo konkretnie owocami nocnej adoracji. Jeżeli ktoś „nie widzi niczego” lub nie chce mówić na forum niech po prostu powie Bogu „dziękuję” - na pewno jest za co.
+3. Niech każdy pomyśli w chwili ciszy nad jednym pragnieniem, które wydaje się w jego życiu takie "świeckie" a zauważył, że może go ono prowadzić poza doczesność. Za chwilę w czasie modlitwy końcowej każdy z nas podziękuje wprost Bogu za tą rzecz (może wytłumaczyć dlaczego akurat za tą). Podzielimy się w taki sposób bardzo konkretnie owocami nocnej adoracji. Jeżeli ktoś "nie widzi niczego" lub nie chce mówić na forum niech po prostu powie Bogu "dziękuję" - na pewno jest za co.
 
-Przykład (raczej dla animatora niż dla uczestników, aby nie przestraszyć :D): „Panie Boże, dziękuję Ci z całego serca za to, że wlewasz w moje serce pragnienie bycia cenioną, podziwianą i szanowaną, ponieważ pozwalasz mi przez to dostrzec, że jestem Twoim dziełem, godnym szacunku i uwagi, że jestem KIMŚ a nie nikim, oraz pozwala mi ufać, że Ty tak właśnie na mnie patrzysz - z uwagą i miłosnym podziwem.”
+Przykład (raczej dla animatora niż dla uczestników, aby nie przestraszyć :D): "Panie Boże, dziękuję Ci z całego serca za to, że wlewasz w moje serce pragnienie bycia cenioną, podziwianą i szanowaną, ponieważ pozwalasz mi przez to dostrzec, że jestem Twoim dziełem, godnym szacunku i uwagi, że jestem KIMŚ a nie nikim, oraz pozwala mi ufać, że Ty tak właśnie na mnie patrzysz - z uwagą i miłosnym podziwem."

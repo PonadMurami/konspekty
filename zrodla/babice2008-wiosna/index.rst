@@ -1,5 +1,5 @@
 ###########################################
-Bo jak śmierć poteżna jest miłość
+Bo jak śmierć potężna jest miłość
 ###########################################
 
 .. rubric:: Podstawowe informacje o rekolekcjach

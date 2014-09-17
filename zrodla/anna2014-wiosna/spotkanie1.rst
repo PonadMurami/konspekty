@@ -7,10 +7,10 @@ Cel
 ==================================
 
 Wychowawczy:
-   To spotkanie ma maksymalnie zbliżyć uczestników do podjęcia najważniejszej decyzji “Chcę coś zmienić. Chcę Boga”.
+   To spotkanie ma maksymalnie zbliżyć uczestników do podjęcia najważniejszej decyzji "Chcę coś zmienić. Chcę Boga".
 
 Dydaktyczny:
-   Umiejętność spojrzenia na pojęcie pragnienia z różnych perspektyw. Uczestnicy odpowiadają na pytania: W jakim momencie życia aktualnie się znajduję?; Jak wyglądają moje „cztery ściany”?; Jakie jest moje największe pragnienie? Tylko przyjmując Bożą Miłość jesteśmy w stanie wyjść ze swoich „czterech ścian”. Odkrycie Bożej Miłości jako „Pragnienie Życia”.
+   Umiejętność spojrzenia na pojęcie pragnienia z różnych perspektyw. Uczestnicy odpowiadają na pytania: W jakim momencie życia aktualnie się znajduję?; Jak wyglądają moje "cztery ściany"?; Jakie jest moje największe pragnienie? Tylko przyjmując Bożą Miłość jesteśmy w stanie wyjść ze swoich "czterech ścian". Odkrycie Bożej Miłości jako "Pragnienie Życia".
 
 =========================================
 Wprowadzenie dla animatora
@@ -20,7 +20,7 @@ Przed rekolekcjami warto posłuchać konferencji o. Adama Szustaka OP, w której
 
 .. note:: http://188.165.20.162/langustanapalmie/MC2.o.pustce.i.o.pragnieniach.mp3
 
-Jesteśmy na początku tych rekolekcji. Przed Tobą naprawdę bardzo ważne zadanie. Pamiętaj, że ludzie, których właśnie masz przed sobą prawdopodobnie Cię nie znają i widzą pierwszy raz na oczy. Musisz być dla nich przede wszystkim wzorem i towarzyszem, który przeprowadzi ich przez te rekolekcje. To czas, w którym powinieneś zbudować z Nimi więź, postawić swoją grupę na pierwszym miejscu, troszczyć się o nią i oddać całe swoje serce i siły w walce o każdego z jej członków. Naszym zadaniem jest pokazanie horyzontu, pięknych widoków, które znajdują się za murami oraz zaświadczenie, że to wszystko jest realne i prawdziwe. Pragniemy ich zachęcić do podjęcia radykalnej decyzji- przyjęcia Bożej Miłości, do wyjścia z tą Bożą Miłością poza swoje “cztery ściany”, do otworzenia się na Pana Boga, wręcz wzbudzenia tęsknoty za Nim. Musimy to zrobić w ten sposób, aby nigdy więcej do tych swoich “czterech ścian” nie zechcieli wrócić. Dzisiejsze spotkanie jest wprowadzeniem do modlitwy wieczornej, której głównym celem będzie decyzja o przyjęciu Miłości Boga. Jesteśmy ludźmi, którzy swoje “Chcę coś zmienić. Chcę, Tobie Boże, powierzyć wszystko co mam” już wypowiedzieli. Dlatego, teraz my, chcemy im w podjęciu tej decyzji pomóc.
+Jesteśmy na początku tych rekolekcji. Przed Tobą naprawdę bardzo ważne zadanie. Pamiętaj, że ludzie, których właśnie masz przed sobą prawdopodobnie Cię nie znają i widzą pierwszy raz na oczy. Musisz być dla nich przede wszystkim wzorem i towarzyszem, który przeprowadzi ich przez te rekolekcje. To czas, w którym powinieneś zbudować z Nimi więź, postawić swoją grupę na pierwszym miejscu, troszczyć się o nią i oddać całe swoje serce i siły w walce o każdego z jej członków. Naszym zadaniem jest pokazanie horyzontu, pięknych widoków, które znajdują się za murami oraz zaświadczenie, że to wszystko jest realne i prawdziwe. Pragniemy ich zachęcić do podjęcia radykalnej decyzji- przyjęcia Bożej Miłości, do wyjścia z tą Bożą Miłością poza swoje "cztery ściany", do otworzenia się na Pana Boga, wręcz wzbudzenia tęsknoty za Nim. Musimy to zrobić w ten sposób, aby nigdy więcej do tych swoich "czterech ścian" nie zechcieli wrócić. Dzisiejsze spotkanie jest wprowadzeniem do modlitwy wieczornej, której głównym celem będzie decyzja o przyjęciu Miłości Boga. Jesteśmy ludźmi, którzy swoje "Chcę coś zmienić. Chcę, Tobie Boże, powierzyć wszystko co mam" już wypowiedzieli. Dlatego, teraz my, chcemy im w podjęciu tej decyzji pomóc.
 
 ====================================
 Modlitwa
@@ -28,7 +28,7 @@ Modlitwa
 
 Modlitwa spontaniczna do Ducha Świętego (trzeba pamiętać o wprowadzeniu do niej, aby każdy miał pojęcie o co w niej chodzi - szczególnie jeżeli w grupie są osoby, które pierwszy raz uczestniczą w rekolekcjach) o otwartość na Niego, na siebie nawzajem oraz dobre przeżycie rekolekcji.
 
-Jeżeli grupa nie jest zbytnio skłonna do modlitwy, animator może powiedzieć wezwanie, a grupa dopowiada “przyjdź Duchu Święty”.
+Jeżeli grupa nie jest zbytnio skłonna do modlitwy, animator może powiedzieć wezwanie, a grupa dopowiada "przyjdź Duchu Święty".
 
 =========================================
 Wprowadzenie do spotkania
@@ -48,19 +48,19 @@ Aby swobodniej czuć się w grupie, musimy się najpierw poznać. Następuje kr�
 
 Tutaj następuje płynne przejście go głównego tematu dzisiejszego spotkania. Animator przedstawia tematykę spotkania, posługując się pytaniem pomocniczym:
 
-* Z czym kojarzy Wam się stwierdzenie “Pragnienie Życia”? (Coś wielkiego, takiego naprawdę Wow.)
+* Z czym kojarzy Wam się stwierdzenie "Pragnienie Życia"? (Coś wielkiego, takiego naprawdę Wow.)
 
-Nazwa dzisiejszego spotkania “Pragnienie Życia”, mówi o tym, że pośród tylu pragnień w naszym życiu jest takie jedno najważniejsze. Takie, które zasługuje na miano “Pragnienie Życia”. Jest to pragnienie Boga. Na spotkaniu chcemy przejść przez pragnienia; zaczynając od tych najbardziej błahych, kończąc na największych pragnieniach w naszym życiu. Chcemy skonfrontować nasze - pragnienia i pojęcia o nich z tym czym właściwie są i co tak naprawdę oznaczają.
+Nazwa dzisiejszego spotkania "Pragnienie Życia", mówi o tym, że pośród tylu pragnień w naszym życiu jest takie jedno najważniejsze. Takie, które zasługuje na miano "Pragnienie Życia". Jest to pragnienie Boga. Na spotkaniu chcemy przejść przez pragnienia; zaczynając od tych najbardziej błahych, kończąc na największych pragnieniach w naszym życiu. Chcemy skonfrontować nasze - pragnienia i pojęcia o nich z tym czym właściwie są i co tak naprawdę oznaczają.
 
 =========================================
 O samym pragnieniu
 =========================================
 
-.. note:: Przydatna wypowiedź kleryka (V rok, Wyższe Międzydiecezjalne Seminarium Duchowne w Opolu):  “Pragnienia dla mnie to sygnały, które daje mi organizm lub dusza informujące mnie, co jest potrzebne mojemu organizmowi lub duszy, a czego nie jestem w stanie w inny sposób zobaczyć. Jeśli mówić o pragnieniach organizmu - niezaspakajanie ich prowadzi do śmierci po określonym czasie, jednak niezaspakajanie potrzeb duszy czasem jest mniej zauważalne, a tłumione wręcz powoduje że potrzeby znikają. Tu ciekawe, do czego doszedłem myśląc o tym - niezaspokojone potrzeby duszy można zauważyć dopiero kiedy się je zaspokoi choćby w znikomy sposób - co daje wielką wolność i otwiera drogę do nawrócenia”. /Łukasz Michalik/
+.. note:: Przydatna wypowiedź kleryka (V rok, Wyższe Międzydiecezjalne Seminarium Duchowne w Opolu):  "Pragnienia dla mnie to sygnały, które daje mi organizm lub dusza informujące mnie, co jest potrzebne mojemu organizmowi lub duszy, a czego nie jestem w stanie w inny sposób zobaczyć. Jeśli mówić o pragnieniach organizmu - niezaspakajanie ich prowadzi do śmierci po określonym czasie, jednak niezaspakajanie potrzeb duszy czasem jest mniej zauważalne, a tłumione wręcz powoduje że potrzeby znikają. Tu ciekawe, do czego doszedłem myśląc o tym - niezaspokojone potrzeby duszy można zauważyć dopiero kiedy się je zaspokoi choćby w znikomy sposób - co daje wielką wolność i otwiera drogę do nawrócenia". /Łukasz Michalik/
 
 W tej części chcemy się przypatrzeć samemu pojęciu pragnienia. Czym ono właściwie jest?
 
-.. note:: Można wyciągnąć kartkę z napisem "pragnienia" i poprosić uczestników aby wypisali skojarzenia do tego słowa. Jeżeli widzisz, że grupa nie jest zbyt skłonna do wypowiadania się, poproś, aby każdy na swojej kartce wypisał skojarzenia ze słowem ‘pragnienia’ i potem się nimi podzielił. Spróbujmy zdefiniować pojęcie pragnienia w oparciu o skojarzenia z kartki.
+.. note:: Można wyciągnąć kartkę z napisem "pragnienia" i poprosić uczestników aby wypisali skojarzenia do tego słowa. Jeżeli widzisz, że grupa nie jest zbyt skłonna do wypowiadania się, poproś, aby każdy na swojej kartce wypisał skojarzenia ze słowem "pragnienia" i potem się nimi podzielił. Spróbujmy zdefiniować pojęcie pragnienia w oparciu o skojarzenia z kartki.
 
 * Czym dla Ciebie są pragnienia i skąd pochodzą? Bardziej wołanie serca czy spełnianie potrzeb?
 
@@ -86,7 +86,7 @@ Czasami żeby stłumić jakieś pragnienie, zastępujemy je zupełnie czymś inn
 
 Oczywiście, istnieją też proste pragnienia np. - marzenie o wypiciu butelki zimnej wody po przebiegnięciu 15km. Ale dziś chcemy spojrzeć na pragnienia z trochę innej strony. Chcemy się zagłębić w te, które siedzą w nas, które może gdzieś kryjemy w swoim sercu.
 
-W ramach podsumowania tego punktu, można puścić piosenkę Bartka Króla i Michała Jelonka- “Znalem kiedyś człowieka”. Opowiada ona o człowieku, któremu  “Nic mu się nie układało,choć wszystko wiedział jak zrobić”,  jego życie umyka na szykowaniu wielkich planów. Mimo wszystko pragnął czegoś więcej. Dajmy im czas i okazję na przemyślenie trudnych odpowiedzi, których właśnie udzielili.
+W ramach podsumowania tego punktu, można puścić piosenkę Bartka Króla i Michała Jelonka- "Znalem kiedyś człowieka". Opowiada ona o człowieku, któremu  "Nic mu się nie układało,choć wszystko wiedział jak zrobić",  jego życie umyka na szykowaniu wielkich planów. Mimo wszystko pragnął czegoś więcej. Dajmy im czas i okazję na przemyślenie trudnych odpowiedzi, których właśnie udzielili.
 
    | Znałem kiedyś człowieka,
    | co niedościgłym dla siebie był wzorem.
@@ -155,7 +155,7 @@ Ciekawość jest często motorem, który popycha do działania. Potrafi nawet uz
 
 * Czy mam takie doświadczenie, że czegoś w życiu bardzo pragnąłem? Czy to pragnienie zrealizowałem? W jaki sposób?
 
-* Jak brzmiały pierwsze słowa wypowiedziane przez Jezusa? (“Zacheuszu, zejdź prędko, albowiem dziś muszę się zatrzymać w twoim domu”)
+* Jak brzmiały pierwsze słowa wypowiedziane przez Jezusa? ("Zacheuszu, zejdź prędko, albowiem dziś muszę się zatrzymać w twoim domu")
 
 * Dlaczego akurat w jego domu? Czy nie dziwi nas fakt, że Jezus pragnie się zatrzymać w domu człowieka, którego widzi pierwszy raz? O czym to świadczy?
 
@@ -168,7 +168,7 @@ Wytłumaczyć:
 
 * W jakim momencie życia aktualnie się znajduję?
 
-* Dlaczego czasami mówi się, że pewne ‘mury’ nas ograniczają; czym te mury są?
+* Dlaczego czasami mówi się, że pewne "mury" nas ograniczają; czym te mury są?
 
 * Masz wrażenie, że istnieją pewne rzeczy, które Cię ograniczają? W jaki sposób? Jak tego doświadczasz?
 
@@ -180,23 +180,23 @@ Czasami odczuwamy wrażenie jakby ktoś nas skrępował i zamknął w czterech �
 
 * Czy ciekawość może być motywacją do opuszczenia murów? W jaki sposób?
 
-* Dlaczego Jezus chciał koniecznie pozostać  w domu Zacheusza (który miał opinię grzesznika “Do grzesznika poszedł w gościnę”), a nie wolał zatrzymać się np. u jakiegoś kapłana?
+* Dlaczego Jezus chciał koniecznie pozostać  w domu Zacheusza (który miał opinię grzesznika "Do grzesznika poszedł w gościnę"), a nie wolał zatrzymać się np. u jakiegoś kapłana?
 
-.. note:: „Dziś muszę się zatrzymać w twoim domu”. δει („dei” z grec.):  jest konieczne/musi. To samo słowo jest również użyte m. in. Mk 8,31 „I zaczął ich uczyć, że Syn Człowieczy musi wiele wycierpieć(…)”. μειναι (meinai): pozostać. To samo słowo użyte w „I przymusili Go, mówiąc: Zostań z nami, gdyż ma się ku wieczorowi dzień ię nachylił. I wstąpił, by z nimi zostać”
+.. note:: "Dziś muszę się zatrzymać w twoim domu". δει ("dei" z grec.):  jest konieczne/musi. To samo słowo jest również użyte m. in. Mk 8,31 "I zaczął ich uczyć, że Syn Człowieczy musi wiele wycierpieć(...)". μειναι (meinai): pozostać. To samo słowo użyte w "I przymusili Go, mówiąc: Zostań z nami, gdyż ma się ku wieczorowi dzień się nachylił. I wstąpił, by z nimi zostać"
 
-Jak mówiliśmy; dom może symbolizować aktualną sytuację, w której się znajdujemy. Jezus, w pierwszej kolejności, nie chce go pięknego, schludnego, wymodlonego, “na pokaz”. On chce go prawdziwego.  Tylko wtedy wszystko może się udać. Bo tylko wtedy może wejść z nim w prawdziwą relację. Tylko wtedy może dać mu się poznać.
+Jak mówiliśmy; dom może symbolizować aktualną sytuację, w której się znajdujemy. Jezus, w pierwszej kolejności, nie chce go pięknego, schludnego, wymodlonego, "na pokaz". On chce go prawdziwego.  Tylko wtedy wszystko może się udać. Bo tylko wtedy może wejść z nim w prawdziwą relację. Tylko wtedy może dać mu się poznać.
 
 **Jezus przychodzi do tych, którzy go potrzebują. On chce przyjść do Ciebie właśnie tu i teraz. Właśnie w takim momencie, w jakim się znajdujesz. Nie oczekuje od Ciebie zaproszenia dopiero, gdy Twój pokój będzie pięknym pałacem. On chce przyjść do Twojego domu i razem z Tobą go posprzątać.**
 
 * A dlaczego?
 
-Tak często mówi się o Bożych Planach. Ale zwróćmy uwagę na to, że Bóg nie daje nam tylko przepisu na piękne życie. On zaplanował konkretnie dla Ciebie ZBAWIENIE. “Dziś zbawienie stało się udziałem tego domu”.
+Tak często mówi się o Bożych Planach. Ale zwróćmy uwagę na to, że Bóg nie daje nam tylko przepisu na piękne życie. On zaplanował konkretnie dla Ciebie ZBAWIENIE. "Dziś zbawienie stało się udziałem tego domu".
 
 * Co przez te słowa rozumiesz?
 
 .. warning:: Trzeba podkreślić, że to nie są górnolotne słowa
 
-Dziś Zbawienie nam trochę ‘spowszedniało’. Nie czujemy tego dreszczyku na plecach myśląc o tym, że  SAM BÓG przygotował  WSZYSTKO co ma (no a ile może mieć Bóg?) i chcę dać to Tobie! I to dzieje się już dziś! Źródłem wszystkich pragnień jest Bóg. Jednocześnie On sam jest naszym największym pragnieniem życia. On nie chce byśmy przez to właśnie życie przeszli mimochodem, szaro, płynęli wraz z prądem. Przygotował dla każdego wspaniały plan pełen życia, odkrywania pragnień, realizowania marzeń, w którym w pełni możemy się realizować i być sobą.
+Dziś Zbawienie nam trochę "spowszedniało". Nie czujemy tego dreszczyku na plecach myśląc o tym, że  SAM BÓG przygotował  WSZYSTKO co ma (no a ile może mieć Bóg?) i chcę dać to Tobie! I to dzieje się już dziś! Źródłem wszystkich pragnień jest Bóg. Jednocześnie On sam jest naszym największym pragnieniem życia. On nie chce byśmy przez to właśnie życie przeszli mimochodem, szaro, płynęli wraz z prądem. Przygotował dla każdego wspaniały plan pełen życia, odkrywania pragnień, realizowania marzeń, w którym w pełni możemy się realizować i być sobą.
 
 =========================================
 Radykalna decyzja
@@ -208,13 +208,13 @@ Radykalna decyzja
 
    -- J 5,1-9
 
-Przyjrzyjmy się samemu miejscu, w którym rozgrywa się akcja. Sadzawka przy Owczej Bramie jest całkowicie realna, szczegóły o pięciu krużgankach potwierdziły odkrycia archeologiczne. Nazwa Owczej Bramy wzięła swoją nazwę z tradycji - przez tę bramę przechodziły zwierzęta przed ofiarowaniem ich na ołtarzu. Zwróćmy uwagę na legendę o Aniele poruszającym wodę, która miała uzdrowić pierwszego, który do niej wejdzie.Ten fragment rozpatrujemy bardziej pod kątem analizy biblijnej (możemy sobie pozwolić na więcej słów od siebie). Chcemy utożsamić się z bohaterem, ‘wejść w jego skórę’.
+Przyjrzyjmy się samemu miejscu, w którym rozgrywa się akcja. Sadzawka przy Owczej Bramie jest całkowicie realna, szczegóły o pięciu krużgankach potwierdziły odkrycia archeologiczne. Nazwa Owczej Bramy wzięła swoją nazwę z tradycji - przez tę bramę przechodziły zwierzęta przed ofiarowaniem ich na ołtarzu. Zwróćmy uwagę na legendę o Aniele poruszającym wodę, która miała uzdrowić pierwszego, który do niej wejdzie.Ten fragment rozpatrujemy bardziej pod kątem analizy biblijnej (możemy sobie pozwolić na więcej słów od siebie). Chcemy utożsamić się z bohaterem, "wejść w jego skórę".
 
 * Scharakteryzujmy naszego bohatera(Leży tam od 38 lat, szmat czasu, leży w jednym miejscu, czeka na cud i nic.)
 
-* Dlaczego nic się nie dzieje? (Luźna dywagacja na ten temat ‘A może Anioł nie przyszedł’, ‘Spóźnił się’, ‘Był za wolny żeby dobiec’ itd. aby w następnych punktach dojść do tego, że przecież nie miał go nikt zaprowadzić.)
+* Dlaczego nic się nie dzieje? (Luźna dywagacja na ten temat "A może Anioł nie przyszedł", "Spóźnił się", "Był za wolny żeby dobiec" itd. aby w następnych punktach dojść do tego, że przecież nie miał go nikt zaprowadzić.)
 
-* Co robi Jezus w tej sytuacji? Jakie zadaje pytanie choremu człowiekowi? (“Czy chcesz być zdrowy?”)
+* Co robi Jezus w tej sytuacji? Jakie zadaje pytanie choremu człowiekowi? ("Czy chcesz być zdrowy?")
 
 * Czy słowa mężczyzny są odpowiedzią na pytanie Jezusa?
 
@@ -242,13 +242,13 @@ Dochodzimy do tego, że pragnienie zobowiązuje nas do podjęcia decyzji- Chcę 
 
 * Czy mam odwagę aby zaufać Bogu i wyjść z moich czterech ścian?
 
-Haaaalo. On ma dla Ciebie wspaniały plan! Pomysł na Twoje życie. Odkryjmy całe bogactwo, które niesie ze sobą słowo wspaniały, a tak dawno zostało już przetarte. Piękno, zachwyt, fascynacja, życie- to wszystko się w tym mieści. Ale musisz podjąć decyzję! **“Chcę teraz wstać i iść naprzód!”**
+Haaaalo. On ma dla Ciebie wspaniały plan! Pomysł na Twoje życie. Odkryjmy całe bogactwo, które niesie ze sobą słowo wspaniały, a tak dawno zostało już przetarte. Piękno, zachwyt, fascynacja, życie- to wszystko się w tym mieści. Ale musisz podjąć decyzję! **"Chcę teraz wstać i iść naprzód!"**
 
 =========================================
 Ruszyłem, co dalej?
 =========================================
 
-.. warning:: To jest miejsce na krótkie świadectwo animatora. Człowieka, który podjął wiele trudnych decyzji, ale również człowieka, którego nie raz “obleciał strach”. Jednak dzięki podjęciu trudu, jesteś teraz w takim, a nie innym miejscu. Dzięki temu trudowi możesz pokazać innym, że warto ryzykować i działać, a nie tylko z boku obserwować, co się dzieje.
+.. warning:: To jest miejsce na krótkie świadectwo animatora. Człowieka, który podjął wiele trudnych decyzji, ale również człowieka, którego nie raz "obleciał strach". Jednak dzięki podjęciu trudu, jesteś teraz w takim, a nie innym miejscu. Dzięki temu trudowi możesz pokazać innym, że warto ryzykować i działać, a nie tylko z boku obserwować, co się dzieje.
 
  Jak starczy czasu, to można zadać pomocnicze pytania:
 

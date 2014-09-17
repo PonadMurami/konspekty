@@ -50,7 +50,7 @@ Najistotniejszym pytaniem tutaj jest czy chcę i jestem gotowa na taką wolnoś�
 Chcę być wolnym?
 =========================================
 
-   Skończy się na tym, że przyniosą nam swoją wolność do naszych nóg i powiedzą: weźcie nas raczej w niewolę i dajcie nam jeść … (…) Powiadam Ci, zaiste najbardziej męczącą troską człowieka jest to: znaleźć kogoś, komu można by oddać dar wolności, z którym ta nieszczęsna istota się rodzi…
+   Skończy się na tym, że przyniosą nam swoją wolność do naszych nóg i powiedzą: weźcie nas raczej w niewolę i dajcie nam jeść ... (...) Powiadam Ci, zaiste najbardziej męczącą troską człowieka jest to: znaleźć kogoś, komu można by oddać dar wolności, z którym ta nieszczęsna istota się rodzi...
 
    -- Fiodor Dostojewski
 
@@ -61,16 +61,16 @@ Chcę być wolnym?
 Dlaczego człowiek boi się tego, że może być sprawcą dobra w życiu swoim i czyimś? Bo przecież to o to chodzi. Wolność nie jest powodem do smutku i załamania. Powinniśmy [swoją drogą ciekawe czemu używam słowa powinniśmy] być chyba zadowolonymi, że tak wiele jest w naszych rękach. Że taką swobodę działania dostaliśmy. Że tyle dobrego może powstać.
 
 =========================================
-Wolność i szczęście…?
+Wolność i szczęście...?
 =========================================
 
 Przykład: Stoję przed wyborem. Widzę korzyści, widzę wady podjęcia takiej a nie innej decyzji. Wiem jaką decyzję powinnam podjąć .. ale nie chcę. Wiem co byłoby dobre dla innych, ale chciałabym podjąć decyzję pod swoim kątem.  Wiem, czego  ja bym chciała. Ostatecznie jednak sumienie wygrywa. Wybieram to, co czuję, że powinnam wybrać, mimo iż tego nie chcę.
 
 * Czy jestem w takim wypadku człowiekiem wolnym?
 
-Opierając się na definicji KKK – jestem wolna, bo wybrałam dobro, dobro dla drugiego itd. Ale wewnątrz siebie mam poczucie, że gdybym wybrała inaczej, to byłoby mi [tak egoistycznie] lepiej. Czyli w zasadzie nie jestem szczęśliwa.. Z drugiej strony – gdybym wybrała dla siebie, mając gdzieś potrzeby drugiego człowieka – to pewnie gryzłoby mnie sumienie. I też nie byłabym szczęśliwa …
+Opierając się na definicji KKK – jestem wolna, bo wybrałam dobro, dobro dla drugiego itd. Ale wewnątrz siebie mam poczucie, że gdybym wybrała inaczej, to byłoby mi [tak egoistycznie] lepiej. Czyli w zasadzie nie jestem szczęśliwa.. Z drugiej strony – gdybym wybrała dla siebie, mając gdzieś potrzeby drugiego człowieka – to pewnie gryzłoby mnie sumienie. I też nie byłabym szczęśliwa ...
 
-…a Tukidydes [grecki historyk] mówi:
+...a Tukidydes [grecki historyk] mówi:
 
    Podstawą szczęścia jest wolność a podstawą wolności odwaga.
 
@@ -81,8 +81,8 @@ Podsumowanie
 =========================================
 
 Nie wiem czy człowiek kiedykolwiek w 100% będzie mógł powiedzieć, że jest szczęśliwy [wolny]. Musiałby się wyzbyć wszystkich ludzkich [w tym znaczeniu grzesznych] odruchów, nawyków i przyzwyczajeń. Musiałby się wyzbyć tej nuty egoizmu, która w nim tkwi [bo tkwi w każdym]. Musiałby wyzbyć się lęku, niepewności, zwątpienia, strachu .. musiałby wiele rzeczy. Ale czy aby nie takie jest nasze zadanie na ziemi? Praca nad sobą i nad tym aby MIEĆ ODWAGĘ bycia wolnym. Aby przeciwstawiać się schematom i aby o dobro walczyć.
-Nie wolno nam zapomnieć, że w tej walce nie jesteśmy sami. Przecież Jezus mówi „Odwagi” i „Nie bójcie się” (Mt 14,27) „Ja jestem z wami po wszystkie dni aż do skończenia świata” (Mt 28,20).
+Nie wolno nam zapomnieć, że w tej walce nie jesteśmy sami. Przecież Jezus mówi "Odwagi" i "Nie bójcie się" (Mt 14,27) "Ja jestem z wami po wszystkie dni aż do skończenia świata" (Mt 28,20).
 
 * Czy mogę o sobie powiedzieć, że jestem człowiekiem wolnym?
 
-To jest pytanie, które można zrobić pytaniem dzieleniowym … a można tym pytaniem zakończyć spotkanie, odpowiedź pozostawiając każdemu indywidualnie.
+To jest pytanie, które można zrobić pytaniem dzieleniowym ... a można tym pytaniem zakończyć spotkanie, odpowiedź pozostawiając każdemu indywidualnie.

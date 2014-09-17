@@ -28,7 +28,7 @@ Na początku zapytajmy uczestników, jakie 5 przedmiotów wzięliby na pustynię
    * Trylogię Tolkiena
    * Internet bezprzewodowy
    * Puchowy śpiwór
-   * Książeczkę do Gorzkich śali
+   * Książeczkę do Gorzkich żali
    * Świeczkę
    * 5 litrów wody
    * liczydło
@@ -72,7 +72,7 @@ Po krótkim okresie czasu Izraelici zmieniają spojrzenie na przejście przez mo
 
 Spróbujmy teraz przyjrzeć się miejscu, którego tak bardzo nie lubili Izraelici i je opisać. Może ktoś miał okazję być na prawdziwej pustyni. Ponieważ mieszkamy w takiej a nie innej strefie klimatycznej pewnie niewielu z nas mogło na pustyni przebywać. Będziemy przez to musieli odwoływać się mocno do naszej wyobraźni. Poniżej  cytuję wspomnienia ludzi, którzy mieli okazję być na pustyni.
 
-   Pustynia egipska nie tylko miejsce na mapie; to doznanie i trzeba przyznać, że nieco odbiegające od naszej codzienności; słońce, wszędobylski piasek (chciało by się powiedzieć wszędopylski) , spiekota, suchość w gardle powodują pragnienie nie tylko łaknienia kubka z wodą, pogłębiają wewnętrzne pragnienie nieskończoności. Ciekawe, że pot nie zdąży zawilgocić ubrania – tak szybko paruje. Nic się tu nie zmarnuje - dosłownie nic; każdy najmniejszy odpadek zawierający jakiekolwiek organiczne związki mineralne jest natychmiast przetwarzany w strukturalny kawałek łańcucha pokarmowego przez jej uczestników: chrabąszcze skarabeusze, seledynowe jaszczurki i pustynne liski zwane dziwnie brzmiąco fenkami.
+   Pustynia egipska nie tylko miejsce na mapie; to doznanie i trzeba przyznać, że nieco odbiegające od naszej codzienności; słońce, wszędobylski piasek (chciało by się powiedzieć wszędopylski), spiekota, suchość w gardle powodują pragnienie nie tylko łaknienia kubka z wodą, pogłębiają wewnętrzne pragnienie nieskończoności. Ciekawe, że pot nie zdąży zawilgocić ubrania – tak szybko paruje. Nic się tu nie zmarnuje - dosłownie nic; każdy najmniejszy odpadek zawierający jakiekolwiek organiczne związki mineralne jest natychmiast przetwarzany w strukturalny kawałek łańcucha pokarmowego przez jej uczestników: chrabąszcze skarabeusze, seledynowe jaszczurki i pustynne liski zwane dziwnie brzmiąco fenkami.
 
    -- Anonim
 
@@ -80,7 +80,7 @@ Najpierw pojawiła się jakby lekka mgiełka,. która zdecydowanie pogorszyła w
 
    -- Anonim
 
-   Pustynia jest twarda, bezlitosna. Możesz na niej zginąć z pragnienia. Ale ryzykujesz również śmierć topielca, jeżeli przypadkiem zacznie padać.[…] Możesz całymi latami oczekiwać na kroplę deszczu i gdy nagle nadchodzi potop, „wadi” (suche łożysko rzek) w zastraszający sposób zmieniają wszystko.
+   Pustynia jest twarda, bezlitosna. Możesz na niej zginąć z pragnienia. Ale ryzykujesz również śmierć topielca, jeżeli przypadkiem zacznie padać.[...] Możesz całymi latami oczekiwać na kroplę deszczu i gdy nagle nadchodzi potop, "wadi" (suche łożysko rzek) w zastraszający sposób zmieniają wszystko.
 
    -- Anonim
 
@@ -109,7 +109,7 @@ W kolejnej części spotkania spróbujmy zastanowić się nad pytaniem:
 
 Podobny motyw można odnaleźć także w życiu proroków i Jezusa. Po chrzcie, gdy Bóg objawia, że Jezus jest Jego Synem Umiłowanym, Jezus zostaje wyrzucony – jak to można oddać w dosłownym tłumaczeniu fragmentu z Ewangelii wg. św. Marka – przez tego samego Ducha, który wcześniej na Niego zstąpił.
 
-   W owym czasie przyszedł Jezus z Nazaretu w Galilei i przyjął od Jana chrzest w Jordanie. W chwili gdy wychodził z wody, ujrzał rozwierające się niebo i Ducha jak gołębicę zstępującego na siebie. A z nieba odezwał się głos: «Tyś jest mój Syn umiłowany, w Tobie mam upodobanie». Zaraz też Duch wyprowadził Go na pustynię. Czterdzieści dni przebył na pustyni, kuszony przez szatana. śył tam wśród zwierząt, aniołowie zaś usługiwali Mu.
+   W owym czasie przyszedł Jezus z Nazaretu w Galilei i przyjął od Jana chrzest w Jordanie. W chwili gdy wychodził z wody, ujrzał rozwierające się niebo i Ducha jak gołębicę zstępującego na siebie. A z nieba odezwał się głos: «Tyś jest mój Syn umiłowany, w Tobie mam upodobanie». Zaraz też Duch wyprowadził Go na pustynię. Czterdzieści dni przebył na pustyni, kuszony przez szatana. Żył tam wśród zwierząt, aniołowie zaś usługiwali Mu.
 
    -- Mk 1, 9-13
 

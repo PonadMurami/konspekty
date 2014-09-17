@@ -25,12 +25,12 @@ Kim jestem?
 =========================================
 
 Robimy mały eksperyment na wyobraźnię:
-   Wyobraź sobie, że spotykasz pewnego dnia kogoś całkowicie obcego, kto wygląda, jakby znalazł się na Ziemi nie wiadomo skąd i nic o niej nie wiedział, i który pyta Cię: „Kim jesteś?”. Co byś mu odpowiedział?
+   Wyobraź sobie, że spotykasz pewnego dnia kogoś całkowicie obcego, kto wygląda, jakby znalazł się na Ziemi nie wiadomo skąd i nic o niej nie wiedział, i który pyta Cię: "Kim jesteś?". Co byś mu odpowiedział?
 
 .. note:: Oczekujemy kilku wypowiedzi; jak się zastanawiają, to niech się pozastanawiają nad tym chwilę dłużej; jak mają problem z odpowiedzią, to idziemy dalej.
 
-„Obywatel Wszechświata”:
-   Rozdajemy uczestnikom kartki. Na kartkach mają za zadanie narysować to, kim są, w koncepcji „Obywatela Wszechświata” tzn. rysują okręgi, i przy każdym okręgu, piszą kim są. Okręgi im są mniejsze, tym odzwierciedlają większe uszczegółowienie tego, jak można siebie nazwać.
+"Obywatel Wszechświata":
+   Rozdajemy uczestnikom kartki. Na kartkach mają za zadanie narysować to, kim są, w koncepcji "Obywatela Wszechświata" tzn. rysują okręgi, i przy każdym okręgu, piszą kim są. Okręgi im są mniejsze, tym odzwierciedlają większe uszczegółowienie tego, jak można siebie nazwać.
 
 .. warning:: ważna jest  kolejność podawania nazw. Ilość okręgów nie jest narzucona z góry- każdy może mieć inną- ale zachęcamy, aby nie była to zachęta do olania zadania.
 
@@ -49,11 +49,11 @@ Odpowiedzi mogą być naprawdę przeróżne. Prezentacja tego, co stworzyli.
 
 .. centered:: **Skąd wiem, kim jestem?**
 
-Możemy mieć trudność z określeniem, tego kim jesteśmy. Zdarza się, że prosimy kogoś, aby nam powiedział, kim jesteśmy, aby nam powiedział, co o nas myśli i w ten sposób zbieramy informacje, które mogą pomóc nam określić, kim jesteśmy. Słyszymy też, jak inni mówią o tym, kim są i staramy się, żeby nasze „nazwanie siebie” było w jakiś sposób podobne, ale jednocześnie oryginalne, „nasze”.
+Możemy mieć trudność z określeniem, tego kim jesteśmy. Zdarza się, że prosimy kogoś, aby nam powiedział, kim jesteśmy, aby nam powiedział, co o nas myśli i w ten sposób zbieramy informacje, które mogą pomóc nam określić, kim jesteśmy. Słyszymy też, jak inni mówią o tym, kim są i staramy się, żeby nasze "nazwanie siebie" było w jakiś sposób podobne, ale jednocześnie oryginalne, "nasze".
 
 W większości to inni ludzie nadają nam tożsamość, przez to, jak nas nazywają. To samo zrobili rodzice przy naszym urodzeniu-> zostało nam nadane jakieś imię. Potem przez to, że spełnialiśmy różne role społeczne byliśmy nazywani uczniem, córką, studentem, sąsiadem itp.(Warto tu też zwrócić uwagę na potęgę słów w nazywaniu kogoś np. jeśli ktoś cały czas będzie mówił mi, że jestem głupia, to istnieje duże niebezpieczeństwo, że uznam to za prawdę!).
 
-Możliwe, że padną jeszcze inne pomysły na to, skąd możemy wiedzieć kim jesteśmy- myślę jednak, że i tak dojdziecie do pytania:
+Możliwe, że padną jeszcze inne pomysły na to, skąd możemy wiedzieć kim jesteśmy - myślę jednak, że i tak dojdziecie do pytania:
 
 .. note:: Pytanie-most do następnego punktu głównego
 
@@ -61,7 +61,7 @@ Możliwe, że padną jeszcze inne pomysły na to, skąd możemy wiedzieć kim je
 
 Gdyby zaistniała potrzeba:
 
-* Czy jeśli uznajemy, że sami nadajemy sobietożsamość, to mamy pewność, że się nie mylimy?
+* Czy jeśli uznajemy, że sami nadajemy sobie tożsamość, to mamy pewność, że się nie mylimy?
 
 =========================================
 Wartość tego, kim jestem
@@ -103,11 +103,11 @@ Waga imienia:
 
    -- Ap 2, 17
 
-Bóg jest również tym, który zna mnie najlepiej i który (uwaga!) ma dla mnie imię- wyjątkowe, przeznaczone tylko dla mnie.
+Bóg jest również tym, który zna mnie najlepiej i który (uwaga!) ma dla mnie imię - wyjątkowe, przeznaczone tylko dla mnie.
 
 Warto tu przypomnieć o:
-1. wadze imion nadawanych przez Pana Boga różnym ludziom np. Piotr= Skała, Abraham= ojciec mnóstwa, zmiana imienia Szaweł-> Paweł; każde cos oznacza i określa jakoś daną osobę, jej misję czy zadanie.
-2. o tym, jak Pan Bóg zwracał się do ludzi w ST tzn. bezpośrednio, PO IMIENIU, np. „Samuelu, Samuelu…”, „Mojżeszu…”. Świadczy to o realnej, bezpośredniej więzi pomiędzy Bogiem a tymi ludźmi.
+1. wadze imion nadawanych przez Pana Boga różnym ludziom np. Piotr=Skała, Abraham=ojciec mnóstwa, zmiana imienia Szaweł-> Paweł; każde coś oznacza i określa jakoś daną osobę, jej misję czy zadanie.
+2. o tym, jak Pan Bóg zwracał się do ludzi w ST tzn. bezpośrednio, PO IMIENIU, np. "Samuelu, Samuelu...", "Mojżeszu...". Świadczy to o realnej, bezpośredniej więzi pomiędzy Bogiem a tymi ludźmi.
 
 Pogłębienie- znaczenie naszych imion- pytania:
 
@@ -118,7 +118,7 @@ Pogłębienie- znaczenie naszych imion- pytania:
 * Czy wiecie dlaczego Was tak nazwano?
 
 Burza mózgów:
-   Zobaczmy, co jeszcze mówi Pan Bóg, o tym, kim jesteśmy i jak On nas nazywa. Robimy coś burzę mózgów na kartce tzn. bierzemy dużą kartkę, na środku piszemy: „Kim jestem dla Pana Boga?”, każdemu uczestnikowi dajemy jedną sygnaturkę do poszukania w Piśmie Świętym (mogą też w parach- wedle uznania animatora) wraz z poleceniem, żeby odszukał, jak jesteśmy nazywani w tym fragmencie. Następnie każdy czyta cytat, mówi, jak jesteśmy tam nazwani, robi strzałeczkę na kartce od napisu i pisze, to co wymyślił ;)
+   Zobaczmy, co jeszcze mówi Pan Bóg, o tym, kim jesteśmy i jak On nas nazywa. Robimy coś burzę mózgów na kartce tzn. bierzemy dużą kartkę, na środku piszemy: "Kim jestem dla Pana Boga?", każdemu uczestnikowi dajemy jedną sygnaturkę do poszukania w Piśmie Świętym (mogą też w parach- wedle uznania animatora) wraz z poleceniem, żeby odszukał, jak jesteśmy nazywani w tym fragmencie. Następnie każdy czyta cytat, mówi, jak jesteśmy tam nazwani, robi strzałeczkę na kartce od napisu i pisze, to co wymyślił ;)
 
 Rysunek poglądowy:
 
@@ -162,7 +162,7 @@ Zapytajmy:
 
 * Czy coś mi w tym nie pasuje, czy z czymś się nie zgadzam?
 
-* Czy jestem gotów uznać, że to Bóg mnie określa? (=że jest „większy” ode mnie?)
+* Czy jestem gotów uznać, że to Bóg mnie określa? (=że jest "większy" ode mnie?)
 
 .. warning:: Ważne stwierdzenie!!!! (do tego mają doprowadzić fragmenty z burzy mózgów!!!): Trzeba tutaj podkreślić, że dzięki temu, jak Pan Bóg nas nazywa (co zobaczyliśmy wyżej) zyskujemy ogromną wartość-> jesteśmy PODOBNI Bogu!!! Jesteśmy przez Niego wybrani i dla Niego ważni oraz mamy zadanie do wykonania= nasze życie ma sens i ma wnieść wiele w ten świat. Z tych fragmentów dla uczestników musi wynikać, że Pan Bóg nadaje wartość ich istnieniu. I jest to wartość niezależna od okoliczności, sytuacji czy wydarzeń losowych ani od tego, czy coś zrobią czy nie. Ich wartość po prostu leży w tym, że Pan Bóg stworzył każdego z nich i każdego z nich chciał.
 
@@ -187,8 +187,8 @@ Parę słów z KKK o wadze imienia- dla własnego animatorskiego użytku i rozwo
 
    203 Bóg objawił się Izraelowi, swemu ludowi, pozwalając mu poznać swoje imię. Imię wyraża istotę, tożsamość osoby i sens jej życia. Bóg ma imię; nie jest jakąś anonimową siłą. Ujawnić swoje imię oznacza pozwolić, by inni mogli nas poznać, w jakiś sposób ujawnić siebie, stając się dostępnym, możliwym do głębszego poznania i do bycia wzywanym po imieniu.
    204 Bóg objawiał się swemu ludowi stopniowo i pod różnymi imionami, ale objawienie imienia Bożego dane Mojżeszowi w teofanii płonącego krzewu, na początku Wyjścia z Egiptu i Przymierza na Synaju, okazało się objawieniem podstawowym dla Starego i Nowego Przymierza.
-   205 Bóg przywołuje Mojżesza z krzewu, który płonął, ale się nie spalał. Bóg mówi do Mojżesza: „JESTEM Bogiem ojca twego, Bogiem Abrahama, Bogiem Izaaka i Bogiem Jakuba” (Wj 3, 6). Bóg jest Bogiem ojców; Tym, który wzywał i prowadził patriarchów w ich wędrówkach. Jest Bogiem wiernym i współczującym, który pamięta o nich i o swoich obietnicach; przychodzi, by wyzwolić ich potomków z niewoli. Jest Bogiem, który ponad czasem i przestrzenią może i chce to urzeczywistnić oraz posłuży się swoją wszechmocą w spełnieniu tego zamysłu. Mojżesz... rzekł Bogu: „Oto pójdę do Izraelitów i powiem im: Bóg ojców naszych posłał mnie do was. Lecz gdy oni mnie zapytają, jakie jest Jego imię, to cóż im mam powiedzieć?” Odpowiedział Bóg Mojżeszowi: „JESTEM, KTÓRY JESTEM”. I dodał: „Tak powiesz synom Izraela: JESTEM posłał mnie do was... To jest imię moje na wieki i to jest moje zawołanie na najdalsze pokolenia” (Wj 3, 13-15).
-   206 Objawiając swoje tajemnicze imię JAHWE (JHWH), „Ja Jestem Tym, Który Jest”, „Ja Jestem Tym, Który Jestem” lub „Ja Jestem, Który Jestem”, Bóg mówi, kim jest i jakim imieniem należy Go wzywać. To imię Boże jest tajemnicze, tak jak Bóg jest tajemnicą. Jest ono imieniem objawionym, a zarazemw pewnej mierze uchyleniem się od ujawnienia imienia, i właśnie przez to wyraża ono najlepiej, kim jest Bóg, który nieskończenie przekracza to wszystko, co możemy zrozumieć lub powiedzieć o Nim; jest On „Bogiem ukrytym” (Iz 45, 15). Jego imię jest niewymowne7, a zarazem jest On Bogiem, który staje się bliski ludziom.
-   207 Objawiając swoje imię, Bóg objawia równocześnie swoją wierność, która nie ma ani początku, ani końca, obejmuje zarówno przeszłość („Jestem Bogiem ojca twego”, Wj 3, 6), jak i przyszłość („Ja będę z tobą”, Wj 3,12). Bóg, który objawia swoje imię jako „Ja Jestem”, objawia się jako Bóg, który jestzawsze przy swoim ludzie, aby go zbawić.
-   208 Wobec przyciągającej i tajemniczej obecności Boga człowiek odkrywa swoją małość. Wobec płonącego krzewu Mojżesz zdejmuje sandały i zasłania twarz w obliczu Świętości Bożej. Wobec chwały trzykroć świętego Boga Izajasz woła: „Biada mi! Jestem zgubiony! Wszak jestem mężem o nieczystych wargach” (Iz 6, 5). Wobec Boskich znaków, które wypełnia Jezus, Piotr mówi: „Odejdź ode mnie, Panie, bo jestem człowiek grzeszny” (Łk 5, 8). Ponieważ jednak Bóg jest święty, może przebaczyć człowiekowi, który uznaje przed Nim, że jest grzesznikiem: „Nie chcę, aby wybuchnął płomień mego gniewu... albowiem Bogiem jestem, nie człowiekiem; pośrodku ciebie jestem Ja – Święty” (Oz 11, 9). Podobnie powie Jan Apostoł: „Uspokoimy przed Nim nasze serce. A jeśli nasze serce oskarża nas, to przecież Bóg jest większy od naszego serca i zna wszystko” (1 J 3, 19-20).
-   209 Przez szacunek dla świętości Boga naród izraelski nie wypowiada imienia Boga. W czasie czytania Pisma świętego imię objawione jest zastępowaneBoskim tytułem „Pan” (Adonai, po grecku Kyrios). Ten tytuł będzie wyrażał także Boskość Jezusa: „Jezus jest Panem”.
+   205 Bóg przywołuje Mojżesza z krzewu, który płonął, ale się nie spalał. Bóg mówi do Mojżesza: "JESTEM Bogiem ojca twego, Bogiem Abrahama, Bogiem Izaaka i Bogiem Jakuba" (Wj 3, 6). Bóg jest Bogiem ojców; Tym, który wzywał i prowadził patriarchów w ich wędrówkach. Jest Bogiem wiernym i współczującym, który pamięta o nich i o swoich obietnicach; przychodzi, by wyzwolić ich potomków z niewoli. Jest Bogiem, który ponad czasem i przestrzenią może i chce to urzeczywistnić oraz posłuży się swoją wszechmocą w spełnieniu tego zamysłu. Mojżesz... rzekł Bogu: "Oto pójdę do Izraelitów i powiem im: Bóg ojców naszych posłał mnie do was. Lecz gdy oni mnie zapytają, jakie jest Jego imię, to cóż im mam powiedzieć?" Odpowiedział Bóg Mojżeszowi: "JESTEM, KTÓRY JESTEM". I dodał: "Tak powiesz synom Izraela: JESTEM posłał mnie do was... To jest imię moje na wieki i to jest moje zawołanie na najdalsze pokolenia" (Wj 3, 13-15).
+   206 Objawiając swoje tajemnicze imię JAHWE (JHWH), "Ja Jestem Tym, Który Jest", "Ja Jestem Tym, Który Jestem" lub "Ja Jestem, Który Jestem", Bóg mówi, kim jest i jakim imieniem należy Go wzywać. To imię Boże jest tajemnicze, tak jak Bóg jest tajemnicą. Jest ono imieniem objawionym, a zarazemw pewnej mierze uchyleniem się od ujawnienia imienia, i właśnie przez to wyraża ono najlepiej, kim jest Bóg, który nieskończenie przekracza to wszystko, co możemy zrozumieć lub powiedzieć o Nim; jest On "Bogiem ukrytym" (Iz 45, 15). Jego imię jest niewymowne7, a zarazem jest On Bogiem, który staje się bliski ludziom.
+   207 Objawiając swoje imię, Bóg objawia równocześnie swoją wierność, która nie ma ani początku, ani końca, obejmuje zarówno przeszłość ("Jestem Bogiem ojca twego", Wj 3, 6), jak i przyszłość ("Ja będę z tobą", Wj 3,12). Bóg, który objawia swoje imię jako "Ja Jestem", objawia się jako Bóg, który jestzawsze przy swoim ludzie, aby go zbawić.
+   208 Wobec przyciągającej i tajemniczej obecności Boga człowiek odkrywa swoją małość. Wobec płonącego krzewu Mojżesz zdejmuje sandały i zasłania twarz w obliczu Świętości Bożej. Wobec chwały trzykroć świętego Boga Izajasz woła: "Biada mi! Jestem zgubiony! Wszak jestem mężem o nieczystych wargach" (Iz 6, 5). Wobec Boskich znaków, które wypełnia Jezus, Piotr mówi: "Odejdź ode mnie, Panie, bo jestem człowiek grzeszny" (Łk 5, 8). Ponieważ jednak Bóg jest święty, może przebaczyć człowiekowi, który uznaje przed Nim, że jest grzesznikiem: "Nie chcę, aby wybuchnął płomień mego gniewu... albowiem Bogiem jestem, nie człowiekiem; pośrodku ciebie jestem Ja – Święty" (Oz 11, 9). Podobnie powie Jan Apostoł: "Uspokoimy przed Nim nasze serce. A jeśli nasze serce oskarża nas, to przecież Bóg jest większy od naszego serca i zna wszystko" (1 J 3, 19-20).
+   209 Przez szacunek dla świętości Boga naród izraelski nie wypowiada imienia Boga. W czasie czytania Pisma świętego imię objawione jest zastępowaneBoskim tytułem "Pan" (Adonai, po grecku Kyrios). Ten tytuł będzie wyrażał także Boskość Jezusa: "Jezus jest Panem".

@@ -16,17 +16,17 @@ Każdy z Was przed chwilą stworzył swoją własną maskę.
 
 * Jak wam się to podobało?
 
-* Czy kiedykolwiek robiliście cos podobnego?
+* Czy kiedykolwiek robiliście coś podobnego?
 
 * Jakie mieliście wrażenia, gdy zobaczyliście swoja twarz odbita w gipsie?
 
 Wiele na tych rekolekcjach mówiliśmy o wolności, o byciu Nowym Stworzeniem, o byciu chrześcijaninem i o stylu naszego życia w świecie. Pomyślcie teraz o takiej rzeczy, takim aspekcie Waszego życia, który Wam nie pozwala być sobą.
 
-* Co jest taką Waszą „maską”, która hamuje Was przed byciem sobą?
+* Co jest taką Waszą "maską", która hamuje Was przed byciem sobą?
 
 Podkreślamy, że nie będziemy się tym dzielić i prosimy uczestników o napisanie tej rzeczy/tych rzeczy na swojej masce.
 
-.. warning:: Każdemu uczestnikowi będzie potrzebna jego maska na podsumowaniu-> ważne jest, żeby się porządnie zastanowili i napisali „coś” na swoich maskach.
+.. warning:: Każdemu uczestnikowi będzie potrzebna jego maska na podsumowaniu-> ważne jest, żeby się porządnie zastanowili i napisali "coś" na swoich maskach.
 
 =========================================
 Pytania
@@ -56,4 +56,4 @@ Modlitwa
 =========================================
 
 Warto tutaj pomodlić się o owoce tych rekolekcji, o to abyśmy wyjeżdżając stąd do naszych domów i środowisk, w których żyjemy, umieli być sobą i żyć wg tego, co wyznajemy.
-Propozycja formy: można pomodlić się wspólnie tekstem pieśni „Serce wielkie nam daj”.
+Propozycja formy: można pomodlić się wspólnie tekstem pieśni "Serce wielkie nam daj".

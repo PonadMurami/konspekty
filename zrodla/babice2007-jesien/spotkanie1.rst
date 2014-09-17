@@ -10,15 +10,15 @@ Cel Spotkania
 
 * zobaczyć, że nawet niewielkie pragnienia wykraczają czasami poza docześność
 
-* przygotować się do porządnego przeżycia „zajęć nocnych” (pisanie na ścianach labiryntu pragnień)
+* przygotować się do porządnego przeżycia "zajęć nocnych" (pisanie na ścianach labiryntu pragnień)
 
 =====================================
 Wprowadzenie dla aniamtora
 =====================================
 
-Na spotkanie jest bardzo mało czasu, bo tylko 45minut. Z konspektu trzeba wybrać to co wydaję się, że najbardziej „zadziała” lub robić pokolei z nastawieniem, że z jutrzejszego (trwającego 1.5h) spotkania początek poświęci się na dokończenie. Nie można, absolutnie pominąć zastosowania!
+Na spotkanie jest bardzo mało czasu, bo tylko 45minut. Z konspektu trzeba wybrać to co wydaję się, że najbardziej "zadziała" lub robić pokolei z nastawieniem, że z jutrzejszego (trwającego 1.5h) spotkania początek poświęci się na dokończenie. Nie można, absolutnie pominąć zastosowania!
 
-Zapoznanie się w grupie proszę potraktować bardzo technicznie (dlatego nie uwzględnia go ten konspekt) i zamiast „gadać o tym kim jesteśmy” pokażmy to po prostu idąć na głęboką wodę.
+Zapoznanie się w grupie proszę potraktować bardzo technicznie (dlatego nie uwzględnia go ten konspekt) i zamiast "gadać o tym kim jesteśmy" pokażmy to po prostu idąć na głęboką wodę.
 
 =====================================
 Modlitwa początkowa
@@ -43,9 +43,9 @@ Dostosowana do możliwości grupy.
 Przyjrzenie się bliżej strukturze naszych pragnień
 ==================================================
 
-.. note:: Prawdopodobnie nikt nie napisze w powyższym ćwiczeniu po prostu „pragnienie” jako potrzeba spożywania płynów (jeżeli tak to nic nie szkodzi).
+.. note:: Prawdopodobnie nikt nie napisze w powyższym ćwiczeniu po prostu "pragnienie" jako potrzeba spożywania płynów (jeżeli tak to nic nie szkodzi).
 
-**Dynamika:** Animator wyciąga kubek z wodą i mówi: „Och jak ja pragnę się napić!”
+**Dynamika:** Animator wyciąga kubek z wodą i mówi: "Och jak ja pragnę się napić!"
 
 * Czy to też jest nasze pragnienie czy tylko gra słów?
 
@@ -55,7 +55,7 @@ Przyjrzenie się bliżej strukturze naszych pragnień
 
 *Cel: Uświadomić grupie, że małe pragnienia są zaszczepione w tych większych np. To, że pragnę się napić jest elementem mojego pragnienie podtrzymania swojego życia. Animator musi się w tym punkcie wykazać właśną inwencją, aby dostosować się do grupy i do niej trafić!*
 
-Spróbujmy na naszym rysunku wyróżnić (kolorem, ramką, podkreśleniem itp.) główne pragnienia wskazując, które mogłyby być tymi „zaszczepionymi”. Jeżeli zachodzi taka potrzeba można jeszcze dopisać jakieś nowe.
+Spróbujmy na naszym rysunku wyróżnić (kolorem, ramką, podkreśleniem itp.) główne pragnienia wskazując, które mogłyby być tymi "zaszczepionymi". Jeżeli zachodzi taka potrzeba można jeszcze dopisać jakieś nowe.
 
 ==================================================
 Niespokojne nasze serce!
@@ -65,7 +65,7 @@ Popatrzmy jak wiele z tych pragnień nie może zostać zaspokojonych. Gdy pragn�
 
 * (dyskusyjne) Czy pragnienia zmuszają człowieka do nieustannej gonitwy i szamotania się w swoim życiu?
 
-.. note:: na tym pytaniu być, może należy „postawić spotkanie” - jeżeli tylko grupa je pociągnie to nie należy im przeszkadzać i gonić z konspektem!
+.. note:: na tym pytaniu być, może należy "postawić spotkanie" - jeżeli tylko grupa je pociągnie to nie należy im przeszkadzać i gonić z konspektem!
 
 * Czy zauważacie tą ciągłą gonitwę za zaspokojeniem swoich pragnień w waszym życiu? W życiu dookoła was?
 
@@ -81,7 +81,7 @@ Zagrać scenkę, przeczytać z podziałem na role lub coś takiego:
 
    -- Mt 20, 20-21a
 
-Cel: wyciągnąć kontrast: człowiek przychodzi i pyta „o coś” (co nie było na tyle ważne, skoro nie zostało zapisane), a Jezus odpowiada zapytaniem o sedno tego z czym przyszliśmy do niego.
+Cel: wyciągnąć kontrast: człowiek przychodzi i pyta "o coś" (co nie było na tyle ważne, skoro nie zostało zapisane), a Jezus odpowiada zapytaniem o sedno tego z czym przyszliśmy do niego.
 
 * Czy ktoś Tobie zadał kiedyś takie pytanie? Kto?
 * (Czy ktoś kiedyś zapytał o to co dla Ciebie jest najważniejsze?)
@@ -92,7 +92,7 @@ Rodzi się pytanie: Dlaczego pragnienia są istotne? (grupa może spróbować sa
 
 Animator podaje tezy, a grupa każdą z nich stara się wyjaśnić podając konkretny przykład. Na koniec animator podaje swój przykład.
 
-* Pragnienia są dobre, bo obserwacja tego jakie pragnienia się w nas rodzą dużo nam mówi o nas samych. [„Kurcze chcę mieć rower taki jak Kuba mimo, że dla mnie taki sprzęt jest bezużyteczny!”]
+* Pragnienia są dobre, bo obserwacja tego jakie pragnienia się w nas rodzą dużo nam mówi o nas samych. ["Kurcze chcę mieć rower taki jak Kuba mimo, że dla mnie taki sprzęt jest bezużyteczny!"]
 
 * Pragnienia są dobre, bo nasza reakcja na nie dużo nam mówi o nas samych. [Rdz 18,9-15]
 

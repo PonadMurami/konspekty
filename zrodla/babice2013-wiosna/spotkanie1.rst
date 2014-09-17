@@ -59,7 +59,7 @@ Posłuchajmy:
    | czasami pod wpływem,czasami od tak,
    | i niszczysz to , coś tworzył od tylu lat,
 
-   -- zespół “Tabu” -- Jedno słowo
+   -- zespół "Tabu" -- Jedno słowo
 
 
 Zadajemy pytania dotyczące usłyszanego utworu (pogrubione słowa to te, na które warto zwrócić szczególną uwagę i do nich się odnieść):
@@ -68,11 +68,11 @@ Zadajemy pytania dotyczące usłyszanego utworu (pogrubione słowa to te, na kt�
 Słowa ważne dla nas
 =========================================
 
-* Jakie słowa powodują, że się śmiejesz? Jakie „wyciskają łzy”?
+* Jakie słowa powodują, że się śmiejesz? Jakie "wyciskają łzy"?
 
 * Jakie ważne słowa kiedyś usłyszeliście, jakie wypowiedzieliście? Z czym te słowa były związane?
 
-Uczestnicy wymianiają słowa. Celem jest dojście do wniosku, że jest grupa słów, związanych z emocjami, z ważnymi funkcjami (ekspresywna, impresywna, sprawcza), które na nas oddziałują, zmieniają coś w naszym życiu, w nas samych.
+Uczestnicy wymieniają słowa. Celem jest dojście do wniosku, że jest grupa słów, związanych z emocjami, z ważnymi funkcjami (ekspresywna, impresywna, sprawcza), które na nas oddziałują, zmieniają coś w naszym życiu, w nas samych.
 
 Pozwólmy uczestnikom na luźne wypowiedzi, sypnięcie pomysłami, jednak należałoby nadać temu odpowiedni kierunek poprzez np. podzielenie się swoimi ważnymi słowami. Istotne jest mocne podkreślenie wartości tych słów, to one w tym spotkaniu są najważniejsze. Reszta ma być jedynie tłem, na którym będą one się bardziej odznaczać.
 
@@ -80,7 +80,7 @@ Pozwólmy uczestnikom na luźne wypowiedzi, sypnięcie pomysłami, jednak należ
 Sens i moc słowa
 =========================================
 
-* “Musisz uwierzyć w jego moc i sens” Jaką moc, sens ma słowo w Twoim życiu?
+* "Musisz uwierzyć w jego moc i sens" Jaką moc, sens ma słowo w Twoim życiu?
 
 * Czy nie jest tak, że pleciemy, co ślina na język przyniesie?
 

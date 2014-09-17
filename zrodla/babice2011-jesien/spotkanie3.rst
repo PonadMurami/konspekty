@@ -6,7 +6,7 @@ Spotkanie 3 - Wspólnota jest decyzją
 Cel
 ==================================
 
-Przedostatni punkt merytoryczny rekolekcji. Zdecydowanie podsumowujemy, zbieramy, dzielimy się przeżyciami. Przekonanie do otwartej i aktywnej postawy w swoim życiu, do wychodzenia poza swoje “ja”.
+Przedostatni punkt merytoryczny rekolekcji. Zdecydowanie podsumowujemy, zbieramy, dzielimy się przeżyciami. Przekonanie do otwartej i aktywnej postawy w swoim życiu, do wychodzenia poza swoje "ja".
 
 ==================================
 Dla animatora
@@ -86,11 +86,11 @@ Chcielibyśmy dzisiaj spotkanie zacząć od posłuchania lub przeczytania utworu
 
 * Jakie obszary życia są dla Was na tyle ważne, że nigdy nie pozwolilibyście, aby ktoś inny za Was decydował?
 
-* W jaki sposób “zarządzacie” swoim życiem? Czy podjęliście samodzielnie decyzje dotyczące wyboru szkoły, zawodu etc.?
+* W jaki sposób "zarządzacie" swoim życiem? Czy podjęliście samodzielnie decyzje dotyczące wyboru szkoły, zawodu etc.?
 
 Czymś normalnym jest to, że pewne rzeczy dzieją się w naszym życiu mimochodem. Nikt z nas na przykład nie chciałby musieć myśleć o oddychaniu ;). Mimochodem mogą się nam przydarzyć fantastyczne rzeczy...będą to jednak jedynie te rzeczy, które nie wymagają czasu. Mimochodem nie wybudujemy Wieży Eiffla, ani nie zdobędziemy Mont Everest’u, nie sięgniemy po nasze marzenia.
 
-We wspólnocie można znaleźć się mimochodem. Można tam nawet być kilka lat. (w pewnym sensie my sami “mimochodem” staliśmy się członkami Kościoła gdy nas rodzice ochrzcili)
+We wspólnocie można znaleźć się mimochodem. Można tam nawet być kilka lat. (w pewnym sensie my sami "mimochodem" staliśmy się członkami Kościoła gdy nas rodzice ochrzcili)
 
 * Chcielibyście, aby osoba z którą macie spędzić całe życie wybrała was właśnie tak mimochodem? (jak ktoś lubi ekstremalne przykłady to wyobraźcie sobie, że chłopak się oświadcza dziewczynie, a ona rzuca monetą zanim mu odpowiada)
 
@@ -98,7 +98,7 @@ Nikt z nas by nie chciał. Czujemy w sercu, że coś takiego nam nie przystoi. N
 
 Posłuchajcie takiego opisu:
 
-   “Ich naczelną zasadą życia była miłość. Nikogo nie chcieli krzywdzić, a wszystkim pomagać. Przynajmniej raz w tygodniu się razem spotykali i byli bardzo gościnni. Każdy z nich wykonywał tę pracę, którą odkrył, że ma do niej największy talent. Mieli taką zasadę, że jak rozmawiali to zawsze szczerze, więc nikt z nich nie musiał się martwić, że ktoś za jego plecami go obgaduje.”
+   "Ich naczelną zasadą życia była miłość. Nikogo nie chcieli krzywdzić, a wszystkim pomagać. Przynajmniej raz w tygodniu się razem spotykali i byli bardzo gościnni. Każdy z nich wykonywał tę pracę, którą odkrył, że ma do niej największy talent. Mieli taką zasadę, że jak rozmawiali to zawsze szczerze, więc nikt z nich nie musiał się martwić, że ktoś za jego plecami go obgaduje."
 
 
 * Chcielibyście być w takiej grupie ludzi?
@@ -159,7 +159,7 @@ Przeczytajmy modlitwę św. Franciszka:
    | Ktoś powinien reagować, znak zapytania.
    | (...)
    | Ja sobie też zadawałem takie pytania, sam.
-   | I znajdowałem taką odpowiedź – jeżeli ktoś, to dlaczego nie ja?”
+   | I znajdowałem taką odpowiedź – jeżeli ktoś, to dlaczego nie ja?"
 
    -- Władysław Bartoszewski
 
@@ -170,10 +170,10 @@ To jest moment w którym pojawia się wiara. Wiara uzdalnia nas do wyjścia poza
 * Czy warto ryzykować opuszczenie swojego poukładanego świata?  (jak ktoś zna Władce Pierścieni - przykład hobbitów i Shire)
 
 =========================================
-Otwartość na “zawsze nowe”
+Otwartość na "zawsze nowe"
 =========================================
 
-Bóg z sobie tylko znanych powodów nie działa “magicznie” wypowiadając jednego słowa, aby wszystko było poukładane. Wciąż od wieków czeka na człowieka, aż on podejmie się działania.
+Bóg z sobie tylko znanych powodów nie działa "magicznie" wypowiadając jednego słowa, aby wszystko było poukładane. Wciąż od wieków czeka na człowieka, aż on podejmie się działania.
 
 Przeczytajmy:
 
@@ -181,15 +181,15 @@ Przeczytajmy:
 
    -- Flm 4-7
 
-* Jak rozumiecie zwrot “twórczy udział w wierze”?
+* Jak rozumiecie zwrot "twórczy udział w wierze"?
 
 Twórczy a nie odtwórczy. Dlatego Bóg nie wyciąga nas na siłę do świata, czeka na naszą decyzję, naszą wolę, nasz wybór. Czeka aż my będziemy chcieli coś stworzyć. Gdy my robimy pierwszy krok okazuje się, że Bóg wykonał go wieki przed nami i stoi i czeka na nas.
 
-Wspólnota to miejsce spotkania ludzi, którzy postanowili w ten sposób “wyjść ze swojego pokoju”, aby coś zdziałać, stworzyć, zmienić.
+Wspólnota to miejsce spotkania ludzi, którzy postanowili w ten sposób "wyjść ze swojego pokoju", aby coś zdziałać, stworzyć, zmienić.
 
-* Co wynika z tego, że spotyka się dwóch ludzi z których każdy chcę mieć “twórczy udział”?
+* Co wynika z tego, że spotyka się dwóch ludzi z których każdy chcę mieć "twórczy udział"?
 
-Jest to nieprzewidywalne! Takie spotkanie w niczym nie przypomina poukładanego świata pojedynczej osoby. Spotkanie zawsze ma w sobie coś z takiego twórczego niepokoju - bo nie wiem w jakim humorze będzie osoba z która się spotkam, nie mogę zaprogramować przebiegu spotkania, ani napisać scenariusza (konspektu), który obejmie wszystkie możliwe odpowiedzi. Odbywa się ono jakby pomiędzy osobami, więc nie jest w niczyim posiadaniu. W spotkaniu z innymi jesteśmy gotowi na to, że wszystko będzie “zawsze nowe”.
+Jest to nieprzewidywalne! Takie spotkanie w niczym nie przypomina poukładanego świata pojedynczej osoby. Spotkanie zawsze ma w sobie coś z takiego twórczego niepokoju - bo nie wiem w jakim humorze będzie osoba z która się spotkam, nie mogę zaprogramować przebiegu spotkania, ani napisać scenariusza (konspektu), który obejmie wszystkie możliwe odpowiedzi. Odbywa się ono jakby pomiędzy osobami, więc nie jest w niczyim posiadaniu. W spotkaniu z innymi jesteśmy gotowi na to, że wszystko będzie "zawsze nowe".
 
 Jak nieprzewidywalne mogą być konsekwencje spotkań przeczytajmy:
 
@@ -205,7 +205,7 @@ Trafny wydaje się zatem komentarz:
 
 Wychodząc zatem na spotkanie mogę z góry założyć, że ono mnie zmieni. Nie wiem natomiast jak bardzo, ani w jaki sposób. Jest to dla mnie w pełnym tego słowa znaczeniu - Tajemnicą.
 
-* Czy czujemy się już na tyle pewni siebie, że potrafimy odważnie “ryzykować zmiany”?
+* Czy czujemy się już na tyle pewni siebie, że potrafimy odważnie "ryzykować zmiany"?
 
 Od tej odwagi zależy jak bardzo będziemy potrafili się z innymi spotkać. Gdy ludzie się czegoś boją odruchowo zamykają się w tym co dla nich znane. Spróbujmy zinterpretować kilka obrazów osób, które próbują być otwarte i myślą, że są...
 
@@ -241,9 +241,9 @@ Jest to kazanie na górze. Poza miastem. Ludzie, którzy się tam znajdują musi
 
 * Co to dla nas znaczy?
 
-Ludzie, którzy poznali siebie na tyle, by znaleźć w sobie odwagę do wyjścia odważnie w podróż są nazwani solą ziemi i światłem świata. Nie zrobili oni nic ponad to przecież, nie mieli żadnych “większych zasług”. Po prostu - chcieli się spotkać, słuchać.
+Ludzie, którzy poznali siebie na tyle, by znaleźć w sobie odwagę do wyjścia odważnie w podróż są nazwani solą ziemi i światłem świata. Nie zrobili oni nic ponad to przecież, nie mieli żadnych "większych zasług". Po prostu - chcieli się spotkać, słuchać.
 
-Rozmowe o fragmencie kończymy podsumowaniem animatora mniej więcej w tym duchu: Tacy ludzie tworzą niewielkie grupy, które są twórcze, które ożywiają swoje otoczenie, które intrygują innych. Koło takich ludzi nie można przejść obojętnie. Tacy byli pierwsi chrześcijanie. Są potrzebni, aby wybijać innych z rutyny, aby inni stawiali sobie pytanie “dlaczego oni to robią?”, “dlaczego trzymają się razem?”, “Co ich łączy skoro są tak różni?”. Ich istnienie to dla innych prowokacja do pytania o sens własnego życia.
+Rozmowę o fragmencie kończymy podsumowaniem animatora mniej więcej w tym duchu: Tacy ludzie tworzą niewielkie grupy, które są twórcze, które ożywiają swoje otoczenie, które intrygują innych. Koło takich ludzi nie można przejść obojętnie. Tacy byli pierwsi chrześcijanie. Są potrzebni, aby wybijać innych z rutyny, aby inni stawiali sobie pytanie "dlaczego oni to robią?", "dlaczego trzymają się razem?", "Co ich łączy skoro są tak różni?". Ich istnienie to dla innych prowokacja do pytania o sens własnego życia.
 
 Są solą ziemi i walczą o smak życia....
 

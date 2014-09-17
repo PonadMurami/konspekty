@@ -6,7 +6,7 @@ Spotkanie 1 - O istocie wolności
 Cel
 ==================================
 
-Próba znalezienia odpowiedzi na pytania: Jak ja rozumiem wolność? Czym ona jest? Czy     wolna     wola     =     samowola?     Czy     odróżniam     wolność     od     samowoli? Jak znaleźć takie zdrowe podejście do tego bycia wolnym, czy to oznacza totalny chaos i róbta co chceta? Co jest przekroczeniem wolności, czyli defacto "uwolnieniem" sie od niej?
+Próba znalezienia odpowiedzi na pytania: Jak ja rozumiem wolność? Czym ona jest? Czy     wolna     wola     =     samowola?     Czy     odróżniam     wolność     od     samowoli? Jak znaleźć takie zdrowe podejście do tego bycia wolnym, czy to oznacza totalny chaos i "róbta co chceta"? Co jest przekroczeniem wolności, czyli de facto "uwolnieniem" się od niej?
 
 =========================================
 Modlitwa
@@ -18,17 +18,17 @@ Modlitwa do Ducha Świętego z prośbą o jego światło i prowadzenie na czas t
 Wprowadzenie
 =========================================
 
-Tematem rekolekcje jest „Wolność”. Pojęcie to jest bardzo szerokie i pozostawia olbrzymią swobodę interpretacji. Dlatego, aby lepiej się rozumieć postaramy się zastanowić nad tym czym dla nas jest wolność? Jaka jest definicja wolności odpowiadająca naszemu doświadczeniu, światopoglądowi, wierze…
+Tematem rekolekcje jest "Wolność". Pojęcie to jest bardzo szerokie i pozostawia olbrzymią swobodę interpretacji. Dlatego, aby lepiej się rozumieć postaramy się zastanowić nad tym czym dla nas jest wolność? Jaka jest definicja wolności odpowiadająca naszemu doświadczeniu, światopoglądowi, wierze...
 
 =========================================
 Czym dla mnie osobiście	jest wolność?
 =========================================
 
-.. note:: W grupach  młodszych przed tworzeniem  „indywidualnych definicji wolności”  proponuję  zrobić  słoneczko  „Z  czym  mi  się  kojarzy  wolność”.  Można  też  ( w  przypadku   trudności  z zdefiniowaniem  tego  słowa)  poprosić  o to  by narysowali lub  w inny  sposób   wyrazili co kojarzy  się  im ze słowem wolność. A dopiero później przechodzimy do tworzenia indywidualnych definicji – jak  poniżej.
+.. note:: W grupach  młodszych przed tworzeniem  "indywidualnych definicji wolności"  proponuję  zrobić  słoneczko  "Z  czym  mi  się  kojarzy  wolność".  Można  też  ( w  przypadku   trudności  z zdefiniowaniem  tego  słowa)  poprosić  o to  by narysowali lub  w inny  sposób   wyrazili co kojarzy  się  im ze słowem wolność. A dopiero później przechodzimy do tworzenia indywidualnych definicji – jak  poniżej.
 
 Każdy uczestnik grupy stara się zapisać na kartce swoją definicję wolności. Następnie prezentuje ją na forum. Grupa wspólnie stara się zastanowić czym wolność jest, ewentualnie czym nie jest (jeśli pojawią się zdania, z którymi reszta grupy się nie zgodzi). Można zadawać pytania, jednak nie należy prowadzić wielkich dyskusji.
 
-.. warning:: Nie tworzymy jednej definicji wolności dla całej grupy.  Każdy  ma  mieć „Swoją” definicję. Każdy z uczestników, ma prawo do swojej definicji i nikogo nie należy przekonywać, żeby zmieniał zdanie.
+.. warning:: Nie tworzymy jednej definicji wolności dla całej grupy.  Każdy  ma  mieć "Swoją" definicję. Każdy z uczestników, ma prawo do swojej definicji i nikogo nie należy przekonywać, żeby zmieniał zdanie.
 
 Po wypowiedzeniu się wszystkich uczestników przechodzimy do dalszej części spotkania, zaznaczając jednak, że definicję tą mogą zmodyfikować w czasie spotkania.
 
@@ -38,9 +38,9 @@ Jak kościół rozumie wolność?
 
 KKK podaje następującą definicję wolności:
 
-   Wolność jest zakorzenioną w rozumie i woli możliwością działania lub niedziałania, czynienia tego lub czegoś innego, a więc podejmowania przez siebie dobrowolnych działań. Dzięki wolnej woli każdy decyduje o sobie.”
+   Wolność jest zakorzenioną w rozumie i woli możliwością działania lub niedziałania, czynienia tego lub czegoś innego, a więc podejmowania przez siebie dobrowolnych działań. Dzięki wolnej woli każdy decyduje o sobie."
 
-   -- Katechnizm Kościoła Katolickiego 1731
+   -- Katechizm Kościoła Katolickiego 1731
 
 * Czy zgadzacie się z tą definicją? Czy jest ona pełna?
 
@@ -50,19 +50,19 @@ KKK podaje następującą definicję wolności:
 
 W kolejnym punkcie KKK zyskujemy dodatkowe wskazówki:
 
-   Im więcej człowiek czyni dobra, tym bardziej staje się wolnym.  Pra wdzi wą  wolności ą jest   tylko   wolność   w  słu żbie  dobra   i   spra wiedli wo ści.   Wybór nieposłuszeństwa  i  zła  jest nadużyciem wolności i prowadzi do „niewoli grzechu”.
+   Im więcej człowiek czyni dobra, tym bardziej staje się wolnym.  Pra wdzi wą  wolności ą jest   tylko   wolność   w  słu żbie  dobra   i   spra wiedli wo ści.   Wybór nieposłuszeństwa  i  zła  jest nadużyciem wolności i prowadzi do "niewoli grzechu".
 
-   -- Katechnizm Kościoła Katolickiego 1733
+   -- Katechizm Kościoła Katolickiego 1733
 
    Wolność  czyni  człowieka  odpowiedzialnym za swoje czyny w takiej mierze, w jakiej są one dobrowolne. Postęp w cnocie, poznanie dobra i asceza zwiększają panowanie woli nad jej czynami
 
-   -- Katechnizm Kościoła Katolickiego 1734
+   -- Katechizm Kościoła Katolickiego 1734
 
-* Czy oja definicja wolności wymaga jakiegoś uzupełnienia?
+* Czy Twoja definicja wolności wymaga jakiegoś uzupełnienia?
 
 * Czy definicja sformułowana w taki sposób (KKK) dotyczy tylko katolików albo tylko chrześcijan?
 
-* Czy w tym kontekście dostrzegam różnicę między wolnością a samowolą? (granica grzechu, przykazań, Bożego prawa, odpowiedzialności za drugą osobę….)
+* Czy w tym kontekście dostrzegam różnicę między wolnością a samowolą? (granica grzechu, przykazań, Bożego prawa, odpowiedzialności za drugą osobę....)
 
 =========================================
 Wolność a samowola
@@ -98,7 +98,7 @@ Zauważmy, że św. Paweł pisze tu "wszystko mi wolno", a nie "wszystko mogę".
 
 * Czy podejmując wybór myślę o tym, jakie mogą być konsekwencje?
 
-* Czy w życiu kieruję się postawą „mogę”, czy raczej „wolno mi”?
+* Czy w życiu kieruję się postawą "mogę", czy raczej "wolno mi"?
 
 Poniżej jeszcze kilka fragmentów Nowego Testamentu na temat wolności i niewoli.
 
@@ -146,7 +146,7 @@ Bardzo ważne jest właściwe rozumienie trudnego słowa "wolność" w odróżni
 
 * Czy  w  poznawaniu Prawdy widzę drogę do wolności?
 
-.. note:: Ostatnie pytanie jest jednym z istotniejszych pytań tych rekolekcji. Absolutnie nie należy  go  pominąć.  Jeśli  grupa  okaże  się  na  tyle  dojrzała  i  otwarta  można  spróbować podzielić się odpowiedzią na to pytanie.
+.. note:: Ostatnie pytanie jest jednym z istotniejszych pytań tych rekolekcji. Absolutnie nie należy go pominąć. Jeśli grupa okaże się na tyle dojrzała i otwarta można spróbować podzielić się odpowiedzią na to pytanie.
 
 =========================================
 Modlitwa

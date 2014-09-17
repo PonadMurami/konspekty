@@ -16,10 +16,10 @@ Cel Spotkania
 * Podkreślenie roli wspólnoty
 
 =====================================
-Wprowadzenie dla aniamtora
+Wprowadzenie dla animatora
 =====================================
 
-Ostatniego dnia rekolekcje mają naturalną tedencje do „rozluźniania się”. Dzisiejszego dnia spotkanie grupowe pełni najważniejszą rolę w utrzymaniu rekolekcji w tematyce którą proponujemy. Jeżeli tutaj nie utrzymamy konkretnego analizowania problemu dzisiejszy dzień w oczach uczestników zatraci „swój rys” i stanie się po prostu „ostatnim dniem”.
+Ostatniego dnia rekolekcje mają naturalną tendencje do "rozluźniania się". Dzisiejszego dnia spotkanie grupowe pełni najważniejszą rolę w utrzymaniu rekolekcji w tematyce którą proponujemy. Jeżeli tutaj nie utrzymamy konkretnego analizowania problemu dzisiejszy dzień w oczach uczestników zatraci "swój rys" i stanie się po prostu "ostatnim dniem".
 
 =====================================
 Modlitwa początkowa
@@ -49,7 +49,7 @@ Przypomnijmy:
 
 * Dlaczego nie wszystko się zmieniło?
 
-Krzyże, które pojawiły się w labiryncie są tak naprawdę istotą dzisiejszego spotkania. Chcemy porozmawiać o tym, czy ich pojawienie się tam to tylko teoria i „ładny symbol” czy jest to faktycznie dla nas odbicie pewnej prawdy.
+Krzyże, które pojawiły się w labiryncie są tak naprawdę istotą dzisiejszego spotkania. Chcemy porozmawiać o tym, czy ich pojawienie się tam to tylko teoria i "ładny symbol" czy jest to faktycznie dla nas odbicie pewnej prawdy.
 
 ========================================================
 Boże działanie jest mądre
@@ -62,7 +62,7 @@ Wyobraźcie sobie, że małe dziecko o prosi was o wiele rzeczy (pragnie czegoś
 +==========================+============================+
 |  Pobawić się ciepłym     | Wiem, że to pragnienie     |
 |  żelazkiem               | **nie prowadzi do niczego  |
-|                          | dobrego**, bo zelazko nie  |
+|                          | dobrego**, bo żelazko nie  |
 |                          | służy do zabawy            |
 +--------------------------+----------------------------+
 |  Chcę pooglądać film     | Pragnienie jest dobre,     |
@@ -84,11 +84,11 @@ Ważne, aby tak nakierować grupę, aby wyszły co najmniej te 3 powodu odmowy!
 
 **Grupa sama próbuje przełożyć te powody odmowy na życie duchowe. TAKŻE podając przykłady.**
 
-Wniosek: Bóg jako nieskończeny w swej mądrości wie lepiej co dla nas jest lepsze.
+Wniosek: Bóg jako nieskończony w swej mądrości wie lepiej co dla nas jest lepsze.
 
 Powstaje pytanie:
 
-* To po co nam nasze pragnienia? Mógł Bóg ich nie wkładać w nasze serce i „zawsze pasowalibyśmy” do jego zamiarów? (dyskusja)
+* To po co nam nasze pragnienia? Mógł Bóg ich nie wkładać w nasze serce i "zawsze pasowalibyśmy" do jego zamiarów? (dyskusja)
 
 ========================================================
 Boże działanie chce przemieniać
@@ -111,19 +111,19 @@ Aby Bóg działał trzeba najpierw mu powierzyć swoją drogę. Bardzo często p
 
 * Czy wierzę, że gdyby wszystkie moje pragnienia były ukształtowane przez Boga byłbym człowiekiem szczęśliwym?
 
-(Być może ktoś z grupy ma doświadczenie takiej „pracy z Bogiem” dotyczącej jakieś swoich pragnień. Jeżeli tak to ogromnym ubogaceniem tego spotkania byłoby jego podzielenie sięz grupą!)
+(Być może ktoś z grupy ma doświadczenie takiej "pracy z Bogiem" dotyczącej jakieś swoich pragnień. Jeżeli tak to ogromnym ubogaceniem tego spotkania byłoby jego podzielenie sięz grupą!)
 
 ========================================================
 Boże działanie jest w odpowiedzi na dialog
 ========================================================
 
-Apropo pragnień warto opowiedzieć w tym miejscu taką (znaną) historyjkę.
+W sprawie pragnień warto opowiedzieć w tym miejscu taką (znaną) historyjkę.
 
-   Podczas uroczystego śniadania z okazji złotych godów małżeńskich, żona pomyślała: „Od pięćdziesięciu lat odstępuje zawsze mężowi górną, chrupiącą część bułki, dziś mam prawo samej sobie zrobić ucztę tym ulubionym smakołykiem”. I wzięła górę bułki, dół podała mężowi. Na to staruszek z radością ucałował rękę żony i wyznał: „Kochanie, zgotowałaś mi radość dnia. Pięćdziesiąt lat nie jadłem spodniej części bułeczki, choć to najbardziej lubię. Cały czas myślałem, że skoro tobie tak smakuje, to ty masz do niej pierwszeństwo”.
+   Podczas uroczystego śniadania z okazji złotych godów małżeńskich, żona pomyślała: "Od pięćdziesięciu lat odstępuje zawsze mężowi górną, chrupiącą część bułki, dziś mam prawo samej sobie zrobić ucztę tym ulubionym smakołykiem". I wzięła górę bułki, dół podała mężowi. Na to staruszek z radością ucałował rękę żony i wyznał: "Kochanie, zgotowałaś mi radość dnia. Pięćdziesiąt lat nie jadłem spodniej części bułeczki, choć to najbardziej lubię. Cały czas myślałem, że skoro tobie tak smakuje, to ty masz do niej pierwszeństwo".
 
    -- Anonim
 
-Taki jest efekt nierozmawiania o pragnieniach pomiędzy ludźmi. Między nami a Bogiem jest podobnie dlatego, że Bóg mimo, że jest wszechwiedzący szanuje naszą wolność i bez rozomowy z nami na temat naszych pragnień nie może działać tak jakby chciał.
+Taki jest efekt nierozmawiania o pragnieniach pomiędzy ludźmi. Między nami a Bogiem jest podobnie dlatego, że Bóg mimo, że jest wszechwiedzący szanuje naszą wolność i bez rozmowy z nami na temat naszych pragnień nie może działać tak jakby chciał.
 
 * Czy rozmawiam z Bogiem na temat moich pragnień?
 
@@ -131,11 +131,11 @@ Taki jest efekt nierozmawiania o pragnieniach pomiędzy ludźmi. Między nami a 
 
 * Która rozmowa przychodzi mi łatwiej? Dlaczego?
 
-Taka modlitwa jest też „naturalna”. Rozmawiamy na niej o tym co się teraz dzieje u nas, jest normalną rozmową. To doskonały początek do zagłębienia się w modlitwę!
+Taka modlitwa jest też "naturalna". Rozmawiamy na niej o tym co się teraz dzieje u nas, jest normalną rozmową. To doskonały początek do zagłębienia się w modlitwę!
 
 .. note:: **trudny moment spotkania!**
 
-Wypiszmy każdy na swoich kartkach 3-5 naszych pragnień, które jak rozeznajemy wymagają w naszym życiu najpilniejszego „obgadania” z Jezusem. Następnie spróbujmy się tym wzajemnie podzielić – czytając na głos. Oczywiście nie ma przymusu – można NIE czytać.
+Wypiszmy każdy na swoich kartkach 3-5 naszych pragnień, które jak rozeznajemy wymagają w naszym życiu najpilniejszego "obgadania" z Jezusem. Następnie spróbujmy się tym wzajemnie podzielić – czytając na głos. Oczywiście nie ma przymusu – można NIE czytać.
 
 ========================================================
 Niedosyt na ziemi jest naturalny i dobry
@@ -169,12 +169,12 @@ Bóg gwarantuje nam, że w niebie w komunii z nim już nie będziemy niczego pra
 Zastosowanie – rola wspólnoty
 ========================================================
 
-Faktycznie – podejmowanie wysiłku takiego życia z Bogiem „na 1oo%” jest bardzo trudne. Ale dosłownie nie jesteśmy sami w tym trudzie – mamy siebie. Chcielibyśmy tutaj na tych rekolekcjach „dotknąć” tego czym jest nasza wspólnota.
+Faktycznie – podejmowanie wysiłku takiego życia z Bogiem "na 1oo%" jest bardzo trudne. Ale dosłownie nie jesteśmy sami w tym trudzie – mamy siebie. Chcielibyśmy tutaj na tych rekolekcjach "dotknąć" tego czym jest nasza wspólnota.
 
-**Uczestnicy sami sobie dają zadania na dzisiejszy dzień, kazdy po dwa – jedno bardzo praktyczne, jedno duchowe. Zadania mają mieć związek z tematem rekolekcji. Gdy wymyślę zadania to proszę o ich przyjęcie dwie osoby z grupy (animator dba, aby ludzie dostawali „po równo”). Cel tego punktu – wzajemna pomoc sobie (w odpowiedzialności) w poznawaniu coraz lepiej Chrystusa.**
+**Uczestnicy sami sobie dają zadania na dzisiejszy dzień, każdy po dwa – jedno bardzo praktyczne, jedno duchowe. Zadania mają mieć związek z tematem rekolekcji. Gdy wymyślę zadania to proszę o ich przyjęcie dwie osoby z grupy (animator dba, aby ludzie dostawali "po równo"). Cel tego punktu – wzajemna pomoc sobie (w odpowiedzialności) w poznawaniu coraz lepiej Chrystusa.**
 
 **Zadanie nie jest proste i należy przeznaczyć na nie z 10minut na wymyślenie przez uczestników zadań.** Przykład:
 
    * Praktyczne: W momencie gdy będziesz chciał coś bardzo zrobić dzisiejszego dnia odsuniesz to w czasie na 2 minuty i pójdziesz do kaplicy pomodlić się za świadectwa które są przed nami (siła woli)
 
-   * Duchowe: przez 3 dni po babicach otworzysz sobie NT i poczytasz przez minimum 10 minut.
+   * Duchowe: przez 3 dni po Babicach otworzysz sobie NT i poczytasz przez minimum 10 minut.

@@ -6,13 +6,13 @@ Spotkanie 4 - Duch Święty jako ten, który zmienia
 Potrzebne pomoce
 ==================================
 
-Teksty “Akatystu ku czci Ducha Świętego” dla każdego uczestnika.
+Teksty "Akatystu ku czci Ducha Świętego" dla każdego uczestnika.
 
 ====================================
 Cele spotkania
 ====================================
 
-Podzielenie się przeżyciami związanymi z sobotnia modlitwą o wylanie darów Ducha Świętego oraz niedzielną jutrznią o wschodzie słońca (z położeniem szczególnego akcentu na ZMIANY jakie się dokonały, zmiany duże, małe i jeszcze mniejsze, ale tez takie, które pozostają niezauważone np. “Jutrznia nie zrobiła na mnie żadnego wrażenia - okej, ale przeżyłeś ją, byłeś tam, brałeś w tym udział. To już inna rzeczywistość nawet jeśli teraz tego nie czujesz, nie rozumiesz”).
+Podzielenie się przeżyciami związanymi z sobotnia modlitwą o wylanie darów Ducha Świętego oraz niedzielną jutrznią o wschodzie słońca (z położeniem szczególnego akcentu na ZMIANY jakie się dokonały, zmiany duże, małe i jeszcze mniejsze, ale tez takie, które pozostają niezauważone np. "Jutrznia nie zrobiła na mnie żadnego wrażenia - okej, ale przeżyłeś ją, byłeś tam, brałeś w tym udział. To już inna rzeczywistość nawet jeśli teraz tego nie czujesz, nie rozumiesz").
 
 =========================================
 Wprowadzenie dla animatora (i nie tylko!)
@@ -28,7 +28,7 @@ Dzielenie się tym co za nami
 
 Dzielenie się doświadczeniami poprzedniego wieczora i poranka, zgodne z sugestią podaną w celu spotkania - odczucia i uniesienia są ważne i cenne, ale jeśli ich nie ma nie znaczy że wszystko było bez sensu i nic mi nie dało.Mogło być głupio, zimno i nudno, ale BYŁO, to fakt a nie playback. Ponieważ było tego dużo (modlitwa i jutrzni!) to ta część spotkania może zająć więcej czasu.
 
-Próbujemy wyciągać jakieś drugie dno z obserwacji “normalnych”:
+Próbujemy wyciągać jakieś drugie dno z obserwacji "normalnych":
 	* przed światłem widzieliśmy kształty, ale były one szare, jakby bez życia. Dopiero Światło pozwoliło zobaczyć życie takim jakie ono jest.
 	* było zimno. Wydawało mi się, że to już jest wschód słońca a ciągle go nie było. Straszne jest takie czekanie, ale rozumowo miałem pewność, że wzejść musi!
 
@@ -51,11 +51,11 @@ Podział uczestników na pary, przydzielenie każdej parze po 2 kondakiony i iko
 
 W młodszych grupach podajmy przykład zastosowania tych oznaczeń, z humorem i nie do końca na poważnie:
 
-	Cóż  za  koincydencja! Pozostawiona kanapka  i  środowisko  wilgotne  sprzyja  powstawaniu pleśni. Niewątpliwie warto, aby zaistnienie takiej sytuacji zmotywowało mnie do pójścia na dwór ze śmieciami”
+	Cóż  za  koincydencja! Pozostawiona kanapka  i  środowisko  wilgotne  sprzyja  powstawaniu pleśni. Niewątpliwie warto, aby zaistnienie takiej sytuacji zmotywowało mnie do pójścia na dwór ze śmieciami"
 
-* Znakiem zapytania oznaczam: “koincydencja” - CO TO ZA WYRAZ?!
-* Wykrzyknikem oznaczam: “kanapka i środowisko wilgotne sprzyja powstawaniu pleśni” - No tak, tak kiedyś mówili na biologii. Prawda godna zapamiętania.
-* Strzałką oznaczam: “pójście na dwór ze śmieciami” - no tak...to jest zdanie zdecydowanie skierowane do mnie.
+* Znakiem zapytania oznaczam: "koincydencja" - CO TO ZA WYRAZ?!
+* Wykrzyknikiem oznaczam: "kanapka i środowisko wilgotne sprzyja powstawaniu pleśni" - No tak, tak kiedyś mówili na biologii. Prawda godna zapamiętania.
+* Strzałką oznaczam: "pójście na dwór ze śmieciami" - no tak...to jest zdanie zdecydowanie skierowane do mnie.
 
 Każdy czyta tekst indywidualnie a następnie dzieli się z osobą z grupy i dyskutuje co zaznaczył. Na koniec pary przedstawiają grupie efekty swojej pracy. Uwaga: ważne, jest aby w czasie dzielenia uczestnicy cytowali dosłownie zaznaczony fragment tekstu, a następnie uzasadniali czemu go wybrali (bo pozostali nie znają tekstu!). W ten sposób wszyscy zaznajomią się z fragmentami z całości tekstu.
 

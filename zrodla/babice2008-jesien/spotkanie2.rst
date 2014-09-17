@@ -9,12 +9,12 @@ Cel Spotkania
 Podzielenie się doświadczeniem własnego poszukiwania. Odkrycie iluzji pomiędzy deklaracją szukania a faktycznym szukaniem. Celem wychowawczym jest postawienie każdemu z uczestników podstawowego pytania: czego szukasz?
 
 ==================================
-Wprowadzenie dla aniamtora
+Wprowadzenie dla animatora
 ==================================
 
 Spotkanie dzisiejsze jest pod koniec dnia. Mamy za sobą w szczególności dwie konferencje. Spotkanie powinno mieć akcent zdecydowanie bardziej dzielenia się życiem niż dociekania filozoficznego. Atmosferę konieczną do zrealizowania takiej formy **musi** wprowadzić animator.
 
-Każde użycie słowa „świat” w tym konspekcie należy rozumieć w znaczeniu jakim używa go św. Paweł w swoich listach! Nie – nie mam fobii na punkcie spiskowej teorii dziejów.
+Każde użycie słowa "świat" w tym konspekcie należy rozumieć w znaczeniu jakim używa go św. Paweł w swoich listach! Nie – nie mam fobii na punkcie spiskowej teorii dziejów.
 
 ==================================
 Modlitwa początkowa
@@ -23,20 +23,20 @@ Modlitwa początkowa
 Zapalenie świecy: Ps 105,4
 
 ==================================
-Być „Człowiekiem poszukującym”
+Być "Człowiekiem poszukującym"
 ==================================
 
-* Jak wam się kojarzy określenie – „Jestem człowiekiem poszukującym”?
+* Jak wam się kojarzy określenie – "Jestem człowiekiem poszukującym"?
 
-Skojarzenia są często negatywne. Człowiek poszukujący to taki „któremu czegoś brakuje, z którym nie wszystko jest OK”. Przecież my już znaleźliśmy, jesteśmy „lepsi”. Dla jeszcze większego kontrastu w odczuciu – skonstruujmy takie zdanie:
+Skojarzenia są często negatywne. Człowiek poszukujący to taki "któremu czegoś brakuje, z którym nie wszystko jest OK". Przecież my już znaleźliśmy, jesteśmy "lepsi". Dla jeszcze większego kontrastu w odczuciu – skonstruujmy takie zdanie:
 
 .. centered:: **Człowiek wierzący to człowiek poszukujący**
 
-Uwaga: Uczestnicy oczywiście mogą się już z tym zdaniem zgadzać (w końcu mówimy o tym od początku dnia, to głupio byłoby wyjść na takiego do którego to nie doszło)! Dlatego pytamy czy w powszechnym odczuciu takie zdanie byłoby całkowicie normalne czy „dziwne” (jak zareagowaliby np. nasi rodzice na takie twierdzenie?).
+Uwaga: Uczestnicy oczywiście mogą się już z tym zdaniem zgadzać (w końcu mówimy o tym od początku dnia, to głupio byłoby wyjść na takiego do którego to nie doszło)! Dlatego pytamy czy w powszechnym odczuciu takie zdanie byłoby całkowicie normalne czy "dziwne" (jak zareagowaliby np. nasi rodzice na takie twierdzenie?).
 
 * Dlaczego świat na takie określenie patrzy w ten sposób?
 
-Jeżeli ktoś jest poszukującym przez dłuższy czas to znaczy, że jest niedorajdą, że nie potrafi znajdować, że jest nieskuteczny. „W XXIw się nie szuka, w XXIw się odnajduje”.
+Jeżeli ktoś jest poszukującym przez dłuższy czas to znaczy, że jest niedorajdą, że nie potrafi znajdować, że jest nieskuteczny. "W XXIw się nie szuka, w XXIw się odnajduje".
 
 ===================================
 Odpowiedz  świata na nasze szukanie
@@ -44,7 +44,7 @@ Odpowiedz  świata na nasze szukanie
 
 Powstaje  pytanie:
 
-* Czy to znaczy, że człowiek XXIw nie szuka w ogole? (Szuka – ale jakie sprawy zabierają mu najwięcej czasu? (nie pytamy jakie są dla niego najważniejsze))
+* Czy to znaczy, że człowiek XXIw nie szuka w ogóle? (Szuka – ale jakie sprawy zabierają mu najwięcej czasu? (nie pytamy jakie są dla niego najważniejsze))
 
 Tworzymy wspólnie listę, przykład:
 * W co się rano ubrać?
@@ -68,7 +68,7 @@ Człowiek XXIw zatem szuka i to całkiem sporo.
 
 * Jaką nazwę byście nadali zasadzie która tutaj panuje?
 
-To zasada, którą można najkrócej określić jako: „Szukasz czegoś? Masz to!”.
+To zasada, którą można najkrócej określić jako: "Szukasz czegoś? Masz to!".
 
 ==========================================
 Odpowiedź Pisma Świętego na nasze szukanie
@@ -84,17 +84,17 @@ Na naszych wspólnych spotkaniach często mogą nam umykać różne rzeczy, któ
 
 * Jaka tutaj jest zasada? Jakbyście ją określili?
 
-To zasada, którą można określić jako: **„Szukasz czegoś? Szukaj tego całym sercem i nieustannie!”.**
+To zasada, którą można określić jako: **"Szukasz czegoś? Szukaj tego całym sercem i nieustannie!".**
 
 Jaka jest różnica w tych dwóch różnych podejściach? Oba wydają się przecież dobre. Co w tym złego, że ktoś wyświadczy nam przysługę i szybko otrzymamy to czego potrzebujemy? Zobaczmy to na konkretnym przykładzie:
 
-**Zasada: „Szukasz czegoś? Masz to!”**
+**Zasada: "Szukasz czegoś? Masz to!"**
    - Szukasz we mnie przyjaciela?
    - Masz przyjaciela!
 
 Nie brzmi źle, prawda? Ale popatrzmy:
 
-**Zasada: „Szukasz czegoś? Szukaj tego całym sercem i nieustannie!”**
+**Zasada: "Szukasz czegoś? Szukaj tego całym sercem i nieustannie!"**
    - Szukasz we mnie przyjaciela?
    - Szukaj go we mnie całym sercem i nieustannie!
 
@@ -112,7 +112,7 @@ Szukam, bo mi powiedzieli, że tego chcę
 
 .. note:: ten punk, można zreferować. Umieszczam go tutaj ze względu na znaczną rozpiętość wieku naszych uczestników – być może będą grupy gdzie ten temat będzie najowocniejszy
 
-Popatrzmy raz jeszcze na listę, którą utworzyliśmy – „czego szuka człowiek XXIw”. Ile razy zdarzyło wam się tak, że wchodząc do sklepu wcale nie szukaliście jakiegoś produktu, ale go kupiliście?
+Popatrzmy raz jeszcze na listę, którą utworzyliśmy – "czego szuka człowiek XXIw". Ile razy zdarzyło wam się tak, że wchodząc do sklepu wcale nie szukaliście jakiegoś produktu, ale go kupiliście?
 
 * Czego szukamy co tak naprawdę jest czymś nam narzuconym, czymś czego być może tak naprawdę nie potrzebujemy?
 
@@ -124,28 +124,28 @@ Przykłady:
 Wszystkie te rzeczy bezpośrednio lub mniej polegają na tym, że ktoś nam mówi, że znajdziemy szczęście gdzieś gdzie go nie ma!
 
 ==========================================
-Mówię, że szukam „A”, a wypatruję „B”
+Mówię, że szukam "A", a wypatruję "B"
 ==========================================
 
 .. note:: ten punkt jest kluczowy! Jest to explicite realizacja drugiego celu spotkania. Przeznaczyć mu odpowiednio dużo czasu, gdyż jest to zasadnicza praca grupy
 
-Mówiliśmy o manipulacji nas przez „świat” w kwestii kierunku naszych poszukiwań. Nie jest to jednak jedyne jej źródło. Istnieje jeszcze jedno, o wiele trudniejsze do odkrycia – jesteśmy nim my sami.
+Mówiliśmy o manipulacji nas przez "świat" w kwestii kierunku naszych poszukiwań. Nie jest to jednak jedyne jej źródło. Istnieje jeszcze jedno, o wiele trudniejsze do odkrycia – jesteśmy nim my sami.
 
-Będziemy teraz omawiać różne nasze „poszukiwania”. Za każdym razem starajmy się zobaczyć maksymalnie szeroko czego tak naprawdę można szukać przy okazji tej czynności! Próbujmy zrozumieć mechanizm, który powoduje takie rozbieżności, że „mówię, że szukam A, a wypatruję tak naprawdę B”. **Podzielmy się głównie takimi skojarzeniami, które znamy z własnego życia, na których sami się „chwytamy”**.  Każdy z nas posiada naturalny psychologiczny mechanizm obronny, który sugeruje nam, że *„przecież my nie! My zawsze jak myślimy to dokładnie tak samo robimy”*. Praca w grupie nad poszczególnymi sytuacjami może sprawić, że ktoś inny zasugeruje taką odpowiedź przed którą my właśnie sami siebie bronimy. Wykorzystajmy zatem dobrze warunki, które mamy tutaj i spróbujmy coś w swoim życiu zauważyć. Na część przykładów będzie można było wymienić milion przykładów
-„pobożnych”  - nie wypisujmy ich jeżeli ich nie ma w naszym życiu!
+Będziemy teraz omawiać różne nasze "poszukiwania". Za każdym razem starajmy się zobaczyć maksymalnie szeroko czego tak naprawdę można szukać przy okazji tej czynności! Próbujmy zrozumieć mechanizm, który powoduje takie rozbieżności, że "mówię, że szukam A, a wypatruję tak naprawdę B". **Podzielmy się głównie takimi skojarzeniami, które znamy z własnego życia, na których sami się "chwytamy"**.  Każdy z nas posiada naturalny psychologiczny mechanizm obronny, który sugeruje nam, że *"przecież my nie! My zawsze jak myślimy to dokładnie tak samo robimy"*. Praca w grupie nad poszczególnymi sytuacjami może sprawić, że ktoś inny zasugeruje taką odpowiedź przed którą my właśnie sami siebie bronimy. Wykorzystajmy zatem dobrze warunki, które mamy tutaj i spróbujmy coś w swoim życiu zauważyć. Na część przykładów będzie można było wymienić milion przykładów
+"pobożnych"  - nie wypisujmy ich jeżeli ich nie ma w naszym życiu!
 
-.. note:: Warto podać tutaj przykład: Załóżmy, że mielibyśmy odpowiadać na pytanie „Kim jest dla mnie Maryja?”. Zaiste poprawną odpowiedzią jest „Arką przymierza” albo „Wieżą z Kości Słoniowej” (patrz. Litania Loretańska), ale jeżeli dla nikogo z nas te określenia nie są bliskie sercu to podarujmy je – spotykaliśmy się po to, aby podzielić się własnym doświadczeniem, a nie pisać encyklopedie!
+.. note:: Warto podać tutaj przykład: Załóżmy, że mielibyśmy odpowiadać na pytanie "Kim jest dla mnie Maryja?". Zaiste poprawną odpowiedzią jest "Arką przymierza" albo "Wieżą z Kości Słoniowej" (patrz. Litania Loretańska), ale jeżeli dla nikogo z nas te określenia nie są bliskie sercu to podarujmy je – spotykaliśmy się po to, aby podzielić się własnym doświadczeniem, a nie pisać encyklopedie!
 
-Za każdym razem używamy formy **„Czego szukamy/szukasz w …….?”** To pytanie ma usłyszeć każdy po kilka razy! Musi się skonfrontować z odnalezieniem na nie odpowiedzi! To Cel wychowawczy tego spotkania.
+Za każdym razem używamy formy **"Czego szukamy/szukasz w .......?"** To pytanie ma usłyszeć każdy po kilka razy! Musi się skonfrontować z odnalezieniem na nie odpowiedzi! To Cel wychowawczy tego spotkania.
 
-Poniżej przedstawiam **proponowane przykłady** do omówienia. Sugeruje w podobny sposób dokonać pewnej ich dynamiki – od „banalnych”, które pozwolą zrozumieć o co biega do istotnych. **Uczestnicy mogą sami dawać przykłady! Jest o zalecane jeżeli pozwala na to czas**. Jest nawet wskazane, aby ten punkt spotkania przerodził się w swobodną rozmowę.
+Poniżej przedstawiam **proponowane przykłady** do omówienia. Sugeruje w podobny sposób dokonać pewnej ich dynamiki – od "banalnych", które pozwolą zrozumieć o co biega do istotnych. **Uczestnicy mogą sami dawać przykłady! Jest o zalecane jeżeli pozwala na to czas**. Jest nawet wskazane, aby ten punkt spotkania przerodził się w swobodną rozmowę.
 
 * Kupuję Pepsi
    * Szukam zaspokojenia pragnienia
-   * Szukam zadowolenia „bo jestem sobą” (aluzja do reklamy)
+   * Szukam zadowolenia "bo jestem sobą" (aluzja do reklamy)
    *  Szukam czegoś co ma kofeinę i sprawi, że nie zasnę na wykładzie
 * W niedzielnym kazaniu
-   * Słowa „Amen”
+   * Słowa "Amen"
    * Błędu teologicznego
    * Czegoś co zgadza się z moim podejściem
    * Czegoś nowego co zmieni moje podejście
@@ -158,7 +158,7 @@ Poniżej przedstawiam **proponowane przykłady** do omówienia. Sugeruje w podob
    * Nawrócenia
 * W otwieraniu Pisma Świętego
    * Słowa Boga do mnie tu i teraz
-   * Aforyzmu, najlepiej o miłości, takiego „fajnego”
+   * Aforyzmu, najlepiej o miłości, takiego "fajnego"
    * Modlitwy
    * Poznania nowych faktów, żeby móc się wykazać w piątek
    * Sprzeczności, żeby mieć o co się pokłócić z księdzem
@@ -194,7 +194,7 @@ Zadać pytania:
 
 * Czy ktoś zadawał wam te pytanie wcześniej? Kto?
 
-*„To pytanie to początek każdej drogi wiary” (Jan Paweł II)*. Dlatego tyle razy powtarzaliśmy je na tym spotkaniu. Musimy wiedzieć czego naprawdę szukamy. Musimy wiedzieć czego chcemy szukać. Gdy już odkryjemy te dwie sprawy pozostaje nam walczyć o to, aby między nimi nie było konfliktu, a jedność. Jedność życia i myśli. Jest to trudne. Często się nie udaje, sami wiemy najlepiej. Szukamy w sobie braków, wad, niedoskonałości, czegoś co dzisiaj świat może ulepszyć. Nosimy w sobie taką wizję szczęścia, której poszukujemy… po drodze omijając to czym jest prawdziwe szczęście.
+*"To pytanie to początek każdej drogi wiary" (Jan Paweł II)*. Dlatego tyle razy powtarzaliśmy je na tym spotkaniu. Musimy wiedzieć czego naprawdę szukamy. Musimy wiedzieć czego chcemy szukać. Gdy już odkryjemy te dwie sprawy pozostaje nam walczyć o to, aby między nimi nie było konfliktu, a jedność. Jedność życia i myśli. Jest to trudne. Często się nie udaje, sami wiemy najlepiej. Szukamy w sobie braków, wad, niedoskonałości, czegoś co dzisiaj świat może ulepszyć. Nosimy w sobie taką wizję szczęścia, której poszukujemy... po drodze omijając to czym jest prawdziwe szczęście.
 
 Przeczytać:
 
@@ -202,11 +202,11 @@ Przeczytać:
 
    -- Pwt 30, 11–14
 
-Aby wypełnić wolę Boga (pełnia szczęścia) nie musimy szukać „niewiadomo gdzie”. Wszystko jest nam dane i jest bliżej nas niż byśmy myśleli! Jest dosłownie w nas.
+Aby wypełnić wolę Boga (pełnia szczęścia) nie musimy szukać "nie wiadomo gdzie". Wszystko jest nam dane i jest bliżej nas niż byśmy myśleli! Jest dosłownie w nas.
 
-* Czy wierzycie, że „nie trzeba szukać daleko”?
+* Czy wierzycie, że "nie trzeba szukać daleko"?
 
-* Czy doświadczyliście czegoś takiego, że szukaliście „daleko” czegoś co było koło was?
+* Czy doświadczyliście czegoś takiego, że szukaliście "daleko" czegoś co było koło was?
 
 ==========================================
 Zastosowanie
@@ -217,7 +217,7 @@ Zastosowaniem z naszego spotkania niech będzie wybranie sobie jednego elementu 
 * Jestem tu i teraz – wezmę zaraz w czymś udział. Czego w tym szukam?
 
 ==========================================
-Modlitwa koncowa
+Modlitwa końcowa
 ==========================================
 
-Zakończmy to spotkanie modlitwą spontaniczną.  Najpierw niech bydzie to modlitwa dziękczynienia za to ze jesteśmy **"poszukującymi" Boga i ,poszukiwanymi" przez Boga**. Jezeli czas pozwoli to później modlitwa prośby w której poprosimy Ducha Swiytego o prowadzenie w naszym poszukiwaniu.
+Zakończmy to spotkanie modlitwą spontaniczną.  Najpierw niech będzie to modlitwa dziękczynienia za to ze jesteśmy **"poszukującymi" Boga i ,poszukiwanymi" przez Boga**. Jeżeli czas pozwoli to później modlitwa prośby w której poprosimy Ducha Świętego o prowadzenie w naszym poszukiwaniu.

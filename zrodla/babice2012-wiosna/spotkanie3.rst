@@ -3,7 +3,7 @@ Spotkanie 3 - Kim jest i jak działa Duch Święty?
 ***************************************************************************
 
 ==================================
-Wproawdzenie dla animatora
+Wprowadzenie dla animatora
 ==================================
 
 To spotkanie, może się wydawać krótkie. Jest w nim bufor czasowy tak odnośnie całych rekolekcji, aby popytać grupę o działanie Ducha Świętego, może wyjdzie rozmowa o charyzmatach epifanijnych itd. Myślę, że potrzeba tutaj naszej elastyczności.
@@ -18,13 +18,13 @@ Namiot Spotkania - dzielenie.
 Przypomnienie podstawowych faktów o tym kim jest Duch Święty
 ============================================================
 
-Zanim sięgniemy po Pismo Święte spróbujmy “zagaić” temat i zadać kilka pytań odwołujących się do dotychczasowej wiedzy uczestników o osobie Ducha Świętego (panując nad czasem i pilnując aby “nie popłynąć”):
+Zanim sięgniemy po Pismo Święte spróbujmy "zagaić" temat i zadać kilka pytań odwołujących się do dotychczasowej wiedzy uczestników o osobie Ducha Świętego (panując nad czasem i pilnując aby "nie popłynąć"):
 
 * Co wiecie o Duchu Świętym? Co to za postać? Czemu jest taka ważna?
 
 * Co na Jego temat powiedzielibyśmy mając do czynienia z fanem Wikipedii?
 
-Pismo Święte jest skarbnicą wiedzy, sięgnijmy zatem do Niego, aby co nie co sobie przypomnieć, odświeżyć a może i odkryć. Przeczytamy kilka fragmentów ze Starego i Nowego Testamentu.  Animator  ma  przygotowane kartki  sygnaturką  na  każdym  z  nich. Wyciąga kolejno kartki (uczestnicy nie widzą ile ich animator jeszcze ma) i wszyscy czytają fragment na nim podany po czym zapisują na kartce “co wiemy o Duchu Świętym”.
+Pismo Święte jest skarbnicą wiedzy, sięgnijmy zatem do Niego, aby co nie co sobie przypomnieć, odświeżyć a może i odkryć. Przeczytamy kilka fragmentów ze Starego i Nowego Testamentu.  Animator  ma  przygotowane kartki  sygnaturką  na  każdym  z  nich. Wyciąga kolejno kartki (uczestnicy nie widzą ile ich animator jeszcze ma) i wszyscy czytają fragment na nim podany po czym zapisują na kartce "co wiemy o Duchu Świętym".
 
 Duch Święty w ST:
 
@@ -90,9 +90,9 @@ Uczestnicy w czasie odkrywania kolejnych puzzli prawdopodobnie będą na bieżą
 
 * Czemu ich nie mamy? Jak myślicie?
 
-Tutaj uczestnicy mogą iść bardzo różnymi drogami w interpretacji. Fajnie, aby nie padły herezje (np. “Pismo Święte nie jest kompletne” :D) - wtedy prostujcie. Dwie myśli, które wyłapujemy lub na które naprowadzamy:
+Tutaj uczestnicy mogą iść bardzo różnymi drogami w interpretacji. Fajnie, aby nie padły herezje (np. "Pismo Święte nie jest kompletne" :D) - wtedy prostujcie. Dwie myśli, które wyłapujemy lub na które naprowadzamy:
 
-	* Brakuje tutaj doświadczenia Ducha Świętego. O Duchu można czytać dużo, ale poznać go można tylko w doświadczeniu i jest to ważna “cecha Ducha”
+	* Brakuje tutaj doświadczenia Ducha Świętego. O Duchu można czytać dużo, ale poznać go można tylko w doświadczeniu i jest to ważna "cecha Ducha"
 	* Brakuje tutaj niektórych puzzli bo nikt nie wie jaki one mają kształt i czym są. Duch Święty ma jedną ważną cechę - jest nieuchwytny. Nawet Kościół nie wie o nim wszystkiego. Jest w Nim tajemnica. Wymaka się On nieustannie naszym próbą usystematyzowania wiedzy na Jego temat. Dlatego ożywia i zaskakuje, bo przynosi Nowe i nieznane.
 
 * Jak to rozumiecie? (niepozorne pytanie, ale kluczowe!)
@@ -103,7 +103,7 @@ Tutaj uczestnicy mogą iść bardzo różnymi drogami w interpretacji. Fajnie, a
 Duch nadaje i odkrywa przed nami sens
 =========================================
 
-Możnaby jeszcze wiele o Duchu powiedzieć, ale na potrzeby tego spotkania zaakcentujmy szczególnie ten ostatni fakt - Duch Święty jako ten, którego dostajemy po to, aby uzdolnił nas do wiary (“ otrzymacie Jego moc i będziecie moimi świadkami...”), jako brakujący element układanki jaką jest nasza wiara, bez którego pozostaje ona tylko pobożną gadaniną, czymś co możemy powtarzać całe życie nie czując tego kompletnie. Tak jak np. autor tego demotywatora:
+Można by jeszcze wiele o Duchu powiedzieć, ale na potrzeby tego spotkania zaakcentujmy szczególnie ten ostatni fakt - Duch Święty jako ten, którego dostajemy po to, aby uzdolnił nas do wiary (" otrzymacie Jego moc i będziecie moimi świadkami..."), jako brakujący element układanki jaką jest nasza wiara, bez którego pozostaje ona tylko pobożną gadaniną, czymś co możemy powtarzać całe życie nie czując tego kompletnie. Tak jak np. autor tego demotywatora:
 
 .. image:: demotywator.*
    :align: center
@@ -118,7 +118,7 @@ Narzędziem, którym Kościół posługuje się celem poprowadzenia ku takiej w�
 
 * Na co położony jest akcent w tych słowach?
 
-Na to szczególne działanie Ducha związane z uzdalnianiem i umacnianiem do wiary. Nie mówimy - Pragniemy żeby Duch Święty sprawił że będę go mocno czuł i już nigdy nie zapomniał, że w unosił się nad wodami jak głosi Księga Rodzaju...- nie tyle emocje i wiedza, co “mężne wyznawanie wiary”
+Na to szczególne działanie Ducha związane z uzdalnianiem i umacnianiem do wiary. Nie mówimy - Pragniemy żeby Duch Święty sprawił że będę go mocno czuł i już nigdy nie zapomniał, że w unosił się nad wodami jak głosi Księga Rodzaju...- nie tyle emocje i wiedza, co "mężne wyznawanie wiary"
 
 =========================================
 Od słuchania i czytania do wołania!
@@ -132,7 +132,7 @@ I co z tego wynika? Bo my tak tutaj sobie dużo mówimy na tych rekolekcjach. Sp
 * Dzięki  Niemu  już  nie  musisz  rozumieć,  bardziej  zaczynasz  się  oddawać  i  wierzyć właśnie dlatego, że nie ogarniasz zmysłami. To naprawdę łaska. Wierzyć pomimo, wierzyć trochę może wbrew.
 * I myśl na przyszłość : Nie próbujmy bez Ducha Świętego zrozumieć chrześcijaństwa, bo to nie ma sensu.
 
-Przed nami modlitwa wieczorna z wołaniem o Ducha Świętego. Skoro doszliśmy do tego, że On jest nieuchwytny w definicje, to nie próbujmy już tego pod koniec tego spotkania robić. Zatem w tym miejscu nie opowiemy i nie zdefiniujemy takiej modlitwy, jej cech charakterystycznych i nie nakreślimy wykresu “żaru modlitwy” w kolejnych minutach. To jest miejsce na świadectwo animatora. Cel? Zaświadczyć o tym, że Duch radykalnie zmienia wszystko w życiu, rodzi na nowo, rozpala ogień, zmienia optykę, wlewa gorliwość i zapał, przemienia serca, uzdalnia do wiary, prowadzi nas w miejsca o których wcześniej byśmy nie pomyśleli, podtrzymuje stworzenie w istnieniu, nieustannie łączy Kościół więzami miłości, kruszy niewiarę, pomaga w  głoszeniu  Chrystusa, modli  się  w  nas  gdy  my  nie  potrafimy... a  wszystko zaczyna  się od zawołania “Przybądź Duchu Stworzycielu!”. Jako twórcy konspektu mamy głębokie przekonanie, że jest w czym wybierać i na pewno wiecie co wybrać. Powodzenia!
+Przed nami modlitwa wieczorna z wołaniem o Ducha Świętego. Skoro doszliśmy do tego, że On jest nieuchwytny w definicje, to nie próbujmy już tego pod koniec tego spotkania robić. Zatem w tym miejscu nie opowiemy i nie zdefiniujemy takiej modlitwy, jej cech charakterystycznych i nie nakreślimy wykresu "żaru modlitwy" w kolejnych minutach. To jest miejsce na świadectwo animatora. Cel? Zaświadczyć o tym, że Duch radykalnie zmienia wszystko w życiu, rodzi na nowo, rozpala ogień, zmienia optykę, wlewa gorliwość i zapał, przemienia serca, uzdalnia do wiary, prowadzi nas w miejsca o których wcześniej byśmy nie pomyśleli, podtrzymuje stworzenie w istnieniu, nieustannie łączy Kościół więzami miłości, kruszy niewiarę, pomaga w  głoszeniu  Chrystusa, modli  się  w  nas  gdy  my  nie  potrafimy... a  wszystko zaczyna  się od zawołania "Przybądź Duchu Stworzycielu!". Jako twórcy konspektu mamy głębokie przekonanie, że jest w czym wybierać i na pewno wiecie co wybrać. Powodzenia!
 
 * Czy myślisz ze jesteś w stanie przyjść na modlitwę bez pomysłu na to jak ona będzie wyglądała i jak ty ja poprowadzisz tylko dając się poprowadzić?
 
@@ -140,13 +140,13 @@ Przed nami modlitwa wieczorna z wołaniem o Ducha Świętego. Skoro doszliśmy d
 Podsumowanie
 =========================================
 
-Na końcu spotkania powinno raz jeszcze wybrzmieć to, że kilka elementów układanki zostało pustych. Niech wieńczy je konkluzja, że nie możemy "dokończyć Nieuchwytnego", że w Duchu są takie obszary, takie cechy których my nie umiemy podać na talerzu na tym spotkaniu grupowym. Elementy, które Ty poznasz w relacji z Duchem i będą “wasze” i że do poznania tego jesteśmy zaproszeni. Duch chce z nami współpracować i chce nam to pokazywać, On zawsze czeka na nasze zawołanie sercem “Przyjdź Duchu Święty”. To zawołanie będzie możliwe dzisiaj wieczorem.
+Na końcu spotkania powinno raz jeszcze wybrzmieć to, że kilka elementów układanki zostało pustych. Niech wieńczy je konkluzja, że nie możemy "dokończyć Nieuchwytnego", że w Duchu są takie obszary, takie cechy których my nie umiemy podać na talerzu na tym spotkaniu grupowym. Elementy, które Ty poznasz w relacji z Duchem i będą "wasze" i że do poznania tego jesteśmy zaproszeni. Duch chce z nami współpracować i chce nam to pokazywać, On zawsze czeka na nasze zawołanie sercem "Przyjdź Duchu Święty". To zawołanie będzie możliwe dzisiaj wieczorem.
 
 =========================================
 Zastosowanie
 =========================================
 
-Zastanów się i nazwij po imieniu sprawę/obszar/rzecz w Twoim życiu, w którym może nie do końca jesteś jeszcze gotowy być otwartym na działanie Ducha. Jak już nazwiesz to otwarcie, to powiedz o tym Bogu, że tak jest. Tak po prostu np. “Panie Boże wiem, że w sprawie …... wydaje mi się, że najmniej potrafię otworzyć się na działanie Twojego Ducha. Mam tego świadomość i z tym przed Tobą staje.” Pan Bóg Cię nie pogoni ....On lubi i ceni szczerość. Dobrze by było jakby się udało to zrobić w dowolnej chwili przed modlitwą wieczorną.
+Zastanów się i nazwij po imieniu sprawę/obszar/rzecz w Twoim życiu, w którym może nie do końca jesteś jeszcze gotowy być otwartym na działanie Ducha. Jak już nazwiesz to otwarcie, to powiedz o tym Bogu, że tak jest. Tak po prostu np. "Panie Boże wiem, że w sprawie ... wydaje mi się, że najmniej potrafię otworzyć się na działanie Twojego Ducha. Mam tego świadomość i z tym przed Tobą staje." Pan Bóg Cię nie pogoni ... On lubi i ceni szczerość. Dobrze by było jakby się udało to zrobić w dowolnej chwili przed modlitwą wieczorną.
 
 =========================================
 Zastosowanie

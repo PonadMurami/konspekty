@@ -12,7 +12,7 @@ Dydaktyczny:
    Uczestnicy poznają obrazy Wspólnoty Kościoła, potrafią je interpretować oraz odnieść do codziennego życia.
 
 Wychowawczy:
-   Uczestnicy zdobywają odwagę do bycia częścią wspólnoty (to nie znaczy, że muszą już ją wybrać!), konfrontują strefę życzeniową swojego życia (ja chciałbym, ja marzę o…) z gotowością do wykonania konkretnego kroku w tym kierunku.
+   Uczestnicy zdobywają odwagę do bycia częścią wspólnoty (to nie znaczy, że muszą już ją wybrać!), konfrontują strefę życzeniową swojego życia (ja chciałbym, ja marzę o...) z gotowością do wykonania konkretnego kroku w tym kierunku.
 
 ==================================
 Wprowadzenie dla animatora
@@ -32,7 +32,7 @@ Grupa skłonna do modlitwy:
    spontaniczną do Ducha Świętego, albo w ogóle spontaniczną np. dziękczynną.
 
 Grupa mająca trudności z formowaniem własnych wezwań:
-   animator podaje wezwania reszta powtarza “przyjdź Duchu Święty” lub “dziękujemy Ci Panie”.
+   animator podaje wezwania reszta powtarza "przyjdź Duchu Święty" lub "dziękujemy Ci Panie".
 
 =========================================
 Wprowadzenie do spotkania
@@ -50,7 +50,7 @@ Podzielmy się przeżyciem wczorajszej modlitwy wieczornej:
 
 * Czy przyjąłeś Jezusa jako Zbawiciela i Pana? Czy były inne momenty w tym dniu, o których chciałbyś opowiedzieć?
 
-Dzisiaj na spotkaniu chcemy zająć się tym co będzie po  powrocie do domu,  naszą nową drogą…..
+Dzisiaj na spotkaniu chcemy zająć się tym co będzie po  powrocie do domu,  naszą nową drogą.....
 
 =========================================
 Czeka nas droga
@@ -58,7 +58,7 @@ Czeka nas droga
 
 Pomyślmy sobie: niech każdy z nas przypomni sobie jedną sytuację, gdy wyjeżdżał w podróż, na którą długo czekał, na którą nie mógł się doczekać.
 
-* Jak się wtedy czułeś? (radość, podekscytowanie, chęć doznania czegoś nowego,…)
+* Jak się wtedy czułeś? (radość, podekscytowanie, chęć doznania czegoś nowego,...)
 
 * Dlaczego tak się czuliśmy?
 
@@ -76,7 +76,7 @@ Spójrzmy, co Kościół mówi na temat wychodzenia w drogę, wędrówki:
 
 * Czy czujesz że stoisz na rozdrożu i nie wiesz gdzie iść?
 
-Ewangelia jest odpowiedzią na nasze najgłębsze potrzeby, często na to, o czym nie wiemy, a czego tak potrzebujemy. Papież nie mówi jakie decyzje masz podjąć i kim masz być! Nie mówi, że “skrzyżowania dróg” to jakaś nasza pomyłka, że nie powinniśmy ich mieć. Rozterki “wyboru drogi” są wpisane w życie tych, którzy decydują się na opuszczenie swoich dotychczasowych czterech ścian życia.
+Ewangelia jest odpowiedzią na nasze najgłębsze potrzeby, często na to, o czym nie wiemy, a czego tak potrzebujemy. Papież nie mówi jakie decyzje masz podjąć i kim masz być! Nie mówi, że "skrzyżowania dróg" to jakaś nasza pomyłka, że nie powinniśmy ich mieć. Rozterki "wyboru drogi" są wpisane w życie tych, którzy decydują się na opuszczenie swoich dotychczasowych czterech ścian życia.
 
 =========================================
 Wypłyń na głębię!
@@ -234,7 +234,7 @@ Podpowiedzi dla animatora:
    mamy jednego Pasterza, który troszczy się o nas, a gdy się zabłąkamy  przyjmuje nas z radością z powrotem. Owce ufają Pasterzowi, bo On wie gdzie są soczyste pastwiska dla nich. Owce znają swojego Pasterza i są wierne. Pasterz zna swoje owce i jest gotów życie za nie ryzykować.
 
 **Nowe Jeruzalem:**
-   miasto, które zgromadzi wszystkich sprawiedliwych świata. Miasto jest miejscem życia, czymś “na stałe”. Miasto jest zbudowane wokół czegoś - rynku/katedry co je zespala. Równocześnie jego “budulcem” są nie pomniki lecz domy rodzinne - pomniki w mieście to afirmacja tego, co dzieje się w domach mieszkańców. Miasto jest otwarte na podróżujących i przyjmuje ich pozwalając zachwycić się sobą i “czytać” swoją historie i dziedzictwo.
+   miasto, które zgromadzi wszystkich sprawiedliwych świata. Miasto jest miejscem życia, czymś "na stałe". Miasto jest zbudowane wokół czegoś - rynku/katedry co je zespala. Równocześnie jego "budulcem" są nie pomniki lecz domy rodzinne - pomniki w mieście to afirmacja tego, co dzieje się w domach mieszkańców. Miasto jest otwarte na podróżujących i przyjmuje ich pozwalając zachwycić się sobą i "czytać" swoją historie i dziedzictwo.
 
 **Ciało Chrystusa:**
    gdy boli mnie  noga, to cała jestem smutna i źle się czuję, gdy jeden z  nas cierpli inni powinni odczuwać. Jeden członek nie wejdzie na Mont Everest - tylko współpraca wszystkich członków ciała do tego doprowadzi.
@@ -253,9 +253,9 @@ Podsumujmy to odczytując fragment Konstytucji Dogmatycznej o Kościele:
 Ja we wspólnocie?
 =========================================
 
-Analizując takie obrazy nachodzi nas myśl - czy oglądam coś przez szybę, witrynę sklepową, co jest obce i odległe? A może jest mi to w jakiś sposób bliskie, jest “moje”? Czy żyję we wspólnocie? Czy ważna jest dla mnie wspólnota?
+Analizując takie obrazy nachodzi nas myśl - czy oglądam coś przez szybę, witrynę sklepową, co jest obce i odległe? A może jest mi to w jakiś sposób bliskie, jest "moje"? Czy żyję we wspólnocie? Czy ważna jest dla mnie wspólnota?
 
-.. note:: Grupa to nie to samo co wspólnota, jednak uważałbym na nadużywanie słowa “wspólnota” bo to słowo nie koniecznie dobrze się kojarzy osobom “z zewnątrz” (wspólnota mieszkaniowa). Dlatego polecamy wyjść naprzeciw uczestnikowi i użyć świadomie słowa mniej poprawnego znaczeniowo jednak bliższego jego życiu. Różnicowanie grupy i wspólnoty nie jest celem tego fragmentu spotkania choć może się nim stać według rozeznania animatora.
+.. note:: Grupa to nie to samo co wspólnota, jednak uważałbym na nadużywanie słowa "wspólnota" bo to słowo nie koniecznie dobrze się kojarzy osobom "z zewnątrz" (wspólnota mieszkaniowa). Dlatego polecamy wyjść naprzeciw uczestnikowi i użyć świadomie słowa mniej poprawnego znaczeniowo jednak bliższego jego życiu. Różnicowanie grupy i wspólnoty nie jest celem tego fragmentu spotkania choć może się nim stać według rozeznania animatora.
 
 * W jakich wspólnotach/grupach  uczestniczysz?(klasowej, drużyna sportowa, klan w grze MORPG itd.)
 
@@ -267,7 +267,7 @@ Przeczytajmy:
 
    -- ks. Józef Tischner
 
-* Jak rozumiesz słowa “nikt nie jest samotną wyspą”?
+* Jak rozumiesz słowa "nikt nie jest samotną wyspą"?
 
 * Co to dla Ciebie oznacza? Czy doświadczyłeś/aś tego w swoim życiu?
 
@@ -279,15 +279,15 @@ Można w tym miejscu rozwinąć myśl. Dlaczego człowiek jest stworzony w relac
 
    -- Rdz 1,26-27
 
-* Dlaczego użyta jest liczba mnoga “uczyńmy”? (Bo Bóg jest trójjedyny)
+* Dlaczego użyta jest liczba mnoga "uczyńmy"? (Bo Bóg jest trójjedyny)
 
 * Mówiąc o stworzeniu (jednego) człowieka mówi, że kogo stworzył? (mężczyznę i niewiastę)
 
 * Jak to rozumiemy? Dlaczego wspólnota?
 
-Człowiek żyje we wspólnocie, bo już od momentu stworzenia jest do niej powołany. Stworzony jest na obraz Boży, Bóg zaś w swej naturze jest wspólnotą osób. Dlatego nie jesteśmy samotnymi wyspami, dlatego potrzebujemy drugich, aby się rozwijać. Każdy z nas dostał różne dary - dzięki temu jesteśmy wzajemnie sobie potrzebni. Nasze istnienie jest “zaprojektowane” w ten sposób, abyśmy siebie szukali i odnajdywali.
+Człowiek żyje we wspólnocie, bo już od momentu stworzenia jest do niej powołany. Stworzony jest na obraz Boży, Bóg zaś w swej naturze jest wspólnotą osób. Dlatego nie jesteśmy samotnymi wyspami, dlatego potrzebujemy drugich, aby się rozwijać. Każdy z nas dostał różne dary - dzięki temu jesteśmy wzajemnie sobie potrzebni. Nasze istnienie jest "zaprojektowane" w ten sposób, abyśmy siebie szukali i odnajdywali.
 
-To jest miejsce na drugie (krótkie) świadectwo animatora o doświadczeniu wspólnoty Kościoła. O spotkaniu drugiego, który jest Inny, ale przez to pasjonujący o tym, że Galatei nie da się szczęśliwie pokochać! O tym, jak te spotkania nas zmieniają i pozwalają w relacji z drugim rozwinąć w pełni swoje talenty i odkryć sens “bycia dla”.
+To jest miejsce na drugie (krótkie) świadectwo animatora o doświadczeniu wspólnoty Kościoła. O spotkaniu drugiego, który jest Inny, ale przez to pasjonujący o tym, że Galatei nie da się szczęśliwie pokochać! O tym, jak te spotkania nas zmieniają i pozwalają w relacji z drugim rozwinąć w pełni swoje talenty i odkryć sens "bycia dla".
 
 .. note:: Mitologia grecka: Pigmalion był zapalonym rzeźbiarzem i wyrzeźbił w kości słoniowej swój ideał kobiety (nazwał ją Galateą). Rzeźba była wykonana perfekcyjnie, a odróżnić ją od prawdziwej kobiety można było tylko przez dotyk. Pigmalion obdarowywał ją kwiatami i prezentami, przebierał także w wytworne suknie. Za sprawą Afrodyty, która usłuchała modłów króla podczas wiosennych obchodów jej święta, rzeźba ożyła podczas jego pieszczot. Mimo, że związek ten zaowocował córką Pafos to Pigmalion był człowiekiem głęboko nieszczęśliwym, bo nie było w jego żonie niczego czego by nie znał, żadnej tajemnicy.
 
@@ -301,7 +301,7 @@ O wierze, która jest przygodą
 
 Na koniec spotkania przeczytajmy świadectwo (**bez podawania  autora**):
 
-   Wiara zawsze zawiera coś z wielkiej przygody, zrywu i skoku, bo jest zawsze ryzykiem, że się przyjmie jako rzeczywiste i podstawowe to, czego bezpośrednio nie widać.(...) Wiara nigdy nie jest ot tak, po prostu obecna, nigdy nie mogę powiedzieć: mam wiarę, inni jej nie mają.(…) Wiara zawsze pozostaje drogą. Dopóki żyjemy, zawsze nad wiarą wisi groźba i udręka. Jest wspinaczką, dzięki której przybliżamy się do Boga”
+   Wiara zawsze zawiera coś z wielkiej przygody, zrywu i skoku, bo jest zawsze ryzykiem, że się przyjmie jako rzeczywiste i podstawowe to, czego bezpośrednio nie widać.(...) Wiara nigdy nie jest ot tak, po prostu obecna, nigdy nie mogę powiedzieć: mam wiarę, inni jej nie mają.(...) Wiara zawsze pozostaje drogą. Dopóki żyjemy, zawsze nad wiarą wisi groźba i udręka. Jest wspinaczką, dzięki której przybliżamy się do Boga"
 
    -- kard. Joseph Ratzinger
 
@@ -309,19 +309,19 @@ Na koniec spotkania przeczytajmy świadectwo (**bez podawania  autora**):
 
 * Jak wyobrażacie sobie kogoś kto mówi takie słowa?
 
-Animator z błyskiem w oku zbiera i podsumowuje: To słowa Papieża uważanego przez wielu za najbardziej konserwatywnego (żeby nie powiedzieć “sztywnego”) w ostatnich latach - Benedykta XVI. Czy kojarzy nam się, aby wiara tego papieża była taka? Często myśląc o wierze patrzymy przez kalki narzucając wiele stereotypów. Potrzeba osobistej determinacji, aby rozpocząć swoją drogę i przekonać się samemu jak jest.
+Animator z błyskiem w oku zbiera i podsumowuje: To słowa Papieża uważanego przez wielu za najbardziej konserwatywnego (żeby nie powiedzieć "sztywnego") w ostatnich latach - Benedykta XVI. Czy kojarzy nam się, aby wiara tego papieża była taka? Często myśląc o wierze patrzymy przez kalki narzucając wiele stereotypów. Potrzeba osobistej determinacji, aby rozpocząć swoją drogę i przekonać się samemu jak jest.
 
 Czy trzeba przeczytać 1000 książek? Czy trzeba kupić specjalny strój do modlitwy? Czy trzeba być po specjalnym kursie? Nie. Doświadczyliśmy tego wczoraj w czasie modlitwy wieczornej - potrzeba otwartego serca na działanie Boga. Duch Święty jest tym, który nas poprowadzi, umocni i obroni w naszej drodze. Nie dajemy wskazówek jak się z nim porozumieć, bo On jest koło Ciebie i czeka aż w Twoim sercu zrodzi się pragnienie Spotkania. Jeśli odpowiesz pozytywnie dzisiaj i każdego następnego dnia - rozpoczniesz swoją Wielką Przygodę, która nie będzie miała końca.
 
-.. centered:: **“Non nascuntur sed fiunt Christiani!”**
+.. centered:: **"Non nascuntur sed fiunt Christiani!"**
 
-.. centered:: “Nie rodzimy się, lecz stajemy chrześcijanami!”
+.. centered:: "Nie rodzimy się, lecz stajemy chrześcijanami!"
 
 =========================================
 Zastosowanie
 =========================================
 
-Napisać w notatniku 3 sprawy, które chciałbym/chciałabym wynieść z tych rekolekcji (teraz jeśli jest czas) i nie zapomnieć o nich za pół roku. Ustawić sobie w telefonie budzik/przypomnienie na 1 września 2014 roku z informacją “zajrzyj do notatnika z rekolekcji <Ponad Murami> i sprawdź, co tam napisałeś/aś!”.
+Napisać w notatniku 3 sprawy, które chciałbym/chciałabym wynieść z tych rekolekcji (teraz jeśli jest czas) i nie zapomnieć o nich za pół roku. Ustawić sobie w telefonie budzik/przypomnienie na 1 września 2014 roku z informacją "zajrzyj do notatnika z rekolekcji <Ponad Murami> i sprawdź, co tam napisałeś/aś!".
 
 Dodatkowo każdy uczestnik może oczywiście dodać do zastosowania coś swojego indywidualnego i się tym z innymi podzielić.
 
@@ -330,5 +330,5 @@ Modlitwa
 =========================================
 Modlitwa o umocnienie owoców tych rekolekcji w naszym życiu. Modlitwa za wybraną inną małą grupę wstawienniczo (!) o....
 
-.. note:: Grupa niech sama zdecyduje o co chce się modlić i za jaką grupę - uczymy się odpowiedzialności. Jeśli ktoś będzie miał troskę, że w ten sposób jakaś grupa może zostać “nieomodlona” proszę uspokoić i wskazać na Diakonię Modlitwy ;)
+.. note:: Grupa niech sama zdecyduje o co chce się modlić i za jaką grupę - uczymy się odpowiedzialności. Jeśli ktoś będzie miał troskę, że w ten sposób jakaś grupa może zostać "nieomodlona" proszę uspokoić i wskazać na Diakonię Modlitwy ;)
 

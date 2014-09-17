@@ -6,7 +6,7 @@ Spotkanie 3 - Jestem Oazowiczem – co z tego wynika?
 Cel i metoda spotkania
 =====================================
 
-W trzecim dniu rekolekcji  uczestnicy  już zdają sobie sprawę z tego, że oaza  to coś więcej niż „kółko religijne”. Znają też w zarysie wizję ks. F. Blachnickiego, dotyczącą zadań i metod Ruchu Światło-Życie. Nadszedł  więc czas na podjęcie konkretnych działań, dotyczących własnych parafialnych wspólnot oazowych. To spotkanie ma im pomóc w odkryciu potrzeb tych wspólnot i sposobów ich zaspokojenia.
+W trzecim dniu rekolekcji  uczestnicy  już zdają sobie sprawę z tego, że oaza  to coś więcej niż "kółko religijne". Znają też w zarysie wizję ks. F. Blachnickiego, dotyczącą zadań i metod Ruchu Światło-Życie. Nadszedł  więc czas na podjęcie konkretnych działań, dotyczących własnych parafialnych wspólnot oazowych. To spotkanie ma im pomóc w odkryciu potrzeb tych wspólnot i sposobów ich zaspokojenia.
 
 Na spotkanie przeznaczone jest półtorej godziny. Będzie przeprowadzone metodą Ewangelicznej Rewizji Życia, więc będzie się składać z trzech części, o następujących celach:
 
@@ -34,7 +34,7 @@ Spotkanie rozpoczynamy modlitwą do Ducha Świętego, prosząc go o otwartość 
 Widzieć
 =====================================
 
-Każdy z uczestników opowiada o swojej wspólnocie. Bardziej wskazana jest tu forma dyskusji niż wypowiadania  się po kolei. Jednak każdy musi mieć okazję wypowiedzenia się. Jeżeli w grupie jest kilka osób z jednej parafii, należy zadbać o to, by jedna osoba nie opowiedziała „wszystkiego”. Cenne są tutaj nie tylko same fakty, ale również prywatna ocena takiego stanu rzeczy, dlatego każdy głos jest ważny.
+Każdy z uczestników opowiada o swojej wspólnocie. Bardziej wskazana jest tu forma dyskusji niż wypowiadania  się po kolei. Jednak każdy musi mieć okazję wypowiedzenia się. Jeżeli w grupie jest kilka osób z jednej parafii, należy zadbać o to, by jedna osoba nie opowiedziała "wszystkiego". Cenne są tutaj nie tylko same fakty, ale również prywatna ocena takiego stanu rzeczy, dlatego każdy głos jest ważny.
 
 Bardzo ważne jest, aby mówić zarówno o dobrych aspektach życia konkretnej wspólnoty, jak i o złych. Celem spotkania nie jest narzekanie, jak to źle jest w naszych oazach, jak bardzo są one słabe i niedoskonałe. Spotkanie ma pomóc uczestnikom odkryć prawdę o ich wspólnotach. Konieczne jest mówienie o sukcesach i osiągnięciach w poszczególnych parafiach. Ma to ubogacić wszystkich uczestników, umocnić nadzieję na poprawę pewnych wad i może wskazać drogi wyjścia z nich, sprawdzone w innych oazach.
 
@@ -64,11 +64,11 @@ Pytania, które można zadawać uczestnikom:
 Osądzić
 =====================================
 
-Ta część  spotkania opierać się będzie na fragmencie  listu św. Pawła do Rzymian Rz  12, 2 – 18. Jest to dość długi tekst, poruszający  zwięźle wiele kwestii. Nie we wszystko należy się wgłębiać, raczej skupić się na tym, w czym niedomagają poszczególne wspólnoty. Jednocześnie trzeba być ostrożnym, aby nie przeoczyć ważnych kwestii, takich jak Eucharystia czy modlitwa, których ten fragment dotyka trzema słowami. Można odzytywać tekst fragmentami i rozważać je kolejno, np. Rz 12, 2.3–8.9–12.13–18.
+Ta część  spotkania opierać się będzie na fragmencie  listu św. Pawła do Rzymian Rz  12, 2 – 18. Jest to dość długi tekst, poruszający  zwięźle wiele kwestii. Nie we wszystko należy się wgłębiać, raczej skupić się na tym, w czym niedomagają poszczególne wspólnoty. Jednocześnie trzeba być ostrożnym, aby nie przeoczyć ważnych kwestii, takich jak Eucharystia czy modlitwa, których ten fragment dotyka trzema słowami. Można odczytywać tekst fragmentami i rozważać je kolejno, np. Rz 12, 2.3–8.9–12.13–18.
 
-Nie chcę narzucać interpretacji tekstu. Ważne jest to, co uczestnicy sami wywnioskują. Ponadto animator może widzieć potrzebę zaakcentowania pewnych kwestii, wedle swojego rozeznania. Dlatego poniższych rozważań (do końca części Osądzić) nie trzeba w ogóle brać pod uwagę. Chciałbym jednak podzielić  się własnymi spostrzeżeniami, które być może okazażą się pomocne. Jest ich z pewnością za dużo, przedstawiam  je po to, by było w czym wybierać. Pogrubieniem wyróżniłem jednak tematy, które, moim zdaniem, powinny zostać poruszone:
+Nie chcę narzucać interpretacji tekstu. Ważne jest to, co uczestnicy sami wywnioskują. Ponadto animator może widzieć potrzebę zaakcentowania pewnych kwestii, wedle swojego rozeznania. Dlatego poniższych rozważań (do końca części Osądzić) nie trzeba w ogóle brać pod uwagę. Chciałbym jednak podzielić  się własnymi spostrzeżeniami, które być może okażą się pomocne. Jest ich z pewnością za dużo, przedstawiam  je po to, by było w czym wybierać. Pogrubieniem wyróżniłem jednak tematy, które, moim zdaniem, powinny zostać poruszone:
 
-* **Rz 12, 2** - Święty Paweł nie wypisał  tych  wszystkich wskazówek w losowej kolejności. Zaczyna więc od podstaw: szukanie woli Bożej i metanoia . Bez tego nie istnieje chrześcijańska wpólnota.  Jednocześnie trzeba mieć otwarty umysł, aby nie budować na wzorcach, zaczerpniętych z tego świata, ale opierać się na Bożym planie, który często bywa zaskakujący i wymagający.
+* **Rz 12, 2** - Święty Paweł nie wypisał  tych  wszystkich wskazówek w losowej kolejności. Zaczyna więc od podstaw: szukanie woli Bożej i metanoia . Bez tego nie istnieje chrześcijańska wspólnota.  Jednocześnie trzeba mieć otwarty umysł, aby nie budować na wzorcach, zaczerpniętych z tego świata, ale opierać się na Bożym planie, który często bywa zaskakujący i wymagający.
 
 * **Rz 12, 3–8** - Pawłową naukę o Kościele jako jednym ciele w Chrystusie  można odnieść również do wspólnoty  oazowej. Każdy ma swoje miejsce, według  daru, jakiego otrzymał. Jednocześnie św. Paweł wymienia funkcje, które w każdej chrześcijańskiej wspólnocie powinny być pełnione. Z konieczności w Oazie często jedna osoba wypełnia kilka funkcji. Niektóre  funkcje przejmuje kolegium animatorów, część może  być pełniona przez uczestników. Ważne, aby żadnej z nich nie brakowało  we wspólnocie:
 
@@ -86,13 +86,13 @@ Nie chcę narzucać interpretacji tekstu. Ważne jest to, co uczestnicy sami wyw
 
 * **Rz 12, 9–12** - Lista zasad, którymi należy się kierować w życiu wspólnotowym. Każda z niech jest ważna. Większość daje się prosto przełożyć na nasze realia, skomentuję więc tylko kilka:
 
-    * Pełnijcie służbę Panu – Jest to chyba jedyne w całym tekście bezpośrednie odniesienie do liturgii. Tymczasem Eucharystia powinna być nieodłącznym elementem życia wspólnotowego, o czym mówią inne teksty pawłowe (por. np. 1 Kor 11, 17–34). W miarę możliwości oaza powinna gromadzić się co tydzień na wspólnej Mszy Św.
+    * Pełnijcie służbę Panu – Jest to chyba jedyne w całym tekście bezpośrednie odniesienie do liturgii. Tymczasem Eucharystia powinna być nieodłącznym elementem życia wspólnotowego, o czym mówią inne teksty Pawłowe (por. np. 1 Kor 11, 17–34). W miarę możliwości oaza powinna gromadzić się co tydzień na wspólnej Mszy Św.
 
-    * W ucisku bądźcie cierpliwi – czyli we wszelkich tudnościach wewnętrznych i zewnętrznych.
+    * W ucisku bądźcie cierpliwi – czyli we wszelkich trudnościach wewnętrznych i zewnętrznych.
 
     * W modlitwie [bądźcie] wytrwali – Modlitwa wspólnotowa jest konieczna w każdej wspólnocie, w której Bóg ma stać w centrum. Jej braku w zasadzie nie ma czym usprawiedliwić. Potrzebne jest zarówno dziękczynienie, jak i modlitwa błagalna w intencjach  poszczególnych członków, całej wspólnoty parafialnej, całego Ruchu, a także za parafię, Ojczyznę, Kościół i świat. Konieczna jest też modlitwa indywidualna poszczególnych członków za wspólnotę.
 
-* **Rz 12, 13–18** -  Dalsze zasady, tym razem mówiące o stosunkach wspólnoty  ze „światem zewnętrznym”. Po opisie życia wewnętrznego wspólnoty, św. Paweł przechodzi do działań na zewnątrz i relacji z innymi ludźmi. Tu my także dochodzimy do głównego celu spotkania, bo ta część życia wspólnotowego  często w Oazie wykazuje braki. W  zasadzie wszystkie poruszane tu tematy  są ważne:
+* **Rz 12, 13–18** -  Dalsze zasady, tym razem mówiące o stosunkach wspólnoty  ze "światem zewnętrznym". Po opisie życia wewnętrznego wspólnoty, św. Paweł przechodzi do działań na zewnątrz i relacji z innymi ludźmi. Tu my także dochodzimy do głównego celu spotkania, bo ta część życia wspólnotowego  często w Oazie wykazuje braki. W  zasadzie wszystkie poruszane tu tematy  są ważne:
 
     * Zaradzajcie potrzebom świętych – Św. Paweł mówi o materialnym wspieraniu Kościoła. My możemy sobie zadać dodatkowo pytanie, czy i jak dbamy o finanse wspólnoty oraz całego Ruchu.
 
@@ -120,9 +120,9 @@ Jak już wspomniałem wcześniej, animator może uznać niektóre sprawy za wyma
 Działać
 =====================================
 
-Po stwierdzeniu jak jest (część I) i jak powinno być (część II), uczestnicy powinni podjąć wysiłek, aby odkryć możliwości poprawy życia wspólnotowego. Pewne pomysły mogły pojawić się już w trakcie poprzednich  części. Należy je teraz powtórzyć, sprecyzować i ocenić możliwości wprowadzenia ich w życie. Trzeba też zastanowić  się nad tymi problemami, których rozwiązania nie narzuzają  się od razu.
+Po stwierdzeniu jak jest (część I) i jak powinno być (część II), uczestnicy powinni podjąć wysiłek, aby odkryć możliwości poprawy życia wspólnotowego. Pewne pomysły mogły pojawić się już w trakcie poprzednich  części. Należy je teraz powtórzyć, sprecyzować i ocenić możliwości wprowadzenia ich w życie. Trzeba też zastanowić  się nad tymi problemami, których rozwiązania nie narzucają się od razu.
 
-Przebieg tej części zależy od pozostałego  czasu i możliwości grupy. Jeżeli pomysłów będzie za dużo, należy raczej skupić się na niektórych i omówić je bardziej szczegółowo. Jeżeli będzie za mało, można spróbować zmobilizować  uczestników do krótkiej „burzy mózgów”, aby wszyscy zastanowili  się nad konkretnym problemem wybranej wspólnoty.
+Przebieg tej części zależy od pozostałego  czasu i możliwości grupy. Jeżeli pomysłów będzie za dużo, należy raczej skupić się na niektórych i omówić je bardziej szczegółowo. Jeżeli będzie za mało, można spróbować zmobilizować  uczestników do krótkiej "burzy mózgów", aby wszyscy zastanowili  się nad konkretnym problemem wybranej wspólnoty.
 
 Najlepszym  owocem tego spotkania, będą deklaracje uczestników podjęcia konkretnych działań. Oczywiście powinny być one spontaniczne, nie można dopuścić do wytworzenia atmosfery nacisku. Jeżeli takich deklaracji nie będzie, wystarczy,  żeby uczestnicy wynieśli ze spotkania  poczucie odpowiedzialności za wspólnotę.
 
@@ -142,7 +142,7 @@ Materiały dodatkowe
     Wierni  mają prawo swobodnego zakładania  stowarzyszeń  i kierowania  nimi  dla celów miłości  lub pobożności  albo dla ożywienia  chrześcijańskiego  powołania  w świecie,  a także  odbywania  zebrań dla wspólnego osiągnięcia  tych celów
 
 **Z adhortacji apostolskiej Jana Pawła  II Christifideles laici:**
-    Konieczność istnienia wyraźnych i ścisłych kryteriów oceny i uznania zrzeszeń laikatu, określanych także jako „kryteria  charakteru kościelnego”, rozumiana jest zawsze w perspektywie dobra komunii  i misji Kościoła, a więc nie należy w niej  widzieć  ograniczenia  wolności zrzeszania się. Należy przyjąć następujące podstawowe kryteria określenia charakteru każdego  bez wyjątku zrzeszenia osób świeckich w Kościele:
+    Konieczność istnienia wyraźnych i ścisłych kryteriów oceny i uznania zrzeszeń laikatu, określanych także jako "kryteria  charakteru kościelnego", rozumiana jest zawsze w perspektywie dobra komunii  i misji Kościoła, a więc nie należy w niej  widzieć  ograniczenia  wolności zrzeszania się. Należy przyjąć następujące podstawowe kryteria określenia charakteru każdego  bez wyjątku zrzeszenia osób świeckich w Kościele:
 
     *  Stawianie na pierwszym miejscu powołania każdego chrześcijanina do świętości, które objawia się w owocach łaski, które Duch rodzi w wiernych i polega na dążeniu do osiągnięcia pełni chrześcijańskiego życia i doskonałości miłości. W myśl tej zasady wszystkie  bez wyjątku zrzeszenia laikatu starają się coraz bardziej spełniać w Kościele rolę narzędzia świętości oraz akcentują i wysuwają na pierwsze miejsce u swych członków ściślejszą łączność między życiem praktycznym  a wiarą.
 
@@ -154,10 +154,10 @@ Materiały dodatkowe
 
     *  Zaangażowana  obecność w ludzkiej społeczności,  będąca zawsze - w świetle społecznej nauki Kościoła - służbą na rzecz pełnej godności człowieka. (...)
 
-    Przedstawione tu podstawowe kryteria weryfikują się przez konkretne rezultaty towarzyszące życiu i działalności rozmaitych stowarzyszeń ludzi świeckich, jak na przykład ożywienie umiłowania modlitwy, kontemplacji,  życia liturgicznego  i sakramentalnego; działalność  na rzecz wzrostu powołań do chrześcijańskiego małżeństwa, do sakramentalnego kapłaństwa i do życia konsekrowanego;  gotowość uczestniczenia w przedsięwzięciach  i działaniach Kościoła zarówno  na szczeblu  lokalnym, jak  krajowym i międzynarodowym;  zaangażowanie w dziedzinie  katechezy i pedagogiczne umiejętności w wychowywaniu chrześcijan; pobudzenie do chrześcijańskiej  obecności w różnych środowiskach społecznych i udział w organizowaniu i animacji dzieł charytatywnych, kulturalnych i duchowych; duch wyrzeczenia i powrót do ewangelicznego ubóstwa  jako do źródła wspaniałomyślnej  miłości wszystkich ludzi; nawrócenie na drogę chrześcijańskiego życia lub powrót do wspólnoty ochrzczonych tych, którzy niegdyś „odeszli”.
+    Przedstawione tu podstawowe kryteria weryfikują się przez konkretne rezultaty towarzyszące życiu i działalności rozmaitych stowarzyszeń ludzi świeckich, jak na przykład ożywienie umiłowania modlitwy, kontemplacji,  życia liturgicznego  i sakramentalnego; działalność  na rzecz wzrostu powołań do chrześcijańskiego małżeństwa, do sakramentalnego kapłaństwa i do życia konsekrowanego;  gotowość uczestniczenia w przedsięwzięciach  i działaniach Kościoła zarówno  na szczeblu  lokalnym, jak  krajowym i międzynarodowym;  zaangażowanie w dziedzinie  katechezy i pedagogiczne umiejętności w wychowywaniu chrześcijan; pobudzenie do chrześcijańskiej  obecności w różnych środowiskach społecznych i udział w organizowaniu i animacji dzieł charytatywnych, kulturalnych i duchowych; duch wyrzeczenia i powrót do ewangelicznego ubóstwa  jako do źródła wspaniałomyślnej  miłości wszystkich ludzi; nawrócenie na drogę chrześcijańskiego życia lub powrót do wspólnoty ochrzczonych tych, którzy niegdyś "odeszli".
 
 **Z Testamentu sługi Bożego ks. Franciszka Blachnickiego:**
     Patrząc na rozwój Ruchu, owoce, na tę rzeczywistość  w życiu Kościoła w Polsce  — nie mogę  w tym nie widzieć daru—charyzmatu. To nie zostało przeze mnie wymyślone, stworzone, ale zostało mi dane i zadane. Wiele w tym było przemieszki własnych, niedojrzałych pomysłów, przeszkadzałem często jak mogłem temu dziełu, ale właśnie fakt, iż mimo to trwało ono i rozwijało się według pewnej stałej, wewnętrznej logiki, świadczy o tym, że jest to dar.
     Za ten wielki dar mego życia, za to, że  mogłem stać się narzędziem  w tym dziele — niech będzie chwała Ojcu przez Syna w Duchu Świętym.
-    I jeżeli  miałbym coś do przekazania  i chciałbym coś przekazać w moim duchowym testamencie — to właśnie ten dar — charyzmat Światło-Życie. Zrozumienie,  umiłowanie, wierność  wobec  tego  charyzmatu. Wydaje mi się bowiem, że ciągle  jszcze mało jest ludzi, także w Polsce, którzy już otrzymali łaskę zrozumienia  znaczenia tego charyzmatu dla odnowy oblicza Kościoła — Chrystusowej Oblubienicy, Nowej Jerozolimy zstępującej  z nieba na ziemię.
+    I jeżeli  miałbym coś do przekazania  i chciałbym coś przekazać w moim duchowym testamencie — to właśnie ten dar — charyzmat Światło-Życie. Zrozumienie,  umiłowanie, wierność  wobec  tego  charyzmatu. Wydaje mi się bowiem, że ciągle  jeszcze mało jest ludzi, także w Polsce, którzy już otrzymali łaskę zrozumienia  znaczenia tego charyzmatu dla odnowy oblicza Kościoła — Chrystusowej Oblubienicy, Nowej Jerozolimy zstępującej  z nieba na ziemię.
     Gdyby Pan pozwolił mi jeszcze żyć i działać, jednego bym pragnął, abym mógł skuteczniej i owocniej ukazywać w pośrodku  współczesnego świata piękno i wielkość Tajemnicy Kościoła–Sakramentu, czyli znaku i narzędzia jedności wszystkich ludzi.

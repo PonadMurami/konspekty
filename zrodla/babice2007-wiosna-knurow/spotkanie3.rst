@@ -6,7 +6,7 @@ Spotkanie 3 - Dynamizm wiary
 Uwagi dla animatora
 =====================================
 
-Dzisiejsze, ostatnie spotkanie jest rozmową o przeżyciach, których doznaliśmy w naszym życiu, opiera się głównie na doświadczeniu animatora. Zaproponowałem przykład gór, gdyż jest mi on najbliższy. Oczywiście, jeśli któs nie podziela mojej opinii może użyć innego. Ważne, aby odnosił się on do wędrówki, obojętne po czym. Dajmy też uczestnikom opowiedzieć własne. Niech czują się swobodnie opowiadając o swoich przeżyciach, Zaadniczą częśćią tego spotkania jest właśnie wymienienie doświadczeń z naszych wędrówek. Następnie spróbujemy poszukać analogii pomiędzy wiarą a drogą.
+Dzisiejsze, ostatnie spotkanie jest rozmową o przeżyciach, których doznaliśmy w naszym życiu, opiera się głównie na doświadczeniu animatora. Zaproponowałem przykład gór, gdyż jest mi on najbliższy. Oczywiście, jeśli ktoś nie podziela mojej opinii może użyć innego. Ważne, aby odnosił się on do wędrówki, obojętne po czym. Dajmy też uczestnikom opowiedzieć własne. Niech czują się swobodnie opowiadając o swoich przeżyciach - zasadniczą częścią tego spotkania jest właśnie wymienienie doświadczeń z naszych wędrówek. Następnie spróbujemy poszukać analogii pomiędzy wiarą a drogą.
 
 =====================================
 Cele
@@ -35,23 +35,23 @@ Spróbujmy wraz z uczestnikami przeprowadzić charakterystykę postaw wymieniony
 
 * Co to znaczy być letnim?
 
-* Jak można schrakteryzować każdą z tych postaw?
+* Jak można scharakteryzować każdą z tych postaw?
 
 ==============================================
 Przykłady ludzkiego gorąca, chłodu i letniości
 ==============================================
 
-Skonfrontumy nasze charakterystyki z przykładami ludzi. Wymieniam tutaj człowieka z piątkowego spotkania oraz faryzeuszów. Można oczywiście użyć innych. Ważne, żebyśmy nie osądzali zbyt łatwo, tylko próbowali dopasować okreslenie z Apokalipsy do danej sytuacji.
+Skonfrontujmy nasze charakterystyki z przykładami ludzi. Wymieniam tutaj człowieka z piątkowego spotkania oraz faryzeuszów. Można oczywiście użyć innych. Ważne, żebyśmy nie osądzali zbyt łatwo, tylko próbowali dopasować określenie z Apokalipsy do danej sytuacji.
 
 Przypomnijmy sobie człowieka z opowiadania o rabbim z piątkowego spotkania. Ten Oświecony człowiek do momentu spotkania z nauczycielem widział świat tylko w 2 kolorach. Był pewny swoich poglądów, wszystkie pytania, które musiały go przecież nachodzić, odrzucał albo przechodził nad nimi do porządku dziennego. Jak można określić postawę tego człowieka? Czy był zimny, gorący czy może letni?
 Ale pytanie rabina pobudziło go, sprawiło, że dostrzegł nowe rzeczy, obok których wcześniej przechodził obojętnie. Jak teraz można określić jego postawę?
 
-   Paul Tilisch uważał, że najważniejsza granica nie przebiega między tymi, którzy mają się za wierzących, a tymi, którzy uważają się za ateistów, lecz między grupą tych, którzy do pytań, jakie nasuwa wiara, odnoszą się obojętnie – czy chodzi o konwencjonalnych ateistów, czy konwencjonalnych wierzących – a tych, którzy te pytania poruszają – czy będą to wierzący, dla których wiara nie przestaje być „niezwykła przygodą poszukiwania”, czy ateiści, którzy w ten czy inny sposób „mocują się z Bogiem”.
+   Paul Tilisch uważał, że najważniejsza granica nie przebiega między tymi, którzy mają się za wierzących, a tymi, którzy uważają się za ateistów, lecz między grupą tych, którzy do pytań, jakie nasuwa wiara, odnoszą się obojętnie – czy chodzi o konwencjonalnych ateistów, czy konwencjonalnych wierzących – a tych, którzy te pytania poruszają – czy będą to wierzący, dla których wiara nie przestaje być "niezwykła przygodą poszukiwania", czy ateiści, którzy w ten czy inny sposób "mocują się z Bogiem".
    -- ks. Tomasz Halik
 
 Człowiek letni, to właśnie człowiek próbujący ukryć swoje wątpliwości, chowający swoje pytania.
 
-* Dlaczego Jezus „walczył” z faryzeuszami i uczonymi w Piśmie?
+* Dlaczego Jezus "walczył" z faryzeuszami i uczonymi w Piśmie?
 
 * Co stanowiło główne źródło konfliktu?
 
@@ -61,11 +61,11 @@ Faryzeusze schowali wszelkie wątpliwości, wszystkie pytania za literę prawa. 
 Nowości w naszym życiu
 ==============================================
 
-W tym punkcie najważniejsze są odczucia, przeżycia własne i uczestników. Niech opowiedzą jak się wted czuli, jakie pytania im wtedy towarzyszyły.
+W tym punkcie najważniejsze są odczucia, przeżycia własne i uczestników. Niech opowiedzą jak się wtedy czuli, jakie pytania im wtedy towarzyszyły.
 
-Wszędzie gdzie pojawiamy się po raz pierwszy, każdy nowy kontakt z czymś nowym powoduje utratę naszego dotychczasowego poglądu, naszego bezpiecznego miejsca. Kontakt z czymś nowym sprawia, że pojawiają się nowe pytania. Przypomijmy sobie takie nasze kontakty z czymś nowym i podzielmy się tym.
+Wszędzie gdzie pojawiamy się po raz pierwszy, każdy nowy kontakt z czymś nowym powoduje utratę naszego dotychczasowego poglądu, naszego bezpiecznego miejsca. Kontakt z czymś nowym sprawia, że pojawiają się nowe pytania. Przypomnijmy sobie takie nasze kontakty z czymś nowym i podzielmy się tym.
 
-Przykładowo jak wyglądał nasz piewrszy dzień w nowej szkole, z nowymi ludźmi itp.
+Przykładowo jak wyglądał nasz pierwszy dzień w nowej szkole, z nowymi ludźmi itp.
 
 * Co wtedy czuliśmy, jakie pytania nam się nasuwały?
 
@@ -89,9 +89,9 @@ Każdy z nas był zapewne kiedyś w górach. I pewnie każdy z nas miał okazję
 
 * Czy ciągle idziemy pod tym samym kątem, z tą samą prędkością?
 
-Kiedy chodzimy po górach, każdy nowy etap przynosi nam nowe widoki na okolicę, na dalszą drogę. Co ciekawe (moje osobiste doświadczenie -bt) zazwyczaj najpiękniejsze widoki można podziwiać podczas najtrudniejszych momentów wspinaczki, wtedy kiedy idzie nam się najciężej. Tylko często ich nie zauważamy. Może ktoś ma w pamięci jakiś etap ciężkiej wspinaczki, z którego rozpościerał się niesamowity widok.
+Kiedy chodzimy po górach, każdy nowy etap przynosi nam nowe widoki na okolicę, na dalszą drogę. Co ciekawe (moje osobiste doświadczenie - bt) zazwyczaj najpiękniejsze widoki można podziwiać podczas najtrudniejszych momentów wspinaczki, wtedy kiedy idzie nam się najciężej. Tylko często ich nie zauważamy. Może ktoś ma w pamięci jakiś etap ciężkiej wspinaczki, z którego rozpościerał się niesamowity widok.
 
-Oprócz wspaniałych widoków podczas najcięższych momentów wędrówki nachodzą nas wątpliwości, pytania, zmęcznie.
+Oprócz wspaniałych widoków podczas najcięższych momentów wędrówki nachodzą nas wątpliwości, pytania, zmęczenie.
 
 * Jakie pytania przychodzą nam do głowy podczas wędrówki? *(Niech uczestnicy zaproponują kilka przykładów. Poniżej moje propozycje.)*
 
@@ -111,12 +111,12 @@ W tym punkcie postarajmy się przełożyć doświadczenia z wędrówek na nasze 
 
 Po pierwsze musimy uzmysłowić sobie, że wiara wygląda różnie i jest bardzo różnorodna. Nie można powiedzieć, że się zna swoją wiarę, jeśli nie przejdzie się tą drogą do końca.
 
-Różne są góry na które wchodziliśmy, niektóre były niskie, niekótre bardzo wysokie.
-Czasem wchodziliśmy ścieżką bardzo stromą, czasem wydawało nam się, że idziemy po „równym”, a dopiero po spojrzeniu na mapę widzimy, że szliśmy pod górę, czasem też schodzimy lekko i przyjemnie w dół. Podczas jednej podróży ta zmiana trudności i stopnia nachylenia zmienia się kilkanaście razy. Jednak nikogo z nas to nie dziwi. Nikogo nie dziwi, że znów jest pod górę kiedy się wspinamy, a kiedy schodzimy jest w dół.
+Różne są góry na które wchodziliśmy, niektóre były niskie, niektóre bardzo wysokie.
+Czasem wchodziliśmy ścieżką bardzo stromą, czasem wydawało nam się, że idziemy po "równym", a dopiero po spojrzeniu na mapę widzimy, że szliśmy pod górę, czasem też schodzimy lekko i przyjemnie w dół. Podczas jednej podróży ta zmiana trudności i stopnia nachylenia zmienia się kilkanaście razy. Jednak nikogo z nas to nie dziwi. Nikogo nie dziwi, że znów jest pod górę kiedy się wspinamy, a kiedy schodzimy jest w dół.
 
 * A czy w wierze jest podobnie?
 
-* Czy dziwi nas, że znów jest „pod górkę” kiedy się wspinamy?
+* Czy dziwi nas, że znów jest "pod górkę" kiedy się wspinamy?
 
 * Czy jesteśmy zadziwieni tym, że ciągle NIE jest tak samo?
 
@@ -126,13 +126,13 @@ W wierze momenty mało atrakcyjne, bolesne, z czasem mogą się nam wydać najba
 
 * Czy szukamy w takich momentach czegoś wartościowego czy też może od razu staramy się je wymazać z pamięci?
 
-I podobnie jak podczas wędrówki napotkamy w wierze na wątpliwości, które będą powodowały, że nasza droga nie będzie taka pewna. Jeszcze raz porównując z wędrówką w górach (bądź jakąkolwiek inną): czy nie zdarzyło się tak, że zapominając o wszelkich sygnałach z zewnątrz, o tym jak mamy iść często gubimy drogę? Wędrówka stale wymaga od nas czujności. I jakże często pojawia się pytanie czy nie zgubiłem szlaku, czy on czasem nie poszedł inną drogą? Bądź podczas szukania miejsca w mieście, w którym jesteśmy po raz pierwszy ciągle musimy patrzeć na punkty orientacyjne i odpowidać sobie na pytania typu: czy to już ta ulica? Czy może jeszcze dalej? Czy to ten sklep? Itp. Itd. Ignitując je bardzo często gubimy się.
+I podobnie jak podczas wędrówki napotkamy w wierze na wątpliwości, które będą powodowały, że nasza droga nie będzie taka pewna. Jeszcze raz porównując z wędrówką w górach (bądź jakąkolwiek inną): czy nie zdarzyło się tak, że zapominając o wszelkich sygnałach z zewnątrz, o tym jak mamy iść często gubimy drogę? Wędrówka stale wymaga od nas czujności. I jakże często pojawia się pytanie czy nie zgubiłem szlaku, czy on czasem nie poszedł inną drogą? Bądź podczas szukania miejsca w mieście, w którym jesteśmy po raz pierwszy ciągle musimy patrzeć na punkty orientacyjne i odpowiadać sobie na pytania typu: czy to już ta ulica? Czy może jeszcze dalej? Czy to ten sklep? Itp. Itd. Ignitując je bardzo często gubimy się.
 
-Wiara zakłada te ciągłe pytania, te wątpliwości, zachwianie. Wątpliwość jest siostrą wiary. Chcąc iść drogą wiary bierzemy jednocześnie z sobą wątpliwości.Wątpliwości powodują, że ciągle jesteśmy czujni, zmuszają nas do wysiłku. Jak mówi powiedzenie: „nic tak dobrze nie ożywia wiary, nie pobudza jej, jak dobra herezja.” Bo o ileż bardziej czujni będziemy i bardziej krytycznie będziemy podchodzić do swoich decyzji jeśli zgubimy szlak i bedzimy musieli wrócić?
+Wiara zakłada te ciągłe pytania, te wątpliwości, zachwianie. Wątpliwość jest siostrą wiary. Chcąc iść drogą wiary bierzemy jednocześnie z sobą wątpliwości.Wątpliwości powodują, że ciągle jesteśmy czujni, zmuszają nas do wysiłku. Jak mówi powiedzenie: "nic tak dobrze nie ożywia wiary, nie pobudza jej, jak dobra herezja." Bo o ileż bardziej czujni będziemy i bardziej krytycznie będziemy podchodzić do swoich decyzji jeśli zgubimy szlak i będziemy musieli wrócić?
 
 Zastanówmy się nad tekstem ks. Halika i jego wyznaniem wiary. Pozwólmy uczestnikom wyrazić swoje opinie, swoje odczucia na temat tego fragmentu.
 
-   Moja wiara nie jest niezachwiana – przeciwnie: stale się chwieje.[...] Chwieje nią cześć dla Tajemnicy, chwieje nią wstyd przed wielkimi słowami, bez którcyh jednocześnie nie mogę się obejść. Chwieje nią niechęć do formalizmu i chłodnego profesjonalizmu ludzi z zamkniętym sercem i mózgiem, chwieje nią lęk przez niebezpieczeństwem grożącym ze strony „właścicieli prawdy”. Chwieje nią świadomość nieskończonej przepaści między niewysłowionością moich myśli i słów. Wątpienie [...] jest to raczej świadomość problematyczności, niedostateczności, uwarunkowania i ograniczonego charakteru wszelkiego ludzkiego postrzegania i wyrażania Rzeczywistości, która nas radykalnie przekracza. Jest to obawa, byśmy nie przoczyli owej przepaści, która oddziela nas od ukrytego Boga, byśmy – urzeczeni własną ograniczoną wizją religijną – z jednej strony nie uczynili sobie bożka, karykatury Boga, z własnej religii, a z dugiej zarozumiale nie potępiali najrozmaotszych dróg religijnego poszukiwania, jakimi idą ci inni. Tak, przede wszystkim to chwieje moją wiarą.
+   Moja wiara nie jest niezachwiana – przeciwnie: stale się chwieje.[...] Chwieje nią cześć dla Tajemnicy, chwieje nią wstyd przed wielkimi słowami, bez których jednocześnie nie mogę się obejść. Chwieje nią niechęć do formalizmu i chłodnego profesjonalizmu ludzi z zamkniętym sercem i mózgiem, chwieje nią lęk przez niebezpieczeństwem grożącym ze strony "właścicieli prawdy". Chwieje nią świadomość nieskończonej przepaści między niewysłowionością moich myśli i słów. Wątpienie [...] jest to raczej świadomość problematyczności, niedostateczności, uwarunkowania i ograniczonego charakteru wszelkiego ludzkiego postrzegania i wyrażania Rzeczywistości, która nas radykalnie przekracza. Jest to obawa, byśmy nie przeoczyli owej przepaści, która oddziela nas od ukrytego Boga, byśmy – urzeczeni własną ograniczoną wizją religijną – z jednej strony nie uczynili sobie bożka, karykatury Boga, z własnej religii, a z drugiej zarozumiale nie potępiali najrozmaitszych dróg religijnego poszukiwania, jakimi idą ci inni. Tak, przede wszystkim to chwieje moją wiarą.
 
    -- ks. Tomasz Halik
 

@@ -17,7 +17,7 @@ Spotkanie ma charakter podsumowujący. Nie powinny pojawiać się w nim nowe tre
 Materiały potrzebne do przeprowadzenia spotkania:
 
 1. małe puste karteczki (po 5 dla każdego uczestnika)
-2. pocięte kartki z wypisanymi 20 wartościami (1 “komplet” na grupę)
+2. pocięte kartki z wypisanymi 20 wartościami (1 "komplet" na grupę)
 3. tekst modlitwy św. Franciszka dla każdego uczestnika
 
 ====================================
@@ -78,7 +78,7 @@ Gdy wszyscy to zrobią, animator kładzie przed uczestnikami plik kartek z wypis
 
 * O których na pewno możecie powiedzieć, że są Wasze?
 
-Następnie należy wskazać na karteczkę ze słowem “czas” wychodząc od tego, że czas jest wartością uniwersalną - jest dany każdemu człowiekowi.
+Następnie należy wskazać na karteczkę ze słowem "czas" wychodząc od tego, że czas jest wartością uniwersalną - jest dany każdemu człowiekowi.
 
 =========================================
 Czas jest darem
@@ -92,7 +92,7 @@ Czas jest darem
 
 * Co właściwie można w takim czasie zrobić? Czy możemy podać jakieś przykłady?
 
-.. note:: W razie, gdyby uczestnicy mieli trudności z podaniem przykładów, należy ich naprowadzić. To na tyle ważny element spotkania, że nie może zostać spłycony tylko dlatego, że “nic nam nie przychodzi do głowy”.
+.. note:: W razie, gdyby uczestnicy mieli trudności z podaniem przykładów, należy ich naprowadzić. To na tyle ważny element spotkania, że nie może zostać spłycony tylko dlatego, że "nic nam nie przychodzi do głowy".
 
 Spróbujmy zobrazować sobie następujące sytuacje:
 
@@ -125,7 +125,7 @@ Powyższy projekt jest o tyle prosty do przeprowadzenia, że robi go grupa osób
 | -Nie mamy dobrego sprzętu.
 | -Ktoś może zrobi to lepiej.
 | -Pewnie i tak nikt się w to nie zaangażuje.
-| -Mam tyle roboty… etc.
+| -Mam tyle roboty... etc.
 
 * Co różni te dwie grupy ludzi?
 
@@ -167,7 +167,7 @@ Walka dobra ze złem toczy się tu i teraz
 
 * Jakie przykłady takiej walki przychodzą nam do głowy?
 
-Przeczytajmy fragment konstytucji duszpasterskiej “Gaudium et spes” - jednego z najważniejszych dokumentów Soboru Satykańskiego II:
+Przeczytajmy fragment konstytucji duszpasterskiej "Gaudium et spes" - jednego z najważniejszych dokumentów Soboru Satykańskiego II:
 
    W ciągu bowiem całej historii ludzkiej toczy się ciężka walka przeciw mocom ciemności; walka ta zaczęta ongiś u początku świata, trwać będzie do ostatniego dnia, według słowa Pana. Wplątany w nią człowiek wciąż musi się trudzić, by trwać w dobrym i nie będzie mu dane bez wielkiej pracy oraz pomocy łaski Bożej osiągnąć jedności w samym sobie.
 
@@ -177,7 +177,7 @@ Przeczytajmy fragment konstytucji duszpasterskiej “Gaudium et spes” - jedneg
 
 * Czy jestem świadom tego, że to tu i teraz toczy się walka o życie lub śmierć (nie tylko moje, ale także tych, których Pan Bóg stawia na mojej drodze)?
 
-Walka dobra ze złem to nie tylko wielkie wydarzenia pełne “efektów specjalnych”. To nie coś, co nas nie dotyczy, z czym my nie musimy sobie radzić, bo przecież w naszym życiu “nie jest tak źle”. Od tego, jak przez to życie przejdziemy zależy to, jak świat będzie funkcjonował tu i teraz i to, czy w przyszłości osiągniemy życie, czy śmierć.
+Walka dobra ze złem to nie tylko wielkie wydarzenia pełne "efektów specjalnych". To nie coś, co nas nie dotyczy, z czym my nie musimy sobie radzić, bo przecież w naszym życiu "nie jest tak źle". Od tego, jak przez to życie przejdziemy zależy to, jak świat będzie funkcjonował tu i teraz i to, czy w przyszłości osiągniemy życie, czy śmierć.
 
 ============================================
 Podsumowanie: moje życie jest uczestnictwem
@@ -185,9 +185,9 @@ Podsumowanie: moje życie jest uczestnictwem
 
 * Skoro idąc przez życie jestem odpowiedzialny również za życie innych, jak mogę się tej odpowiedzialności podjąć?
 
-* Co znaczą dla mnie słowa “dar jest dany i zadany”?
+* Co znaczą dla mnie słowa "dar jest dany i zadany"?
 
-Wykorzystywanie i przekazywanie darów, które otrzymujemy, to nie jest dla nas luksus, ale obowiązek. Nie możemy być “spichlerzem” wartości - jeśli będziemy je wyłącznie gromadzić, po prostu się zmarnują (w starym i opuszczonym spichlerzu, w którym się wyłącznie gromadzi jest brudno, wilgotno i istnieje duże prawdopodobieństwo kradzieży). Jako ludzie, jako chrześcijanie mamy być przekaźnikami wartości. Każda wartość jest darem, łaską, która nie pochodzi od nas. Nie możemy więc jej zatrzymać dla siebie - naszym zadaniem jest dzielić się tym z innymi. Przesłanie Jezusa jest jednoznaczne:
+Wykorzystywanie i przekazywanie darów, które otrzymujemy, to nie jest dla nas luksus, ale obowiązek. Nie możemy być "spichlerzem" wartości - jeśli będziemy je wyłącznie gromadzić, po prostu się zmarnują (w starym i opuszczonym spichlerzu, w którym się wyłącznie gromadzi jest brudno, wilgotno i istnieje duże prawdopodobieństwo kradzieży). Jako ludzie, jako chrześcijanie mamy być przekaźnikami wartości. Każda wartość jest darem, łaską, która nie pochodzi od nas. Nie możemy więc jej zatrzymać dla siebie - naszym zadaniem jest dzielić się tym z innymi. Przesłanie Jezusa jest jednoznaczne:
 
    Strzeżcie się fałszywych proroków, którzy przychodzą do was w owczej skórze, a wewnątrz są drapieżnymi wilkami. Poznacie ich po ich owocach. Czy zbiera się winogrona z ciernia, albo z ostu figi? Tak każde dobre drzewo wydaje dobre owoce, a złe drzewo wydaje złe owoce. Nie może dobre drzewo wydać złych owoców ani złe drzewo wydać dobrych owoców. Każde drzewo, które nie wydaje dobrego owocu, będzie wycięte i w ogień wrzucone. A więc: poznacie ich po ich owocach.
 
@@ -207,7 +207,7 @@ Jan Chrzciciel - jego uczniowie (w tym Andrzej) - Szymon Piotr
 
 Jan Chrzciciel pokazał swoim uczniom Jezusa i (symbolicznie) przyprowadził ich do Niego (na tym jego rola się skończyła, ponieważ uczniowie zostali z Jezusem). Jeden z nich - Andrzej poszedł do swojego brata i przyprowadził jego do Jezusa. Na nim zaś Jezus jakiś czas później zbudował Kościół.
 
-Dokładnie do tego samego wzywa nas Jezus. On chce czynić w nas, ale i przez nas wielkie rzeczy (Por. J 14,12: Zaprawdę, zaprawdę, powiadam wam: Kto we Mnie wierzy, będzie także dokonywał tych dzieł, których Ja dokonuję, owszem, i większe od tych uczyni, bo Ja idę do Ojca). Gdyby apostołowie nie poczuli się odpowiedzialni za przyciąganie innych do Jezusa, historia mogłaby potoczyć się zupełnie inaczej. Nikt za nas tego nie zrobi - to my jestesmy tymi, którzy zapaleni mają iść i zapalać innych.
+Dokładnie do tego samego wzywa nas Jezus. On chce czynić w nas, ale i przez nas wielkie rzeczy (Por. J 14,12: Zaprawdę, zaprawdę, powiadam wam: Kto we Mnie wierzy, będzie także dokonywał tych dzieł, których Ja dokonuję, owszem, i większe od tych uczyni, bo Ja idę do Ojca). Gdyby apostołowie nie poczuli się odpowiedzialni za przyciąganie innych do Jezusa, historia mogłaby potoczyć się zupełnie inaczej. Nikt za nas tego nie zrobi - to my jesteśmy tymi, którzy zapaleni mają iść i zapalać innych.
 
 **Do tego chcemy Was teraz zaprosić. Skoro w czasie tego spotkania potrafiliśmy wymienić różne projekty, które wymagają od nas poświęcenia 2-3h raz na pół roku, to wyobraźmy sobie ile fantastycznych rzeczy powstanie, jeśli ponad 60 osób uczestniczących w tych rekolekcjach rzeczywiście ten czas i energię poświęci. Na przełomie lutego i marca organizujemy rekolekcje, na krórych mnóstwo młodych ludzi spotka Jezusa. Potrzebujemy Waszego czasu i Waszej energii. Prosimy Was o pomoc z pełną świadomością tego, że to Wasz czas. Chcemy iść z Wami ramię w ramię i wspólnie robić wielkie i dobre rzeczy.**
 
@@ -221,7 +221,7 @@ Zastosowaniem z tego spotkania będzie konkretne zaangażowanie   się w przygot
 Modlitwa
 ============================================
 
-Na zakończenie pomódlmy się modlitwą św. Franciszka z Asyżu prosząc o to, byśmy zawsze - bez względu na to, co robimy byli tymi, którzy “posiadają siebie w dawaniu siebie”.
+Na zakończenie pomódlmy się modlitwą św. Franciszka z Asyżu prosząc o to, byśmy zawsze - bez względu na to, co robimy byli tymi, którzy "posiadają siebie w dawaniu siebie".
 
    | O Panie, uczyń z nas narzędzia Twojego pokoju,
    | Abyśmy siali miłość tam, gdzie panuje nienawiść;

@@ -6,13 +6,13 @@ Spotkanie 3 - Bóg - Słowo wcielone
 Cel Spotkania
 ==================================
 
-Wzbudzenie w sobie tęsknoty za słowem, które potrafiłoby się przebić do naszego serca i nas zmieni. Interioryzacja “znanej prawdy”, że “Słowo zamieszkało wśród nas”.
+Wzbudzenie w sobie tęsknoty za słowem, które potrafiłoby się przebić do naszego serca i nas zmieni. Interioryzacja "znanej prawdy", że "Słowo zamieszkało wśród nas".
 
 =========================================
 Wprowadzenie dla animatora
 =========================================
 
-Spotkanie jest trochę na straconej pozycji. Mamy opowiedzieć słowami... że słów za dużo jest w naszym świecie, że w słowach mieszka Bóg. Sukces zatem na pewno nie jest ukryty w tym, abyśmy opanowali jak najwięcej słow/zdań, które możemy wypowiedzieć. Spotkanie powinno być w odbiorze wspólnym czasem szukania wrażliwości.
+Spotkanie jest trochę na straconej pozycji. Mamy opowiedzieć słowami... że słów za dużo jest w naszym świecie, że w słowach mieszka Bóg. Sukces zatem na pewno nie jest ukryty w tym, abyśmy opanowali jak najwięcej słów/zdań, które możemy wypowiedzieć. Spotkanie powinno być w odbiorze wspólnym czasem szukania wrażliwości.
 
 ====================================
 Modlitwa
@@ -24,13 +24,13 @@ O światło i wrażliwość. Duch Święty jest nam niezbędny, abyśmy otwieral
 Wprowadzenie do spotkania
 =========================================
 
-Przed chwilą czerpaliśmy papier z masy utworzonej ze “zwykłych słów”. Spróbujmy zacząć od podzielenia się naszymi refleksjami, od interpretacji tego co się stało:
+Przed chwilą czerpaliśmy papier z masy utworzonej ze "zwykłych słów". Spróbujmy zacząć od podzielenia się naszymi refleksjami, od interpretacji tego co się stało:
 
 * Dlaczego nie wyrzuciliśmy tamtych kartek do kosza i nie wzięliśmy nowych kartek, tylko przekształcamy formę?
 
-* Jak się czułeś/aś w czasie czerpania papieru? Czy kojarzysz taką inną sytuacje ze swojego życia, że coś “przebudowywałeś/aś”?
+* Jak się czułeś/aś w czasie czerpania papieru? Czy kojarzysz taką inną sytuacje ze swojego życia, że coś "przebudowywałeś/aś"?
 
-Staramy się na tych rekolekcjach walczyć o słowo. Słów w naszym życiu jest bardzo wiele - powiedzieliśmy sobie o tym wczoraj. Próba poszukiwania “słów na które czekamy” poprzez dołożenie nowych 200 zdań tego co słyszymy codziennie nic by nie dała. Taka taktyka spowoduje tylko zwiększenie się gąszczu słów w którym się poruszamy. Nie chcemy dokładać. Chcemy zmienić to co jest już teraz. O to powalczymy na tym spotkaniu.
+Staramy się na tych rekolekcjach walczyć o słowo. Słów w naszym życiu jest bardzo wiele - powiedzieliśmy sobie o tym wczoraj. Próba poszukiwania "słów na które czekamy" poprzez dołożenie nowych 200 zdań tego co słyszymy codziennie nic by nie dała. Taka taktyka spowoduje tylko zwiększenie się gąszczu słów w którym się poruszamy. Nie chcemy dokładać. Chcemy zmienić to co jest już teraz. O to powalczymy na tym spotkaniu.
 
 =========================================
 Bóg stał się Słowem
@@ -96,7 +96,7 @@ Nie byłoby dobrze jednak, abyśmy odkrywali na tym spotkaniu jakąś teorię be
 
  * Czy kontakt ze Słowem Bożym prowadzi mnie do innych ludzi?
 
-Na te pytania ma się ochotę odpowiedzieć “no oczywiście, że tak!”. Nie musi to być jednak takie proste. Kontakt z Pismem Świętym nie jest łatwy. Czasami po prostu może wydawać się nam obce, albo “nieskuteczne”...jakoś nie dopasowane do świata w którym ja żyję. Jak ktoś mi mówi “Bóg działał!” to raczej mam na myśli jakiś spektakularny cud, uzdrowienie, uniesienie prorockie....a nie Boga, który pokazuje się w Słowie. Bóg wybrał “objawienie się w słowie” wiedząc, że będzie nam ciężko czasami z wiarą dlatego w samym swoim Słowie pozostawił nam w wielu miejscach obietnice odnoszące się do jego Słowa!
+Na te pytania ma się ochotę odpowiedzieć "no oczywiście, że tak!". Nie musi to być jednak takie proste. Kontakt z Pismem Świętym nie jest łatwy. Czasami po prostu może wydawać się nam obce, albo "nieskuteczne"...jakoś nie dopasowane do świata w którym ja żyję. Jak ktoś mi mówi "Bóg działał!" to raczej mam na myśli jakiś spektakularny cud, uzdrowienie, uniesienie prorockie....a nie Boga, który pokazuje się w Słowie. Bóg wybrał "objawienie się w słowie" wiedząc, że będzie nam ciężko czasami z wiarą dlatego w samym swoim Słowie pozostawił nam w wielu miejscach obietnice odnoszące się do jego Słowa!
 
 Przeczytajmy:
 
@@ -104,17 +104,17 @@ Przeczytajmy:
 
    -- Iz 55,11
 
-* Czy jest we mnie przekonanie i wiara w to, że “wystarczy tylko Twoje Słowo, a (coś) będzie...”  ?
+* Czy jest we mnie przekonanie i wiara w to, że "wystarczy tylko Twoje Słowo, a (coś) będzie..."  ?
 
-.. note:: Mówimy na każdej Mszy: “**ale powiedz tylko słowo**, a będzie uzdrowiona dusza moja”
+.. note:: Mówimy na każdej Mszy: "**ale powiedz tylko słowo**, a będzie uzdrowiona dusza moja"
 
-* Czy doświadczyłem Słów Boga, które “przemieniały” coś na moich oczach? Czy możesz coś o tym powiedzieć?
+* Czy doświadczyłem Słów Boga, które "przemieniały" coś na moich oczach? Czy możesz coś o tym powiedzieć?
 
 =========================================
 My wypowiadamy słowa
 =========================================
 
-Bóg jest Bogiem dialogu. Nie tylko kieruje do nas słowa, ale słucha naszej odpowiedzi. Gdy człowieka popełnia grzech, Bóg nie mówi mu kazania tylko pyta “Adamie gdzie jesteś?” (mimo, że zna odpowiedź). Skoro sam Bóg powiedział, że “Słowo, które wychodzi z ust moich, nie wraca do mnie bezowocne zanim wpierw nie dokona tego, co chciałem” to oznacza to, że Jego Słowo spotyka się z odpowiedzią!
+Bóg jest Bogiem dialogu. Nie tylko kieruje do nas słowa, ale słucha naszej odpowiedzi. Gdy człowieka popełnia grzech, Bóg nie mówi mu kazania tylko pyta "Adamie gdzie jesteś?" (mimo, że zna odpowiedź). Skoro sam Bóg powiedział, że "Słowo, które wychodzi z ust moich, nie wraca do mnie bezowocne zanim wpierw nie dokona tego, co chciałem" to oznacza to, że Jego Słowo spotyka się z odpowiedzią!
 
 Przeczytajmy:
 
@@ -123,11 +123,11 @@ Przeczytajmy:
    -- Nowe powołania dla nowej Europy
 
 
-* Czy “myśl Boga” to musi być koniecznie jakaś “pobożna myśl”? Co to jest myśl Boga?
+* Czy "myśl Boga" to musi być koniecznie jakaś "pobożna myśl"? Co to jest myśl Boga?
 
 Myśl Boga to Jego zamysł wobec Stworzenia - wszystko to w czym się wypowiedział. Prawa fizyki, psychologii, natura, dociekanie filozoficzne, relacja z bliskimi - to wszystko jest zaplanowane przez Stwórcę.
 
-* Czy spotkałem w swoim życiu jakąś “myśl Boga”, która wydała mi się jakoś szczególnie moja? Jakaś, która moje serce “naturalnie zrozumiało”?
+* Czy spotkałem w swoim życiu jakąś "myśl Boga", która wydała mi się jakoś szczególnie moja? Jakaś, która moje serce "naturalnie zrozumiało"?
 
 Wszyscy słyszymy te same słowa od Boga. Każdy z nas żyje w tym samym świecie. To jednak co my wypowiadamy różni się pomiędzy sobą. Odpowiadamy w inny sposób. **Bóg rozrzucił w naszych sercach różną wrażliwość na swoje słowa po to, abyśmy byli wzajemnie sobie potrzebni** - abyśmy we wspólnocie spotykając się i rozmawiając zawsze mieli więcej niż samemu.
 
@@ -135,7 +135,7 @@ Wszyscy słyszymy te same słowa od Boga. Każdy z nas żyje w tym samym świeci
 
 .. note:: To ćwiczenie to nic innego jak zaawansowany Vasteras z artystycznym pazurem  ;)
 
-Spróbujemy przygotować teraz “mapę słów”. Każdy z Was otrzyma ten sam fragment tekstu. Spróbujemy go przepisać, ale “po swojemu” - zmieniając go graficznie, ale nie zmieniając mu treści.
+Spróbujemy przygotować teraz "mapę słów". Każdy z Was otrzyma ten sam fragment tekstu. Spróbujemy go przepisać, ale "po swojemu" - zmieniając go graficznie, ale nie zmieniając mu treści.
 
 Przykład:
 
@@ -173,15 +173,15 @@ Jeden tekst. Odpowiedzi na niego tyle ile czytających. Słowo Boże jest żywe 
 
 Przeczytajmy:
 
-   Świat pierwotny i antyczny, w ogóle świat religijny, nie wie, co to „puste słowa"; nigdy nie mówi „dość już słów, przystąpmy wreszcie do czynu", a tęsknota, by nigdy już nie „grzebać się w słowach" jest mu obca. Nie bierze się to z mniejszego poczucia realności świata; przeciwnie; to my sztucznie uczyniliśmy słowa pustymi, poniżyliśmy je sprowadzając do rzędu przedmiotów.
+   Świat pierwotny i antyczny, w ogóle świat religijny, nie wie, co to "puste słowa"; nigdy nie mówi "dość już słów, przystąpmy wreszcie do czynu", a tęsknota, by nigdy już nie "grzebać się w słowach" jest mu obca. Nie bierze się to z mniejszego poczucia realności świata; przeciwnie; to my sztucznie uczyniliśmy słowa pustymi, poniżyliśmy je sprowadzając do rzędu przedmiotów.
 
    -- Gerardus van der Leeuw, Holenderski religioznawca, 1890-1950, profesor, wierny Kościoła ewangelicko-reformowanego
 
 Może dobrze to brzmi, ale czy takie są nasze doświadczenia? Walka o wiarę dokonuje się na tej podstawowej płaszczyźnie!
 
-* Czy mam odczucie, że ciągle słyszę lub mówię “tylko słowa, słowa i słowa”? Że za mało działania?
+* Czy mam odczucie, że ciągle słyszę lub mówię "tylko słowa, słowa i słowa"? Że za mało działania?
 
-* Czy “duże słowa”, “słowa pytające o Boga” mi nie spowszedniały?
+* Czy "duże słowa", "słowa pytające o Boga" mi nie spowszedniały?
 
 =========================================
 Słowa, które są lustrem i oczyszczeniem
@@ -195,7 +195,7 @@ Przeczytajmy:
 
    -- Rz 10,17
 
-* Czy moja wiara opiera się na słowach Jezusa czy na “powszechnym poglądzie”?
+* Czy moja wiara opiera się na słowach Jezusa czy na "powszechnym poglądzie"?
 
 * Czy doświadczyłem momentu weryfikacji, że myślałem, że Bóg jest jakiś, a po przeczytaniu Jego Słowa przekonałem się, że się myliłem? Jaka to była sytuacja?
 
@@ -224,7 +224,7 @@ Animator prosi uczestników, aby na kartce wypisali cechy Boga w którego wierz�
    * Odkupiciel
    * Sędzia
 
-Stworzenie tej listy powinno przyjść nam dosyć łatwo - przecież wszyscy wiedzą jaki jest Bóg ;). Spróbujmy teraz razem sprawdzić czy potrafimy znaleźć “uzasadnienie” naszej wiary w Piśmie Świętym dla każdej z tych Boskich cech! Najlepiej jeżeli potrafilibyśmy znaleźć w Piśmie konkretne fragmenty i odczytywali je na głos, ale można też opowiedzieć o fragmencie jeżeli jest “powszechnie znany grupie”.
+Stworzenie tej listy powinno przyjść nam dosyć łatwo - przecież wszyscy wiedzą jaki jest Bóg ;). Spróbujmy teraz razem sprawdzić czy potrafimy znaleźć "uzasadnienie" naszej wiary w Piśmie Świętym dla każdej z tych Boskich cech! Najlepiej jeżeli potrafilibyśmy znaleźć w Piśmie konkretne fragmenty i odczytywali je na głos, ale można też opowiedzieć o fragmencie jeżeli jest "powszechnie znany grupie".
 
 Na koniec dzielimy się refleksjami:
 
@@ -246,13 +246,13 @@ Przeczytajmy:
 
 * Co to znaczy dla mnie, że Słowo Boże jest żywe i skuteczne?
 
-Dzisiejszego wieczoru przeżyjemy Celebrację Słowa Bożego. Chcemy realnie spotkać Chrystusa, który jest Słowem Wcielonym w kartach Biblii. Dlatego to zdanie z listu do Hebrajczyków jest dla nas wezwaniem. Musimy w sobie wzbudzić “głód słowa”, aby przeżyć to co przed nami. Musimy chcieć zostać dotkniętymi przez “miecz obosieczny”.
+Dzisiejszego wieczoru przeżyjemy Celebrację Słowa Bożego. Chcemy realnie spotkać Chrystusa, który jest Słowem Wcielonym w kartach Biblii. Dlatego to zdanie z listu do Hebrajczyków jest dla nas wezwaniem. Musimy w sobie wzbudzić "głód słowa", aby przeżyć to co przed nami. Musimy chcieć zostać dotkniętymi przez "miecz obosieczny".
 
-.. warning:: Przeczytanie tego zdania niewątpliwie nic nie da grupie. **To jest miejsce na Twoje świadectwo**. Modlitwa wieczorna to centrum tych rekolekcji - musisz powalczyć o swoich uczestników. Powiedz im o swoim spotkaniem z Słowem Przedwiecznym, opowiedziedz co zmieniło i w jaki sposób w Twoim życiu. Jesteś animatorem - ożywiaj, realizuj swoje powołanie - Duch poprowadzi.
+.. warning:: Przeczytanie tego zdania niewątpliwie nic nie da grupie. **To jest miejsce na Twoje świadectwo**. Modlitwa wieczorna to centrum tych rekolekcji - musisz powalczyć o swoich uczestników. Powiedz im o swoim spotkaniem z Słowem Przedwiecznym, opowiedz co zmieniło i w jaki sposób w Twoim życiu. Jesteś animatorem - ożywiaj, realizuj swoje powołanie - Duch poprowadzi.
 
 Przeczytajmy jeszcze dwa teksty:
 
-   Kościół … ma za fundament słowo Boże, rodzi się z niego i nim żyje. Lud Boży przez kolejne stulecia swoich dziejów w nim zawsze znajdował swoją siłę, i również dzisiaj wspólnota kościelna wzrasta przez słuchanie, celebrację i studium słowa Bożego
+   Kościół ... ma za fundament słowo Boże, rodzi się z niego i nim żyje. Lud Boży przez kolejne stulecia swoich dziejów w nim zawsze znajdował swoją siłę, i również dzisiaj wspólnota kościelna wzrasta przez słuchanie, celebrację i studium słowa Bożego
 
    -- Verbum Domini
 
@@ -274,7 +274,7 @@ Słowa, które z czasem odkrywają się przed nami
 
 Czytanie Słowa Bożego jest przygodą. Naprawdę. Jedynym w swoim rodzaju jest ten moment gdy czytamy Słowo Boże i zaczynamy poprzez znaki stworzone tuszem na papierze widzieć głębszy sens. Spróbujmy tego doświadczyć!
 
-.. warning:: Kochani animatorzy. Używając tego na Babicach tracimy możliwość wykorzystania tej wspaniałej egzegezy na rekolekcjach, konferencjach itp. Nie róbcie tego jeżeli ma być to na szybko i czasu Wam miałoby brakować. Co będę ukrywać - to było do tej pory moje “animatorskie ninja” ;P
+.. warning:: Kochani animatorzy. Używając tego na Babicach tracimy możliwość wykorzystania tej wspaniałej egzegezy na rekolekcjach, konferencjach itp. Nie róbcie tego jeżeli ma być to na szybko i czasu Wam miałoby brakować. Co będę ukrywać - to było do tej pory moje "animatorskie ninja" ;P
 
 Przeczytajmy:
 
@@ -359,7 +359,7 @@ Jezus jest kimś kto odczuwa głód i pragnienie, kusi go szatan. Jezus jest cz�
 
 * Czym jest oś symetrii?
 
-Połączenie chrztu wody i Ducha. Jezus jest Bogiem i Człowiekiem zarazem.... przy czym mamy tutaj doskonałą symetrię. Św. Marek w swoim prologu “ukrywa” podstawowe wyznanie wiary w osobę Jezusa Chrystusa!!!
+Połączenie chrztu wody i Ducha. Jezus jest Bogiem i Człowiekiem zarazem.... przy czym mamy tutaj doskonałą symetrię. Św. Marek w swoim prologu "ukrywa" podstawowe wyznanie wiary w osobę Jezusa Chrystusa!!!
 
 ==============================================
 Zakończenie - zastosowanie
@@ -367,4 +367,4 @@ Zakończenie - zastosowanie
 
 Zastosowaniem z tego spotkania niech będzie nasze postanowienie, abyśmy zrobili w sobie miejsce na spotkanie się ze Słowem Bożym na dzisiejszej modlitwie wieczornej.
 
-Teraz zaś pomódlmy się o Ducha Świętego, aby naszej grupie w tym dopomógł - bez Niego próżny jest nasz trud. Rozbudźmy w sobie odważnie pragnienie! Żeby Słowo Boże nie było dla nas “bardzo ważną sprawą, której trzeba słuchać - bo to dobre dzieło”, ale czymś na co nie potrafimy się doczekać, bo Ono nas przemienia w piękniejszych ludzi!
+Teraz zaś pomódlmy się o Ducha Świętego, aby naszej grupie w tym dopomógł - bez Niego próżny jest nasz trud. Rozbudźmy w sobie odważnie pragnienie! Żeby Słowo Boże nie było dla nas "bardzo ważną sprawą, której trzeba słuchać - bo to dobre dzieło", ale czymś na co nie potrafimy się doczekać, bo Ono nas przemienia w piękniejszych ludzi!

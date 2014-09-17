@@ -14,7 +14,7 @@ Cel Spotkania
 Wprowadzenie dla animatora
 ==================================
 
-To już ostatnie spotkanie na tych rekolekcjach. Podzielmy się na nim tym, czego tutaj doświadczyliśmy i czego się dowiedzieliśmy. Po tym spotkaniu i po zakończeniu rekolekcji pozostaje już tylko jedno: nie zapominać nigdy, że słowo jest życiem (czyli to co oazowicze lubią najbardziej ;) ). I mieć świadomość, że słowo to nie “tylko słowo”, ale “aż słowo”. Na tym spotkaniu będziemy starali się przygotować do walki o słowo. Bo kto jak nie my?
+To już ostatnie spotkanie na tych rekolekcjach. Podzielmy się na nim tym, czego tutaj doświadczyliśmy i czego się dowiedzieliśmy. Po tym spotkaniu i po zakończeniu rekolekcji pozostaje już tylko jedno: nie zapominać nigdy, że słowo jest życiem (czyli to co oazowicze lubią najbardziej ;) ). I mieć świadomość, że słowo to nie "tylko słowo", ale "aż słowo". Na tym spotkaniu będziemy starali się przygotować do walki o słowo. Bo kto jak nie my?
 
 ====================================
 Modlitwa
@@ -61,7 +61,7 @@ Słowo Boga ożywia. Wyprowadza z grobów. Pokonuje śmierć. Jest Życiem. Sło
 
 * Co to znaczy, że coś/ktoś żyje? Co jest z tym związane?
 
-Stwórzmy mapę myśli z naszych pomysłów, której centrum będzie “Żyjący, czyli...”
+Stwórzmy mapę myśli z naszych pomysłów, której centrum będzie "Żyjący, czyli..."
 
 .. note:: nie ograniczajcie się: może być filozoficznie, biologicznie, psychologicznie
 
@@ -75,13 +75,13 @@ Walka o słowo i słowem
 
 Kiedy słowo mnie ożywia, kiedy naprawdę uświadamiam sobie jego moc i jego wartość, nie pozostaje mi nic innego jak wziąć odpowiedzialność za jego los. Jak POTRAKTOWAĆ JE NA SERIO.
 
-* Co według Was znaczy “potraktować słowo na serio”?
+* Co według Was znaczy "potraktować słowo na serio"?
 
 * Co mamy tak dokładnie robić?
 
 Posłuchajmy:
 
-   Pewna kobieta śniła, że weszła do nowiutkiego sklepu na rynku i ku swemu zdziwieniu zobaczyła Boga za ladą. “-Czy mogę kupić to co chcę?”. ” Wszystko, co tylko chcesz” , rzekł Bóg. Ledwie ośmielając się wierzyć własnym uszom, kobieta postanowiła poprosić o najlepsze rzeczy, o których człowiek może tylko marzyć. „Chcę pokoju umysłu i miłości, i szczęścia, i mądrości, i wolności od lęku” . I potem, po namyśle, dodała: „Nie tylko dla siebie, dla każdego na Ziemi” . Bóg uśmiechnął się. „Myślę, że źle mnie zrozumiałaś, moja droga - powiedział - nie sprzedajemy tu owoców, tylko nasiona.
+   Pewna kobieta śniła, że weszła do nowiutkiego sklepu na rynku i ku swemu zdziwieniu zobaczyła Boga za ladą. "-Czy mogę kupić to co chcę?". " Wszystko, co tylko chcesz" , rzekł Bóg. Ledwie ośmielając się wierzyć własnym uszom, kobieta postanowiła poprosić o najlepsze rzeczy, o których człowiek może tylko marzyć. "Chcę pokoju umysłu i miłości, i szczęścia, i mądrości, i wolności od lęku" . I potem, po namyśle, dodała: "Nie tylko dla siebie, dla każdego na Ziemi" . Bóg uśmiechnął się. "Myślę, że źle mnie zrozumiałaś, moja droga - powiedział - nie sprzedajemy tu owoców, tylko nasiona.
 
 Słowo Boga jest jak nasiona, które są w nas zasiewane (patrz przypowieść o siewcy, o której mówiła wczoraj Ania S. w wprowadzeniu do NS ).
 Teraz my musimy pozwolić Bogu uprawiać nasz ogród. I musimy walczyć o to, aby zasiane w nas ziarno nie umarło- nie możemy go pozostawić i czekać z założonymi rękami.

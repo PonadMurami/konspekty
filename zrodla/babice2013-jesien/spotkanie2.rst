@@ -12,7 +12,7 @@ Refleksja na temat tego co w moim życiu jest wartością i bez-wartością. Odk
 Wprowadzenie dla animatora
 ==================================
 
-To spotkanie otwiera drugą połowę rekolekcji w czasie której przechodzimy “ze światła do życia”. Stając przed swoimi uczestnikami w dniu dzisiejszym powinieneś mieć w głowie modlitwę wieczorną na której razem macie zawołać “Boże spraw niech będę kimś!”. To spotkanie o rozbudzaniu pragnień, nadziei, wiary - taki też powinno mieć charakter.
+To spotkanie otwiera drugą połowę rekolekcji w czasie której przechodzimy "ze światła do życia". Stając przed swoimi uczestnikami w dniu dzisiejszym powinieneś mieć w głowie modlitwę wieczorną na której razem macie zawołać "Boże spraw niech będę kimś!". To spotkanie o rozbudzaniu pragnień, nadziei, wiary - taki też powinno mieć charakter.
 Kartki które masz przed sobą są tylko nieudolną próbą przekazania tego klimatu o którym, jak jestem przekonany, wiesz wiele i masz go w sercu, bo jesteś tym, który powołany został do ożywiania i powoływania innych.
 
 Twoje przygotowanie powinno polegać przede wszystkim na modlitwie w czasie której postarasz się zobaczyć własną drogę do wartości swojej i wartości, które masz w sercu. Musisz wiedzieć:
@@ -31,7 +31,7 @@ Przygotuj:
 Modlitwa
 ====================================
 
-Kluczem wydaje się **otwartość** - na mówienie tak jak jest, a nie tak jak chciałbym, aby było. Otwartość musi zaś być poprzedzona **odwagą**. Te dwie przestrzenie niech będą na pierwszym planie. W starszych grupach proponuje objąć modlitwą młodsze grupy tych rekolekcji oraz modlitwę wieczorną - uczmy odpowiedzialności….i walki.
+Kluczem wydaje się **otwartość** - na mówienie tak jak jest, a nie tak jak chciałbym, aby było. Otwartość musi zaś być poprzedzona **odwagą**. Te dwie przestrzenie niech będą na pierwszym planie. W starszych grupach proponuje objąć modlitwą młodsze grupy tych rekolekcji oraz modlitwę wieczorną - uczmy odpowiedzialności....i walki.
 
 ====================================
 Wprowadzenie do spotkania
@@ -41,9 +41,9 @@ Dzisiejszy Namiot Spotkania był o Marii i Marcie. Zacznijmy od podzielenia się
 
 * Czy ten fragment jest mi bliski? Dlaczego?
 
-* O co ja się troszcze?
+* O co ja się troszczę?
 
-* Czy w moim życiu muszę decydować pomiędzy “cząstkami”?
+* Czy w moim życiu muszę decydować pomiędzy "cząstkami"?
 
 ====================================
 Moje wartości
@@ -61,11 +61,11 @@ Na rekolekcjach nie chcemy tylko mówić o wartościach, nie chcemy ich analizow
 
 * Jaką cenę za nie płacę? Czy ktoś o te wartości ze mną walczy?
 
-To wezwanie jest ważne - “nie można nie walczyć, nie można się uchylić”. Spróbujmy na nie odpowiedzieć tak jak potrafimy - na razie na forum tej małej grupy. (Uczestnicy otwierają notatniki na końcu gdzie jest miejsce na własne notatki). Spróbujmy zapisać tam uzupełnione następujące zdanie:
+To wezwanie jest ważne - "nie można nie walczyć, nie można się uchylić". Spróbujmy na nie odpowiedzieć tak jak potrafimy - na razie na forum tej małej grupy. (Uczestnicy otwierają notatniki na końcu gdzie jest miejsce na własne notatki). Spróbujmy zapisać tam uzupełnione następujące zdanie:
 
 .. note:: Można oczywiście własnymi słowami zachowując sens. To zadanie koniecznie musi dokonywać się w wolności. Jeżeli ktoś odczuwa przed nim bunt -  dobrze! Niech podzieli się z grupą powodem. Ważne, aby się z tym skonfrontować.
 
-.. centered::   **Dla mnie [imie] [nazwisko] jednymi z najważniejszych wartości są…...… dlatego chce o nie walczyć i nie uchylić się od tego dla siebie oraz innych.**
+.. centered::   **Dla mnie [imię] [nazwisko] jednymi z najważniejszych wartości są......... dlatego chce o nie walczyć i nie uchylić się od tego dla siebie oraz innych.**
 
 Jak uczestnicy skończą pisać zapytajmy:
 
@@ -82,10 +82,10 @@ Na koniec każdy z grupy odczytuje to co napisał (choć lepiej byłoby gdyby w 
 * Skąd masz odwagę do wypowiadania takich słów?
 
 ==================================================
-“Dopóki sił, będę szedł! Będę biegł! Nie dam się!”
+"Dopóki sił, będę szedł! Będę biegł! Nie dam się!"
 ==================================================
 
-.. note:: Fragment “Wędrówką życie jest człowieka” Edwarda Stachury
+.. note:: Fragment "Wędrówką życie jest człowieka" Edwarda Stachury
 
 Jesteśmy tutaj na ziemi z jakiegoś powodu. Mamy wolną wolę dzięki której to my decydujemy w co się angażujemy. Pierwszym krokiem do osiągnięcia czegoś w życiu jest ustalenie sobie tego jako cel. Czy to nie jest zbytnio pyszne myślenie? Może powinniśmy nie wychodzić przed szereg i czekać aż nas ktoś poprosi albo nam pozwoli?
 
@@ -115,7 +115,7 @@ Przeczytajmy:
 
 * Jakim św. Paweł jest człowiekiem? Jak podsumowuje swoje życie?
 
-* Jak daleko ja posunąłem się w moim “wyścigu” do tego stanu?
+* Jak daleko ja posunąłem się w moim "wyścigu" do tego stanu?
 
 * W jakim wyścigu biegniesz? O co walczysz?
 
@@ -123,7 +123,7 @@ Przeczytajmy:
 
 * Czy jest w Tobie determinacja do pięknego życia?
 
-.. note:: To jest miejsce na świadectwo animatora. Świadectwo człowieka, który już nie tyle szuka, co kocha. Który nie tyle marzy, co realizuje. Człowieka spełnionego, bo odnalazł jakiś sens swojego życia. Świadectwo człowieka, którego serce jest już spokojne, bo odnalazło Boga. Człowieka, który mimo, że odnalazł, to nadal jego serce jest pełne żaru, bo widzi jak wiele jest do zrobienia, a tak mało czasu… Człowieka, którego w dużym stopniu “bieg i cel” siedzi teraz przed nim wokół świeczki i który wie po co tu dla nich jest. Twoja formacja Cię do tego przygotowała - Niech Bóg Cię poprowadzi!
+.. note:: To jest miejsce na świadectwo animatora. Świadectwo człowieka, który już nie tyle szuka, co kocha. Który nie tyle marzy, co realizuje. Człowieka spełnionego, bo odnalazł jakiś sens swojego życia. Świadectwo człowieka, którego serce jest już spokojne, bo odnalazło Boga. Człowieka, który mimo, że odnalazł, to nadal jego serce jest pełne żaru, bo widzi jak wiele jest do zrobienia, a tak mało czasu... Człowieka, którego w dużym stopniu "bieg i cel" siedzi teraz przed nim wokół świeczki i który wie po co tu dla nich jest. Twoja formacja Cię do tego przygotowała - Niech Bóg Cię poprowadzi!
 
 ==================================================
 Walka o intensywność (o soli smak)
@@ -136,9 +136,9 @@ Grozi nam utrata intensywności, aromatu, zapachu, smaku. Tak działa bez-warto�
 .. centered:: **Jak rozmawiać to szukając głębi!**
 
 
-Bo są takie rzeczy w życiu w których nie chcemy zgodzić się na coś fałszywe  go, niepełnego…
+Bo są takie rzeczy w życiu w których nie chcemy zgodzić się na coś fałszywe  go, niepełnego...
 
-Animator wyciąga dużą kartkę na której wpisywać będziemy te “postulaty” o co trzeba nam teraz walczyć. Zadaje pytania dopisując:
+Animator wyciąga dużą kartkę na której wpisywać będziemy te "postulaty" o co trzeba nam teraz walczyć. Zadaje pytania dopisując:
 
 * Co jest szczególnie zagrożone obecnie o co ktoś musi walczyć?
 
@@ -146,7 +146,7 @@ Animator wyciąga dużą kartkę na której wpisywać będziemy te “postulaty�
 
 .. note:: Pod koniec tych pytań powinniśmy mieć wspólną listę wartości, które domagają się odpowiedzi
 
-Na koniec każdy z uczestników spotkania wybiera ze wspólnej listy jedno, które wydaje mu się “szczególnie jego” i zaznacza.
+Na koniec każdy z uczestników spotkania wybiera ze wspólnej listy jedno, które wydaje mu się "szczególnie jego" i zaznacza.
 
 * Jak walczysz obecnie o tą wartość?
 
@@ -186,7 +186,7 @@ Przeczytajmy:
 
 * Jak Jezus do niej podszedł? Do czego zmierzał?
 
-Jezus od samego początku nadaje jej wartość - zmierza do tego, aby wyprostowała głowę i odważnie spojrzała przed siebie (była odrzucona przez społeczność - była to pora o której szła czerpać wodę jest porą największego słońca - wtedy nikt nie chodzi do studni - robi to po to, aby uniknąć ludzkiego wzroku pogardy.)  . Nie usuwa i nie zapomina o jej przeszłości, ale pokazuje, że mimo to, że zna jej przeszłość i tak zdradza jej tajemnice wiary i prowadzi “głęboką” rozmowę.
+Jezus od samego początku nadaje jej wartość - zmierza do tego, aby wyprostowała głowę i odważnie spojrzała przed siebie (była odrzucona przez społeczność - była to pora o której szła czerpać wodę jest porą największego słońca - wtedy nikt nie chodzi do studni - robi to po to, aby uniknąć ludzkiego wzroku pogardy.)  . Nie usuwa i nie zapomina o jej przeszłości, ale pokazuje, że mimo to, że zna jej przeszłość i tak zdradza jej tajemnice wiary i prowadzi "głęboką" rozmowę.
 
 * Czy nadał mi ktoś wartość? Kto?
 
@@ -199,7 +199,7 @@ Jezus od samego początku nadaje jej wartość - zmierza do tego, aby wyprostowa
 Sami z siebie wchodząc w głąb swojej osoby nie jesteśmy zdolni znaleźć swojej wartości. Potrzebny jest ktoś drugi. Wartość zdobywa się w spotkaniu, w dialogu!
 
 ==================================================
-“Odbuduj mury Jeruzalem!”
+"Odbuduj mury Jeruzalem!"
 ==================================================
 
 .. note:: Ta część spotkania jest bezpośrednio związana z modlitwą wieczorną i stanowi wprowadzenie do niej [kontynuacją będzie wieczornica]
@@ -210,11 +210,11 @@ Przeczytajmy:
 
    -- Ps 51,20
 
-Jak to możliwe?! Dlaczego wybrany Izrael, drogi w oczach Pana (fragment z Iz)  musi krzyczeć takie rzeczy? Ano musi… Tam gdzie mówimy o walce tam czasami mury zostają zniszczone. Zniszczone mury dramatem nie są….dramatem są ich ruiny nieodbudowywane przez lata.
+Jak to możliwe?! Dlaczego wybrany Izrael, drogi w oczach Pana (fragment z Iz)  musi krzyczeć takie rzeczy? Ano musi... Tam gdzie mówimy o walce tam czasami mury zostają zniszczone. Zniszczone mury dramatem nie są....dramatem są ich ruiny nieodbudowywane przez lata.
 
 * Czy straciłem kiedyś jakąś wartość? Co wtedy robiłem?
 
-* Co trzeba we mnie “odbudować”? Co chciałbym dosłownie “wzmocnić”?
+* Co trzeba we mnie "odbudować"? Co chciałbym dosłownie "wzmocnić"?
 
 * Co zrobić, aby dzięki dzisiejszej modlitwie jutro być piękniejszymi?
 
@@ -222,5 +222,4 @@ Jak to możliwe?! Dlaczego wybrany Izrael, drogi w oczach Pana (fragment z Iz)  
 Zastosowanie
 ==================================================
 
-Wypisać do trzech krwawiących we mnie wartości, które dzisiaj na modlitwie wieczornej oddam Bogu, mówiąc “Ty wszystko czynisz nowe, odbuduj mury Jeruzalem!”. W starszych grupach dodatkowo modlitwa wstawiennicza za siebie + całą wspólnotę oraz osobę prowadzącą wieczornicę.
- 
+Wypisać do trzech krwawiących we mnie wartości, które dzisiaj na modlitwie wieczornej oddam Bogu, mówiąc "Ty wszystko czynisz nowe, odbuduj mury Jeruzalem!". W starszych grupach dodatkowo modlitwa wstawiennicza za siebie + całą wspólnotę oraz osobę prowadzącą wieczornicę.
