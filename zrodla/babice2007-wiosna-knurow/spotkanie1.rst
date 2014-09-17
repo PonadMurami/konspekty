@@ -14,7 +14,7 @@ Konspekt zawiera znaczną ilość przykładów i fragmentów. Nie wszystkie trze
 Cele
 ==================================
 
-Celem dzisiejszego spotkania jest uświadomienie sobie czym jest wiara w znaczeniu ogólnym, pojęciowym. Będziemy starali się zobaczyć skąd się ona bierze, czym tak naprawdę jest. Jest to spotkanie czystko teoretyczne, hipotetyczne, z jak najmniejszym odniesieniem do samego siebie.
+Celem dzisiejszego spotkania jest uświadomienie sobie czym jest wiara w znaczeniu ogólnym, pojęciowym. Będziemy starali się zobaczyć skąd się ona bierze, czym tak naprawdę jest. Jest to spotkanie czysto teoretyczne, hipotetyczne, z jak najmniejszym odniesieniem do samego siebie.
 
 ====================================
 Wiedzieć, wierzyć, uwierzyć
@@ -91,7 +91,7 @@ Kiedy już doszliśmy do tych wniosków zastanówmy się nad zdaniem: "Można be
 
 Często o Bogu mówi się jako o abstrakcie, odległym bycie. Taki Bóg oderwany od człowieka, nie mający z nim nic wspólnego jest Bogiem martwym. Tak Boga pojmowało Oświecenie.
 
-Kontakt z takim Biegiem był niemożliwy. Wyrazi to dobitnie Nietzsche w swoim słynnym stwierdzeniu "Bóg umarł". Co tak naprawdę oznacza to stwierdzenie? Jakie niesie za sobą konsekwencje?
+Kontakt z takim Bogiem był niemożliwy. Wyrazi to dobitnie Nietzsche w swoim słynnym stwierdzeniu "Bóg umarł". Co tak naprawdę oznacza to stwierdzenie? Jakie niesie za sobą konsekwencje?
 
 Spróbujmy zapytać o to uczestników. Jak oni to rozumieją.
 
