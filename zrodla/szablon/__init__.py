@@ -24,7 +24,7 @@ class CustomLatexTranslator(BaseTranslatorLatex):
 
     def visit_attribution(self, node):
         self.body.append('\mynobreakpar\n\\begin{flushright}\n')
-        self.body.append('---')
+        self.body.append(' --- ')
 
 def setup(app):
     sphinx.writers.latex.LaTeXTranslator = CustomLatexTranslator;
