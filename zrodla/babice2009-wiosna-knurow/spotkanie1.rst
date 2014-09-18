@@ -85,6 +85,7 @@ Najpierw pojawiła się jakby lekka mgiełka,. która zdecydowanie pogorszyła w
    -- Anonim
 
 Spróbujmy tutaj wraz z~uczestnikami opisać warunki panujące na pustyni, jak należy się przygotować do podróży przez pustynię. Kilka przykładowych:
+
 * brak jedzenia i~picia;
 * problemy z~poruszaniem się;
 * duża różnica temperatury pomiędzy dniem i~nocą;
