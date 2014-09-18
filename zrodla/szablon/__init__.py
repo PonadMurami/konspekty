@@ -22,5 +22,9 @@ class CustomLatexTranslator(BaseTranslatorLatex):
             text = educate_quotes_latex(text)
         self.body.append(text)
 
+    def visit_attribution(self, node):
+        self.body.append('\mynobreakpar\n\\begin{flushright}\n')
+        self.body.append('---')
+
 def setup(app):
     sphinx.writers.latex.LaTeXTranslator = CustomLatexTranslator;

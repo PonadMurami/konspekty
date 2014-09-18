@@ -115,7 +115,7 @@ Na zakończenie przeczytajmy:
 
     Człowiek  zmienia się od kołyski  aż po grób. Kiedy więc jest sobą?
 
-     --  Stefan Kisielewski
+    --  Stefan Kisielewski
      
 ======================================
 Zastosowanie

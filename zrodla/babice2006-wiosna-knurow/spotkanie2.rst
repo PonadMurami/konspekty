@@ -10,7 +10,7 @@ Wprowadzenie dla Animatora
     
     Właśnie owo głębokie zdumienie  wobec wartości i~godności człowieka nazywa się Ewangelią, czyli Dobrą Nowiną.
 
-     --  Jan Paweł II - *Redemptor hominis*
+    --  Jan Paweł II - *Redemptor hominis*
 
 Ten tekst oddaje wszystko o~czym chcemy mówić tego dnia.
 

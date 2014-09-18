@@ -26,7 +26,7 @@ Wiele na tych rekolekcjach mówiliśmy o~wolności, o~byciu Nowym Stworzeniem, o
 
 Podkreślamy, że nie będziemy się tym dzielić i~prosimy uczestników o~napisanie tej rzeczy/tych rzeczy na swojej masce.
 
-.. warning:: Każdemu uczestnikowi będzie potrzebna jego maska na podsumowaniu-> ważne jest, żeby się porządnie zastanowili i~napisali "coś" na swoich maskach.
+.. warning:: Każdemu uczestnikowi będzie potrzebna jego maska na podsumowaniu -> ważne jest, żeby się porządnie zastanowili i~napisali "coś" na swoich maskach.
 
 =========================================
 Pytania

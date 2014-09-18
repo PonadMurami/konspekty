@@ -8,7 +8,7 @@ Wprowadzenie (nie)tylko dla animatora
 
     Każde stworzenie mówi i~jest powołane do wyrażenia jakiegoś szczególnego aspektu myśli Boga. Tam odnajduje swoje imię i~tożsamość; potwierdza i~czyni bezpieczną swoją wolność i~oryginalność
 
-     --  Jan Paweł II - *Dokument Końcowy Kongresu Powołań w~Rzymie*
+    --  Jan Paweł II -- *Dokument Końcowy Kongresu Powołań w~Rzymie*
 
 Na początek warto przytoczyć kilka fragmentów, które rozjaśnią nam nieco czym będziemy się zajmować.  Warto oczywiście wykorzystać je w~trakcie spotkania. Powinny być wcześniej przemyślane  przez animatora, to baza dzięki której nabierzemy pewności w~temacie.
 
@@ -39,7 +39,7 @@ Odczytanie Fragmentu, a~następnie umieszczenie go w~widocznym miejscu, aby "tow
 
     Stwarzając człowieka  na swój obraz i~podobieństwo  oraz nieustannie podtrzymując go w~istnieniu, Bóg wpisuje w~człowieczeństwo mężczyzny i~kobiety powołanie, a~więc zdolność i~odpowiedzialność za miłość i~wspólnotę. Miłość jest zatem podstawowym i~wrodzonym powołaniem każdej istoty ludzkiej
 
-     --  Jan Paweł II - *Adhortacja "Familiaris consortio"*
+    --  Jan Paweł II - *Adhortacja "Familiaris consortio"*
 
 Fragment ten jest równocześnie wprowadzeniem do tematyki spotkania – zapytać konkretnie kogoś jak reaguje gdy widzi taki tekst, czy są to dla niego "frazesy" czy może nieżyciowe rozważania, a~może czymś co poruszyło?
 
@@ -67,7 +67,7 @@ Bóg wybiera każdego z~nas. On nas stworzył i~nie dokonał tego "ot tak sobie 
 
     Miłość Boga Ojca, która stworzyła każdego człowieka, sprawia, że  nikt nie powinien czuć się niepotrzebny, samotny czy zapomniany, gdyż jest powołany do życia w~miłości  według  planu Bożego, ułożonego właśnie dla niego, czyli zgodnie  z~jego niepowtarzalną historią, aspiracjami oraz możliwościami. Poszczególny człowiek ma szansę czuć się kochany, bezpieczny, zrealizowany i~w pełni usatysfakcjonowany tylko wtedy, gdy odkryje i~przyjmie Boży zamysł, Boże marzenie na temat jego życia i~przyszłości. Z~tego powodu to właśnie Bóg Ojciec jest najlepszym wychowawcą człowieka,  gdyż tylko On może w~pełni wydobyć z~serca człowieka to, co On sam tam umieścił. Tylko Bóg może skutecznie pomóc człowiekowi, by stał się on najpiękniejszą wersją samego siebie.
 
-     --  Ks. Marek Dziewiecki
+    --  Ks. Marek Dziewiecki
 
 * Czy zgadzamy  się z~tymi słowami? Czy możemy  się podzielić doświadczeniem właśnie takiego działania Boga, że On wydobył z~nas rzeczy które nas samych wprowadziły w~zdumienie?
 
@@ -101,7 +101,7 @@ Powołanie  do służby konsekwencją daru życia
 
     Zrealizować we własnym życiu Boże powołanie to stać się wiernym uczniem Chrystusa, to stać się przedłużeniem Jego słów i~Jego czynów, to stać się przedłużeniem Jego obecności na tej ziemi. To doprowadzić do sytuacji, w~której za św. Pawłem możemy powiedzieć, że już nie ja żyję, lecz żyje we mnie Chrystus. To oddać Jezusowi do całkowitej dyspozycji samego siebie, aby poprzez nas Jego serce i~Jego ręce mogły nadal obejmować małych i~zagubionych, chorych i~odrzuconych przez ludzi, słabych i~grzeszników.
 
-     --  Ks. Marek Dziewiecki
+    --  Ks. Marek Dziewiecki
 
 Oddanie Jezusowi samego siebie do całkowitej dyspozycji  to nic innego jak stanie się Jego narzędziem, a~sługą dla bliźniego.
 

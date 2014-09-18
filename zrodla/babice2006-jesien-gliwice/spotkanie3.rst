@@ -14,7 +14,7 @@ Na spotkanie przeznaczone jest półtorej godziny. Będzie przeprowadzone metod�
 
 2. **Osądzić** – Odkrycie Bożych oczekiwań względem wspólnot i~poszczególnych ich członków w~oparciu o~Pismo Święte. Ocena kondycji swoich wspólnot w~świetle Bożego Słowa. (45 min.)
 
-3. **Działać** – Znalezienie sfer działalności parafialnych wspólnot oazowych, które wymagają poprawy. Podjęcie konkretnych postanowień. (15 min.)
+3. **Działać** – Znalezienie sfer działalności parafialnych wspólnot oazowych, które wymagają poprawy. Podjęcie konkretnych postanowień. (15~min.)
 
 =====================================
 Przygotowanie animatora
@@ -82,7 +82,7 @@ Nie chcę narzucać interpretacji tekstu. Ważne jest to, co uczestnicy sami wyw
 
     * przełożony – moderator, niekoniecznie kapłan.
 
-    * rozdawanie, uczynki miłosierdzia – Oaza, a~przynajmniej  oazowicze, ma służyć potrzebującym. Nie chodzi o~to, by zastępować parafialny oddział Caritas, ale raczej by z~nim współpracować. Dobrze, jeśli wspólnota jako całość angażuje się w~jakieś dzieła miłosierdzia. Jeżeli nie jest to możliwe, to oczywiście każdy członek Oazy powinien gdzieś jakoś komuś służyć. Wiara, jeśli nie byłaby połączona  z~uczynkami,  martwa jest sama w~sobie. (por. Jk 2, 14–19)
+    * rozdawanie, uczynki miłosierdzia – Oaza, a~przynajmniej  oazowicze, ma służyć potrzebującym. Nie chodzi o~to, by zastępować parafialny oddział Caritas, ale raczej by z~nim współpracować. Dobrze, jeśli wspólnota jako całość angażuje się w~jakieś dzieła miłosierdzia. Jeżeli nie jest to możliwe, to oczywiście każdy członek Oazy powinien gdzieś jakoś komuś służyć. Wiara, jeśli nie byłaby połączona  z~uczynkami,  martwa jest sama w~sobie. (por. Jk~2, 14–19)
 
 * **Rz 12, 9–12** - Lista zasad, którymi należy się kierować w~życiu wspólnotowym. Każda z~niech jest ważna. Większość daje się prosto przełożyć na nasze realia, skomentuję więc tylko kilka:
 
@@ -112,9 +112,9 @@ Jak już wspomniałem wcześniej, animator może uznać niektóre sprawy za wyma
 
 * **1 Kor 11, 17–20**	Ważność Eucharystii i~unikanie sporów.
 * **Ef 5, 17–20**	Rozeznawanie woli Bożej; wspólna modlitwa uwielbienia, w~szczególności modlitwa śpiewem.
-* **1 Tm 2, 1–4**	Wspólnotowa modlitwa wstawiennicza za świat. Jk 2, 14–19	Uczynki miłosierdzia.
+* **1 Tm 2, 1–4**	Wspólnotowa modlitwa wstawiennicza za świat. Jk~2,14–19	Uczynki miłosierdzia.
 * **Ef 5, 3–4**	Kultura słowa.
-* **Ga 6, 1–3**	Wzajemne wsparcie i~odpowiedzialność za drugiego. Flp 2, 1–5; Ef 4, 1–3	Jednomyślność i~pokora.
+* **Ga 6, 1–3**	Wzajemne wsparcie i~odpowiedzialność za drugiego. Flp~2,1–5; Ef~4,1–3 Jednomyślność i~pokora.
 
 =====================================
 Działać

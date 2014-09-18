@@ -192,7 +192,7 @@ Spróbujmy na chwilę uruchomić wyobraźnię. Zamknijmy oczy i~spróbujmy przyw
    | Pozostawiając nadzieję,
    | Zbyt wielka na jedno życie.
 
-   --  Raz, dwa, trzy --- Dalej niż sięga myśl
+   --  Raz, dwa, trzy -- Dalej niż sięga myśl
 
 * Jaki ten obraz jest?
 
