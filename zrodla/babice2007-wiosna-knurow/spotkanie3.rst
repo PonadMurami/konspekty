@@ -47,6 +47,7 @@ Przypomnijmy sobie człowieka z~opowiadania o~rabbim z~piątkowego spotkania. Te
 Ale pytanie rabina pobudziło go, sprawiło, że dostrzegł nowe rzeczy, obok których wcześniej przechodził obojętnie. Jak teraz można określić jego postawę?
 
    Paul Tilisch uważał, że najważniejsza granica nie przebiega między tymi, którzy mają się za wierzących, a~tymi, którzy uważają się za ateistów, lecz między grupą tych, którzy do pytań, jakie nasuwa wiara, odnoszą się obojętnie – czy chodzi o~konwencjonalnych ateistów, czy konwencjonalnych wierzących – a~tych, którzy te pytania poruszają – czy będą to wierzący, dla których wiara nie przestaje być "niezwykła przygodą poszukiwania", czy ateiści, którzy w~ten czy inny sposób "mocują się z~Bogiem".
+
    -- ks. Tomasz Halik
 
 Człowiek letni, to właśnie człowiek próbujący ukryć swoje wątpliwości, chowający swoje pytania.

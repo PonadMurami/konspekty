@@ -210,7 +210,7 @@ Przeczytajmy:
 
    -- Raz, Dwa, Trzy -- Dalej niż sięga myśl
 
-Na drodze nie jesteśmy sami. Gdy dzisiaj na tych rekolekcjach 25 osób po raz kolejny wybiera jako swój kierunek życia Jezusa Chrystusa i~**wykona** w~tym kierunku krok... to siłą rzeczy wszyscy zbliżymy się do siebie (nierówność trójkąta). Im dalej każdy z~nas w~tej drodze będzie tym łatwiej będzie nam "wpadać na siebie".
+Na drodze nie jesteśmy sami. Gdy dzisiaj na tych rekolekcjach 25 osób po raz kolejny wybiera jako swój kierunek życia Jezusa Chrystusa i **wykona** w~tym kierunku krok... to siłą rzeczy wszyscy zbliżymy się do siebie (nierówność trójkąta). Im dalej każdy z~nas w~tej drodze będzie tym łatwiej będzie nam "wpadać na siebie".
 
 * Co to dla mnie znaczy, że coś jest łączeniem błękitu i~lądu zarazem?
 

@@ -47,6 +47,7 @@ Powstaje  pytanie:
 * Czy to znaczy, że człowiek XXIw nie szuka w~ogóle? (Szuka – ale jakie sprawy zabierają mu najwięcej czasu? (nie pytamy jakie są dla niego najważniejsze))
 
 Tworzymy wspólnie listę, przykład:
+
 * W~co się rano ubrać?
 * Co kupić na prezent Bożonarodzeniowy?
 * Co nowego jest w~sklepie co mogę kupić?
@@ -117,6 +118,7 @@ Popatrzmy raz jeszcze na listę, którą utworzyliśmy – "czego szuka człowie
 * Czego szukamy co tak naprawdę jest czymś nam narzuconym, czymś czego być może tak naprawdę nie potrzebujemy?
 
 Przykłady:
+
 * Lepszego telefonu komórkowego ( mimo, że nie wykorzystuje jego nowych funkcji) Plików MP3 w~Internecie (aby je kolekcjonować - i~tak nie będę ich słuchać, bo mam ich tak dużo)
 * Plotek w~gazetach na temat gwiazd ($#^&!%@ nawet nie jestem wstanie wymyśleć co tu wpisać :D)
 * Kosmetyk XYZ (bo dzięki niemu będziesz piękna – tak jakbyś teraz nie była)

@@ -8,7 +8,7 @@ Cel Spotkania
 
 1. Ukazanie Bożej miłości jako agape i~erosa równocześnie. Pokazanie, że chrześcijaństwo wcale nie wymaga od człowieka poświęcania ciała, że wyklucza ludzką cielesność z~porządku miłości.
 
-2. "Mój miły jest mój, a~ja jestem jego" - miłość opisana w~Pnp jako całkowite i~dobrowolne oddanie się drugiej osobie, jako pełnia spotkanie 2 osób.
+2. "Mój miły jest mój, a~ja jestem jego" - miłość opisana w~Pnp jako całkowite i~dobrowolne oddanie się drugiej osobie, jako pełnia spotkania dwóch osób.
 
 3. Niezwykły charakter Pnp, księgi, która pochwala, jest Bożym błogosławieństwem nad ludzką miłością.
 
@@ -58,8 +58,9 @@ Miłość w~Pnp nie jest przeciwstawieniem miłości zmysłowej, ludzkiej z~mił
 
 Jako syntezę tego punktu można przeczytać komentarz G Ravasiego:
 
-   | Miłość w~Pnp jest mieszanką eros i~agape w~pełni spotkania między dwiema osobami. Miłość jest egzaltacją i~ekscytującym doświadczeniem piękna, estetyczności, uroku – fizycznego i~duchowego. [...] Potwierdzają to liczne symbole, metafory, obrazy szczęścia, tak charakterystyczne dla Pnp. Co więcej na końcu wszystkie te porównania głoszą całkowitą wyjątkowość, nieporównywalność miłości. [...]
-   | Dynamika miłości w~ujęciu Pnp, jest jednocześnie posiadaniem i~wolnością. Niepokój, nieobecność i~poszukiwanie, które tu i~tam pojawiają się w~Pnp, poświadczają, że miłość jest tożsamością i~zarazem autonomią, jest posiadaniem i~darem. Ukazuje się w~ten sposób <<cecha niemożliwości zawłaszczenia i~i wejścia w~posiadanie jednej osoby przez drugą. Osoba jest kimś, kto przerasta wszelkie miary zawłaszczenia i~panowania, posiadanie i~spełnienia>> (Jan Paweł II, 6 VI 1984). Wolny dar jednej osoby dla drugiej przekracza tę niemożliwość.
+   Miłość w~Pnp jest mieszanką eros i~agape w~pełni spotkania między dwiema osobami. Miłość jest egzaltacją i~ekscytującym doświadczeniem piękna, estetyczności, uroku – fizycznego i~duchowego. [...] Potwierdzają to liczne symbole, metafory, obrazy szczęścia, tak charakterystyczne dla Pnp. Co więcej na końcu wszystkie te porównania głoszą całkowitą wyjątkowość, nieporównywalność miłości. [...]
+   
+   Dynamika miłości w~ujęciu Pnp, jest jednocześnie posiadaniem i~wolnością. Niepokój, nieobecność i~poszukiwanie, które tu i~tam pojawiają się w~Pnp, poświadczają, że miłość jest tożsamością i~zarazem autonomią, jest posiadaniem i~darem. Ukazuje się w~ten sposób <<cecha niemożliwości zawłaszczenia i~i wejścia w~posiadanie jednej osoby przez drugą. Osoba jest kimś, kto przerasta wszelkie miary zawłaszczenia i~panowania, posiadanie i~spełnienia>> (Jan Paweł II, 6 VI 1984). Wolny dar jednej osoby dla drugiej przekracza tę niemożliwość.
 
 To właśnie wyrażają słowa oblubienicy, składa ona dar z~siebie, podobnie jak uczynił to jej ukochany. To samo wyrazi św. Paweł pisząc: *"teraz nie żyję już ja, ale żyje we mnie Chrystus".*
 
@@ -79,7 +80,7 @@ Można jeszcze powiedzieć, że Pnp jest też księga niezwykłą w~tradycji ży
 
    Po czym Pan Bóg z~żebra, które wyjął z~mężczyzny, zbudował niewiastę. A~gdy ją przyprowadził do mężczyzny, mężczyzna powiedział: «Ta dopiero jest kością z~moich kości i~ciałem z~mego ciała! Ta będzie się zwała niewiastą, bo ta z~mężczyzny została wzięta». Dlatego to mężczyzna opuszcza ojca swego i~matkę swoją i~łączy się ze swą żoną tak ściśle, że stają się jednym ciałem.
 
-   -- Rdz. 2, 22-24
+   -- Rdz 2, 22-24
 
 Zachwyt Adama nad kobietą jest tym samym zachwytem, który wypowiada oblubieniec w~Pnp. W~Rodz. na dodatek, to nie kobieta idzie zamieszkać z~mężem, ale mężczyzna udaje się do domu kobiety. W~pierwsze kulturach to kobiety właśnie pełniły dominujące role w~życiu społecznym i~intrygowały mężczyzn, pociągały, były dla nich tajemnicą. W~Pnp widzimy
 już zmianę tradycji jeśli chodzi o~miejsce mieszkania po ślubie, ale to kobieta nadal jest traktowana jako ukoronowanie stworzenia.

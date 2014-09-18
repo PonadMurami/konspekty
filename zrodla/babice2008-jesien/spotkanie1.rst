@@ -99,7 +99,7 @@ Posłuchajcie teraz tekstu:
    Zakradł się do drzewa, aby schwytać ptaka. Ale kiedy miał go już prawie w~dłoniach, ptak zatrzepotał skrzydełkami, uniósł się w~powietrze i~usiadł na gałęziach jodły. Pragnienie pasterza, który chciał posiadać tego ptaka, było tak ogromne, że postanowił iść za nim. Kiedy podszedł do jodły, ptak znowu odleciał. W~tym miejscu pasterz znalazł rannego kosa, który był w~niebezpieczeństwie, ponieważ czyhał na niego kot. Przegonił więc kota i~w tym samym momencie dostrzegł kolorowego ptaka na brzegu sadzawki. Kiedy pasterz tam dotarł, ptak odfrunął. Na jego miejscu znalazł jedynie zaplątaną w~sieci rybę, która poprosiła go o~pomoc. Kiedy uwolnił już rybę, dostrzegł ptaka na szczycie wzniesienia. Pobiegł tam, a~kiedy był już bardzo blisko, ptak ponownie odleciał. Na jego miejscu pasterz znalazł wyschnięty od suszy kwiat, który poprosił go o~pomoc. Podlał go i~po chwili dostrzegł ptaka nad brzegiem morza. Ale kiedy pasterz tam dotarł, ptak uniósł się do góry i~odleciał nad wodą w~stronę zachodzącego słońca.
    "Ach - pomyślał pasterz - ten ptak zrobił ze mnie głupka". Rozczarowany udał się w~drogę powrotną do swoich owiec. Kiedy szedł po wzniesieniu, jego oczom ukazał się przepiękny kwiat. Nad brzegiem sadzawki czekała na niego ryba, która cieszyła się, że może dalej żyć. A~w~koronie jodły kos powitał go radosnym śpiewem. Wtedy pasterz zrozumiał, jaki sens ma trwająca całe życie tęsknota za doskonałością, nawet jeżeli nie można jej schwytać w~dłonie.
 
-   -- Willia Hoffsümmer -- "Pragnienie doskonałości"
+   -- Willia Hoffsümmer -- Pragnienie doskonałości
 
 * Czego szukał pasterz?
 

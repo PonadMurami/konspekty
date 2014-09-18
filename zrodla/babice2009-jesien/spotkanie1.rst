@@ -82,7 +82,7 @@ Odpowiedzi "nie wiem" i~"trudno wybrać" stanowią 11%. Znajomość tej najważn
 
    Tam, gdzie będzie twoje serce, będzie i~twój skarb.
 
-   -- Paulo Coelho -- Alchemik)
+   -- Paulo Coelho -- Alchemik
 
    gdzie jest skarb twój - tam będzie i~serce twoje
 

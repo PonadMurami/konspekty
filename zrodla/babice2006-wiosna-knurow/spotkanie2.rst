@@ -77,7 +77,7 @@ Odważne przyjęcie Miłości
 
 Boża miłość, jej ogrom, może nas czasami przytłaczać. Tak jak mówiliśmy wczoraj w~i~czasie konferencji wieczornej o~listach. Intencją tego który obdarza miłością nie jest to abyśmy czuli się przytłoczeni. Ciężko jest przyjmować miłość.
 
-* Czy doświadczamy tego cierpienia związanego z~**przyjmowaniem miłości?** Co robimy, aby cierpieniu temu nadawać sens?
+* Czy doświadczamy tego cierpienia związanego z **przyjmowaniem miłości?** Co robimy, aby cierpieniu temu nadawać sens?
 
 Cierpienie  jest  w~i~miłość  wpisane (przynajmniej  tą  tutaj na ziemi). Uciekanie przed tym cierpieniem implikuje uciekanie przed przyjęciem pełni miłości. W~i~życiu każdego człowieka musi nastąpić moment trudnej decyzji, aby zacząć kochać (otworzyć się na to, aby ktoś nas kochał).
 

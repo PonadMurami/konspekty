@@ -17,7 +17,7 @@ Pomoce do spotkania
 
 * blok rysunkowy i~przybory do pisania
 * dwie kartki z~napisami "spotkanie" i~"Spotkanie"
-* wydruk definicji wyrazu "spotkać" ze słownika : http://www.sjp.pl/spotkanie
+* wydruk definicji wyrazu "spotkać" ze słownika: http://www.sjp.pl/spotkanie
 * wydruk komiksu na kartce A4
 * wydruk z~przykładami różnych dialogów internetowych
 * zdjęcia różnych spotkań

@@ -89,7 +89,7 @@ Człowiek ma na zmianę czas pustyni/strapienia i~czas pocieszenia. To rytm nasz
 
 Reakcja   ludzi   na   kryzys/pustynie   jest   czasami   przedziwna.   Może   niejednokrotnie mieliśmy doświadczenie, że gdy chcemy się podzielić z~naszymi bliskimi "naszą pustynią" reagują  oni  jak  straż  pożarna,   która  natychmiastowo   robi  wszystko,   aby  sytuację   tą
 "naprawić"  tj. usunąć.  Tak samo  chęć  samodzielnego  udania  się na pustynię  (rekolekcje)
-czasami może się spotykać z, delikatnie mówiąc, niezrozumieniem.
+czasami może się spotykać z,~delikatnie mówiąc, niezrozumieniem.
 
 * Jak ja reaguje, gdy ktoś dzieli się ze mną doświadczeniem pustyni?
 

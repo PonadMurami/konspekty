@@ -166,7 +166,7 @@ Co jest owocem wiary szczerej i~otwartej? Radość! Bo wiara przestaje być czym
 
 Przeczytajmy pewną znaną historię: 
 
-	A gdy rozmawiali o~tym, On sam stanął pośród nich i~rzekł do nich: "Pokój wam!" Zatrwożonym i~wylękłym zdawało się, że widzą ducha. Lecz On rzekł do nich: "Czemu jesteście zmieszani i~dlaczego wątpliwości budzą się w~waszych sercach? Popatrzcie na moje ręce i~nogi: to Ja jestem. Dotknijcie się Mnie i~przekonajcie: duch nie ma ciała ani kości, jak widzicie, że Ja mam." Przy tych słowach pokazał im swoje ręce i~nogi. **Lecz gdy oni z~radości jeszcze nie wierzyli i~pełni byli zdumienia**, rzekł do nich: "Macie tu coś do jedzenia?" Oni podali Mu kawałek pieczonej ryby. Wziął i~jadł wobec nich. (...) Oni zaś oddali Mu pokłon i~**z wielka radością** wrócili do Jeruzalem, gdzie stale przebywali w~świątyni, wielbiąc i~błogosławiąc Boga.
+	A gdy rozmawiali o~tym, On sam stanął pośród nich i~rzekł do nich: "Pokój wam!" Zatrwożonym i~wylękłym zdawało się, że widzą ducha. Lecz On rzekł do nich: "Czemu jesteście zmieszani i~dlaczego wątpliwości budzą się w~waszych sercach? Popatrzcie na moje ręce i~nogi: to Ja jestem. Dotknijcie się Mnie i~przekonajcie: duch nie ma ciała ani kości, jak widzicie, że Ja mam." Przy tych słowach pokazał im swoje ręce i~nogi. **Lecz gdy oni z~radości jeszcze nie wierzyli i~pełni byli zdumienia**, rzekł do nich: "Macie tu coś do jedzenia?" Oni podali Mu kawałek pieczonej ryby. Wziął i~jadł wobec nich. (...) Oni zaś oddali Mu pokłon i **z wielka radością** wrócili do Jeruzalem, gdzie stale przebywali w~świątyni, wielbiąc i~błogosławiąc Boga.
 
 	-- Łk 24, 36-42; 52-53
 	

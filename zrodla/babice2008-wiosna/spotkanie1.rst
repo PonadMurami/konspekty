@@ -11,9 +11,12 @@ Bardzo ważne, aby każdy animator przed spotkaniami grupowymi przeczytał w~CA�
 Spotkanie sobotnie i~niedzielne stanowią całość i~ich rozdzielenie jest bardziej sztucznym tworem niż celowym zabiegiem. W~sobotę proponuję przeanalizować rozdziały od 1 do 5; natomiast w~niedzielę od 5 do 8.
 
 **Metoda**
-   | Podczas spotkań grupowych będziemy posługiwali się metodą "widzieć – osądzić – działać". Mi trudno znaleźć element "działać", dlatego ew. postanowienia etc. pozostawiam w~gestii animatora. Jednocześnie nie chciałbym, aby to były wielkie postanowienia, zmieniające całe życie. Raczej jakiś drobny gest, modlitwa w~czasie tych rekolekcji lub bezpośrednio po przyjeździe.
-   | W~czasie spotkań grupowych będziemy chcieli razem z~uczestnikami lepiej poznać i~zrozumieć Pnp i~zawartą w~niej ideę miłości. Będziemy ją odczytywać w~2 płaszczyznach: ludzkiej (dosłowne odczytanie) oraz boskiej (metaforyczne odczytanie) /w grupach młodszych można odczytanie dosłowne zmarginalizować, jeśli uczestnicy nie będą na tyle dojrzali, aby w~ten sposób spojrzeć na Pismo – co nie znaczy, że w~ogóle należy je pominąć /.
-   | W~miarę możliwości należy wystrzegać się traktowanie spotkań jako wykładu, lecz starać się dochodzić do pewnych spraw RAZEM z~uczestnikami. Nie chcę, aby to była tylko rozumowa analiza tekstu, ale proponuję włączać wyobraźnię, uczucia, emocje, wczuwanie się w~postaci.
+
+Podczas spotkań grupowych będziemy posługiwali się metodą "widzieć – osądzić – działać". Mi trudno znaleźć element "działać", dlatego ew. postanowienia etc. pozostawiam w~gestii animatora. Jednocześnie nie chciałbym, aby to były wielkie postanowienia, zmieniające całe życie. Raczej jakiś drobny gest, modlitwa w~czasie tych rekolekcji lub bezpośrednio po przyjeździe.
+
+W~czasie spotkań grupowych będziemy chcieli razem z~uczestnikami lepiej poznać i~zrozumieć Pnp i~zawartą w~niej ideę miłości. Będziemy ją odczytywać w~2 płaszczyznach: ludzkiej (dosłowne odczytanie) oraz boskiej (metaforyczne odczytanie) /w grupach młodszych można odczytanie dosłowne zmarginalizować, jeśli uczestnicy nie będą na tyle dojrzali, aby w~ten sposób spojrzeć na Pismo – co nie znaczy, że w~ogóle należy je pominąć /.
+
+W~miarę możliwości należy wystrzegać się traktowanie spotkań jako wykładu, lecz starać się dochodzić do pewnych spraw RAZEM z~uczestnikami. Nie chcę, aby to była tylko rozumowa analiza tekstu, ale proponuję włączać wyobraźnię, uczucia, emocje, wczuwanie się w~postaci.
 
 
 ==================================
@@ -32,9 +35,9 @@ Modlitwa
 
 Dowolna modlitwa do Ducha Św. o~Jego dary na czas tego spotkania oraz całych rekolekcji.
 
-===========================================
-Wprowadzenie do Księgi Pnp i~analiza tekstu
-===========================================
+=============================================================
+Wprowadzenie do Księgi Pieśni nad Pieśniami i~analiza tekstu
+=============================================================
 
 Zacznijmy rozmowę z~uczestnikami na temat:
 
@@ -54,7 +57,9 @@ Zwróćmy też uwagę na niezwykłe opisy pojawiające się w~całej księdze, n
 Po tym ogólnym wprowadzeniu (można jeszcze poruszyć inne ogólne kwestie związane z~Pnp, zależy to od animatora) będziemy czytać i~omawiać poprzez rozmowę poszczególne rozdziały Pnp. Chciałbym, aby mocno zaangażować w~to wyobraźnię, aby spróbować wczuć się w~wydarzenie dziejące się na kartach księgi (zwłaszcza w~ten sposób postępować należy w~grupach młodszych). W~czasie dzisiejszego spotkanie będziemy czytać i~rozważać rozdziały 1-5.
 
 Na podstawie pierwszego fragmentu pokażę jak mniej więcej powinna praca nad tekstem wyglądać:
+
 * niech uczestnicy przede wszystkim postarają się określić kto w~danej scenie występuje i~co robi; i~tak w~pierwszej scenie widzimy oblubienicę, która chodzi pomiędzy gromadami odpoczywających pasterzy szukając swego ukochanego; oblubienica porzuciła swych braci i~matkę, którzy się na nią gniewają i~poszła szukać oblubieńca, ponieważ on jest dla niej najważniejszy (ilość szczegółów nie jest tutaj najważniejsza, zależy od tego ile potrafią wyciągnąć uczestnicy, nie chodzi nam wcale o~podanie wszystkich detali choćby z~powodów czasowych);
+
 * jeśli już będziemy mieli ustalone kto i~co robi, niech uczestnicy postarają się taką scenę sobie wyobrazić. W~tym przypadku niech wyobrażą sobie pustynię, południe, żar lejący się z~nieba. Pasterze, którzy wypasają swoje stada odpoczywają w~cieniu i~rozmawiają między sobą. Temp. nie pozwala na większy ruch, wysiłek; wszystko jest spokojne, leniwe o~tej porze dnia. I~w~tym skwarze widać kobietę, która przechodzi od jednej grupy pasterzy do drugiej wypytując i~szukając swojego oblubieńca. (Dla ludów Wschodu im ktoś był jaśniejszy, tym był piękniejszy; dlatego kobieta skarży się, że jest czarna). Niech uczestnicy postarają się powiedzieć *dlaczego ta kobieta o~tej porze szuka swojej miłości? Co nią musi kierować? Co o~niej możemy powiedzieć?*
 
 Taką metodą będziemy posługiwać się czytając poszczególne fragmenty księgi. Oczywiście nie wszystkie musimy omawiać tak bardzo dokładnie. Dziś zależy mi, aby szczególnie zwrócić uwagę właśnie na pierwszą wypowiedź oblubienicy oraz na jej wypowiedź na początku pieśni czwartej, czyli od wersetu 5,2. Pozostałe fragmenty oczywiście czytamy, ale nie musimy się nad nimi tak bardzo zastanawiać.
