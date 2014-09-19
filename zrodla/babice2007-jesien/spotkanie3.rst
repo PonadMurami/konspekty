@@ -176,8 +176,12 @@ Faktycznie – podejmowanie wysiłku takiego życia z~Bogiem "na 1oo%" jest bard
 
 **Uczestnicy sami sobie dają zadania na dzisiejszy dzień, każdy po dwa – jedno bardzo praktyczne, jedno duchowe. Zadania mają mieć związek z~tematem rekolekcji. Gdy wymyślę zadania to proszę o~ich przyjęcie dwie osoby z~grupy (animator dba, aby ludzie dostawali "po równo"). Cel tego punktu – wzajemna pomoc sobie (w odpowiedzialności) w~poznawaniu coraz lepiej Chrystusa.**
 
-**Zadanie nie jest proste i~należy przeznaczyć na nie z~10minut na wymyślenie przez uczestników zadań.** Przykład:
+**Zadanie nie jest proste i~należy przeznaczyć na nie z~10~minut na wymyślenie przez uczestników zadań.** 
 
-   * Praktyczne: W~momencie gdy będziesz chciał coś bardzo zrobić dzisiejszego dnia odsuniesz to w~czasie na 2 minuty i~pójdziesz do kaplicy pomodlić się za świadectwa które są przed nami (siła woli)
+Przykład:
 
-   * Duchowe: przez 3 dni po Babicach otworzysz sobie NT i~poczytasz przez minimum 10 minut.
+**Praktyczne:**
+    W~momencie gdy będziesz chciał coś bardzo zrobić dzisiejszego dnia odsuniesz to w~czasie na 2 minuty i~pójdziesz do kaplicy pomodlić się za świadectwa które są przed nami (siła woli)
+
+**Duchowe:**
+    przez 3 dni po Babicach otworzysz sobie NT i~poczytasz przez minimum 10 minut.
