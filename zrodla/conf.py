@@ -108,7 +108,7 @@ html_translator_class = 'szablon.CustomHTMLTranslator'
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-html_theme = 'szablon'
+html_theme = 'sphinx_rtd_theme'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -116,14 +116,14 @@ html_theme = 'szablon'
 #html_theme_options = {}
 
 # Add any paths that contain custom themes here, relative to this directory.
-html_theme_path = ['./']
+html_theme_path = ['./szablon/']
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
 html_title = '%s' % (project)
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
-html_short_title = '%s' % (project)
+html_short_title = u'Książka'
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
@@ -151,9 +151,6 @@ html_last_updated_fmt = '%m-%d-%Y'
 # If true, SmartyPants will be used to convert quotes and dashes to
 # typographically correct entities.
 html_use_smartypants = True
-
-# Custom sidebar templates, maps document names to template names.
-html_sidebars = {'**': 'sidebar.html'}
 
 # Additional templates that should be rendered to pages, maps page names to
 # template names.
