@@ -57,3 +57,7 @@
 .rst-content dl dd {
 	line-height: 24px;
 }
+
+.wy-table td, .rst-content table.docutils td, .rst-content table.field-list td, .wy-table th, .rst-content table.docutils th, .rst-content table.field-list th {
+	white-space: normal;
+}
