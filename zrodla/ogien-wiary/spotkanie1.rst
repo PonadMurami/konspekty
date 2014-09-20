@@ -1,5 +1,5 @@
 ***************************************************************
-Spotkanie 1 - Wiara - przestrzeń dynamicznych zwrotów
+Spotkanie 1. - Wiara - przestrzeń dynamicznych zwrotów
 ***************************************************************
 
 ==================================

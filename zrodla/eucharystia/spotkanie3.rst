@@ -1,5 +1,5 @@
 *************************************************************
-Spotkanie 3 - Eucharystia jako zjednoczenie z~ludźmi i~Bogiem
+Spotkanie 3. - Eucharystia jako zjednoczenie z~ludźmi i~Bogiem
 *************************************************************
 
 =====================================

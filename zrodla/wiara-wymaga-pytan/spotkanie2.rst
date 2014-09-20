@@ -1,5 +1,5 @@
 *******************************************
-Spotkanie 2 - Osobiste doświadczenie wiary
+Spotkanie 2. - Osobiste doświadczenie wiary
 *******************************************
 
 =====================================

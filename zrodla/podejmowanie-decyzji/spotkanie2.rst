@@ -1,5 +1,5 @@
 ***************************************************************
-Spotkanie 2 - Etapy podejmowania decyzji – czym się kieruję?
+Spotkanie 2. - Etapy podejmowania decyzji – czym się kieruję?
 ***************************************************************
 
 ==================================

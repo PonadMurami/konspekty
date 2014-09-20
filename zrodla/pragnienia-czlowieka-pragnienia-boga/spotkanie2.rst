@@ -1,5 +1,5 @@
 ********************************************************************
-Spotkanie 2 - Stworzyłeś nas bowiem jako skierowanych ku Tobie Panie
+Spotkanie 2. - Stworzyłeś nas bowiem jako skierowanych ku Tobie Panie
 ********************************************************************
 
 =====================================

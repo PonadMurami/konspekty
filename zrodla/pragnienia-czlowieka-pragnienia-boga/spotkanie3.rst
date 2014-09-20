@@ -1,5 +1,5 @@
 **********************************************************************
-Spotkanie 3 - Niespokojne jest serce nasze, dopóki nie spocznie w~Panu
+Spotkanie 3. - Niespokojne jest serce nasze, dopóki nie spocznie w~Panu
 **********************************************************************
 
 =====================================

@@ -1,5 +1,5 @@
 ***************************************************************************
-Spotkanie 3 - Przejawy Nowej Kultury w~życiu chrześcijańskim
+Spotkanie 3. - Przejawy Nowej Kultury w~życiu chrześcijańskim
 ***************************************************************************
 
 ==================================

@@ -1,5 +1,5 @@
 ***************************************************************
-Spotkanie 1 - Eucharystia jako spotkanie z~człowiekiem i~Bogiem
+Spotkanie 1. - Eucharystia jako spotkanie z~człowiekiem i~Bogiem
 ***************************************************************
 
 =====================================

@@ -1,5 +1,5 @@
 ***************************************************************************
-Spotkanie 3 - Dlaczego słowa "Bądź wola Twoja" są istotne dla mojego życia?
+Spotkanie 3. - Dlaczego słowa "Bądź wola Twoja" są istotne dla mojego życia?
 ***************************************************************************
 
 ==================================

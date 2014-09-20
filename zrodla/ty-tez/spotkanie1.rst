@@ -1,5 +1,5 @@
 ******************************************************************
-Spotkanie 1 - Wspólnota - fenomen indywidualności czy konformizmu?
+Spotkanie 1. - Wspólnota - fenomen indywidualności czy konformizmu?
 ******************************************************************
 
 ==================================

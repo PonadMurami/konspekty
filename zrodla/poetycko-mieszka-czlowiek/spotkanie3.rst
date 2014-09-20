@@ -1,5 +1,5 @@
 *****************************************************************
-Spotkanie 3 - Codzienność i~pasja - dwa filary jednego mieszkania
+Spotkanie 3. - Codzienność i~pasja - dwa filary jednego mieszkania
 *****************************************************************
 
 ==================================

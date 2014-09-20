@@ -1,5 +1,5 @@
 *********************************************************
-Spotkanie 1 - Życie jako odpowiedź na powołanie do służby
+Spotkanie 1. - Życie jako odpowiedź na powołanie do służby
 *********************************************************
 
 =====================================

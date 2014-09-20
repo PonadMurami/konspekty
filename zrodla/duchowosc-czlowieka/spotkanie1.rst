@@ -1,5 +1,5 @@
 *******************************************
-Spotkanie 1 - Duchowa kondycja człowieka
+Spotkanie 1. - Duchowa kondycja człowieka
 *******************************************
 
 =====================================

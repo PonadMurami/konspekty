@@ -1,5 +1,5 @@
 *******************************************
-Spotkanie 2 - Boże spojrzenie na człowieka
+Spotkanie 2. - Boże spojrzenie na człowieka
 *******************************************
 
 =====================================

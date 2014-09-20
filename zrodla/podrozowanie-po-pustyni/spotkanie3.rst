@@ -1,5 +1,5 @@
 ***************************************************************
-Spotkanie 3 - "KONSEKWENCJE!!!" czy po prostu "Konsekwencje"?
+Spotkanie 3. - "KONSEKWENCJE!!!" czy po prostu "Konsekwencje"?
 ***************************************************************
 
 ==================================
