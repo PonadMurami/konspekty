@@ -11,7 +11,7 @@ Ponad murami
 * Miejsce powstania konspektów:
     * Diecezja gliwicka, Archidiecezja częstochowska
 * Grupa docelowa:
-    * BRAK
+    * Rekolekcje otwarte dla ludzi od 13 do 23 roku życia
 * Opis rekolekcji:
     * BRAK
 

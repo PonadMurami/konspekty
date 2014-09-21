@@ -11,7 +11,7 @@ Pragnienia człowieka, pragnienia Boga
 * Miejsce powstania konspektów:
     * Diecezja gliwicka
 * Grupa docelowa:
-    * BRAK
+    * Rekolekcje otwarte dla ludzi od 13 do 23 roku życia
 * Opis rekolekcji:
     * BRAK
 
