@@ -7,7 +7,7 @@ Wprowadzenie dla Animatora
 =====================================
 
     Człowiek nie może żyć bez miłości. Człowiek pozostaje dla siebie istotą  niezrozumiałą,  jego życie jest pozbawione  sensu, jeśli nie objawi mu się Miłość, jeśli nie spotka się z~Miłością, jeśli jej nie dotknie i~nie  uczyni  w~i~jakiś  sposób swoją,  jeśli  nie  znajdzie w~i~niej żywego uczestnictwa.  I~dlatego właśnie Chrystus - Odkupiciel,  (...)  objawia w~i~pełni  człowieka  człowiekowi.  To jest ów - jeśli tak wolno się wyrazić - ludzki wymiar Tajemnicy Odkupienia.  Człowiek  odnajduje w~i~nim swoją właściwą wielkość, godność i~wartość swego człowieczeństwa.  Człowiek zostaje w~i~Tajemnicy Odkupienia na nowo potwierdzony, niejako wypowiedziany na nowo. Stworzony na nowo! Nie ma już Żyda ani poganina, nie ma już niewolnika ani człowieka wolnego, nie ma już mężczyzny ani kobiety, wszyscy bowiem jesteście kimś jednym w~i~Chrystusie Jezusie. Człowiek, który chce zrozumieć siebie do końca - nie wedle jakiś tylko doraźnych, częściowych, czasem powierzchownych, a~nawet pozornych kryteriów i~miar swojej własnej istoty  - musi ze swoim niepokojem, niepewnością, a~także słabością i~grzesznością,  ze swoim życiem i~śmiercią, przybliżyć się do Chrystusa. Musi niejako w~i~Niego wejść z~sobą  samym, musi sobie przyswoić, zasymilować całą rzeczywistość Wcielenia i~Odkupienia,  aby siebie odnaleźć. Jeśli dokona się w~i~człowieku ów dogłębny proces, wówczas owocuje on nie tylko uwielbieniem Boga, ale także głębokim  zdumieniem  nad sobą samym. Jakąż wartość musi mieć w~i~oczach Stwórcy człowiek,  skoro zasłużył na takiego i~tak potężnego Odkupiciela, skoro  Bóg Syna swego Jednorodzonego dał, ażeby on, człowiek, nie zginął, ale miał życie wieczne.
-    
+
     Właśnie owo głębokie zdumienie  wobec wartości i~godności człowieka nazywa się Ewangelią, czyli Dobrą Nowiną.
 
     --  Jan Paweł II - *Redemptor hominis*
@@ -30,7 +30,7 @@ Jezus nadaje sens ludzkiemu życiu
 
     Człowiek nie może żyć bez miłości. Człowiek pozostaje dla siebie istotą niezrozumiałą, jego życie jest pozbawione sensu, jeśli nie objawi mu się Miłość, jeśli  nie spotka się  z~Miłością, jeśli  jej nie dotknie i~nie uczyni w~i~jakiś sposób swoją, jeśli nie znajdzie w~i~niej żywego uczestnictwa.
 
-* O~jaką miłość tutaj chodzi? Jak odczytujemy to, że zrozumieć siebie możemy tylko przez spotkanie z~Miłością? 
+* O~jaką miłość tutaj chodzi? Jak odczytujemy to, że zrozumieć siebie możemy tylko przez spotkanie z~Miłością?
 * Czy my w~i~miłości potrafimy odnaleźć pełnię swojego człowieczeństwa?  Czy taką "rangę" jej dajemy?
 
 To trochę tak jakby chcieć "poznawać"  mechanizm np. drukarki  bez próby drukowania na niej czegokolwiek. Człowiek jest stworzony do miłości, dlatego tylko poprzez kontakt z~nią (czyli odpowiadanie miłością) może sam siebie odkrywać.
@@ -40,10 +40,10 @@ Objawienie  w~i~pełni człowieka człowiekowi
 ===========================================
 
     I~dlatego właśnie Chrystus-Odkupiciel, (...)  objawia w~i~pełni człowieka człowiekowi. To jest ów - jeśli  tak wolno się wyrazić - ludzki wymiar Tajemnicy Odkupienia. Człowiek odnajduje w~i~nim swoją właściwą wielkość, godność i~wartość swego człowieczeństwa. Człowiek zostaje w~i~Tajemnicy Odkupienia na nowo potwierdzony, niejako wypowiedziany na nowo. Stworzony na nowo! Nie ma już Żyda ani poganina, nie ma już niewolnika ani człowieka wolnego, nie  ma już  mężczyzny ani kobiety, wszyscy bowiem jesteście kimś jednym w~i~Chrystusie Jezusie.
-    
-* Czy czytając powyższe zdania potrafimy tą wielkość,  godność odnaleźć w~i~obrazie "Ecce Homo"? 
 
-* Na czym ona polega, jak my ją odczuwamy? 
+* Czy czytając powyższe zdania potrafimy tą wielkość,  godność odnaleźć w~i~obrazie "Ecce Homo"?
+
+* Na czym ona polega, jak my ją odczuwamy?
 
 * Czy i~my potrafimy przeżywać podobną radość myśląc o~tym, że Tajemnica Odkupienia "stwarza nas na nowo"?
 
@@ -54,7 +54,7 @@ Odkrycie  dogłębnej prawdy  o~sobie
 ===========================================
 
     Człowiek, który chce zrozumieć siebie do końca - nie wedle jakiś tylko doraźnych, częściowych, czasem powierzchownych,  a~nawet pozornych kryteriów i~miar swojej własnej istoty - musi ze swoim niepokojem, niepewnością, a~także słabością i~grzesznością, ze swoim życiem i~śmiercią, przybliżyć się do Chrystusa. Musi niejako w~i~Niego wejść z~sobą samym,  musi sobie przyswoić, zasymilować całą rzeczywistość Wcielenia i~Odkupienia,  aby siebie odnaleźć.
-    
+
 * "Wejść całym sobą", "zasymilować całą rzeczywistość Wcielenia i~Odkupienia" - to niesamowicie wymagające słowa. Czy odczuwamy strach, niepokój słysząc tak radykalne zdania? Dlaczego?
 
 * Czy mamy doświadczenie takiego otwartego  zbliżenia się do Chrystusa całym sobą?
@@ -62,10 +62,10 @@ Odkrycie  dogłębnej prawdy  o~sobie
 Jest to to o~czym mówiliśmy wczoraj: człowiek który odkrył już swój niepokój, niepewność, słabość, grzeszność nadal nie potrafi zrozumieć własnego sensu życia, ma więcej pytań niż odpowiedzi. Na tym właśnie etapie trzeba szczególnie zwrócić się do Jezusa... Tylko on da nam możliwość poszukiwania odpowiedzi na nasze pytania głębiej.  Nie  należy się tego wstydzić,  że robimy to po to aby "poznać siebie".
 
 ===========================================
-Zaduma  nad samym sobą
+Zaduma nad samym sobą
 ===========================================
 
-    Jeśli  dokona się w~i~człowieku ów dogłębny  proces, wówczas owocuje on nie tylko uwielbieniem Boga, ale także głębokim zdumieniem nad sobą samym. Jakąż wartość musi mieć w~i~oczach Stwórcy człowiek, skoro zasłużył na takiego i~tak potężnego Odkupiciela, skoro Bóg Syna swego Jednorodzonego   dał, ażeby on, człowiek, nie zginął, ale miał życie wieczne.
+    Jeśli dokona się w~i~człowieku ów dogłębny  proces, wówczas owocuje on nie tylko uwielbieniem Boga, ale także głębokim zdumieniem nad sobą samym. Jakąż wartość musi mieć w~i~oczach Stwórcy człowiek, skoro zasłużył na takiego i~tak potężnego Odkupiciela, skoro Bóg Syna swego Jednorodzonego dał, ażeby on, człowiek, nie zginął, ale miał życie wieczne.
 
 * W~jaki sposób my sami troszczymy się o~to, aby ten proces inicjować?
 
@@ -88,7 +88,7 @@ Przeczytajmy:
     Każda prawdziwa Miłość musi mieć swój Wielki Piątek.
 
     -- kard. Stefan Wyszyński
-    
+
 * Jak rozumiemy te słowa kardynała?
 
 Nie przez przypadek miłowanie porównuje się do palącej  się świecy - spalamy siebie dla drugich. Dochodzimy do najważniejszego pytania:

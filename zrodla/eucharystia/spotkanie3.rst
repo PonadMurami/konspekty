@@ -21,9 +21,9 @@ Eucharystia jako zbawcza obecność Jezusa we wspólnocie wiernych
 ================================================================
 
     W~pierwszy dzień Przaśników, kiedy ofiarowywano Paschę, zapytali Jezusa Jego uczniowie: «Gdzie chcesz, abyśmy poszli poczynić przygotowania, żebyś mógł spożyć Paschę?» I~posłał dwóch spośród swoich uczniów z~tym poleceniem: «Idźcie do miasta, a~spotka was człowiek, niosący dzban wody. Idźcie za nim i~tam, gdzie wejdzie, powiecie gospodarzowi: Nauczyciel pyta: gdzie jest dla Mnie izba, w~której mógłbym spożyć Paschę z~moimi uczniami? On wskaże wam na górze salę dużą, usłaną i~gotową. Tam przygotujecie dla nas». Uczniowie wybrali się i~przyszli do miasta, gdzie znaleźli, tak jak im powiedział, i~przygotowali Paschę.
-    
+
     -- Mk 14, 12-16
-    
+
 Podczas ostatniej wieczerzy wokół Jezusa zgromadziło się 12 apostołów. Oni to byli zalążkiem Kościoła, wspólnoty, jaką możemy obecnie przeżywać. Przed spożyciem wieczerzy Jezus nakazuje uczniom przygotować salę. Ma być "duża, usłana i~gotowa". Także i~my powinniśmy przygotować się na spotkanie z~Bogiem.
 
 * Jak wygląda moje przygotowanie do Eucharystii? (Umawiając się na ważne spotkanie z~kimś bliskim naszemu sercu, solidnie się przygotowujemy – wygląd, punktualność, przebieg rozmowy.)
@@ -31,13 +31,13 @@ Podczas ostatniej wieczerzy wokół Jezusa zgromadziło się 12 apostołów. Oni
 Przeczytajmy:
 
     Chleb, który łamiemy, czyż nie jest udziałem w~Ciele Chrystusa? Ponieważ jeden jest chleb, przeto my, liczni, tworzymy jedno Ciało. Wszyscy bowiem bierzemy z~tego samego chleba
-    
-    -- 1Kor 10, 16-17
-    
+
+    -- 1 Kor 10, 16-17
+
     Czym w~rzeczywistości jest chleb? Jest Ciałem Chrystusa. Kim stają się ci, którzy go przyjmują? Ciałem Chrystusa; ale nie wieloma ciałami, lecz jednym ciałem. Faktycznie, jak chleb jest jednością, choć składa się nań wiele ziaren, które choć się nie znają, w~nim się znajdują, tak że ich różnorodność zanika w~ich doskonałym zjednoczeniu — w~ten sam sposób również my jesteśmy wzajemnie ze sobą zjednoczeni, a~wszyscy razem z~Chrystusem
 
     -- Komentarz św. Jana Chryzostoma
-    
+
 Poprzez Eucharystię, a~zwłaszcza przyjęcie Jezusa w~Komunii św. Sprawia, że stajemy się jedno z~wszystkimi, którzy to Ciało przyjmują. Nasza różnorodność buduje wspólnotę.
 
 * Jaka jest moja relacja, stosunek do pozostałych uczestników Mszy Św.?
@@ -47,9 +47,9 @@ Poprzez Eucharystię, a~zwłaszcza przyjęcie Jezusa w~Komunii św. Sprawia, że
 * Co oznacza dla mnie, że ta różnorodność zanika w~Jezusie? Jak rozumiem te słowa?
 
     Jeśli więc przyniesiesz dar swój przed ołtarz i~tam wspomnisz, że brat twój ma coś przeciw tobie, zostaw tam dar swój przez ołtarzem, a~najpierw idź i~pojednaj się z~bratem swoim! Potem przyjdź i~dar swój ofiaruj!
-    
+
     -- Mt 5, 23-24
-    
+
 Jezus wzywa nas, abyśmy potrafili sobie wzajemnie wybaczać. Abyśmy mogli bez gniewu uczestniczyć w~Ofierze Chrystusa. Żydzi zanim usiedli do wieczerzy z~rodziną, przyjaciółmi obmywali sobie ręce. Oprócz względów higienicznych sprawiało to, że trzeba było rozluźnić rękę. Nie można już było mieć ręki zaciśniętej w~pięść. Rozluźnienie ręki powodowało, że wszystkie złe emocje odchodziły, człowiek się uspokajał. Obecnie tą samą funkcję, a~może jeszcze większą wyraża przekazanie "znaku pokoju". Poprzez ten gest jednoczymy się z~innymi ludźmi, przekazujemy sobie wzajemnie pokój, pokój chrystusowy – czyli uwolnienie od wszelkich zmartwień, trosk, złości, gniewu itp.
 
 * Czy potrafię przebaczyć i~pojednać się zanim wejdę do kościoła?
@@ -69,9 +69,9 @@ Uczestnictwo we mszy musi być czynne. Nie można być tylko słuchaczem, kimś,
 Przeczytajmy:
 
     Dar Chrystusa i~Jego Ducha, który otrzymujemy w~Komunii eucharystycznej, wypełnia z~obfitością gorące pragnienia braterskiej jedności, jakie kryją się w~sercach ludzkich, i~jednocześnie wynosi doświadczenie braterstwa właściwego wspólnemu uczestnictwu w~tym samym stole eucharystycznym na poziom daleko wyższy od zwyczajnego ludzkiego ucztowania. Dzięki zjednoczeniu z~Ciałem Chrystusa Kościół coraz głębiej staje się w~Chrystusie «jakby sakramentem, czyli znakiem i~narzędziem wewnętrznego zjednoczenia z~Bogiem i~jedności całego rodzaju ludzkiego».
-    
+
     Jak pokazuje codzienne doświadczenie, początkom rozdziału między ludźmi, tak bardzo zakorzenionego w~ludzkości z~powodu grzechu, przeciwstawia się odradzająca jedność moc Ciała Chrystusa. Eucharystia, budując Kościół, właśnie dlatego tworzy komunię pomiędzy ludźmi.
-    
+
     -- Jan Paweł II -- Ecclesia de Eucharistia
 
 *Warto tutaj zapytać uczestników o~uroczystości rodzinne (lub jakiekolwiek inne), które mają miejsce przy stole. Jak one wyglądają, jak zachowują się ludzie, którzy na nie przychodzą. Jak takie uroczystości są odbierane przez nas, przez uczestników (nie podejmować tematu alkoholu). Co sprawia, że ludzie zasiadają przy jednym stole, gromadzą się na uroczystości? Dlaczego to robią? Jaki jest cel tego spotkania? Czy podobny cel ma zgromadzenie eucharystyczne? Co podczas niego nas przyciąga? Co sprawia, że gromadzimy się w~jednym miejscu i~czasie?*
@@ -82,7 +82,7 @@ Eucharystia przenosi nas jednak na wyższy poziom. Tutaj jednoczy nas pokarm, kt
 poszanowania, źródło wspólnoty ludzi, odradza jedność między ludźmi, którą rozbił grzech. Eucharystia uczy nas miłości do naszych braci:
 
     Eucharystia do tej miłości nas wychowuje w~sposób najgłębszy, ukazuje bowiem jaką wartość w~oczach Bożych ma każdy człowiek, nasz brat i~siostra, skoro każdemu w~taki sam sposób Chrystus daje siebie samego pod postaciami chleba i~wina.
-    
+
     -- Jan Paweł II
 
 ================================================================
@@ -99,7 +99,7 @@ Spróbujmy w~tej części spotkania zastanowić się nad praktycznymi rzeczami w
 
     -- ks. Franciszek Blachnicki -- Fragmenty konferencji o~liturgii skierowanej do uczestników oazy w~Krościenku w~dniu 28 VII 1973 r.
 
-Zapytajmy: 
+Zapytajmy:
 
 * Jak zmienia się nasza postawa po wyjściu z~mszy św.? Na jak długo starcza nam tej siły do "znoszenia" innych ludzi we wspólnocie?
 

@@ -14,7 +14,7 @@ Spróbujmy "wyizolować" siebie i~spojrzeć na nas w~samotności (patrz Namiot S
 Wstęp. Dzielenie  się owocami dnia
 ==================================
 
-* Czy ciężko  było Ci rozmawiać przez ten długi  czas  z~drugim człowiekiem? Co przychodziło łatwo, a~co było trudniejsze? 
+* Czy ciężko  było Ci rozmawiać przez ten długi czas z~drugim człowiekiem? Co przychodziło łatwo, a~co było trudniejsze?
 
 * Co odkryłeś/odkryłaś w~sobie dzięki temu czasowi?
 
@@ -26,7 +26,7 @@ Czym  jest duchowość?
 
 Mamy zamiar rozmawiać o~kondycji człowieka. Na osobę człowieka składa się wiele spraw, moglibyśmy wyróżnić: ciało, psychike, emocje i~duchowość. Każdy z~nas może własnym doświadczeniem potwierdzić, że mamy te rzeczy w~sobie i~są one nasze własne.  Dlaczego jednak właśnie duchowości chcemy poświęcić tyle czasu?
 
-(Podajemy całej grupie stopniowo poniższe tezy. Próbujemy wspólnie je wytłumaczyć, milło byłoby gdyby było to oparte na własnym doświadczeniu. Jest to zasadnicza  część spotkania.) [#]_
+(Podajemy całej grupie stopniowo poniższe tezy. Próbujemy wspólnie je wytłumaczyć, milło byłoby gdyby było to oparte na własnym doświadczeniu. Jest to zasadnicza  część spotkania.)
 
 * Ciało
     * "Jeśli ktoś kontaktuje się z~samym sobą jedynie poprzez ciało, to ono nie może mu wyjaśnić tajemnicy  człowieka, gdyż ciało nie wie, kim jest człowiek i~po co on żyje. Ciało odczuwa jedynie własne potrzeby i~popędy. Pozostawione samemu sobie ciało staje się rodzajem  nowotworu, który podporządkowuje  sobie ca- łego człowieka i~żyje jego kosztem. Człowiek jedynie cielesny nie może więc zrozumieć samego siebie i~nie może odpowiedzialnie kierować swoim życie. Człowiek cielesny to człowiek podlegający dyktaturze ciała."
@@ -36,14 +36,14 @@ Mamy zamiar rozmawiać o~kondycji człowieka. Na osobę człowieka składa się 
 
 * Emocje
     * "Także z~perspektywy emocji człowiek nie może odkryć kim jest i~po co żyje. Człowiek jedynie emocjonalny nie wie, jaką postawę powinien on zająć wobec własnej rzeczywistości a~nawet wobec samych emocji.  Emocje  pozostawione własnej  spontaniczności kierują się własną logiką: szukają jedynie dobrego samopoczucia. Natychmiast i~za wszelką cenę. Nawet za cenę niszczenia człowieka, którego są częścią. Wszelkie uzależnienia od osób, rzeczy czy substancji chemicznych są bezpośrednią konsekwencją dyktatury emocji, na którą skazuje się człowiek jedynie emocjonalny."
-    
+
 * Duchowość
     * "Niezwykłością sfery duchowej jest fakt, że w~tej sferze i~tylko w~tej  sferze człowiek może zapytać się o~własną tajemnicę nie z~perspektywy cząstkowej (cielesnej czy psychicznej)  lecz z~perspektywy całego człowieka. **I tylko w~tej sferze może znaleźć ostateczną odpowiedź, która stanie się podstawą zajęcia dojrzałej  postawy wobec życia.** Duchowość zaczyna się zatem dopiero wtedy, gdy człowiek wznosi się **ponad swoje ciało i~ponad swoją psychikę, aby  postawić sobie pytanie  o~całą swoją  rzeczywistość**:  o~to, kim jest  i~po co żyje, o~to, jaki sens ma jego ciało, jego myślenie i~jego emocje i~on sam.
 
 Nie  ma więc wolności bez duchowości, gdyż człowiek nie może odpowiedzialnie kierować sobą i~swoim życiem dopóki nie wie, kim jest i~po co żyje. **Człowiek  bez duchowości to człowiek z~definicji uzależniony od jednej ze swoich sfer cząstkowych albo od nacisków płynących ze środowiska zewnętrznego**. To człowiek, który żyje jak małe dziecko, czyli nieświadomie i~jedynie w~oparciu o~bodźce, które oddziałują na niego w~danym momencie."
 
 ====================================
-Pytanie  o~naszą kondycję duchową
+Pytanie o~naszą kondycję duchową
 ====================================
 
 Na ile potrafimy spoglądać na siebie z~perspektywy duchowej? To znaczy: Patrzeć na całą naszą osobę - nie rozdzielać nas na kilka, nie mających ze sobą nic wspolnego, rzeczywistości?
@@ -101,7 +101,7 @@ Mądra odwaga stawiania sobie pytań
 
 Chodzi o~to, aby wspólnie dojść do tego, że jeżeli będziemy trzymać się zasad o~których mówiliśmy wyżej znika lęk stawiania sobie pytań trudnych. Nie są one już zagrożeniem, a~czymś co rozwija naszą osobowość. Dla człowieka który duchowość swoją traktuje "na zawołanie" niektóre pytania przerażają - szczególnie te na które odpowiedź należy szukać dłużej niż "przez chwilę".
 
-* Czy mamy odwagę stawiać  sami sobie egzystencjalne  pytania? 
+* Czy mamy odwagę stawiać  sami sobie egzystencjalne  pytania?
 
 * Czy widzimy taką potrzebę? Co jest takiego niebezpiecznego w~tych pytaniach?
 
@@ -116,7 +116,7 @@ Na zakończenie przeczytajmy:
     Człowiek  zmienia się od kołyski  aż po grób. Kiedy więc jest sobą?
 
     --  Stefan Kisielewski
-     
+
 ======================================
 Zastosowanie
 ======================================
@@ -130,8 +130,4 @@ Propozycja, aby każdy z~nas  podjął  teraz jedno małe postanowienie w~związ
 Modlitwa końcowa
 ======================================
 
-Dowolna w~intencji wytrwałości w~naszych postanowieniach  i~za te rekolekcje.
-
-.. rubric:: Przypisy
-
-.. [#] Należy mieć przygotowane wydrukowane definicje (do pobrania w~wersji html)
+Dowolna w~intencji wytrwałości w~naszych postanowieniach i~za te rekolekcje.

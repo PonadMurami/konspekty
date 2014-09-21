@@ -98,7 +98,7 @@ czasami może się spotykać z,~delikatnie mówiąc, niezrozumieniem.
 .. warning:: To pytanie może się odwoływać do bardzo intymnych relacji np. damsko- męskich. Przykład: Facet stara się usuwać doły wybranki jak najszybciej, żeby znowu było fajnie i~mogli spędzać czas "jak zawsze". Tym samym jest to ważne miejsce spotkania grupowego
 
 ==================================================================================
-Wytrwać  do końca
+Wytrwać do końca
 ==================================================================================
 
 Przed czasem pustyni zatem nie należy uciekać, a~go jak najlepiej wykorzystać. Myślę, że najczęstszym   błędem   na   pustyni   jest   brak   cierpliwości.   Pustynia   to   "doświadczenie graniczne" które pozwala otworzyć nowy rozdział, dać nowe spojrzenie na jakiś etap życia. Przykładem tutaj może być rozpacz i~pustynia duchowa Judasza po zdradzie Jezusa. Te doświadczenie  pustki doprowadziło  go do fatalnej decyzji o~odebraniu sobie życia. Gdyby udało mu się przetrwać tą noc i~podnieść się... Zobaczmy jak bardzo tryumfowałoby Miłosierdzie, jak wielkie byłoby to świadectwo gdyby nauczał o~odpuszczeniu grzechów itd. Kto wie – być może byłby jednym z~największych świętych.
@@ -149,6 +149,6 @@ Ci, którzy doświadczyli pustyni i~przeszli przez nią zmieniają spojrzenie na
 Podsumowanie
 ==================================================================================
 
-Pustynia  nas  kształtuje.   To  są  te  momenty  naszego  życia,  które  być  może  mają najsilniejszy wpływ na całość naszej osoby. Pustynia prowokuje nas do wyjścia poza utarte schematy dające zadowolenie.
+Pustynia nas kształtuje. To są te momenty naszego życia, które być może mają najsilniejszy wpływ na całość naszej osoby. Pustynia prowokuje nas do wyjścia poza utarte schematy dające zadowolenie.
 
-Jako zastosowanie  po tym spotkaniu podziękujmy teraz w~modlitwie za każde doświadczenie w~naszym życiu i~spróbujmy nie prosić o~żadne konkretne, ale o~te, które Bóg chce nam w~tym momencie dać.
+Jako zastosowanie po tym spotkaniu podziękujmy teraz w~modlitwie za każde doświadczenie w~naszym życiu i~spróbujmy nie prosić o~żadne konkretne, ale o~te, które Bóg chce nam w~tym momencie dać.

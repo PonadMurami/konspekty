@@ -65,7 +65,7 @@ PRZYKŁAD:
    start w~nowej szkole, przekonywania rodziców i~wszystkich dookoła typu "No teraz to się zacznie prawdziwa nauka! Zobaczysz, nie będzie już jak dotychczas"; budujące przekonanie o~tym, że rozpoczyna się nowy, ważniejszy!, etap życia; własne oczekiwania związane z~nowa sytuacją, nowymi ludźmi, obowiązkami ale i~przygodami i...konfrontacja z~rzeczywistością (brak wsparcia ze strony nauczycieli, brak akceptacji wśród rówieśników, słabsze wyniki itp., zawiedzione oczekiwania co do szkolnych "atrakcji" itp.)
 
 PRZYKŁAD:
-   dużo   szumu   związanego   np.   z~  egzaminem   maturalnym   i~  jednoczesne zniechęcenie młodych: "Matura to bzdura"; "Twoje miejsce na ziemi tłumaczy zaliczona matura na pięć?" kontra "Co Ty jesteś wart bez matury?"; - wiem, że to ważne ale mam tez poczucie że to i~tak tylko jakiś mały krok, bo co z~tego że dzięki niej dostanę się na studia, skoro i~tak nikt nie da mi pracy? Inni olewają maturą, wyjeżdżają za granicę i~tez żyją...
+   dużo szumu związanego np. z~egzaminem maturalnym i~  jednoczesne zniechęcenie młodych: "Matura to bzdura"; "Twoje miejsce na ziemi tłumaczy zaliczona matura na pięć?" kontra "Co Ty jesteś wart bez matury?"; - wiem, że to ważne ale mam tez poczucie że to i~tak tylko jakiś mały krok, bo co z~tego że dzięki niej dostanę się na studia, skoro i~tak nikt nie da mi pracy? Inni olewają maturą, wyjeżdżają za granicę i~tez żyją...
 
 .. image:: wykres3.*
    :align: center
@@ -136,7 +136,7 @@ Rysujemy krzywą "zmartwychwstanie"...
 
 * Czy czujemy, że to ma na nas faktycznie wpływ, zmienia życie, odnawia? Czy raczej towarzyszą temu emocje znudzenia, rozczarowania, zniechęcenia?
 
-Kładziemy na stole kartkę ze słowami "ZMARTWYCHWSTANIE TO DUŻO SZUMU O~NIC" 
+Kładziemy na stole kartkę ze słowami "ZMARTWYCHWSTANIE TO DUŻO SZUMU O~NIC"
 
 * A~o~tym co myślicie? Zgadzacie się z~tym? Dlaczego tak/nie?
 

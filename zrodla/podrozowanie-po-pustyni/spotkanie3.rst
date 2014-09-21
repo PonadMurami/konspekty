@@ -88,7 +88,7 @@ Z jednej strony więc konsekwencje jawią się nam jako coś "groźnego" z~drugi
 
 * Czy umiesz wymienić konsekwencje swoich wyborów z~których jesteś dumny?
 
-.. note:: to  pytanie  to   t akże   wyzwanie  czysto  psychologiczne  –  sprawdzian  czy  umiemy zobaczyć małe dobre rzeczy w~naszym życiu i~odnieść je do "wielkich spraw i~treści". Animatorzy mają obowiązek naprowadzać uczestników, aby odnaleźli coś takiego.  To  ważny cel spotkania.
+.. note:: to  pytanie  to także   wyzwanie  czysto psychologiczne  –  sprawdzian  czy  umiemy zobaczyć małe dobre rzeczy w~naszym życiu i~odnieść je do "wielkich spraw i~treści". Animatorzy mają obowiązek naprowadzać uczestników, aby odnaleźli coś takiego.  To  ważny cel spotkania.
 
 Konsekwencje to silna sprawa, która może przerażać, ale daje też horyzont możliwości.
 

@@ -96,7 +96,7 @@ Aby służyć innym (obdarowywać ich swoją miłością) musimy umieć także o
 * Czy doświadczyliśmy w~naszym życiu czegoś takiego, że z~powodu nieumiejętności (swojej/cudzej) otrzymywania powstało zniechęcenie u~osoby dającej? (np. z~powodu fałszywej pokory)
 
 ============================================
-Powołanie  do służby konsekwencją daru życia
+Powołanie do służby konsekwencją daru życia
 ============================================
 
     Zrealizować we własnym życiu Boże powołanie to stać się wiernym uczniem Chrystusa, to stać się przedłużeniem Jego słów i~Jego czynów, to stać się przedłużeniem Jego obecności na tej ziemi. To doprowadzić do sytuacji, w~której za św. Pawłem możemy powiedzieć, że już nie ja żyję, lecz żyje we mnie Chrystus. To oddać Jezusowi do całkowitej dyspozycji samego siebie, aby poprzez nas Jego serce i~Jego ręce mogły nadal obejmować małych i~zagubionych, chorych i~odrzuconych przez ludzi, słabych i~grzeszników.

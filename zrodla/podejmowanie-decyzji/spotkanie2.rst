@@ -6,7 +6,7 @@ Spotkanie 2. - Etapy podejmowania decyzji – czym się kieruję?
 Cel
 ==================================
 
-Zobaczyć różne motywację  w~podejmowaniu decyzji (na podstawie czego podejmuje decyzje?)
+Zobaczyć różne motywację w~podejmowaniu decyzji (na podstawie czego podejmuje decyzje?)
 
 ====================================
 Modlitwa
@@ -45,7 +45,7 @@ Są to skojarzenia bardzo, bardzo pozytywne.
 * Jak myślicie skąd bierze się ta różnica w~skojarzeniach wyrazów tak podobnych?
 
 =========================================
-Wybór – co dzięki  niemu możemy  dać?
+Wybór – co dzięki niemu możemy dać?
 =========================================
 
 .. centered:: **"Wybrany znaczy wartościowy"!**
@@ -71,7 +71,7 @@ Czy możemy na przykład kryterium "największej wartości" używać w~odniesien
 Popatrzmy, że tutaj nie chodzi o~to, że wybieramy, że coś od tej pory już nie będzie/będzie ważne (o ile takich wybór jest technicznie możliwy, aby aktem rozumu coś takiego zmienić!!!!), ale że podejmując decyzje to się dzieje automatycznie jakby "w tle".
 
 =========================================
-Moje wybory – analiza  kroków
+Moje wybory – analiza kroków
 =========================================
 
 Wypełnialiśmy wczoraj ankietę. Musieliśmy dokonywać, konkretnych wyborów, nawet takich "wbrew nas" gdy chcielibyśmy znaleźć inne (lepsze) rozwiązanie, ale takie nie było uwzględnione w~możliwościach odpowiedzi. Spróbujmy przeanalizować teraz każdą z~14 sytuacji. Próbujmy się jednak koncentrować na etapach podejmowania decyzji niż na samej jej treści.
