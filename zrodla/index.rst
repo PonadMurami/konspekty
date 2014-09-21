@@ -7,6 +7,7 @@ Spis Treści
    :maxdepth: 2
 
 
+   wprowadzenie-do-weekendowki/index
    odpowiedzialnosc-za-wspolnote/index
    duchowosc-czlowieka/index
    eucharystia/index
