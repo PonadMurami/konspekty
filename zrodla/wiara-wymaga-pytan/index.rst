@@ -5,11 +5,11 @@ Wiara wymaga pytań
 .. rubric:: Podstawowe informacje o~rekolekcjach
 
 * Data:
-    * 17 marca 2007
+    * Wiosna 2007 roku
 * Miejsce pierwszych rekolekcji:
     * Babice, diecezja gliwicka
 * Miejsce powstania konspektów:
-    * Knurów, archidiecezja katowicka
+    * Diecezja gliwicka
 * Grupa docelowa:
     * BRAK
 * Opis rekolekcji:

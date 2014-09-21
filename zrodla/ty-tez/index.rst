@@ -5,11 +5,11 @@ Ty Też?
 .. rubric:: Podstawowe informacje o~rekolekcjach
 
 * Data:
-    * 18-20 listopad 2011
+    * Jesień 2011 roku
 * Miejsce pierwszych rekolekcji:
     * Babice, diecezja gliwicka
 * Miejsce powstania konspektów:
-    * Gliwice, archidiecezja katowicka
+    * Diecezja gliwicka
 * Grupa docelowa:
     * BRAK
 * Opis rekolekcji:

@@ -5,11 +5,11 @@ Przestrzenie wolności
 .. rubric:: Podstawowe informacje o~rekolekcjach
 
 * Data:
-    * Wiosna 2010
+    * Wiosna 2010 roku
 * Miejsce pierwszych rekolekcji:
     * Babice, diecezja gliwicka
 * Miejsce powstania konspektów:
-    * Gliwice, archidiecezja katowicka
+    * Diecezja gliwicka
 * Grupa docelowa:
     * BRAK
 * Opis rekolekcji:

@@ -5,11 +5,11 @@
 .. rubric:: Podstawowe informacje o~rekolekcjach
 
 * Data:
-    * Jesień 2009
+    * Jesień 2009 roku
 * Miejsce pierwszych rekolekcji:
     * Babice, diecezja gliwicka
 * Miejsce powstania konspektów:
-    * Knurów, archidiecezja katowicka
+    * Diecezja gliwicka
 * Grupa docelowa:
     * BRAK
 * Opis rekolekcji:

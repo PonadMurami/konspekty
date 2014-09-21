@@ -5,11 +5,11 @@ Pragnienia człowieka, pragnienia Boga
 .. rubric:: Podstawowe informacje o~rekolekcjach
 
 * Data:
-    * 5-7 październik 2007
+    * Jesień 2007 roku
 * Miejsce pierwszych rekolekcji:
     * Babice, diecezja gliwicka
 * Miejsce powstania konspektów:
-    * Knurów, archidiecezja katowicka
+    * Diecezja gliwicka
 * Grupa docelowa:
     * BRAK
 * Opis rekolekcji:

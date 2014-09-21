@@ -5,13 +5,13 @@ Bo jak śmierć potężna jest miłość
 .. rubric:: Podstawowe informacje o~rekolekcjach
 
 * Data:
-    * Wiosna 2008
+    * Wiosna 2008 roku
 * Miejsce pierwszych rekolekcji:
     * Babice, diecezja gliwicka
 * Miejsce powstania konspektów:
-    * Knurów, archidiecezja katowicka
+    * Archidiecezja katowicka
 * Grupa docelowa:
-    * BRAK
+    * Grupa parafialna
 * Opis rekolekcji:
     * BRAK
 

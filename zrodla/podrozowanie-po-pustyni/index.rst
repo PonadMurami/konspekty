@@ -5,11 +5,11 @@ Podróżowanie po pustyni
 .. rubric:: Podstawowe informacje o~rekolekcjach
 
 * Data:
-    * Wiosna 2009
+    * Wiosna 2009 roku
 * Miejsce pierwszych rekolekcji:
     * Babice, diecezja gliwicka
 * Miejsce powstania konspektów:
-    * Knurów, archidiecezja katowicka
+    * Archidiecezja katowicka
 * Grupa docelowa:
     * BRAK
 * Opis rekolekcji:

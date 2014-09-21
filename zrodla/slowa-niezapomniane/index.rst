@@ -5,11 +5,11 @@ Słowa (nie)zapomniane
 .. rubric:: Podstawowe informacje o~rekolekcjach
 
 * Data:
-    * Wiosna 2013
+    * Wiosna 2013 roku
 * Miejsce pierwszych rekolekcji:
     * Babice, diecezja gliwicka
 * Miejsce powstania konspektów:
-    * Knurów, archidiecezja katowicka
+    * KDiecezja gliwicka
 * Grupa docelowa:
     * BRAK
 * Opis rekolekcji:

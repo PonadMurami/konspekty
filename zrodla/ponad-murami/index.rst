@@ -5,11 +5,11 @@ Ponad murami
 .. rubric:: Podstawowe informacje o~rekolekcjach
 
 * Data:
-    * 28 II - 2 III 2014
+    Wiosna 2014 roku
 * Miejsce pierwszych rekolekcji:
-    * Babice, diecezja gliwicka
+    * Góra św. Anny
 * Miejsce powstania konspektów:
-    * Knurów, archidiecezja katowicka
+    * Diecezja gliwicka, Archidiecezja częstochowska
 * Grupa docelowa:
     * BRAK
 * Opis rekolekcji:

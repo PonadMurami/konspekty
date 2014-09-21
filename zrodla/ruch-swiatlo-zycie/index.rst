@@ -9,13 +9,13 @@ Ruch Światło-Życie - co to znaczy?
 * Miejsce pierwszych rekolekcji:
     * Babice, diecezja gliwicka
 * Miejsce powstania konspektów:
-    * Knurów, archidiecezja katowicka
+    * Diecezja gliwicka
 * Grupa docelowa:
     * Oazy parafialne z~całej diecezji, główny nacisk na ludzi nowych w~Ruchu (preoaza)
 * Opis rekolekcji:
     * BRAK
 
-.. only:: html 
+.. only:: html
 
     .. rubric:: Spis konspektów spotkań w~grupach
 

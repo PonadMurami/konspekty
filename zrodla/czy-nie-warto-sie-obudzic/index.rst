@@ -5,11 +5,11 @@ Czy nie warto się obudzić?
 .. rubric:: Podstawowe informacje o~rekolekcjach
 
 * Data:
-    * 25- 27 marca 2011
+    * Wiosna 2011 roku
 * Miejsce pierwszych rekolekcji:
     * Babice, diecezja gliwicka
 * Miejsce powstania konspektów:
-    * Gliwice, archidiecezja katowicka
+    * Diecezja gliwicka
 * Grupa docelowa:
     * BRAK
 * Opis rekolekcji:

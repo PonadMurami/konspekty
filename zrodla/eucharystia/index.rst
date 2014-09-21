@@ -9,13 +9,13 @@ Eucharystia
 * Miejsce pierwszych rekolekcji:
     * Babice, diecezja gliwicka
 * Miejsce powstania konspektów:
-    * Knurów, archidiecezja katowicka
+    * Archidiecezja katowicka
 * Grupa docelowa:
     * Oaza parafialna, od preoazy do formacji przed III st.
 * Opis rekolekcji:
     * BRAK
 
-.. only:: html 
+.. only:: html
 
     .. rubric:: Spis konspektów spotkań w~grupach
 

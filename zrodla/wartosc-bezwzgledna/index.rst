@@ -5,11 +5,11 @@ Wartość bezwzględna
 .. rubric:: Podstawowe informacje o~rekolekcjach
 
 * Data:
-    * Jesień 2013
+    * Jesień 2013 roku
 * Miejsce pierwszych rekolekcji:
     * Babice, diecezja gliwicka
 * Miejsce powstania konspektów:
-    * Knurów, archidiecezja katowicka
+    * Diecezja gliwicka
 * Grupa docelowa:
     * BRAK
 * Opis rekolekcji:

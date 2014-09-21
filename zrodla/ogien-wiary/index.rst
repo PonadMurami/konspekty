@@ -5,11 +5,11 @@ Ogień wiary
 .. rubric:: Podstawowe informacje o~rekolekcjach
 
 * Data:
-    * 18-20 maja 2012
+    * Wiosna 2012 roku
 * Miejsce pierwszych rekolekcji:
     * Babice, diecezja gliwicka
 * Miejsce powstania konspektów:
-    * Gliwice, archidiecezja katowicka
+    * Diecezja gliwicka
 * Grupa docelowa:
     * BRAK
 * Opis rekolekcji:
