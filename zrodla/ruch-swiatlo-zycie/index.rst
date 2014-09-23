@@ -13,7 +13,7 @@ Ruch Światło-Życie - co to znaczy?
 * Grupa docelowa:
     * Oazy parafialne z~całej diecezji, główny nacisk na ludzi nowych w~Ruchu (preoaza)
 * Opis rekolekcji:
-    * BRAK
+    * Rekolekcje z założenia były organizowane dla ludzi, którzy formują się w Oazie jednak nie wyjeżdżają na rekolekcje wakacyjne. Działaliśmy na dwóch płaszczyznach. Po pierwsze same rekolekcje miały układ dnia identyczny z~rekolekcjami 15~dniowymi co dawało uczestnikom szkosztować tej metody i~się do niej przekonać. Po drugie temat rekolekcji dotyczył tożsamości Oazowiczów pokazując, że z~przynależności do wspólnoty wypływają konkretne konsekwencje. Rekolekcje dodatkowe pokazywały szeroko wizję wspólnoty Ruchu jako grupy, która stara się walczyć o lepszy świat - pokazując konkretne narzędzia.
 
 .. only:: html
 

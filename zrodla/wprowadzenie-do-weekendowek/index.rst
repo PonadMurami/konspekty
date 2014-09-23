@@ -97,6 +97,20 @@ Okiem diakonii animatorów grup
 * Wyczuleni, aby przekazać wartościową informacje zwtotną reszcie diakonii jako Ci, którzy są najbliżej
 
 ===================================================================
+Okiem diakonii marketingu
+===================================================================
+
+* Strona www
+* Media społecznościowe
+* Filmy zapraszające
+* Plakaty zapraszające
+* Marketing szeptany
+* Budowanie grona przywiązanych osób
+* Element rozpoznawczy
+* Spotkania z bierzmowańcami
+* Spotkania w szkołach
+
+===================================================================
 Okiem diakonii leitmotiv-u
 ===================================================================
 
@@ -133,15 +147,6 @@ Okiem diakonii techniczno-gospodarczej
 * Organizacja transportu
 * Zgody rodziców
 * Organizacja zapisów
+* Organizacja jedzenia
+* Organizacja ośrodka
 
-===================================================================
-Okiem diakonii marketingu
-===================================================================
-
-* Strona www
-* Media społecznościowe
-* Filmy zapraszające
-* Plakaty zapraszające
-* Marketing szeptany
-* Budowanie grona przywiązanych osób
-* Element rozpoznawczy

@@ -130,6 +130,8 @@ Bardzo ważne jest właściwe rozumienie trudnego słowa "wolność" w~odróżni
 
 * Jak zatem odróżniać wolność od pragnienia wszechmocy, od samowoli? Jak być człowiekiem wolnym?
 
+Przeczytajmy:
+
    Ku wolności wyswobodził nas Chrystus. A~zatem trwajcie w~niej i~nie poddawajcie się na nowo pod jarzmo niewoli.
 
    -- Gal 5, 1
@@ -137,6 +139,8 @@ Bardzo ważne jest właściwe rozumienie trudnego słowa "wolność" w~odróżni
 * Czy potrafię spojrzeć na Jezusa, jako na osobę dzięki której mogę być wolny?
 
 * Czy może Bóg jest dla mnie tylko osobą stawiającą nakazy i~zakazy ograniczające moją wolność?
+
+Przeczytajmy:
 
    Jeżeli będziecie trwać w~nauce mojej, będziecie prawdziwie moimi uczniami i~poznacie prawdę, a~prawda was wyzwoli.
 
