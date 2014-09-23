@@ -153,7 +153,7 @@ Przeczytajmy modlitwę św. Franciszka:
 
 .. warning:: To jest moment kluczowy!
 
-! Przeczytajmy:
+Przeczytajmy:
 
    | Ktoś to przecież powinien zrobić, znak zapytania.
    | Ktoś powinien reagować, znak zapytania.
