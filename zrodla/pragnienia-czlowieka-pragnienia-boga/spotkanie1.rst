@@ -13,7 +13,7 @@ Cel Spotkania
 * przygotować się do porządnego przeżycia "zajęć nocnych" (pisanie na ścianach labiryntu pragnień)
 
 =====================================
-Wprowadzenie dla aniamtora
+Wprowadzenie dla animatora
 =====================================
 
 Na spotkanie jest bardzo mało czasu, bo tylko 45minut. Z~konspektu trzeba wybrać to co wydaję się, że najbardziej "zadziała" lub robić pokolei z~nastawieniem, że z~jutrzejszego (trwającego 1.5h) spotkania początek poświęci się na dokończenie. Nie można, absolutnie pominąć zastosowania!

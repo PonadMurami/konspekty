@@ -95,7 +95,7 @@ Kontakt z~takim Bogiem był niemożliwy. Wyrazi to dobitnie Nietzsche w~swoim s�
 
 Spróbujmy zapytać o~to uczestników. Jak oni to rozumieją.
 
-    Ład i~sens są z~Boga, a~jeśli zaprawdę Bóg umarł, to na próżno wmawiamy sobie, że sens może ocaleć; obojętna próżnia wysysa nas i~unicestwia, nic z~życia i~trudu naszego nie ocaleje, żaden ślad nie zostanie po nas w~bezsensownym tańcu atomów, wszechświat niczego nie chce, do niczego nie dąży, o~nic się nie troszczy, nie nagradza ani karze. Kto mówi, że Boga nie ma i~jest wesoło, sobie kłamie
+    Ład i~sens są z~Boga, a~jeśli zaprawdę Bóg umarł, to na próżno wmawiamy sobie, że sens może ocaleć; obojętna próżnia wysysa nas i~unicestwia, nic z~życia i~trudu naszego nie ocaleje, żaden ślad nie zostanie po nas w~bezsensownym tańcu atomów, wszechświat niczego nie chce, do niczego nie dąży, o~nic się nie troszczy, nie nagradza ani karze. Kto mówi, że Boga nie ma i~jest wesoło, sobie kłamie.
 
     -- Leszek Kołakowski
 

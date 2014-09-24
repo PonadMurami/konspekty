@@ -11,10 +11,10 @@ To ma być spotkanie **dzieleniowe**. Chcemy wzajemnie ubogacić się naszym ży
 Mówiąc bardziej wprost: nie można doprowadzić do wspólnego narzekania lub koncertu życzeń, które nie przemienią nas tu i~teraz.
 
 ==================================
-Wprowadzenie dla aniamtora
+Wprowadzenie dla animatora
 ==================================
 
-Spotkanie nie jest proste gdyż osoby w~naszej grupie nie znają się prawdopodobnie zbyt dobrze, a~poruszamy temat najintymniejszy z~możliwych. Należy z~ogromną pokorą i~szacunkiem podejść do tych ludzi!Wyzbyć się wszelkiego myślenia typu "zrealizować robotę", a~w~miejsce to starać się o~zachwycenie świadectwem drugiego człowieka. To my "narzucamy charakter" tego spotkania poprzez nastawienie, osobiste świadectwo. Nie liczmy na to, że ludzie, którym być może ktoś po raz pierwszy na tych rekolekcjach zadał pewne pytania sami z~siebie będą chcieli mówić o~rzeczach które w~nich (i nas) zostały poruszane. Ogromnej wrażliwości i~wyczucia...
+Spotkanie nie jest proste gdyż osoby w~naszej grupie nie znają się prawdopodobnie zbyt dobrze, a~poruszamy temat najintymniejszy z~możliwych. Należy z~ogromną pokorą i~szacunkiem podejść do tych ludzi!Wyzbyć się wszelkiego myślenia typu "zrealizować robotę", a~w~miejsce to starać się o~zachwycenie świadectwem drugiego człowieka. To my "narzucamy charakter" tego spotkania poprzez nastawienie, osobiste świadectwo. Nie liczmy na to, że ludzie, którym być może ktoś po raz pierwszy na tych rekolekcjach zadał pewne pytania, sami z~siebie będą chcieli mówić o~rzeczach które w~nich (i nas) zostały poruszane. Potrzeba ogromnej wrażliwości i~wyczucia...
 
 Najgorsze co można zrobić to zadać fundamentalne pytanie człowiekowi, wzbudzić w~nim radość, że ktoś naprawdę zapytał go o~tak ważną rzecz, a~potem nie zwracać na niego uwagi będąc zaobsorbowanym myślą o~tym jak następne pytanie zadać, aby spotkanie było "fajne"!
 
@@ -37,9 +37,9 @@ Przed takim zadaniem ustalmy zatem na samym początku dosyć jasne zasady:
 
 * milczenie w~czasie jakiegoś pytania także jest cenną odpowiedzią,,
 
-* od tego co mówie zależy czy to spotkanie będzie dla nas wszystkich owocne,
+* od tego co mówię zależy czy to spotkanie będzie dla nas wszystkich owocne,
 
-* nie szukamy "prawidłowych odpowiedzi" lecz dzielimy się tym co przeżywamy, mądre książki mają służyć naszemu życiu, a~nie nasze życie książką
+* nie szukamy "prawidłowych odpowiedzi" lecz dzielimy się tym co przeżywamy, mądre książki mają służyć naszemu życiu, a~nie nasze życie książkom
 
 ==========================================
 Jak wygląda nasza wiara?

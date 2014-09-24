@@ -13,7 +13,7 @@ Cel Spotkania
 3. Zachwycić się cudem wcielenia – Jezusem – Emmanuelem – który jest dowodem Bożej Miłości
 
 ==================================
-Wprowadzenie dla aniamtora
+Wprowadzenie dla animatora
 ==================================
 
 Tak  naprawdę w~ spotkaniu  najważniejsze jest,  aby  dostrzec  sytuację  "po  grzechu"  nie  tylko z~perspektywy grzeszności człowieka, ale także z~punktu widzenia "osamotnionego" Boga, który stwarzając człowieka ujawnił swoją ogromną Miłość ku niemu. Problem ten niejako rozwiązuje się w~Chrystusie i~to ma być bardzo wyraźnie przedstawione. Proponuję także parę zagadnień mocniej
