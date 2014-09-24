@@ -19,7 +19,7 @@ Motywacja - czyli dlaczego warto?
 Historia - czyli komuś się udało!
 ===================================================================
 
-* Kiedy zaczeliśmy?
+* Kiedy zaczęliśmy?
 * Jak to powstało?
 * Jakie punkty przełomowe?
 * Jakie owoce?
@@ -28,7 +28,7 @@ Historia - czyli komuś się udało!
 Okiem moderatora
 ===================================================================
 
-* Jakie skutki krotókofalowe obserwował
+* Jakie skutki krótkofalowe obserwował
 * Jakie skutki długofalowe obserwował
 * Jak odczytywał swoją rolę
 * Praktyczna realizacja zasady pomocniczości
@@ -47,7 +47,7 @@ Okiem diakonii architektów
 
 * Co to jest przebieg myśli?
 * Pomysł na podzielenie na moduły, które mają "wejście" i "wyjście"
-* Rozwiązywanie "cyklów zależnosći" punktów od siebie
+* Rozwiązywanie "cyklów zależności" punktów od siebie
 * Wizualizowanie rekolekcji (yEd)
 * Rozeznawanie tematu
 * Zostawianie buforów do reagowania w trakcie rekolekcji
@@ -73,13 +73,14 @@ Okiem diakonii modlitewnej
 * Grono ekskluzywne - wyłączone w jakimś sensie z problemów technicznych
 * Współpraca z diakonią muzyczną
 * Zadania , posługa- co przed rekolekcjami, co w trakcie, co po?
+* Modlitwa ochrony - angażująca cała diakonie
 
 ===================================================================
 Okiem diakonii głoszenia
 ===================================================================
 
 * Charyzmat weekendówek
-* Fenomen, że na komferencje ludzie czekają, a nie na nich śpią
+* Fenomen, że na konferencje ludzie czekają, a nie na nich śpią
 * Głoszenie przez świeckich
 * Jeden mówi - wszyscy tak naprawdę walczą
 * Konferencja czy świadectwo? Po co rozróżniać!
@@ -94,7 +95,8 @@ Okiem diakonii animatorów grup
 * Doświadczenie rodzenia się uczniów
 * Nasi uczestnicy stają z nami ramię w ramię jako animatorzy
 * Uczestnik jest najważniejszy, dla niego to robimy
-* Wyczuleni, aby przekazać wartościową informacje zwtotną reszcie diakonii jako Ci, którzy są najbliżej
+* Wyczuleni, aby przekazać wartościową informacje zwrotną reszcie diakonii jako Ci, którzy są najbliżej
+* Krótkie świadectwa rozsiane przed różnymi punktami dnia
 
 ===================================================================
 Okiem diakonii marketingu
@@ -124,7 +126,7 @@ Okiem diakonii leitmotiv-u
 Okiem diakonii muzycznej
 ===================================================================
 
-* Muzyka jako element zawiązujący współnotę
+* Muzyka jako element zawiązujący wspólnotę
 * Gdy nie ma czasu cierpi muzyka - radzenie sobie z tym
 * Jak przygotować muzykę na 2 dniowe rekolekcje tak by było dobrze, ale nie "ciężko"?
 * Współpraca z diakonią modlitwy
