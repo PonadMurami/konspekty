@@ -91,7 +91,7 @@ Wczoraj zobaczyliśmy jak szerokim pojęciem jest Wiara. W~szczególności miesz
 
 Zastanówmy się nad naturą wątpliwości. Bardzo często próbujemy od nich uciec... Wydaje nam się, że są objawem czegoś złego na przykład braku wiary. Rzućmy naprzeciw takiemu myśleniu następującą wypowiedź:
 
-    Żeby mogły we mnie powstać wątpliwości, problem musi być dla mnie przynajmniej w~jakimś aspekcie ważny. Aby wątpić w~to, czy ktoś mówi prawdę, musi mnie przynajmniej troszeczkę obchodzić to, o~czym on mówi. Im więcej zaś jakaś sprawa mnie obchodzi, tym dokładniej chciałbym zbadać, jak się ona przedstawia w~rzeczywistości. Toteż słusznie powiada przysłowie łacińskie, że dubitando ad veritatem pervenimus -- <<wątpliwość jest drogą do prawdy>>. Umiejętność trafnego formułowania wątpliwości na temat naszych doświadczeń i~przeświadczeń, dochodzących do nas opinii, opisów i~hipotez, pomaga nam oddzielać prawdę od nieprawdy, a~także prowadzi do stawiania pytań, dzięki którym prawdę możemy poznać głębiej i~szerzej."
+    Żeby mogły we mnie powstać wątpliwości, problem musi być dla mnie przynajmniej w~jakimś aspekcie ważny. Aby wątpić w~to, czy ktoś mówi prawdę, musi mnie przynajmniej troszeczkę obchodzić to, o~czym on mówi. Im więcej zaś jakaś sprawa mnie obchodzi, tym dokładniej chciałbym zbadać, jak się ona przedstawia w~rzeczywistości. Toteż słusznie powiada przysłowie łacińskie, że dubitando ad veritatem pervenimus -- «wątpliwość jest drogą do prawdy». Umiejętność trafnego formułowania wątpliwości na temat naszych doświadczeń i~przeświadczeń, dochodzących do nas opinii, opisów i~hipotez, pomaga nam oddzielać prawdę od nieprawdy, a~także prowadzi do stawiania pytań, dzięki którym prawdę możemy poznać głębiej i~szerzej."
 
     -- o. Jacek Salij
 

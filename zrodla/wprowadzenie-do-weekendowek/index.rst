@@ -173,4 +173,3 @@ Okiem diakonii techniczno-gospodarczej
 * Organizacja zapisów
 * Organizacja jedzenia
 * Organizacja ośrodka
-
