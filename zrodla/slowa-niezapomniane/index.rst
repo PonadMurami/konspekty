@@ -2,18 +2,16 @@
 Słowa (nie)zapomniane
 ###########################################
 
-.. rubric:: Podstawowe informacje o~rekolekcjach
-
-* Czas powstania konspektów:
-    * Wiosna 2013 roku
-* Miejsce pierwszych rekolekcji:
-    * Babice, diecezja gliwicka
-* Miejsce powstania konspektów:
-    * KDiecezja gliwicka
-* Grupa docelowa:
-    * Rekolekcje otwarte dla ludzi od 13 do 23 roku życia
-* Opis rekolekcji:
-    * BRAK
+Czas powstania konspektów:
+    Wiosna 2013 roku
+Miejsce pierwszych rekolekcji:
+    Babice, diecezja gliwicka
+Miejsce powstania konspektów:
+    Diecezja gliwicka
+Grupa docelowa:
+    Rekolekcje otwarte dla ludzi od 13 do 23 roku życia
+Opis rekolekcji:
+    BRAK
 
 .. only:: html
 
