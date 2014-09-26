@@ -65,3 +65,7 @@
 .centered {
 	text-align: center;
 }
+
+.admonition .line-block {
+	margin-left: 0;
+}

@@ -45,15 +45,16 @@ Od Boga, jako dar, otrzymaliśmy wszyscy wolność. Czym jest wolność w~naszym
 * Czym dla mnie jest wola Boga? Jak rozumiem te słowa?
 
 Za KKK:
-   * wolą Ojca jest "by wszyscy ludzie zostali zbawieni i~doszli do poznania prawdy" (1 Tm 2,4)
-   * "chce bowiem wszystkich doprowadzić do nawrócenia" (2 P 3,9)
-   * Cała wola Boża "abyście się wzajemnie miłowali, jak Ja was umiłowałem"
+
+* wolą Ojca jest "by wszyscy ludzie zostali zbawieni i~doszli do poznania prawdy" (1 Tm 2,4)
+* "chce bowiem wszystkich doprowadzić do nawrócenia" (2 P 3,9)
+* Cała wola Boża "abyście się wzajemnie miłowali, jak Ja was umiłowałem"
 
 Bóg zostawia nam wolną przestrzeń do działania => mamy w~końcu wolność. Dostaliśmy drogowskazy, którymi mamy się kierować. Jeżeli ich przestrzegamy, stosujemy, postępujemy według woli Ojca.
 
 Nooo dobra, wszystko pięknie. Jezus mówi "Nieustannie się módlcie" i~"O cokolwiek byście prosili Ojca mego, da wam w~imię moje" (J 16, 23). Ok., modlę się, proszę... po czym mówię "Bądź wola Twoja"...
 
-* Skoro wolą Bożą jest nasze nawrócenie, dojście do zbawienia, to dlaczego nie wszystkie moje prośby są wysłuchane [przecież czasami wiem, że to o~co proszę JEST DOBRE]
+* Skoro wolą Bożą jest nasze nawrócenie, dojście do zbawienia, to dlaczego nie wszystkie moje prośby są wysłuchane (przecież czasami wiem, że to o~co proszę **jest dobre**)
 * Po co się modlić, skoro Bóg i~tak będzie postępował po swojemu?
 
 Św. Augustyn powiedział, że Bóg zawsze wysłuchuje człowieka, ale po swojemu, niekoniecznie tak ja my byśmy chcieli i~wtedy kiedy byśmy chcieli.
@@ -81,7 +82,7 @@ Bóg  zachęca do modlitwy:
 
 Bóg zaprasza wręcz do takiej natrętnej modlitwy – On jako Ojciec tego tak nie odbiera! Natręctwo to nie zuchwałość!
 
-2. Ufnej (!) [proszący wierzył w~przyjaźń, dlatego odważył się w~środku nocy iść po chleb. UFNOŚĆ]
+2. Ufnej (!) (proszący wierzył w~przyjaźń, dlatego odważył się w~środku nocy iść po chleb. **Ufność**)
 
 I znowu to co już było – relacja Ojciec-Dziecko .. oparta na zaufaniu!
 

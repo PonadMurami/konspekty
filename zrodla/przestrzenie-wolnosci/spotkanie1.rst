@@ -7,11 +7,12 @@ Cel
 ==================================
 
 Próba znalezienia odpowiedzi na pytania:
-* Jak ja rozumiem wolność? Czym ona jest?
-* Czy wolna wola = samowola?
-* Czy odróżniam wolność od samowoli?
-* Jak znaleźć takie zdrowe podejście do tego bycia wolnym, czy to oznacza totalny chaos i~"róbta co chceta"?
-* Co jest przekroczeniem wolności, czyli de facto "uwolnieniem" się od niej?
+
+#. Jak ja rozumiem wolność? Czym ona jest?
+#. Czy wolna wola = samowola?
+#. Czy odróżniam wolność od samowoli?
+#. Jak znaleźć takie zdrowe podejście do tego bycia wolnym, czy to oznacza totalny chaos i~"róbta co chceta"?
+#. Co jest przekroczeniem wolności, czyli de facto "uwolnieniem" się od niej?
 
 =========================================
 Modlitwa
@@ -45,7 +46,7 @@ KKK podaje następującą definicję wolności:
 
     Wolność jest zakorzenioną w~rozumie i~woli możliwością działania lub niedziałania, czynienia tego lub czegoś innego, a~więc podejmowania przez siebie dobrowolnych działań. Dzięki wolnej woli każdy decyduje o~sobie."
 
-  -- Katechizm Kościoła Katolickiego 1731
+    -- Katechizm Kościoła Katolickiego 1731
 
 * Czy zgadzacie się z~tą definicją? Czy jest ona pełna?
 
@@ -57,11 +58,11 @@ W kolejnych punktach KKK zyskujemy dodatkowe wskazówki:
 
     Im więcej człowiek czyni dobra, tym bardziej staje się wolnym. Prawdziwą wolnością jest tylko wolność w~służbie dobra i~sprawiedliwości. Wybór nieposłuszeństwa i~zła jest nadużyciem wolności i~prowadzi do "niewoli grzechu".
 
-  -- Katechizm Kościoła Katolickiego 1733
+    -- Katechizm Kościoła Katolickiego 1733
 
     Wolność czyni człowieka odpowiedzialnym za swoje czyny w~takiej mierze, w~jakiej są one dobrowolne. Postęp w~cnocie, poznanie dobra i~asceza zwiększają panowanie woli nad jej czynami.
 
-  -- Katechizm Kościoła Katolickiego 1734
+    -- Katechizm Kościoła Katolickiego 1734
 
 * Czy Twoja definicja wolności wymaga jakiegoś uzupełnienia?
 
@@ -83,7 +84,7 @@ Bóg dał nam wolność, ale nie dał nam wszechmocy. Wszechmoc zarezerwował dl
 
     Wie Bóg, że gdy spożyjecie owoc z~tego drzewa otworzą się wam oczy i~tak jak Bóg będziecie znali dobro i~zło.
 
-  -- Rdz 3, 5
+    -- Rdz 3, 5
 
 Tę obietnicę wszechmocy - możliwość robienia wszystkiego, przekraczania granic, chęć bycia jak Bóg - nazwali ludzie "wolnością".
 
@@ -91,7 +92,7 @@ Tę obietnicę wszechmocy - możliwość robienia wszystkiego, przekraczania gra
 
     Wszystko mi wolno, ale nie wszystko przynosi korzyść. Wszystko mi wolno, ale ja niczemu nie oddam się w~niewolę.
 
-  -- 1 Kor 6, 12
+    -- 1 Kor 6, 12
 
 * Jak rozumiem te słowa?
 
@@ -109,11 +110,11 @@ Poniżej jeszcze kilka fragmentów Nowego Testamentu na temat wolności i~niewol
 
     Każdy kto popełnia grzech jest niewolnikiem grzechu.
 
-  -- J 8, 34
+    -- J 8, 34
 
     To wiedzcie, że dla zniszczenia grzesznego ciała dawny nasz człowiek został razem z~Nim ukrzyżowany po to, byśmy już więcej nie byli w~niewoli grzechu. [...] Niech więc grzech nie króluje w~waszym śmiertelnym ciele, poddając was swoim pożądliwościom. [...] Albowiem grzech nie powinien nad Wami panować. [...] Kiedy bowiem byliście niewolnikami grzechu byliście wolni od służby sprawiedliwości. Jakiż jednak pożytek mieliście wówczas z~tych czynów, których się teraz wstydzicie? Przecież końcem ich jest śmierć.
 
- -- Rz 6, 7. 12. 14. 20
+    -- Rz 6, 7. 12. 14. 20
 
 * Czy patrzyłem kiedyś tak na własną wolność?
 
@@ -139,7 +140,7 @@ Przeczytajmy:
 
     Ku wolności wyswobodził nas Chrystus. A~zatem trwajcie w~niej i~nie poddawajcie się na nowo pod jarzmo niewoli.
 
-  -- Gal 5, 1
+    -- Gal 5, 1
 
 * Czy potrafię spojrzeć na Jezusa, jako na osobę, dzięki której mogę być wolny?
 
@@ -149,7 +150,7 @@ Przeczytajmy:
 
     Jeżeli będziecie trwać w~nauce mojej, będziecie prawdziwie moimi uczniami i~poznacie prawdę, a~prawda was wyzwoli.
 
-  -- J 8, 31
+    -- J 8, 31
 
 * Czy staram się poznać prawdę o~Bogu i~o~sobie samym?
 
