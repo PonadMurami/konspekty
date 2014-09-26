@@ -4,7 +4,7 @@ Ponad murami
 
 .. rubric:: Podstawowe informacje o~rekolekcjach
 
-* Data:
+* Czas powstania konspektów:
     Wiosna 2014 roku
 * Miejsce pierwszych rekolekcji:
     * Góra św. Anny

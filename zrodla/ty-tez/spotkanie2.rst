@@ -30,7 +30,7 @@ Rozłożenie na stole kilku zdjęć przedstawiających różne spotkania (spotka
 
 Luźna acz krótka rozmowa z~uczestnikami na temat spotkań w~życiu codziennym.
 
-.. warning:: ten punkt służy głównie pewnemu zagajeniu tematu, uzmysłowieniu, że życie to pasmo spotkań, mniej lub bardziej dla nas znaczących, łatwiejszych, przyjemniejszych i~trudniejszych, bolesnych itp. Konkluzja do jakiej powinna zmierzać rozmowa to: MY SAMI JESTEŚMY TWÓRCAMI NASZYCH SPOTKAŃ - może nie zawsze my decydujemy o~fakcie spotkania, ale na pewno zawsze mamy wpływ na ich kształt, atmosferę itp.
+.. warning:: Ten punkt służy głównie pewnemu zagajeniu tematu, uzmysłowieniu, że życie to pasmo spotkań, mniej lub bardziej dla nas znaczących, łatwiejszych przyjemniejszych i~trudniejszych, bolesnych itp. Konkluzja do jakiej powinna zmierzać rozmowa to: MY SAMI JESTEŚMY TWÓRCAMI NASZYCH SPOTKAŃ - może nie zawsze my decydujemy o~fakcie spotkania, ale na pewno zawsze mamy wpływ na ich kształt, atmosferę itp.
 
 ==========================================
 Spotkania w~realu vs. spotkania w~virtualu

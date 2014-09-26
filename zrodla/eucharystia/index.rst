@@ -4,7 +4,7 @@ Eucharystia
 
 .. rubric:: Podstawowe informacje o~rekolekcjach
 
-* Data:
+* Czas powstania konspektów:
     * Jesień 2006 roku
 * Miejsce pierwszych rekolekcji:
     * Babice, diecezja gliwicka

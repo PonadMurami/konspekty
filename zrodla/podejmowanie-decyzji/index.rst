@@ -4,7 +4,7 @@ Podejmowanie decyzji
 
 .. rubric:: Podstawowe informacje o~rekolekcjach
 
-* Data:
+* Czas powstania konspektów:
     * Wiosna 2009 roku
 * Miejsce pierwszych rekolekcji:
     * Babice, diecezja gliwicka

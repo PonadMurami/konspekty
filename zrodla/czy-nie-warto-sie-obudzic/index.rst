@@ -4,7 +4,7 @@ Czy nie warto się obudzić?
 
 .. rubric:: Podstawowe informacje o~rekolekcjach
 
-* Data:
+* Czas powstania konspektów:
     * Wiosna 2011 roku
 * Miejsce pierwszych rekolekcji:
     * Babice, diecezja gliwicka

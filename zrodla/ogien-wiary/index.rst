@@ -4,7 +4,7 @@ Ogień wiary
 
 .. rubric:: Podstawowe informacje o~rekolekcjach
 
-* Data:
+* Czas powstania konspektów:
     * Wiosna 2012 roku
 * Miejsce pierwszych rekolekcji:
     * Babice, diecezja gliwicka

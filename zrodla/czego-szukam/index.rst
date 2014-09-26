@@ -4,7 +4,7 @@ Czego szukam?
 
 .. rubric:: Podstawowe informacje o~rekolekcjach
 
-* Data:
+* Czas powstania konspektów:
     * Jesień 2008 roku
 * Miejsce pierwszych rekolekcji:
     * Babice, diecezja gliwicka
