@@ -31,7 +31,7 @@ Refleksja nad "Spotkaniem"
 Najpierw przeczytajmy takie zdanie. Być może będziemy się z~nim zgadzać lub nie – będzie ono wprowadzeniem do naszej dalszej rozmowy.
 
     Niewątpliwie zdecydowana większość tego, co dziś między ludźmi nazywa się rozmową, należałoby trafniej, w~dokładnym sensie tego słowa, określić jako gadanina. Na ogół ludzie nie mówią naprawdę do siebie; każdy, chociaż zwrócony do drugiego, mówi w~rzeczywistości do fikcyjnej instancji, której istnienie wyczerpuje się w~wysłuchaniu go.
-    
+
     -- Martin Buber
 
 Warto zadać sobie pytanie nad jakością naszych spotkań (wszelkich). Spróbować odnaleźć w~swoim życiu takie prawdziwe rozmowy/spotkania. Warto sobie je wypisać na jakiejś kartce (każdy dla siebie).
@@ -43,9 +43,9 @@ Warto zadać sobie pytanie nad jakością naszych spotkań (wszelkich). Spróbow
 Spotkanie to dar. Coś absolutnie niesamowitego. Jeżeli mamy niewiele wpisów na naszych kartkach to doskonale to rozumiemy bo prawdopodobnie "tęsknimy" za prawdziwą rozmową. Jeżeli nasze kartki są zapełnione to prawdopodobnie doświadczyliśmy tego i~cenimy sobie te momenty.
 
     Dąży się dzisiaj nie tylko do "odczarowania" kontaktów międzyludzkich – z~czym można by się nawet zgodzić – lecz także do ich radykalnego odtajemniczenia. To, co osobowe, nieustannie bliskie misterium, niegdyś podstawa najcichszych uniesień, ulega niwelacji.
-    
-    -- Martin Buber    
-    
+
+    -- Martin Buber
+
 * Czy zgadzamy się z~tym zdaniem? Czy "tęsknimy" za taka prawdziwa rozmowa/spotkaniem? Czy potrafi nam tego brakować?
 
 * Czy podziękowaliśmy komuś za spotkanie? Czy nie jest tak, że wobec wielu osób nie wyraziliśmy swojej wdzięczności za rozmowę?
@@ -58,7 +58,7 @@ Cechy Prawdziwego Spotkania
 
 Powstaje pytanie:
 
-* Dlaczego tak niewiele Rozmowy/Spotkań jest w~naszym życiu? 
+* Dlaczego tak niewiele Rozmowy/Spotkań jest w~naszym życiu?
 
 * Dlaczego jest to niewygodne dla świata?
 
@@ -69,11 +69,11 @@ Animator będzie pokazywał poszczególne "wymogi" (odczytuje, a~następnie kła
 Uczestnicy mogą rozszerzyć tą listę!!!
 
 * Cechy Prawdziwego Spotkania:
-    
+
     * Zwrócenie się do partnera w~całej prawdzie. Mówię drugiemu jako osobie: "tak" - potwierdzamy jego osobę
-    
+
     * Każdy musi włączyć samego siebie. Każdy zawsze mówi to, co myśli jednak: "otwartość jest dokładnym przeciwieństwem gadaniny."
-    
+
     * Nie kieruje się myślą o~własnym oddziaływaniu jako mówcy tego, co powinno przez niego przemówić! Gdy zamiast tego, co winno być powiedziane, chce zaprezentować swoje samolubne "ja" staje się niszczycielem
 
     * Rozmowa ze swojej natury jest płodna. Rozmowa owocuje...tworzy w~nas kogoś innego, odkrywamy sami siebie w~niej bardziej...
@@ -103,7 +103,7 @@ i czego szukam...Bóg wie o~tym co głęboko we mnie siedzi....wiedział już za
 Umocnienie w~odkrywaniu i~zastosowanie
 ======================================
 
-*(to nie jest cześć spotkania "na koniec" tylko bardzo ważny punkt któremu trzeba przewidzieć odpowiednią ilość czasu jeżeli spotkanie ma mieć sens większy niż ćwiczenia z~tekstem!)*
+.. warning:: To nie jest cześć spotkania "na koniec" tylko bardzo ważny punkt któremu trzeba przewidzieć odpowiednią ilość czasu jeżeli spotkanie ma mieć sens większy niż ćwiczenia z~tekstem!
 
 Wiadomo jak jest - Eucharystia jest trudna. Życie toczy się i~nie jest łatwo myśleć w~takich kategoriach o~Mszy Świętej szczególnie jeżeli coś innego w~tym momencie jest do zrobienia. Czasami mamy po prostu wiele ludzkich wątpliwości co do tego co dzieje się na Ołtarzu. To normalne. Te rekolekcje są okazją do próby podjęcia jakiegoś wysiłku, aby spróbować pogłębić własne przeżywanie i~patrzenie na Eucharystie. Chcemy, aby Msza Święta była dla nas właśnie takim upragnionym Spotkaniem. Jak będziemy się starać o~to?
 

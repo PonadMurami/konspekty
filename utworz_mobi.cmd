@@ -1,0 +1,1 @@
+CALL ebook-convert zbudowane\html\konspekty.epub zbudowane\html\konspekty.mobi 
