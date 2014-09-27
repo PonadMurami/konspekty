@@ -1,3 +1,4 @@
 /zbudowane/*
 *.pyc
 node_modules
+/.ftppass
