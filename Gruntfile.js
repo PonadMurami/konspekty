@@ -4,8 +4,20 @@ module.exports = function(grunt) {
 	grunt.loadNpmTasks("grunt-contrib-watch");
 	grunt.loadNpmTasks("grunt-contrib-copy");
 	grunt.loadNpmTasks("grunt-mkdir");
+	grunt.loadNpmTasks("grunt-ftp-deploy");
 	
 	grunt.initConfig({
+		"ftp-deploy": {
+			build: {
+				auth: {
+					host: "aei.pl",
+					port: 21,
+					authKey: "key"
+				},
+				src: "zbudowane/html",
+				dest: "/"
+			}
+		},	
 		mkdir: {
 			all: {
 				options: {
@@ -50,7 +62,7 @@ module.exports = function(grunt) {
 		}
 	});	
 	
-	grunt.task.registerTask("make", ["mkdir", "shell:makeAll", "copy:main"]);
-    grunt.task.registerTask("mobi", ["shell:makeMobi"]);
+	grunt.task.registerTask("make", ["mkdir", "shell:makeAll", "copy:main", "shell:makeMobi"]);
+	grunt.task.registerTask("deploy", ["ftp-deploy"]);
 	grunt.registerTask("default", ["mkdir", "watch:html"]);
 };
