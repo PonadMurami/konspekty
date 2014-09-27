@@ -159,7 +159,7 @@ Okiem diakonii muzycznej
 Okiem diakonii świętowania
 ===================================================================
 
-* Pogodny wieczór, który pomaga celom rekolekcji, a nie jest obok niego
+* Pogodny wieczór, który pomaga celom rekolekcji, a~nie jest obok niego
 * Posługa "niedoceniona" - dlaczego?
 * Posługa zacierania złych różnic
 

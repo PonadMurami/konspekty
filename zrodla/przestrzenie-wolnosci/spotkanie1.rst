@@ -98,7 +98,7 @@ Tę obietnicę wszechmocy - możliwość robienia wszystkiego, przekraczania gra
 
 * O~jakiej niewoli mówi św. Paweł?
 
-Zauważmy, że św. Paweł pisze tu "wszystko mi wolno", a~nie "wszystko mogę". Jest więc różnica między tym, że mamy wolną wolę, a tym, że możemy wszystko. Nie możemy wszystkiego - mamy ograniczone możliwości tzn. nie jesteśmy wszechmocni. Należy odróżnić określenia "wszystko mi wolno" i~"wszystko mogę".
+Zauważmy, że św. Paweł pisze tu "wszystko mi wolno", a~nie "wszystko mogę". Jest więc różnica między tym, że mamy wolną wolę, a~tym, że możemy wszystko. Nie możemy wszystkiego - mamy ograniczone możliwości tzn. nie jesteśmy wszechmocni. Należy odróżnić określenia "wszystko mi wolno" i~"wszystko mogę".
 
 * Czego zatem nie mogę choć mi wolno?
 
