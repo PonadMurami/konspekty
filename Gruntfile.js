@@ -33,6 +33,9 @@ module.exports = function(grunt) {
 			}
 		},
 		shell: {
+            makeMobi: {
+                command: "ebook-convert zbudowane/html/konspekty.epub zbudowane/html/konspekty.mobi"
+            },
 			makeHtml: {
 				command: "make html"
 			},
@@ -48,5 +51,6 @@ module.exports = function(grunt) {
 	});	
 	
 	grunt.task.registerTask("make", ["mkdir", "shell:makeAll", "copy:main"]);
+    grunt.task.registerTask("mobi", ["shell:makeMobi"]);
 	grunt.registerTask("default", ["mkdir", "watch:html"]);
 };
