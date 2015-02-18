@@ -27,3 +27,4 @@ Spis Treści
    slowa-niezapomniane/index
    wartosc-bezwzgledna/index
    ponad-murami/index
+   poczekalnia/index

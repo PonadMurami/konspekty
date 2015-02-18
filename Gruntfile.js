@@ -5,8 +5,18 @@ module.exports = function(grunt) {
 	grunt.loadNpmTasks("grunt-contrib-copy");
 	grunt.loadNpmTasks("grunt-mkdir");
 	grunt.loadNpmTasks("grunt-ftp-deploy");
+	grunt.loadNpmTasks("grunt-contrib-connect");
 	
 	grunt.initConfig({
+		connect: {
+			server: {
+				options: {
+					port: 8080,
+					base: "zbudowane/html",
+					keepalive: true
+				}
+			}
+		},
 		"ftp-deploy": {
 			build: {
 				auth: {
@@ -64,5 +74,6 @@ module.exports = function(grunt) {
 	
 	grunt.task.registerTask("make", ["mkdir", "shell:makeAll", "copy:main", "shell:makeMobi"]);
 	grunt.task.registerTask("deploy", ["ftp-deploy"]);
+	grunt.task.registerTask("server", ["connect"]);
 	grunt.registerTask("default", ["mkdir", "watch:html"]);
 };
