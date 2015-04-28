@@ -18,7 +18,7 @@ Jestem człowiekiem, który wie o~Chrystusie, wie o~Kerygmacie i~który wie nawe
 
     Jestem bowiem świadom, że we mnie, to jest w~moim ciele, nie mieszka dobro; bo łatwo przychodzi mi chcieć tego, co dobre, ale wykonać — nie. Nie czynię bowiem dobra, którego chcę, ale czynię to zło, którego nie chcę. Jeżeli zaś czynię to, czego nie chcę, już nie ja to czynię, ale grzech, który we mnie mieszka. A zatem stwierdzam w~sobie to prawo, że gdy chcę czynić dobro, narzuca mi się zło. Albowiem wewnętrzny człowiek we mnie ma upodobanie zgodne z~Prawem Bożym. W członkach zaś moich spostrzegam prawo inne, które toczy walkę z~prawem mojego umysłu i~podbija mnie w~niewolę pod prawo grzechu mieszkającego w~moich członkach. Nieszczęsny ja człowiek! Któż mnie wyzwoli z~ciała, co wiedzie ku tej śmierci? Dzięki niech będą Bogu przez Jezusa Chrystusa, Pana naszego! Tak więc umysłem służę Prawu Bożemu, ciałem zaś — prawu grzechu.
 
-    -- Rz 7, 18–25
+    -- Rz 7,18–25
 
 Tak - jestem człowiekiem cielesnym. Nie patrzę jak buntownik na słowa wiary, raczej jest we mnie smutek, że “nie dorastam” do ich wymagań. **Jest we mnie tęsknota za życiem, które byłoby Pełne**. Czy walczyłem o~takie? Już niejeden raz - prędzej czy później jest taki dzień jak dzisiaj - siadam i~zastanawiam się dlaczego inni potrafią, a~ja nie.
 
@@ -38,7 +38,7 @@ Przeczytałem ostatnio taki fragment:
 
     Znam twoje czyny, że ani zimny, ani gorący nie jesteś. Obyś był zimny albo gorący! A tak, skoro jesteś letni i~ani gorący, ani zimny, chcę cię wyrzucić z~mych ust. Ty bowiem mówisz: "Jestem bogaty", i~"wzbogaciłem się", i~"niczego mi nie potrzeba", a~nie wiesz, że to ty jesteś nieszczęsny i~godzien litości, i~biedny i~ślepy, i~nagi. Radzę ci kupić u mnie złota w~ogniu oczyszczonego, abyś się wzbogacił, i~białe szaty, abyś się oblókł, a~nie ujawniła się haniebna twa nagość, i~balsamu do namaszczenia twych oczu, byś widział.
 
-    -- Ap 3, 15-18
+    -- Ap 3,15-18
 
 Nie potrafię przestać o~tym myśleć. To słowo nie skierowane do jednego człowieka, ale do całej wspólnoty. Dlaczego Bóg woli, abym raczej był zimny niż letni? Czy bycie gorącym naprawdę dostępne jest dla wszystkich? Usłyszałem dzisiaj od kilku osób (o których wiem, że poświęcili bardzo dużą część swojego życia tylko dla jednej sprawy), że mieli takie same wątpliwości jak ja. Niektórzy z~nich mają je nadal - w~życiu bym tego nie podejrzewał. **Mówili o~ich odczuciu, że to nie ich siłami dokonują się rzeczy**. Mówili o~**odwadze do radykalnego przemienienia życia**. Mówili jak ludzie, którzy odkryli swoje miejsce. Usłyszałem z~ich ust pytanie o~to, co ja chcę swoim życiem zmienić. Dziwnie się poczułem - zawsze na rekolekcjach pytali mnie o~to, co chcę zmienić w~swoim życiu, a~teraz nie koncentrujemy się na mnie, tylko na świecie. Tych ludzi napędza jakaś idea. Mówią o~służbie drugim, o~odnajdywaniu w~tym siebie. **Co mnie napędza?** Czy jestem gotowy poświęcić temu większość swojego czasu? Ktoś mówiąc o~ludziach w~Kościele postawił takie pytanie: “Sympatycy czy chrześcijanie?”. **Ta sprawa stała się dla mnie jasna - zdecydowanie nie chcę być sympatykiem.**
 
@@ -54,7 +54,7 @@ Przeczytałem dzisiaj:
 
     Łaskawość Twoja, Panie, dosięga nieba, a~Twoja wierność samych obłoków
 
-    -- Ps 36, 6
+    -- Ps 36,6
 
 Droga do bycia gorącym, do radykalnego chrześcijaństwa nie ma wiele wspólnego z~błyskiem zapałki. Kluczem jest wierność. Bóg jest wierny swoim obietnicom i~łaskawy. Za chwilę idę na modlitwę wieczorną, na której mam prosić Go o~pomoc. **Bóg nie jest Wielkim Egzaminatorem, który chce sprawdzić moje umiejętności w~zachowywaniu Jego Prawa, ale chce mi pomóc jak tylko potrafi i~czeka na moją otwartość**.
 
@@ -72,7 +72,7 @@ Od samego początku dzisiejszego dnia słyszę o~drodze, o~początku. To droga, 
 
     Błogosławiony mąż, który wytrwa w~pokusie, gdy bowiem zostanie poddany próbie, otrzyma wieniec życia, obiecany przez Pana tym, którzy Go miłują.
 
-    -- Jk 1, 12
+    -- Jk 1,12
 
 Kościół jest miejscem, w~którym zawsze i~wszędzie mogę szukać wsparcia, gdy będę tracić motywację. Bóg zaś jest gwarantem, że to co przede mną nie będzie przerastało moich sił, jeśli będę wierny.
 

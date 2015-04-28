@@ -102,7 +102,7 @@ Pragnienia człowiek posiada, bo jesteśmy stworzeni na obraz Boży, który prag
    | Raduj się w~Panu, a~On spełni pragnienia twego serca.
    | **Powierz Panu swoją drogę** i~zaufaj Mu: **On sam będzie działał**.
 
-   -- Ps 37, 4-5
+   -- Ps 37,4-5
 
 Aby Bóg działał trzeba najpierw mu powierzyć swoją drogę. Bardzo często pytamy o~to w~Kościele w~sposób ogólny – czy oddałeś swoje życie Jezusowi itp. Dzisiaj w~kontekście tych rekolekcji chcemy zapytać bardzo precyzyjnie:
 

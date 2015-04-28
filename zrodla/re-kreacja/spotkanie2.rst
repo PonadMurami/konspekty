@@ -89,7 +89,7 @@ Bóg-Twórca człowieka:
    | dni określone zostały,
    | chociaż żaden z~nich [jeszcze] nie nastał.
 
-   -- Ps 139, 1- 4.13- 16
+   -- Ps 139,1-4.13-16
 
 Pan Bóg jest tym, który mnie stworzył. Jako Twórca wie najlepiej, czym/kim jest Jego dzieło. To On także ma propozycję dla mojego życia (którą mogę przyjąć bądź odrzucić), która zawiera to, co najlepsze dla Jego wyjątkowego stworzenia.
 
@@ -101,7 +101,7 @@ Waga imienia:
    | a~na kamyku wypisane imię nowe,
    | którego nikt nie zna oprócz tego, kto [je] otrzymuje.
 
-   -- Ap 2, 17
+   -- Ap 2,17
 
 Bóg jest również tym, który zna mnie najlepiej i~który (uwaga!) ma dla mnie imię - wyjątkowe, przeznaczone tylko dla mnie.
 
@@ -129,7 +129,7 @@ Kreatywność w~realizacji mile widziana ;). Bardzo ważne jest tłumaczenie sfo
 
    Już was nie nazywam sługami, bo sługa nie wie, co czyni pan jego, ale nazwałem was przyjaciółmi, albowiem oznajmiłem wam wszystko, co usłyszałem od Ojca mego.
 
-   -- J 15, 15
+   -- J 15,15
 
    | Umiłowani, obecnie jesteśmy dziećmi Bożymi,
    | ale jeszcze się nie ujawniło,
@@ -142,19 +142,19 @@ Kreatywność w~realizacji mile widziana ;). Bardzo ważne jest tłumaczenie sfo
 
    Jako więc wybrańcy Boży - święci i~umiłowani - obleczcie się w~serdeczne miłosierdzie, dobroć, pokorę, cichość, cierpliwość, znosząc jedni drugich i~wybaczając sobie nawzajem, jeśliby miał ktoś zarzut przeciw drugiemu: jak Pan wybaczył wam, tak i~wy!
 
-   -- Kol 3, 12- 13
+   -- Kol 3,12-13
 
    Albowiem wszyscy ci, których prowadzi Duch Boży, są synami Bożymi. Nie otrzymaliście przecież ducha niewoli, by się znowu pogrążyć w~bojaźni, ale otrzymaliście ducha przybrania za synów, w~którym możemy wołać: «Abba, Ojcze!»
 
-   -- Rz 8, 14-15
+   -- Rz 8,14-15
 
    Sam Duch wspiera swym świadectwem naszego ducha, że jesteśmy dziećmi Bożymi. Jeżeli zaś jesteśmy dziećmi, to i~dziedzicami: dziedzicami Boga, a~współdziedzicami Chrystusa, skoro wspólnie z~Nim cierpimy po to, by też wspólnie mieć udział w~chwale.
 
-   -- Rz 8, 16-17
+   -- Rz 8,16-17
 
    A~wreszcie rzekł Bóg: «Uczyńmy człowieka na Nasz obraz, podobnego Nam. Niech panuje nad rybami morskimi, nad ptactwem powietrznym, nad bydłem, nad ziemią i~nad wszystkimi zwierzętami pełzającymi po ziemi!» Stworzył więc Bóg człowieka na swój obraz, na obraz Boży go stworzył: stworzył mężczyznę i~niewiastę.
 
-   -- Rdz 1, 26-27
+   -- Rdz 1,26-27
 
 Zapytajmy:
 
@@ -187,8 +187,8 @@ Parę słów z~KKK o~wadze imienia- dla własnego animatorskiego użytku i~rozwo
 
    203 Bóg objawił się Izraelowi, swemu ludowi, pozwalając mu poznać swoje imię. Imię wyraża istotę, tożsamość osoby i~sens jej życia. Bóg ma imię; nie jest jakąś anonimową siłą. Ujawnić swoje imię oznacza pozwolić, by inni mogli nas poznać, w~jakiś sposób ujawnić siebie, stając się dostępnym, możliwym do głębszego poznania i~do bycia wzywanym po imieniu.
    204 Bóg objawiał się swemu ludowi stopniowo i~pod różnymi imionami, ale objawienie imienia Bożego dane Mojżeszowi w~teofanii płonącego krzewu, na początku Wyjścia z~Egiptu i~Przymierza na Synaju, okazało się objawieniem podstawowym dla Starego i~Nowego Przymierza.
-   205 Bóg przywołuje Mojżesza z~krzewu, który płonął, ale się nie spalał. Bóg mówi do Mojżesza: "JESTEM Bogiem ojca twego, Bogiem Abrahama, Bogiem Izaaka i~Bogiem Jakuba" (Wj 3, 6). Bóg jest Bogiem ojców; Tym, który wzywał i~prowadził patriarchów w~ich wędrówkach. Jest Bogiem wiernym i~współczującym, który pamięta o~nich i~o swoich obietnicach; przychodzi, by wyzwolić ich potomków z~niewoli. Jest Bogiem, który ponad czasem i~przestrzenią może i~chce to urzeczywistnić oraz posłuży się swoją wszechmocą w~spełnieniu tego zamysłu. Mojżesz... rzekł Bogu: "Oto pójdę do Izraelitów i~powiem im: Bóg ojców naszych posłał mnie do was. Lecz gdy oni mnie zapytają, jakie jest Jego imię, to cóż im mam powiedzieć?" Odpowiedział Bóg Mojżeszowi: "JESTEM, KTÓRY JESTEM". I~dodał: "Tak powiesz synom Izraela: JESTEM posłał mnie do was... To jest imię moje na wieki i~to jest moje zawołanie na najdalsze pokolenia" (Wj 3, 13-15).
-   206 Objawiając swoje tajemnicze imię JAHWE (JHWH), "Ja Jestem Tym, Który Jest", "Ja Jestem Tym, Który Jestem" lub "Ja Jestem, Który Jestem", Bóg mówi, kim jest i~jakim imieniem należy Go wzywać. To imię Boże jest tajemnicze, tak jak Bóg jest tajemnicą. Jest ono imieniem objawionym, a~zarazemw pewnej mierze uchyleniem się od ujawnienia imienia, i~właśnie przez to wyraża ono najlepiej, kim jest Bóg, który nieskończenie przekracza to wszystko, co możemy zrozumieć lub powiedzieć o~Nim; jest On "Bogiem ukrytym" (Iz 45, 15). Jego imię jest niewymowne7, a~zarazem jest On Bogiem, który staje się bliski ludziom.
-   207 Objawiając swoje imię, Bóg objawia równocześnie swoją wierność, która nie ma ani początku, ani końca, obejmuje zarówno przeszłość ("Jestem Bogiem ojca twego", Wj 3, 6), jak i~przyszłość ("Ja będę z~tobą", Wj 3,12). Bóg, który objawia swoje imię jako "Ja Jestem", objawia się jako Bóg, który jestzawsze przy swoim ludzie, aby go zbawić.
-   208 Wobec przyciągającej i~tajemniczej obecności Boga człowiek odkrywa swoją małość. Wobec płonącego krzewu Mojżesz zdejmuje sandały i~zasłania twarz w~obliczu Świętości Bożej. Wobec chwały trzykroć świętego Boga Izajasz woła: "Biada mi! Jestem zgubiony! Wszak jestem mężem o~nieczystych wargach" (Iz 6, 5). Wobec Boskich znaków, które wypełnia Jezus, Piotr mówi: "Odejdź ode mnie, Panie, bo jestem człowiek grzeszny" (Łk 5, 8). Ponieważ jednak Bóg jest święty, może przebaczyć człowiekowi, który uznaje przed Nim, że jest grzesznikiem: "Nie chcę, aby wybuchnął płomień mego gniewu... albowiem Bogiem jestem, nie człowiekiem; pośrodku ciebie jestem Ja – Święty" (Oz 11, 9). Podobnie powie Jan Apostoł: "Uspokoimy przed Nim nasze serce. A~jeśli nasze serce oskarża nas, to przecież Bóg jest większy od naszego serca i~zna wszystko" (1 J 3, 19-20).
+   205 Bóg przywołuje Mojżesza z~krzewu, który płonął, ale się nie spalał. Bóg mówi do Mojżesza: "JESTEM Bogiem ojca twego, Bogiem Abrahama, Bogiem Izaaka i~Bogiem Jakuba" (Wj 3,6). Bóg jest Bogiem ojców; Tym, który wzywał i~prowadził patriarchów w~ich wędrówkach. Jest Bogiem wiernym i~współczującym, który pamięta o~nich i~o swoich obietnicach; przychodzi, by wyzwolić ich potomków z~niewoli. Jest Bogiem, który ponad czasem i~przestrzenią może i~chce to urzeczywistnić oraz posłuży się swoją wszechmocą w~spełnieniu tego zamysłu. Mojżesz... rzekł Bogu: "Oto pójdę do Izraelitów i~powiem im: Bóg ojców naszych posłał mnie do was. Lecz gdy oni mnie zapytają, jakie jest Jego imię, to cóż im mam powiedzieć?" Odpowiedział Bóg Mojżeszowi: "JESTEM, KTÓRY JESTEM". I~dodał: "Tak powiesz synom Izraela: JESTEM posłał mnie do was... To jest imię moje na wieki i~to jest moje zawołanie na najdalsze pokolenia" (Wj 3,13-15).
+   206 Objawiając swoje tajemnicze imię JAHWE (JHWH), "Ja Jestem Tym, Który Jest", "Ja Jestem Tym, Który Jestem" lub "Ja Jestem, Który Jestem", Bóg mówi, kim jest i~jakim imieniem należy Go wzywać. To imię Boże jest tajemnicze, tak jak Bóg jest tajemnicą. Jest ono imieniem objawionym, a~zarazemw pewnej mierze uchyleniem się od ujawnienia imienia, i~właśnie przez to wyraża ono najlepiej, kim jest Bóg, który nieskończenie przekracza to wszystko, co możemy zrozumieć lub powiedzieć o~Nim; jest On "Bogiem ukrytym" (Iz 45,15). Jego imię jest niewymowne7, a~zarazem jest On Bogiem, który staje się bliski ludziom.
+   207 Objawiając swoje imię, Bóg objawia równocześnie swoją wierność, która nie ma ani początku, ani końca, obejmuje zarówno przeszłość ("Jestem Bogiem ojca twego", Wj 3,6), jak i~przyszłość ("Ja będę z~tobą", Wj 3,12). Bóg, który objawia swoje imię jako "Ja Jestem", objawia się jako Bóg, który jestzawsze przy swoim ludzie, aby go zbawić.
+   208 Wobec przyciągającej i~tajemniczej obecności Boga człowiek odkrywa swoją małość. Wobec płonącego krzewu Mojżesz zdejmuje sandały i~zasłania twarz w~obliczu Świętości Bożej. Wobec chwały trzykroć świętego Boga Izajasz woła: "Biada mi! Jestem zgubiony! Wszak jestem mężem o~nieczystych wargach" (Iz 6,5). Wobec Boskich znaków, które wypełnia Jezus, Piotr mówi: "Odejdź ode mnie, Panie, bo jestem człowiek grzeszny" (Łk 5,8). Ponieważ jednak Bóg jest święty, może przebaczyć człowiekowi, który uznaje przed Nim, że jest grzesznikiem: "Nie chcę, aby wybuchnął płomień mego gniewu... albowiem Bogiem jestem, nie człowiekiem; pośrodku ciebie jestem Ja – Święty" (Oz 11,9). Podobnie powie Jan Apostoł: "Uspokoimy przed Nim nasze serce. A~jeśli nasze serce oskarża nas, to przecież Bóg jest większy od naszego serca i~zna wszystko" (1 J 3,19-20).
    209 Przez szacunek dla świętości Boga naród izraelski nie wypowiada imienia Boga. W~czasie czytania Pisma świętego imię objawione jest zastępowaneBoskim tytułem "Pan" (Adonai, po grecku Kyrios). Ten tytuł będzie wyrażał także Boskość Jezusa: "Jezus jest Panem".

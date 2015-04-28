@@ -172,7 +172,7 @@ Przeczytajmy:
 
    Biorę dziś przeciwko wam na świadków niebo i~ziemię, kładąc przed wami życie i~śmierć, błogosławieństwo i~przekleństwo. Wybierajcie więc życie, abyście żyli wy i~wasze potomstwo
 
-   -- Pwt 30, 19
+   -- Pwt 30,19
 
 * O~jakim życiu mowa? - czy mamy interpretować to dokładnie?
 

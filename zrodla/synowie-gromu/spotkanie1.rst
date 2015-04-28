@@ -107,7 +107,7 @@ Przeczytajmy:
 
     Jestem bowiem świadom, że we mnie, to jest w~moim ciele, nie mieszka dobro; bo łatwo przychodzi mi chcieć tego, co dobre, ale wykonać — nie. Nie czynię bowiem dobra, którego chcę, ale czynię to zło, którego nie chcę. Jeżeli zaś czynię to, czego nie chcę, już nie ja to czynię, ale grzech, który we mnie mieszka. A zatem stwierdzam w~sobie to prawo, że gdy chcę czynić dobro, narzuca mi się zło. Albowiem wewnętrzny człowiek we mnie ma upodobanie zgodne z~Prawem Bożym. W~ członkach zaś moich spostrzegam prawo inne, które toczy walkę z~prawem mojego umysłu i~podbija mnie w~niewolę pod prawo grzechu mieszkającego w~moich członkach. Nieszczęsny ja człowiek! Któż mnie wyzwoli z~ciała, co wiedzie ku tej śmierci? Dzięki niech będą Bogu przez Jezusa Chrystusa, Pana naszego! Tak więc umysłem służę Prawu Bożemu, ciałem zaś — prawu grzechu.
 
-    -- Rz 7, 18–25
+    -- Rz 7,18–25
 
 * Który wers tego fragment jest Ci najbliższy? Dlaczego?
 
@@ -143,7 +143,7 @@ Przeczytajmy:
 
     Ciągle przecież jeszcze jesteście cieleśni. Jeżeli bowiem jest między wami zawiść i~niezgoda, to czyż nie jesteście cieleśni i~nie postępujecie tylko po ludzku? Skoro jeden mówi: "Ja jestem Pawła", a~drugi: "Ja jestem Apollosa", to czyż nie postępujecie tylko po ludzku?
 
-    -- 1 Kor 3, 3-4
+    -- 1 Kor 3,3-4
 
 * Za co św. Paweł gani Koryntian?
 

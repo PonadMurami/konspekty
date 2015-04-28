@@ -92,7 +92,7 @@ Przeczytajmy:
 
    Wchodźcie przez ciasną bramę! Bo szeroka jest brama i~przestronna ta droga, która prowadzi do zguby, a~wielu jest takich, którzy przez nią wchodzą. Jakże ciasna jest brama i~wąska droga, która prowadzi do życia, a~mało jest takich, którzy ją znajdują!
 
-   -- Mt 7, 13-14
+   -- Mt 7,13-14
 
 * Czym może być w~moim życiu "ciasna brama"?
 
@@ -162,7 +162,7 @@ Przeczytajmy:
 
    Wy jesteście solą dla ziemi. Lecz jeśli sól utraci swój smak, czymże ją posolić? Na nic się już nie przyda, chyba na wyrzucenie i~podeptanie przez ludzi. Wy jesteście światłem świata. Nie może się ukryć miasto położone na górze. Nie zapala się też światła i~nie stawia pod korcem, ale na świeczniku, aby świeciło wszystkim, którzy są w~domu. Tak niech świeci wasze światło przed ludźmi, aby widzieli wasze dobre uczynki i~chwalili Ojca waszego, który jest w~niebie.
 
-   -- Mt 5, 13-16
+   -- Mt 5,13-16
 
 * Czym jest dla mnie "życiowa autentyczność"?
 

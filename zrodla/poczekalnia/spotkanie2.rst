@@ -223,7 +223,7 @@ Przeczytajmy fragment:
 
     Po sześciu dniach Jezus wziął z sobą Piotra, Jakuba i brata jego Jana i zaprowadził ich na górę wysoką, osobno. Tam przemienił się wobec nich: twarz Jego zajaśniała jak słońce, odzienie zaś stało się białe jak światło. A oto im się ukazali Mojżesz i Eliasz, którzy rozmawiali z Nim. Wtedy Piotr rzekł do Jezusa: «Panie, dobrze, że tu jesteśmy; jeśli chcesz, postawię tu trzy namioty: jeden dla Ciebie, jeden dla Mojżesza i jeden dla Eliasza». Gdy on jeszcze mówił, oto obłok świetlany osłonił ich, a z obłoku odezwał się głos: «To jest mój Syn umiłowany, w którym mam upodobanie, Jego słuchajcie!» Uczniowie, słysząc to, upadli na twarz i bardzo się zlękli. A Jezus zbliżył się do nich, dotknął ich i rzekł: «Wstańcie, nie lękajcie się!» wtedy podnieśli oczy, nikogo nie widzieli, tylko samego Jezusa.
 
-    -- Mt 17, 1-8
+    -- Mt 17,1-8
 
 To opis górnej części obrazu - opis przemienienia Pańskiego. Zazwyczaj czytając go koncentrujemy się na nadzwyczajnych wydarzeniach, jakie miały tam miejsce - spójrzmy jednak dzisiaj trochę inaczej.
 
@@ -237,7 +237,7 @@ Jezus “nie przejmuje się” tym, że uczniowie będą czekali. Jednak co się
 
     Gdy przyszli do tłumu, podszedł do Niego pewien człowiek i padając przed Nim na kolana, prosił: «Panie, zlituj się nad moim synem! Jest epileptykiem i bardzo cierpi; bo często wpada w ogień, a często w wodę. Przyprowadziłem go do Twoich uczniów, lecz nie mogli go uzdrowić». Na to Jezus odrzekł: «O plemię niewierne i przewrotne! Jak długo jeszcze mam być z wami; jak długo mam was cierpieć? Przyprowadźcie Mi go tutaj!» Jezus rozkazał mu surowo, i zły duch opuścił go. Od owej pory chłopiec odzyskał zdrowie. Wtedy uczniowie zbliżyli się do Jezusa na osobności i pytali: «Dlaczego my nie mogliśmy go wypędzić?» On zaś im rzekł: «Z powodu małej wiary waszej. Bo zaprawdę, powiadam wam: Jeśli będziecie mieć wiarę jak ziarnko gorczycy, powiecie tej górze: "Przesuń się stąd tam!", a przesunie się. I nic niemożliwego nie będzie dla was. <Ten zaś rodzaj złych duchów wyrzuca się tylko modlitwą i postem>».
 
-    --  Mt 17, 14-21
+    --  Mt 17,14-21
 
 * Na podstawie opisu i obrazu powiedz, czy apostołowie zwlekali z działaniem, czy odważnie zdecydowali?
 

@@ -202,7 +202,7 @@ Przeczytać:
 
    Polecenie to bowiem, które ja ci dzisiaj daję, nie przekracza twych możliwości i~nie jest poza twoim zasięgiem. Nie jest w~niebiosach, by można było powiedzieć: Któż dla nas wstąpi do nieba i~przyniesie je nam, a~będziemy słuchać i~wypełnimy je. I~nie jest za morzem, aby można było powiedzieć: Któż dla nas uda się za morze i~przyniesie je nam, a~będziemy słuchać i~wypełnimy je. Słowo to bowiem jest bardzo blisko ciebie: w~twych ustach i~w twoim sercu, byś je mógł wypełnić
 
-   -- Pwt 30, 11–14
+   -- Pwt 30,11–14
 
 Aby wypełnić wolę Boga (pełnia szczęścia) nie musimy szukać "nie wiadomo gdzie". Wszystko jest nam dane i~jest bliżej nas niż byśmy myśleli! Jest dosłownie w~nas.
 

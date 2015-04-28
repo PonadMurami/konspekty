@@ -55,7 +55,7 @@ Słyszeliśmy wczoraj w~jednym z~czytań na celebracji o~Ezechielu, który proro
 
    Potem spoczęła na mnie ręka Pana, i~wyprowadził mnie On w~duchu na zewnątrz, i~postawił mnie pośród doliny. Była ona pełna kości. I~polecił mi, abym przeszedł dokoła nich, i~oto było ich na obszarze doliny bardzo wiele. Były one zupełnie wyschłe. I~rzekł do mnie: «Synu człowieczy, czy kości te powrócą znowu do życia?» Odpowiedziałem: «Panie Boże, Ty to wiesz». Wtedy rzekł On do mnie: «Prorokuj nad tymi kośćmi i~mów do nich: "Wyschłe kości, słuchajcie słowa Pana!" Tak mówi Pan Bóg: Oto Ja wam daję ducha1 po to, abyście się stały żywe. Chcę was otoczyć ścięgnami i~sprawić, byście obrosły ciałem, i~przybrać was w~skórę, i~dać wam ducha po to, abyście ożyły i~poznały, że Ja jestem Pan». I~prorokowałem, jak mi było polecone, a~gdym prorokował, oto powstał szum i~trzask, i~kości jedna po drugiej zbliżały się do siebie. I~patrzyłem, a~oto powróciły ścięgna i~wyrosło ciało, a~skóra pokryła je z~wierzchu, ale jeszcze nie było w~nich ducha. I~powiedział On do mnie: «Prorokuj do ducha, prorokuj, o~synu człowieczy, i~mów do ducha: Tak powiada Pan Bóg: Z~czterech wiatrów przybądź, duchu, i~powiej po tych pobitych, aby ożyli».  Wtedy prorokowałem tak, jak mi nakazał, i~duch wstąpił w~nich, a~ożyli i~stanęli na nogach - wojsko bardzo, bardzo wielkie2. I~rzekł do mnie: «Synu człowieczy, kości te to cały dom Izraela. Oto mówią oni: "Wyschły kości nasze, minęła nadzieja nasza, już po nas". Dlatego prorokuj i~mów do nich: Tak mówi Pan Bóg: Oto otwieram wasze groby i~wydobywam was z~grobów, ludu mój, i~wiodę was do kraju Izraela, i~poznacie, że Ja jestem Pan, gdy wasze groby otworzę i~z grobów was wydobędę, ludu mój. Udzielę wam mego ducha po to, byście ożyli, i~powiodę was do kraju waszego, i~poznacie, że Ja, Pan, to powiedziałem i~wykonam» - wyrocznia Pana Boga.
 
-   -- Ez 37, 1- 14.
+   -- Ez 37,1-14
 
 Słowo Boga ożywia. Wyprowadza z~grobów. Pokonuje śmierć. Jest Życiem. Słowo Boga to On sam, który działa.
 
@@ -90,7 +90,7 @@ Bóg daje nam narzędzie, którym mamy walczyć:
 
    W~końcu bądźcie mocni w~Panu - siłą Jego potęgi. Obleczcie pełną zbroję Bożą, byście mogli się ostać wobec podstępnych zakusów diabła. Nie toczymy bowiem walki przeciw krwi i~ciału, lecz przeciw Zwierzchnościom, przeciw Władzom, przeciw rządcom świata tych ciemności, przeciw pierwiastkom duchowym zła na wyżynach niebieskich. Dlatego weźcie na siebie pełną zbroję Bożą, abyście w~dzień zły zdołali się przeciwstawić i~ostać, zwalczywszy wszystko. Stańcie więc [do walki] przepasawszy biodra wasze prawdą i~oblókłszy pancerz, którym jest sprawiedliwość, a~obuwszy nogi w~gotowość [głoszenia] dobrej nowiny o~pokoju. W~każdym położeniu bierzcie wiarę jako tarczę, dzięki której zdołacie zgasić wszystkie rozżarzone pociski Złego. Weźcie też hełm zbawienia i~miecz Ducha, to jest słowo Boże -  wśród wszelakiej modlitwy i~błagania. Przy każdej sposobności módlcie się w~Duchu! Nad tym właśnie czuwajcie z~całą usilnością i~proście za wszystkich świętych i~za mnie, aby dane mi było słowo, gdy usta moje otworzę, dla jawnego i~swobodnego głoszenia tajemnicy Ewangelii, dla której sprawuję poselstwo jako więzień, ażebym jawnie ją wypowiedział, tak jak winienem.
 
-   -- Ef 6, 10-20
+   -- Ef 6,10-20
 
 * Jakie funkcje pełni Słowo Boga w~tym fragmencie? Czemu ma służyć?
 
@@ -110,7 +110,7 @@ Drugą sprawą walki ze słowem jest wcielanie go w~życie. Tak, aby było ono r
 
    Wiedzcie, bracia moi umiłowani: każdy człowiek winien być chętny do słuchania, nieskory do mówienia, nieskory do gniewu. Gniew bowiem męża nie wykonuje sprawiedliwości Bożej. Odrzućcie przeto wszystko, co nieczyste, oraz cały bezmiar zła, a~przyjmijcie w~duchu łagodności zaszczepione w~was słowo, które ma moc zbawić dusze wasze. Wprowadzajcie zaś słowo w~czyn, a~nie bądźcie tylko słuchaczami oszukującymi samych siebie. Jeżeli bowiem ktoś przysłuchuje się tylko słowu, a~nie wypełnia go, podobny jest do człowieka oglądającego w~lustrze swe naturalne odbicie. Bo przyjrzał się sobie, odszedł i~zaraz zapomniał, jakim był. Kto zaś pilnie rozważa doskonałe Prawo, Prawo wolności, i~wytrwa w~nim, ten nie jest słuchaczem skłonnym do zapominania, ale wykonawcą dzieła; wypełniając je, otrzyma błogosławieństwo
 
-   -- Jk 1, 19-25
+   -- Jk 1,19-25
 
 =========================================
 Zastosowanie

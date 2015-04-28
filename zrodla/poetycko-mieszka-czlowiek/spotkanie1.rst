@@ -96,7 +96,7 @@ Przeczytajmy
 
    Z~całą pilnością strzeż swego serca, bo życie ma tam swoje źródło.
 
-   -- Prz 4, 23
+   -- Prz 4,23
 
 Przypis mówi, że : Wobec nieznajomości nagrody i~kary po śmierci, pomyślność oceniano jako główną zapłatę za dobre życie.
 

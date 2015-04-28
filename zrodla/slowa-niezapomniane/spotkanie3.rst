@@ -77,7 +77,7 @@ Przeczytajmy:
    | chwałę, jaką Jednorodzony otrzymuje od Ojca,
    | pełen łaski i~prawdy.
 
-   -- J 1, 1-14
+   -- J 1,1-14
 
 W Ewangelii Janowej użyte jest greckie logos (λoγοσ) oznaczające słowo. Jest to słowo pochodzące od stoików i~nie jest łatwo je przetłumaczyć na język polski. Posiada trzy znaczenia:
 
@@ -159,9 +159,9 @@ Tekst można wybrać dowolnie, ja proponuję:
    | I~będzie to Panu na chwałę,
    | jako znak wieczysty, niezniszczalny!
 
-   -- Iz 55, 10-13
+   -- Iz 55,10-13
 
-Po wykonaniu tego zadania (10minut) animator zadaje pytanie:
+Po wykonaniu tego zadania (10 minut) animator zadaje pytanie:
 
 * Przed chwilą próbowałem sam odnaleźć swoją szczególną więź z~tym słowem. Jak się czułem? Czy było to łatwe? Co było w~tym trudnego?
 
@@ -242,7 +242,7 @@ Przeczytajmy:
 
    Żywe bowiem jest słowo Boże, skuteczne i~ostrzejsze niż wszelki miecz obosieczny, przenikające aż do rozdzielenia duszy i~ducha, stawów i~szpiku, zdolne osądzić pragnienia i~myśli serca. Nie ma stworzenia, które by było przed Nim niewidzialne, przeciwnie, wszystko odkryte i~odsłonięte jest przed oczami Tego, któremu musimy zdać rachunek.
 
-   -- Hbr 4, 12-13
+   -- Hbr 4,12-13
 
 * Co to znaczy dla mnie, że Słowo Boże jest żywe i~skuteczne?
 
@@ -280,7 +280,7 @@ Przeczytajmy:
 
    Początek Ewangelii o~Jezusie Chrystusie, Synu Bożym. Jak jest napisane u~proroka Izajasza: Oto Ja posyłam anioła mego przed Tobą; on przygotuje drogę Twoją. Głos wołającego na pustyni: Przygotujcie drogę Panu, Dla Niego prostujcie ścieżki! Wystąpił Jan Chrzciciel na pustyni i~głosił chrzest nawrócenia na odpuszczenie grzechów. Ciągnęła do niego cała judzka kraina oraz wszyscy mieszkańcy Jerozolimy i~przyjmowali od niego chrzest w~rzece Jordan, wyznając [przy tym] swe grzechy. Jan nosił odzienie z~sierści wielbłądziej i~pas skórzany około bioder, a~żywił się szarańczą i~miodem leśnym. I~tak głosił: "Idzie za mną mocniejszy ode mnie, a~ja nie jestem godzien, aby się schylić i~rozwiązać rzemyk u~Jego sandałów. Ja chrzciłem was wodą, On zaś chrzcić was będzie Duchem Świętym". W~owym czasie przyszedł Jezus z~Nazaretu w~Galilei i~przyjął od Jana chrzest w~Jordanie. W~chwili gdy wychodził z~wody, ujrzał rozwierające się niebo i~Ducha jak gołębicę zstępującego na siebie. A~z~nieba odezwał się głos: "Tyś jest mój Syn umiłowany, w~Tobie mam upodobanie". Zaraz też Duch wyprowadził Go na pustynię. Czterdzieści dni przebył na pustyni, kuszony przez szatana. Żył tam wśród zwierząt, aniołowie zaś usługiwali Mu. Gdy Jan został uwięziony, Jezus przyszedł do Galilei i~głosił Ewangelię Bożą. Mówił: "Czas się wypełnił i~bliskie jest królestwo Boże. Nawracajcie się i~wierzcie w~Ewangelię!
 
-   -- MK 1, 1-15
+   -- MK 1,1-15
 
 * Co czytamy?
 
@@ -290,9 +290,9 @@ Czytamy prolog, czyli jakąś ważną część w~której autor przedstawia jaki�
 
 Łk 4,1-13 - długi opis. Szczegółowe scenariusze kuszeń. Samej scenie chrztu poświęcone niewiele uwagi
 
-Mt 3, 13 - 4,11 - długi opis. Podobnie jak u~Łk. Rozwinięty opis chrztu
+Mt 3,13 - 4,11 - długi opis. Podobnie jak u~Łk. Rozwinięty opis chrztu
 
-J 1, 31-33 - dziwnie krótki opis. Wspomniane jakby mimochodem.
+J 1,31-33 - dziwnie krótki opis. Wspomniane jakby mimochodem.
 
 Znamy zatem kontekst. Spróbujmy zastanowić się czy opis Marka ma jakąś strukturę.
 

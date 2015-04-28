@@ -135,7 +135,7 @@ Przeczytajmy:
 
    Podobnie jak jedno jest ciało, choć składa się z~wielu członków, a~wszystkie członki ciała, mimo iż są liczne, stanowią jedno ciało, tak też jest i~z Chrystusem. Wszyscyśmy bowiem w~jednym Duchu zostali ochrzczeni, [aby stanowić] jedno Ciało: czy to Żydzi, czy Grecy, czy to niewolnicy, czy wolni. Wszyscyśmy też zostali napojeni jednym Duchem. Ciało bowiem to nie jeden członek, lecz liczne [członki]. Jeśliby noga powiedziała: «Ponieważ nie jestem ręką, nie należę do ciała» - czy wskutek tego rzeczywiście nie należy do ciała? Lub jeśliby ucho powiedziało: Ponieważ nie jestem okiem, nie należę do ciała - czyż nie należałoby do ciała? Gdyby całe ciało było wzrokiem, gdzież byłby słuch? Lub gdyby całe było słuchem, gdzież byłoby powonienie? Lecz Bóg, tak jak chciał, stworzył [różne] członki umieszczając każdy z~nich w~ciele. Gdyby całość była jednym członkiem, gdzież byłoby ciało? Tymczasem zaś wprawdzie liczne są członki, ale jedno ciało. Nie może więc oko powiedzieć ręce: «Nie jesteś mi potrzebna», albo głowa nogom: «Nie potrzebuję was».
 
-   -- Kor 1 12,12-21
+   -- 1 Kor 12,12-21
 
 Taka jest wspólnota Kościoła. Jest złożona z~indywidualnych osób choć jest "jednym ciałem". Nie mamy być wszyscy tacy sami, nie mamy myśleć tego samego ani odczuwać tego samego. Jesteśmy jednak "jednym organizmem" więc mamy wspólny kierunek (jak przykład z~strzałką). Mamy być  *pojednaną różnorodnością* (różnorodnością w~jedności). To jest możliwe.
 

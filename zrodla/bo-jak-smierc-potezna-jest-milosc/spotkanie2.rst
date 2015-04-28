@@ -80,7 +80,7 @@ Można jeszcze powiedzieć, że Pnp jest też księga niezwykłą w~tradycji ży
 
    Po czym Pan Bóg z~żebra, które wyjął z~mężczyzny, zbudował niewiastę. A~gdy ją przyprowadził do mężczyzny, mężczyzna powiedział: «Ta dopiero jest kością z~moich kości i~ciałem z~mego ciała! Ta będzie się zwała niewiastą, bo ta z~mężczyzny została wzięta». Dlatego to mężczyzna opuszcza ojca swego i~matkę swoją i~łączy się ze swą żoną tak ściśle, że stają się jednym ciałem.
 
-   -- Rdz 2, 22-24
+   -- Rdz 2,22-24
 
 Zachwyt Adama nad kobietą jest tym samym zachwytem, który wypowiada oblubieniec w~Pnp. W~Rodz. na dodatek, to nie kobieta idzie zamieszkać z~mężem, ale mężczyzna udaje się do domu kobiety. W~pierwsze kulturach to kobiety właśnie pełniły dominujące role w~życiu społecznym i~intrygowały mężczyzn, pociągały, były dla nich tajemnicą. W~Pnp widzimy
 już zmianę tradycji jeśli chodzi o~miejsce mieszkania po ślubie, ale to kobieta nadal jest traktowana jako ukoronowanie stworzenia.

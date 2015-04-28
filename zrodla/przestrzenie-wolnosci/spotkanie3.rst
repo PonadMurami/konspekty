@@ -90,7 +90,7 @@ W Liście św. Pawła do Galatów czytamy:
 
    Wy zatem, bracia, po wołani zostaliście do wolności. Tylko nie bierzcie tej wolności jako zachęty do hołdowania ciału, wręcz przeciwnie, miłością ożywieni służcie sobie wzajemnie. Bo całe Prawo wypełnia się w~tym jednym nakazie: "Będziesz miłował bliźniego swego jak siebie samego."
 
-   -- Gal 5, 13-14
+   -- Gal 5,13-14
 
 * Czym zatem jest postawa "Bądź wola Twoja"?
 * Czy w~obliczu powołania do wolności możemy nadal powiedzieć, że pełnienie woli Bożej nie jest nam koniecznie potrzebne?

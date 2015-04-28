@@ -164,19 +164,19 @@ Przeczytajmy:
 
    Tak przyszli do Kafarnaum. Gdy był w~domu, zapytał ich: O~czym to rozprawialiście w~drodze? Lecz oni milczeli, w~drodze bowiem posprzeczali się między sobą o~to, kto z~nich jest największy. On usiadł, przywołał Dwunastu i~rzekł do nich: Jeśli kto chce być pierwszym, niech będzie ostatnim ze wszystkich i~sługą wszystkich!
 
-   -- Mk 9, 33-34
+   -- Mk 9,33-34
 
 Cała ta sytuacja wynikła z~tego, że "wyszła" z~apostołów chęć dominowania, bycia zauważonym czy też docenionym przez Jezusa, zyskania uznania też moze w~oczach innych apostołów. Zauważmy jakie to ludzkie, jakie to też nam bliskie - kto z~nas nie ma takich potrzeb, bycia pochwalonym, dostrzeżonym, bycia wyróżnionym spośród innych? Apostołowie byli zwykłymi ludźmi...i nieobce były im też konflikty tego rodzaju. Ale czytamy że "milczeli", wiedzieli że zachowali się głupio, niedojrzale, niemądrze i~Jezus też to wie pouczając ich później. Poznali swoją słabość i~zaprzestali kłótni.
 
    Gdy następnie Kefas przybył do Antiochii, otwarcie mu się sprzeciwiłem, bo na to zasłużył. Zanim jeszcze nadeszli niektórzy z~otoczenia Jakuba, brał udział w~posiłkach z~tymi, którzy pochodzili z~pogaństwa. Kiedy jednak oni się zjawili, począł się usuwać i~trzymać się z~dala, bojąc się tych, którzy pochodzili z~obrzezania. To jego nieszczere postępowanie podjęli też inni pochodzenia żydowskiego, tak że wciągnięto w~to udawanie nawet Barnabę. Gdy więc spostrzegłem, że nie idą słuszną drogą, zgodną z~prawdą Ewangelii, powiedziałem Kefasowi wobec wszystkich: Jeżeli ty, choć jesteś Żydem, żyjesz według obyczajów przyjętych wśród pogan, a~nie wśród Żydów, jak możesz zmuszać pogan do przyjmowania zwyczajów żydowskich? My jesteśmy Żydami z~urodzenia, a~nie pogrążonymi w~grzechach poganami.
 
-   -- Ga 2, 11-14
+   -- Ga 2,11-14
 
 Paweł ostro wypowiada się w~liście. Jest bardzo wkurzony na Piotra - na tego, który został przecież wybrany, wyróżniony z~grona dwunastu. Co mógł pomyśleć sobie Piotr - że oto ten, który dopiero niedawno się nawrócił będzie go pouczał? Jego, który znał osobiście Jezusa i~żeby tego było mało został wybrany przez niego na przewodnika Kościoła? O~nie! Ale...przyjął te zarzuty, okazało się że Paweł miał rację, na soborze przychylono się do jest stanowiska. Potrafił przyjąć krytykę.
 
    Po pewnym czasie powiedział Paweł do Barnaby: Wróćmy już i~zobaczmy, jak się mają bracia we wszystkich miastach, w~których głosiliśmy słowo Pańskie. Barnaba chciał również zabrać Jana, zwanego Markiem; ale Paweł prosił, aby nie zabierał z~sobą tego, który odszedł od nich w~Pamfilii i~nie brał udziału w~ich pracy. Doszło do ostrego starcia, tak że się rozdzielili: Barnaba zabrał Marka i~popłynął na Cypr, a~Paweł dobrał sobie za towarzysza Sylasa i~wyszedł, polecony przez braci łasce Pana.
 
-   -- Dz 15, 36-41
+   -- Dz 15,36-41
 
 Prozaiczny spór. Ale warto podkreślić tutaj jak Paweł i~Barnaba z~tego wybrnęli - czasem jest tak, że lepiej się rozejść, żeby nie zaogniać sytuacji. Był konflikt, "spór się zaostrzył" ale nie pozabijali się ze złości - znaleźli rozwiązanie.
 

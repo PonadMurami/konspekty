@@ -143,7 +143,7 @@ Często tym, co determinuje nasze działanie w~życiu (lub jego brak) jest lęk.
 
     Oto Ja was posyłam jak owce między wilki. Bądźcie więc roztropni jak węże, a~nieskazitelni jak gołębie! Miejcie się na baczności przed ludźmi! Będą was wydawać sądom i~w swych synagogach będą was biczować. Nawet przed namiestników i~królów będą was wodzić z~mego powodu, na świadectwo im i~poganom. Kiedy was wydadzą, nie martwcie się o~to, jak ani co macie mówić. W~owej bowiem godzinie będzie wam poddane, co macie mówić, gdyż nie wy będziecie mówili, lecz Duch Ojca waszego będzie mówił przez was. Brat wyda brata na śmierć i~ojciec syna; dzieci powstaną przeciw rodzicom i~o śmierć ich przyprawią. Będziecie w~nienawiści u~wszystkich z~powodu mego imienia. Lecz kto wytrwa do końca, ten będzie zbawiony. Gdy was prześladować będą w~tym mieście, uciekajcie do innego. Zaprawdę, powiadam wam: Nie zdążycie obejść miast Izraela, nim przyjdzie Syn Człowieczy.
 
-   -- Mt 10, 16-23
+   -- Mt 10,16-23
 
 .. note:: Pytania o~nasze lęki, obawy, o~to wszystko, co w~jakikolwiek sposób powstrzymuje nas przed działaniem są niezwykle ważne. Dzielenie się tym nie przychodzi łatwo, lecz zmierzenie się z~tymi trudnościami jest uwalniające i~oczyszczające.
 
@@ -191,13 +191,13 @@ Wykorzystywanie i~przekazywanie darów, które otrzymujemy, to nie jest dla nas 
 
    Strzeżcie się fałszywych proroków, którzy przychodzą do was w~owczej skórze, a~wewnątrz są drapieżnymi wilkami. Poznacie ich po ich owocach. Czy zbiera się winogrona z~ciernia, albo z~ostu figi? Tak każde dobre drzewo wydaje dobre owoce, a~złe drzewo wydaje złe owoce. Nie może dobre drzewo wydać złych owoców ani złe drzewo wydać dobrych owoców. Każde drzewo, które nie wydaje dobrego owocu, będzie wycięte i~w ogień wrzucone. A~więc: poznacie ich po ich owocach.
 
-   -- Mt 7, 15-20
+   -- Mt 7,15-20
 
 Spójrzmy na postać Jana Chrzciciela - osobę, która jest jedną z~tych, które najpełniej poznały i~zrealizowały istotę przekazywania łaski, które w~centrum wszelkiego swojego działania stawiały realizację Bożego posłania, przyprowadzały uczniów do Jezusa i~na tym ich rola się kończyła:
 
    Nazajutrz Jan znowu stał w~tym miejscu wraz z~dwoma swoimi uczniami i~gdy zobaczył przechodzącego Jezusa, rzekł: «Oto Baranek Boży». Dwaj uczniowie usłyszeli, jak mówił, i~poszli za Jezusem. Jezus zaś odwróciwszy się i~ujrzawszy, że oni idą za Nim, rzekł do nich: «Czego szukacie?» Oni powiedzieli do Niego: «Rabbi! - to znaczy: Nauczycielu - gdzie mieszkasz?» Odpowiedział im: «Chodźcie, a~zobaczycie». Poszli więc i~zobaczyli, gdzie mieszka, i~tego dnia pozostali u~Niego. Było to około godziny dziesiątej. Jednym z~dwóch, którzy to usłyszeli od Jana i~poszli za Nim, był Andrzej, brat Szymona Piotra. Ten spotkał najpierw swego brata i~rzekł do niego: «Znaleźliśmy Mesjasza» - to znaczy: Chrystusa. I~przyprowadził go do Jezusa. A~Jezus wejrzawszy na niego rzekł: «Ty jesteś Szymon, syn Jana, ty będziesz nazywał się Kefas» - to znaczy: Piotr.
 
-   -- J 1, 35-42
+   -- J 1,35-42
 
 * Jakie są zależności pomiędzy osobami występującymi w~tym fragmencie Ewangelii?
 

@@ -23,7 +23,7 @@ Przeczytajmy:
 
     Następnie wyruszyli z~Elim. Przybyło zaś całe zgromadzenie Izraelitów na pustynię Sin, położoną między Elim a~Synajem, piętnastego dnia drugiego miesiąca od ich wyjścia z~ziemi egipskiej. I~zaczęło szemrać na pustyni całe zgromadzenie Izraelitów przeciw Mojżeszowi i~przeciw Aaronowi. Izraelici mówili im: «Obyśmy pomarli z~ręki Pana w~ziemi egipskiej, gdzieśmy zasiadali przed garnkami mięsa i~jadali chleb do sytości! Wyprowadziliście nas na tę pustynię, aby głodem umorzyć całą tę rzeszę». Pan powiedział wówczas do Mojżesza: «Oto ześlę wam chleb z~nieba, na kształt deszczu. I~będzie wychodził lud, i~każdego dnia będzie zbierał według potrzeby dziennej. Chcę ich także doświadczyć, czy pójdą za moimi rozkazami czy też nie. Lecz w~dniu szóstym zrobią zapas tego, co przyniosą, a~będzie to podwójna ilość tego, co będą zbierać codziennie». Mojżesz i~Aaron powiedzieli do społeczności Izraelitów: «Tego wieczora ujrzycie, że to Pan wyprowadził was z~ziemi egipskiej. A~rano ujrzycie chwałę Pana, gdyż usłyszał On, że szemrzecie przeciw Panu. Czymże my jesteśmy, że szemrzecie przeciw nam?» Mojżesz powiedział: «Wieczorem Pan da wam mięso do jedzenia, a~rano chleb do sytości, bo słyszał Pan szemranie wasze przeciw Niemu. Czymże bowiem my jesteśmy? Nie szemraliście przeciwko nam, ale przeciw Panu!» Mojżesz rzekł do Aarona: «Powiedz całemu zgromadzeniu Izraelitów: Zbliżcie się do Pana, gdyż słyszał wasze szemrania». W~czasie przemowy Aarona do całego zgromadzenia Izraelitów spojrzeli ku pustyni i~ukazała się im w~obłoku chwała Pana. I~przemówił Pan do Mojżesza tymi słowami: «Słyszałem szemranie Izraelitów. Powiedz im tak: O~zmierzchu będziecie jeść mięso, a~rano nasycicie się chlebem. Poznacie wtedy, że Ja, Pan, jestem waszym Bogiem». Rzeczywiście wieczorem przyleciały przepiórki i~pokryły obóz, a~nazajutrz rano warstwa rosy leżała dokoła obozu. Gdy się warstwa rosy uniosła ku górze, wówczas na pustyni leżało coś drobnego, ziarnistego, niby szron na ziemi. Na widok tego Izraelici pytali się wzajemnie: «Co to jest?» - gdyż nie wiedzieli, co to było. Wtedy powiedział do nich Mojżesz: «To jest chleb, który daje wam Pan na pokarm.  To zaś nakazał wam Pan: Każdy z~was zbierze dla siebie według swej potrzeby, omer na głowę. Każdy z~was przyniesie według liczby osób, które należą do jego namiotu». Izraelici uczynili tak i~zebrali jedni dużo, drudzy mało. Gdy mierzyli swój zbiór omerem, to ten, który zebrał wiele, nie miał nic zbywającego, kto zaś za mało zebrał, nie miał żadnego braku - każdy zebrał według swych potrzeb. [...] Izraelici jedli mannę przez czterdzieści lat, aż przybyli do ziemi zamieszkałej. Jedli mannę, aż przybyli do granic ziemi Kanaan.
 
-    -- Wj 16, 1-18.35
+    -- Wj 16,1-18.35
 
 Izraelici szemrają przeciw Panu, gdyż nie mają pokarmu, nie mają chleba. Uważają, że lepiej dla nich byłoby żyć w~Egipcie, gdzie przynajmniej mieli zagwarantowany pokarm. Przy tej okazji warto porozmawiać z~uczestnikami o~tym, jak wygląda chleb, z~czego jest robiony. W~Izraelu chleb (podpłomyk) był robiony z~wody, soli i~mąki (ew. jeszcze oliwy). Są to podstawowe składniki. Najprostsze. Chleb przaśny, używany podczas Paschy był robiony bez zakwasu (czyli reszty ciasta pozostałej z~poprzedniego wypieku), tylko z~wody i~mąki. Po pieczeniu chleba uczestnicy powinni mieć świadomość prostoty chleba. Niech na początku tego spotkania podzielą się doświadczeniami, przemyśleniami, jakich doznali podczas pieczenia chleba. Poprzez tą prostotę chleb jest podstawowym pożywieniem wielu ludzi, zwłaszcza ubogich (gdzie jednocześnie jest jedynym składnikiem pożywienia). Zapytajmy o~co najczęściej proszą ludzie ubodzy (oprócz pieniędzy).
 
@@ -49,7 +49,7 @@ Pan Bóg troszczy się także o~nasze życie codzienne, o~nasz pokarm doczesny (
     | dał im zboże z~nieba.
     | Człowiek chleb mocarzy spożywał - żywności zesłał im do syta.
 
-    -- Ps 78, 18-25
+    -- Ps 78,18-25
     
 Zapytajmy:
 
@@ -81,7 +81,7 @@ Przeczytajmy:
     | I~oglądaliśmy Jego chwałę,
     | chwałę, jaką Jednorodzony otrzymuje od Ojca, pełen łaski i~prawdy.
 
-    -- J 1, 10-14
+    -- J 1,10-14
     
 W oparciu o~powyższy fragment oraz Namiot Spotkania porozmawiajmy o~Eucharystii, o~Chlebie jaki możemy dziś spożywać. Niech uczestnicy podzielą się swoimi przemyśleniami z~Namiotu Spotkania.
 
@@ -135,4 +135,4 @@ Zastosowanie
 
 * postaram się zmienić moje podejście do pokarmu, jedzenia (o ile to konieczne);
 
-* postaram się uniknąć w~ciągu najbliższych tygodni/miesiąca okresów, w~których nie będę mógł/mogła przystąpić do komunii św. (rozwiązaniem tej sytuacji jest jak najszybsze przystąpienie do sakramentu pokuty, a~nie np. unikanie mszy...) 
+* postaram się uniknąć w~ciągu najbliższych tygodni/miesiąca okresów, w~których nie będę mógł/mogła przystąpić do komunii św. (rozwiązaniem tej sytuacji jest jak najszybsze przystąpienie do sakramentu pokuty, a~nie np. unikanie mszy...)

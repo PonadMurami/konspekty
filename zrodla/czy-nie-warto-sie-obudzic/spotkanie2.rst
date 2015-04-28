@@ -73,7 +73,7 @@ Przeczytajmy fragment Pisma Świętego:
 
    A~oto zbliżył się do Niego pewien człowiek i~zapytał: «Nauczycielu, co dobrego mam czynić, aby otrzymać życie wieczne?» Odpowiedział mu: «Dlaczego Mnie pytasz o~dobro? Jeden tylko jest Dobry. A~jeśli chcesz osiągnąć życie, zachowaj przykazania». Zapytał Go: «Które?» Jezus odpowiedział: «Oto te: Nie zabijaj, nie cudzołóż, nie kradnij, nie zeznawaj fałszywie, czcij ojca i~matkę oraz miłuj swego bliźniego, jak siebie samego!» Odrzekł Mu młodzieniec: «Przestrzegałem tego wszystkiego, czego mi jeszcze brakuje?» Jezus mu odpowiedział: «Jeśli chcesz być doskonały, idź, sprzedaj, co posiadasz, i~rozdaj ubogim, a~będziesz miał skarb w~niebie. Potem przyjdź i~chodź za Mną!» Gdy młodzieniec usłyszał te słowa, odszedł zasmucony, miał bowiem wiele posiadłości.
 
-   -- Mt 19, 16-22
+   -- Mt 19,16-22
 
 * Z~jakim "bagażem" idę? Jakie doświadczenia, wspomnienia pomagają mi "być w~drodze", a~jakie "przytrzymują" w~miejscu?
 
@@ -85,7 +85,7 @@ Przeczytajmy fragment Pisma Świętego:
 
    Królestwo niebieskie podobne jest do skarbu ukrytego w~roli. Znalazł go pewien człowiek i~ukrył ponownie. Uradowany poszedł, sprzedał wszystko, co miał, i~kupił tę rolę. Dalej, podobne jest królestwo niebieskie do kupca, poszukującego pięknych pereł. Gdy znalazł jedną drogocenną perłę, poszedł, sprzedał wszystko, co miał, i~kupił ją.
 
-   -- Mt 13, 44-46
+   -- Mt 13,44-46
 
 * Czy jest coś w~moim życiu, po co naprawdę warto iść?
 
@@ -99,7 +99,7 @@ Przeczytajmy fragment Pisma Świętego:
 
    Bo gdzie jest skarb wasz, tam będzie i~serce wasze.
 
-   -- Łk 12, 34
+   -- Łk 12,34
 
 * Czy dobre chęci wystarczą? Nie potrzebujemy kompetencji, środków, narzędzi?
 

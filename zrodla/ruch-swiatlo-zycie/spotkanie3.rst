@@ -20,7 +20,7 @@ Na spotkanie przeznaczone jest półtorej godziny. Będzie przeprowadzone metod�
 Przygotowanie animatora
 =====================================
 
-Fragment Rz 12, 2–18 należy wcześniej przeczytać i~rozważyć, a~najlepiej przemodlić i~spróbować odnieść go do realiów wspólnot oazowych. Proponuję zrobić to przed przeczytaniem  dalszej części konspektu.
+Fragment Rz 12,2–18 należy wcześniej przeczytać i~rozważyć, a~najlepiej przemodlić i~spróbować odnieść go do realiów wspólnot oazowych. Proponuję zrobić to przed przeczytaniem  dalszej części konspektu.
 
 W przygotowaniu  mogą być też pomocne pozostałe fragmenty, wypisane dalej, mimo że wększość  z~nich nie będzie prawdopodobnie  wykorzystana  na spotkaniu. Warto też zapoznać się z~materiałami dodatkowymi na końcu konspektu.
 
@@ -64,7 +64,7 @@ Pytania, które można zadawać uczestnikom:
 Osądzić
 =====================================
 
-Ta część  spotkania opierać się będzie na fragmencie  listu św. Pawła do Rzymian Rz  12, 2 – 18. Jest to dość długi tekst, poruszający  zwięźle wiele kwestii. Nie we wszystko należy się wgłębiać, raczej skupić się na tym, w~czym niedomagają poszczególne wspólnoty. Jednocześnie trzeba być ostrożnym, aby nie przeoczyć ważnych kwestii, takich jak Eucharystia czy modlitwa, których ten fragment dotyka trzema słowami. Można odczytywać tekst fragmentami i~rozważać je kolejno, np. Rz 12, 2.3–8.9–12.13–18.
+Ta część  spotkania opierać się będzie na fragmencie  listu św. Pawła do Rzymian Rz  12,2–18. Jest to dość długi tekst, poruszający  zwięźle wiele kwestii. Nie we wszystko należy się wgłębiać, raczej skupić się na tym, w~czym niedomagają poszczególne wspólnoty. Jednocześnie trzeba być ostrożnym, aby nie przeoczyć ważnych kwestii, takich jak Eucharystia czy modlitwa, których ten fragment dotyka trzema słowami. Można odczytywać tekst fragmentami i~rozważać je kolejno, np. Rz 12,2.3–8.9–12.13–18.
 
 Nie chcę narzucać interpretacji tekstu. Ważne jest to, co uczestnicy sami wywnioskują. Ponadto animator może widzieć potrzebę zaakcentowania pewnych kwestii, wedle swojego rozeznania. Dlatego poniższych rozważań (do końca części Osądzić) nie trzeba w~ogóle brać pod uwagę. Chciałbym jednak podzielić  się własnymi spostrzeżeniami, które być może okażą się pomocne. Jest ich z~pewnością za dużo, przedstawiam  je po to, by było w~czym wybierać. Pogrubieniem wyróżniłem jednak tematy, które, moim zdaniem, powinny zostać poruszone:
 
@@ -82,11 +82,11 @@ Nie chcę narzucać interpretacji tekstu. Ważne jest to, co uczestnicy sami wyw
 
     * przełożony – moderator, niekoniecznie kapłan.
 
-    * rozdawanie, uczynki miłosierdzia – Oaza, a~przynajmniej  oazowicze, ma służyć potrzebującym. Nie chodzi o~to, by zastępować parafialny oddział Caritas, ale raczej by z~nim współpracować. Dobrze, jeśli wspólnota jako całość angażuje się w~jakieś dzieła miłosierdzia. Jeżeli nie jest to możliwe, to oczywiście każdy członek Oazy powinien gdzieś jakoś komuś służyć. Wiara, jeśli nie byłaby połączona  z~uczynkami,  martwa jest sama w~sobie. (por. Jk~2, 14–19)
+    * rozdawanie, uczynki miłosierdzia – Oaza, a~przynajmniej  oazowicze, ma służyć potrzebującym. Nie chodzi o~to, by zastępować parafialny oddział Caritas, ale raczej by z~nim współpracować. Dobrze, jeśli wspólnota jako całość angażuje się w~jakieś dzieła miłosierdzia. Jeżeli nie jest to możliwe, to oczywiście każdy członek Oazy powinien gdzieś jakoś komuś służyć. Wiara, jeśli nie byłaby połączona  z~uczynkami,  martwa jest sama w~sobie. (por. Jk~2,14–19)
 
 * **Rz 12, 9–12** - Lista zasad, którymi należy się kierować w~życiu wspólnotowym. Każda z~niech jest ważna. Większość daje się prosto przełożyć na nasze realia, skomentuję więc tylko kilka:
 
-    * Pełnijcie służbę Panu – Jest to chyba jedyne w~całym tekście bezpośrednie odniesienie do liturgii. Tymczasem Eucharystia powinna być nieodłącznym elementem życia wspólnotowego, o~czym mówią inne teksty Pawłowe (por. np. 1 Kor 11, 17–34). W~miarę możliwości oaza powinna gromadzić się co tydzień na wspólnej Mszy Św.
+    * Pełnijcie służbę Panu – Jest to chyba jedyne w~całym tekście bezpośrednie odniesienie do liturgii. Tymczasem Eucharystia powinna być nieodłącznym elementem życia wspólnotowego, o~czym mówią inne teksty Pawłowe (por. np. 1 Kor 11,17–34). W~miarę możliwości oaza powinna gromadzić się co tydzień na wspólnej Mszy Św.
 
     * W~ucisku bądźcie cierpliwi – czyli we wszelkich trudnościach wewnętrznych i~zewnętrznych.
 

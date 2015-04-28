@@ -76,7 +76,7 @@ Bez cienia ironii:
 
     Trzymajmy się niewzruszenie nadziei, którą wyznajemy, bo godny jest zaufania Ten, który dał obietnicę. Troszczmy się o~siebie wzajemnie, by się zachęcać do miłości i~do dobrych uczynków. Nie opuszczajmy naszych wspólnych zebrań, jak się to stało zwyczajem niektórych, ale zachęcajmy się nawzajem, i~to tym bardziej, im wyraźniej widzicie, że zbliża się dzień
     
-    -- Hbr 10, 23-25
+    -- Hbr 10,23-25
     
 "Bez" konspektu potrafiliśmy siebie głęboko ubogacić. Wspólnota to olbrzymia wartość jeżeli podchodzimy do niej świadomie (odpowiadamy "dla drugiego" a~nie po to aby chwalić się przed drugim). Jest to też rzecz trudna – bo zależy od nas samych....
 

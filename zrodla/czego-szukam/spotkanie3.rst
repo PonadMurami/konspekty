@@ -44,7 +44,7 @@ Na początku rozważmy fragment z~Apokalipsy św. Jana. Niech uczestnicy po prze
    | i~ani gorący, ani zimny,
    | chcę cię wyrzucić z~mych ust.
 
-   -- Ap 3, 14-16
+   -- Ap 3,14-16
 
 Spróbujmy wraz z~uczestnikami przeprowadzić charakterystykę postaw wymienionych w~tym fragmencie.
 

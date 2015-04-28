@@ -103,7 +103,7 @@ Czytamy następujący fragment i~poruszamy dyskusje na temat tego jak go rozumie
 Jezus – Emannuel – Bóg z~nami
 ============================================
 
-Czytamy J 3, 16 – wskazując jednocześnie z~całą mocą na JEZUSA jako DOWÓD MIŁOŚCI Bożej
+Czytamy J 3,16 – wskazując jednocześnie z~całą mocą na JEZUSA jako DOWÓD MIŁOŚCI Bożej
 
 * co to znaczy, że Bóg zdecydował się stać się człowiekiem? O~czym to świadczy?
 
@@ -115,7 +115,7 @@ JEZUS jest człowiekiem, ukazujemy Go więc w~perspektywie Jego pragnień. W~tyc
 
 * J 4,7 (Samarytanka)
 * Łk 22,15 (wieczerza)
-* J 19, 28 (śmierć na krzyżu)
+* J 19,28 (śmierć na krzyżu)
 
 Do refleksji i~ew. zastosowania w~rozmowie:
 

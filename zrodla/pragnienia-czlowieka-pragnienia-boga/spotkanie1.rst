@@ -79,7 +79,7 @@ Zagrać scenkę, przeczytać z~podziałem na role lub coś takiego:
 
    Wtedy podeszła do Niego matka synów Zebedeusza ze swoimi synami i~oddając Mu pokłon, o~coś Go prosiła. On ją zapytał: «Czego pragniesz?»
 
-   -- Mt 20, 20-21a
+   -- Mt 20,20-21a
 
 Cel: wyciągnąć kontrast: człowiek przychodzi i~pyta "o coś" (co nie było na tyle ważne, skoro nie zostało zapisane), a~Jezus odpowiada zapytaniem o~sedno tego z~czym przyszliśmy do niego.
 
@@ -100,7 +100,7 @@ Przeczytajmy:
 
    Zapytali go: «Gdzie jest twoja żona, Sara?» - Odpowiedział im: «W tym oto namiocie». Rzekł mu [jeden z~nich]: «O tej porze za rok znów wrócę do ciebie, twoja zaś żona Sara będzie miała wtedy syna». Sara przysłuchiwała się u~wejścia do namiotu, [które było tuż] za Abrahamem. Abraham i~Sara byli w~bardzo podeszłym wieku. Toteż Sara nie miewała przypadłości właściwej kobietom. Uśmiechnęła się więc do siebie i~pomyślała: «Teraz, gdy przekwitłam, mam doznawać rozkoszy, i~mój mąż starzec?» Pan rzekł do Abrahama: «Dlaczego to Sara śmieje się i~myśli: Czy naprawdę będę mogła rodzić, gdy już się zestarzałam? Czy jest coś, co byłoby niemożliwe dla Pana? Za rok o~tej porze wrócę do ciebie, i~Sara będzie miała syna». Wtedy Sara zaparła się, mówiąc: «Wcale się nie śmiałam» - bo ogarnęło ją przerażenie. Ale Pan powiedział: «Nie. Śmiałaś się!»
 
-   -- Rdz 18, 9-15
+   -- Rdz 18,9-15
 
 * (animator może sam wymyśleć jeżeli będzie czas i~potrzeba)
 

@@ -110,11 +110,11 @@ Poniżej jeszcze kilka fragmentów Nowego Testamentu na temat wolności i~niewol
 
     Każdy kto popełnia grzech jest niewolnikiem grzechu.
 
-    -- J 8, 34
+    -- J 8,34
 
     To wiedzcie, że dla zniszczenia grzesznego ciała dawny nasz człowiek został razem z~Nim ukrzyżowany po to, byśmy już więcej nie byli w~niewoli grzechu. [...] Niech więc grzech nie króluje w~waszym śmiertelnym ciele, poddając was swoim pożądliwościom. [...] Albowiem grzech nie powinien nad Wami panować. [...] Kiedy bowiem byliście niewolnikami grzechu byliście wolni od służby sprawiedliwości. Jakiż jednak pożytek mieliście wówczas z~tych czynów, których się teraz wstydzicie? Przecież końcem ich jest śmierć.
 
-    -- Rz 6, 7. 12. 14. 20
+    -- Rz 6,7.12.14.20
 
 * Czy patrzyłem kiedyś tak na własną wolność?
 
@@ -140,7 +140,7 @@ Przeczytajmy:
 
     Ku wolności wyswobodził nas Chrystus. A~zatem trwajcie w~niej i~nie poddawajcie się na nowo pod jarzmo niewoli.
 
-    -- Gal 5, 1
+    -- Gal 5,1
 
 * Czy potrafię spojrzeć na Jezusa, jako na osobę, dzięki której mogę być wolny?
 
@@ -150,7 +150,7 @@ Przeczytajmy:
 
     Jeżeli będziecie trwać w~nauce mojej, będziecie prawdziwie moimi uczniami i~poznacie prawdę, a~prawda was wyzwoli.
 
-    -- J 8, 31
+    -- J 8,31
 
 * Czy staram się poznać prawdę o~Bogu i~o~sobie samym?
 

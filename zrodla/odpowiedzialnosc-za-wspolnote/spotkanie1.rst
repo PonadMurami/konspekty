@@ -28,7 +28,6 @@ Modlitwa początkowa
 
 Dowolna z~uwzględnieniem szczególnie Ducha Świętego. Modlitwę należy dostosować do poziomu grupy
 
-
 ===================================
 Wprowadzenie do spotkania grupowego
 ===================================

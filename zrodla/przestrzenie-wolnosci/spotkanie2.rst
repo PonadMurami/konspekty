@@ -78,7 +78,7 @@ Podsumowanie
 
 Bóg  zachęca do modlitwy:
 
-1. Natrętnej (!) [Łk 11, 5-13]
+1. Natrętnej (!) [Łk 11,5-13]
 
 Bóg zaprasza wręcz do takiej natrętnej modlitwy – On jako Ojciec tego tak nie odbiera! Natręctwo to nie zuchwałość!
 
@@ -102,7 +102,7 @@ Co to znaczy źle? Jezus daje odpowiedź:
 
    Niech ci się stanie jak uwierzyłeś
 
-   -- Mt 8, 13
+   -- Mt 8,13
 
 To wiara jest potrzebna do tego, aby prośba została wysłuchana.
 

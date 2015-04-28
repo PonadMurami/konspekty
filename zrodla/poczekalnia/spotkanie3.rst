@@ -80,7 +80,7 @@ Kiedy już jesteśmy podzieleni i budzi się mały antagonizm między uczestnika
     | Niemowlę igrać będzie na norze kobry,
     | dziecko włoży swą rękę do kryjówki żmii.
 
-    -- Iz 11, 6 - 8
+    -- Iz 11,6-8
 
 Zauważmy, że to co nas teraz dzieli, nie będzie mieć miejsca w Nowym Jeruzalem. Tam nastanie pokój idealny. Można zapytać uczestników, jak odbierają taką wizję.
 

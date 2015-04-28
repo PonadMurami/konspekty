@@ -29,7 +29,7 @@ Spójrzmy na uczniów i~ich sytuacji po zmartwychwstaniu Jezusa:
 
 	Wieczorem  owego  pierwszego  dnia  tygodnia,  tam  gdzie  przebywali  uczniowie,  gdy  drzwi  były zamknięte z~obawy przed Żydami, przyszedł Jezus, stanął pośrodku i~rzekł do nich: "Pokój wam!"  A~to powiedziawszy, pokazał im ręce i~bok. Uradowali się zatem uczniowie ujrzawszy Pana. A~Jezus znowu rzekł do nich: "Pokój wam! Jak Ojciec Mnie posłał, tak i~Ja was posyłam". Po tych słowach tchnął na nich i~powiedział im: "Weźmijcie Ducha Świętego! Którym odpuścicie grzechy, są im odpuszczone, a~którym zatrzymacie, są im zatrzymane".
 
-	-- J 20, 19-23
+	-- J 20,19-23
 
 Zastanówmy się jaki stan uczniów wyłania się z~tego fragmentu, jakie emocje im towarzyszą: Strach, rozmyślanie "Co teraz? Co będzie z~nami"?, może też zawód, poczucie przegranej...
 
@@ -86,7 +86,7 @@ Nie tylko możemy pragnąć! Ono jest nam w~zasadzie obiecane i~to nie przez byl
 
 	Zaprawdę zaprawdę powiadam wam kto we mnie wierzy będzie także dokonywał tych dzieł, których Ja dokonuje, owszem i~większych od tych uczyni, bo ja idę do Ojca
 	
-	-- J 14,122
+	-- J 14,12
 
 * Co to znaczy większe od tych? Czyli od jakich? (chodzenie po wodzie dla przykładu) 
 
@@ -124,7 +124,7 @@ Zobaczmy jak modlił się np. Jonasz:
 
 	Zobaczył Bóg czyny ich, że odwrócili się od swojego złego postępowania. I~ulitował się Bóg nad niedolą, którą postanowił na nich sprowadzić, i~nie zesłał jej. Nie podobało się to Jonaszowi i~oburzył się. Modlił się przeto do Pana i~mówił: «Proszę, Panie, czy nie to właśnie miałem na myśli, będąc jeszcze w~moim kraju? Dlatego postanowiłem uciec do Tarszisz, bo wiem, żeś Ty jest Bóg łagodny i~miłosierny, cierpliwy i~pełen łaskawości, litujący się nad niedolą. Teraz Panie, zabierz, proszę, duszę moją ode mnie, albowiem lepsza dla mnie śmierć niż życie».Pan odrzekł: «Czy uważasz, że słusznie jesteś oburzony?» Jonasz wyszedł z~miasta, zatrzymał się po jego stronie wschodniej, tam uczynił sobie szałas i~usiadł w~cieniu, aby widzieć, co się będzie działo w~mieście.   A~Pan Bóg sprawił, że krzew rycynusowy wyrósł nad Jonaszem po to, by cień był nad jego głową i~żeby mu ująć jego goryczy. Jonasz bardzo się ucieszył [tym] krzewem. Ale z~nastaniem brzasku dnia następnego Bóg zesłał robaczka, aby uszkodził krzew, tak iż usechł. A~potem, gdy wzeszło słońce, zesłał Bóg gorący, wschodni wiatr. Słońce prażyło Jonasza w~głowę, tak że osłabł. Życzył więc sobie śmierci i~mówił: «Lepiej dla mnie umrzeć aniżeli żyć». Na to rzekł Bóg do Jonasza: «Czy słusznie się oburzasz z~powodu tego krzewu?» Odpowiedział: «Słusznie gniewam się śmiertelnie».
 
-	-- Jon 3, 10 - 4,94
+	-- Jon 3,10 - 4,9
 
 * Czy zaskakuje Was postawa Jonasza i~to, że taka osoba jest w~Piśmie Świętym? 
 
@@ -168,7 +168,7 @@ Przeczytajmy pewną znaną historię:
 
 	A gdy rozmawiali o~tym, On sam stanął pośród nich i~rzekł do nich: "Pokój wam!" Zatrwożonym i~wylękłym zdawało się, że widzą ducha. Lecz On rzekł do nich: "Czemu jesteście zmieszani i~dlaczego wątpliwości budzą się w~waszych sercach? Popatrzcie na moje ręce i~nogi: to Ja jestem. Dotknijcie się Mnie i~przekonajcie: duch nie ma ciała ani kości, jak widzicie, że Ja mam." Przy tych słowach pokazał im swoje ręce i~nogi. **Lecz gdy oni z~radości jeszcze nie wierzyli i~pełni byli zdumienia**, rzekł do nich: "Macie tu coś do jedzenia?" Oni podali Mu kawałek pieczonej ryby. Wziął i~jadł wobec nich. (...) Oni zaś oddali Mu pokłon i **z wielka radością** wrócili do Jeruzalem, gdzie stale przebywali w~świątyni, wielbiąc i~błogosławiąc Boga.
 
-	-- Łk 24, 36-42; 52-53
+	-- Łk 24,36-42.52-53
 	
 Pamiętamy w~jakiej sytuacji są apostołowie po śmierci Mistrza. Wiedzą, że powinno być inaczej, ale są bezradni. Nie widzą sensu w~wydarzeniach.
 

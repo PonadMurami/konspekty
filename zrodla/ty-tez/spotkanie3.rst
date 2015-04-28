@@ -195,7 +195,7 @@ Jak nieprzewidywalne mogą być konsekwencje spotkań przeczytajmy:
 
    Jednym z~dwóch, którzy to usłyszeli od Jana i~poszli za Nim, był Andrzej, brat Szymona Piotra. Ten spotkał najpierw swego brata i~rzekł do niego: «Znaleźliśmy Mesjasza» - to znaczy: Chrystusa. I~przyprowadził go do Jezusa. A~Jezus wejrzawszy na niego rzekł: «Ty jesteś Szymon, syn Jana, ty będziesz nazywał się Kefas»  - to znaczy: Piotr. Nazajutrz [Jezus] postanowił udać się do Galilei. I~spotkał Filipa. Jezus powiedział do niego: «Pójdź za Mną!». Filip zaś pochodził z~Betsaidy, z~miasta Andrzeja i~Piotra. Filip spotkał Natanaela i~powiedział do niego: «Znaleźliśmy Tego, o~którym pisał Mojżesz w~Prawie i~Prorocy - Jezusa, syna Józefa z~Nazaretu».
 
-   -- J 1, 40-45
+   -- J 1,40-45
 
 Trafny wydaje się zatem komentarz:
 
@@ -231,7 +231,7 @@ Przeczytajmy:
 
    Wy jesteście solą dla ziemi. Lecz jeśli sól utraci swój smak, czymże ją posolić? Na nic się już nie przyda, chyba na wyrzucenie i~podeptanie przez ludzi. Wy jesteście światłem świata. Nie może się ukryć miasto położone na górze. Nie zapala się też światła i~nie stawia pod korcem, ale na świeczniku, aby świeciło wszystkim, którzy są w~domu.
 
-   -- Mt 5, 13-15
+   -- Mt 5,13-15
 
 * Gdzie to wydarzenie się odbywa?
 

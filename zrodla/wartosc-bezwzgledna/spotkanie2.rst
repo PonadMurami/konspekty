@@ -162,7 +162,7 @@ Przeczytajmy:
 
    Ale teraz tak mówi Pan, Stworzyciel twój, Jakubie, i~Twórca twój, o~Izraelu: "Nie lękaj się, bo cię wykupiłem, wezwałem cię po imieniu; tyś moim! Gdy pójdziesz przez wody, Ja będę z~tobą, i~gdy przez rzeki, nie zatopią ciebie. Gdy pójdziesz przez ogień, nie spalisz się, i~nie strawi cię płomień. Albowiem Ja jestem Pan, twój Bóg, Święty Izraela, twój Zbawca. Daję Egipt jako twój okup, Kusz i~Sabę w~zamian za ciebie. **Ponieważ drogi jesteś w~moich oczach, nabrałeś wartości i~Ja cię miłuję, przeto daję ludzi za ciebie i~narody za życie twoje. Nie lękaj się, bo jestem z~tobą**. Przywiodę ze Wschodu twe plemię i~z Zachodu cię pozbieram. Północy powiem: "Oddaj!" i~Południowi: "Nie zatrzymuj!" Przywiedź moich synów z~daleka i~córki moje z~krańców ziemi. Wszystkich, którzy noszą me imię i~których stworzyłem dla mojej chwały, ukształtowałem ich i~moim są dziełem.
 
-   -- Iz 43, 1-7
+   -- Iz 43,1-7
 
 * Czy potrafisz te słowa odnieść do siebie? Jak?
 
@@ -180,7 +180,7 @@ Przeczytajmy:
 
      Przybył więc do miasteczka samarytańskiego, zwanego Sychar, w~pobliżu pola, które [niegdyś] dał Jakub synowi swemu, Józefowi. Było tam źródło Jakuba. Jezus zmęczony drogą siedział sobie przy studni. Było to około szóstej godziny. Nadeszła [tam] kobieta z~Samarii, aby zaczerpnąć wody. Jezus rzekł do niej: "Daj Mi pić!" Jego uczniowie bowiem udali się przedtem do miasta dla zakupienia żywności. Na to rzekła do Niego Samarytanka: "Jakżeż Ty będąc Żydem, prosisz mnie, Samarytankę, bym Ci dała się napić?" Żydzi bowiem z~Samarytanami unikają się nawzajem. Jezus odpowiedział jej na to: "O, gdybyś znała dar Boży i~[wiedziała], kim jest Ten, kto ci mówi: "Daj Mi się napić" - prosiłabyś Go wówczas, a~dałby ci wody żywej". Powiedziała do Niego kobieta: "Panie, nie masz czerpaka, a~studnia jest głęboka. Skądże więc weźmiesz wody żywej? Czy Ty jesteś większy od ojca naszego Jakuba, który dał nam tę studnię, z~której pił i~on sam, i~jego synowie i~jego bydło?" W~odpowiedzi na to rzekł do niej Jezus: "Każdy, kto pije tę wodę, znów będzie pragnął. Kto zaś będzie pił wodę, którą Ja mu dam, nie będzie pragnął na wieki, lecz woda, którą Ja mu dam, stanie się w~nim źródłem wody wytryskającej ku życiu wiecznemu". Rzekła do Niego kobieta: "Daj mi tej wody, abym już nie pragnęła i~nie przychodziła tu czerpać". A~On jej odpowiedział: "Idź, zawołaj swego męża i~wróć tutaj!" A~kobieta odrzekła Mu na to: "Nie mam męża". Rzekł do niej Jezus: "Dobrze powiedziałaś: Nie mam męża. Miałaś bowiem pięciu mężów, a~ten, którego masz teraz, nie jest twoim mężem. To powiedziałaś zgodnie z~prawdą".  Rzekła do Niego kobieta: "Panie, widzę, że jesteś prorokiem. Ojcowie nasi oddawali cześć Bogu na tej górze, a~wy mówicie, że w~Jerozolimie jest miejsce, gdzie należy czcić Boga". Odpowiedział jej Jezus: "Wierz Mi, kobieto, że nadchodzi godzina, kiedy ani na tej górze, ani w~Jerozolimie nie będziecie czcili Ojca. Wy czcicie to, czego nie znacie, my czcimy to, co znamy, ponieważ zbawienie bierze początek od Żydów. Nadchodzi jednak godzina, owszem już jest, kiedy to prawdziwi czciciele będą oddawać cześć Ojcu w~Duchu i~prawdzie, a~takich to czcicieli chce mieć Ojciec. Bóg jest duchem: potrzeba więc, by czciciele Jego oddawali Mu cześć w~Duchu i~prawdzie". Rzekła do Niego kobieta: "Wiem, że przyjdzie Mesjasz, zwany Chrystusem. A~kiedy On przyjdzie, objawi nam wszystko". Powiedział do niej Jezus: "Jestem nim Ja, który z~tobą mówię.
 
-   -- J 4, 5-26
+   -- J 4,5-26
 
 * Czy samarytanka miała za sobą cudowną przeszłość?
 

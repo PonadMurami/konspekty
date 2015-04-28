@@ -52,7 +52,7 @@ Dla porównania można przeczytać tekst o~wdowim groszu:
 
    Potem usiadł naprzeciw skarbony i~przypatrywał się, jak tłum wrzucał drobne pieniądze do skarbony. Wielu bogatych wrzucało wiele. Przyszła też jedna uboga wdowa i~wrzuciła dwa pieniążki, czyli jeden grosz. Wtedy przywołał swoich uczniów i~rzekł do nich: «Zaprawdę, powiadam wam: Ta uboga wdowa wrzuciła najwięcej ze wszystkich, którzy kładli do skarbony. Wszyscy bowiem wrzucali z~tego, co im zbywało; ona zaś ze swego niedostatku wrzuciła wszystko, co miała, całe swe utrzymanie».
 
-   -- Mk 12, 41-44
+   -- Mk 12,41-44
 
 Ofiary oznaczają dziękczynienie. Jeden grosz może symbolizować naszą ofiarę-dajemy tak mało Bogu, nawet, jak jest to wszystko, co możemy mu dać. My dostajemy od niego znacznie więcej niż jesteśmy w~stanie sami mu zaoferować. To, co możemy dać Bogu, nigdy nie będzie współmierne z~tym,co od niego otrzymujemy. ( ale Bóg cały czas będzie nam dawał wszystko).
 

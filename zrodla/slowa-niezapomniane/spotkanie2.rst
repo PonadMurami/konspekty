@@ -98,17 +98,17 @@ Nasze doświadczenia potwierdzają to, co wcześniej zrobił Bóg:
 
    Wtedy Bóg rzekł: «Niechaj się stanie światłość!» I~stała się światłość. Bóg widząc, że światłość jest dobra, oddzielił ją od ciemności. I~nazwał Bóg światłość dniem, a~ciemność nazwał nocą."
 
-   -- Rdz 1, 3-5a
+   -- Rdz 1,3-5a
 
 Bóg wypowiedział słowo i~coś powstało. Bóg jest Tym, który tworzy słowem. Ale na tym nie koniec. Przeczytajmy:
 
    Po czym Bóg im błogosławił, mówiąc do nich: «Bądźcie płodni i~rozmnażajcie się, abyście zaludnili ziemię i~uczynili ją sobie poddaną; abyście panowali nad rybami morskimi, nad ptactwem powietrznym i~nad wszystkimi zwierzętami pełzającymi po ziemi».
 
-   -- Rdz 1, 28
+   -- Rdz 1,28
 
    Ulepiwszy z~gleby wszelkie zwierzęta lądowe i~wszelkie ptaki powietrzne, Pan Bóg przyprowadził je do mężczyzny, aby przekonać się, jaką on da im nazwę. Każde jednak zwierzę, które określił mężczyzna, otrzymało nazwę "istota żywa".I tak mężczyzna dał nazwy wszelkiemu bydłu, ptakom powietrznym i~wszelkiemu zwierzęciu polnemu...
 
-   -- Rdz 2, 19- 20a
+   -- Rdz 2,19- 20a
 
 Bóg dał nam zadanie. Naszym powołaniem jest tworzenie świata. Świat słów jest realnym światem. Bóg chciał, aby Adam nadał nazwę Swoim stworzeniom. Czyni go współautorem swojego dzieła, współautorem tworzenia. On wie najlepiej jaką moc ma słowo. Jego słowo stwarza. Nasze słowo też może stwarzać.
 
@@ -173,7 +173,7 @@ Kimś, kto wiedział bardzo dobrze, jak wielką moc i~wartość mają słowa by�
 
    Gdy zaś wrócił i~został sam jeden, ktoś zmagał się z~nim aż do wschodu jutrzenki, a~widząc, że nie może go pokonać, dotknął jego stawu biodrowego i~wywichnął Jakubowi ten staw podczas zmagania się z~nim. A~wreszcie rzekł: «Puść mnie, bo już wschodzi zorza!» Jakub odpowiedział: «Nie puszczę cię, dopóki mi nie pobłogosławisz!» Wtedy [tamten] go zapytał: «Jakie masz imię?» On zaś rzekł: «Jakub». Powiedział: «Odtąd nie będziesz się zwał Jakub, lecz Izrael, bo walczyłeś z~Bogiem i~z ludźmi, i~zwyciężyłeś». Potem Jakub rzekł: «Powiedz mi, proszę, jakie jest Twe imię?» Ale on odpowiedział: «Czemu pytasz mnie o~imię?» - i~pobłogosławił go na owym miejscu.
 
-   -- Rdz 32, 25- 30
+   -- Rdz 32,25-30
 
 * Czy ja mam taką świadomość, ze słowa są tak ważne?
 

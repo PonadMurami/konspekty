@@ -30,11 +30,11 @@ Duch Święty w~ST:
 
    Ziemia zaś była bezładem i~pustkowiem: ciemność była nad powierzchnią bezmiaru wód, a~Duch Boży unosił się nad wodami
 
-   -- Rdz 1, 22
+   -- Rdz 1,22
 
    Ale Bóg, pamiętając o~Noem, o~wszystkich istotach żywych i~o wszystkich zwierzętach, które z~nim były w~arce, sprawił, że powiał wiatr nad całą ziemią i~wody zaczęły opadać
 
-   -- Rdz 8, 13
+   -- Rdz 8,13
 
    Pan rzekł: Wstań i~namaść go, to ten. Wziął więc Samuel róg z~oliwą i~namaścił go pośrodku jego braci. Począwszy od tego dnia duch Pański opanował Dawida. Samuel zaś udał się z~powrotem do Rama.
 
@@ -44,7 +44,7 @@ Duch w~NT:
 
    Kiedy cały lud przystępował do chrztu, Jezus także przyjął chrzest. A~gdy się modlił, otworzyło się niebo i~Duch Święty zstąpił na Niego, w~postaci cielesnej niby gołębica, a~nieba odezwał się głos: Tyś jest mój Syn umiłowany, w~Tobie mam upodobanie.
 
-   -- Łk 3, 21-22
+   -- Łk 3,21-22
 
 W NT znajdujemy też więcej szczegółów dotyczących Ducha Świętego. Oto niektóre z~nich:
 
@@ -52,15 +52,15 @@ Duch Św. jest osobą, nie abstrakcją (ma intelekt, wolę i~miłuje)
 
    Kto zaś z~ludzi zna to, co ludzkie, jeżeli nie duch, który jest w~człowieku? Podobnie i~tego, co Boskie, nie zna nikt, tylko Duch Boży
 
-   -- 1 Kor 2, 11
+   -- 1 Kor 2,11
 
    Wszystko zaś sprawia jeden i~ten sam Duch, udzielając każdemu tak, jak chce
 
-   -- 1 Kor 12, 11
+   -- 1 Kor 12,11
 
    Proszę więc was, bracia, przez Pana naszego Jezusa Chrystusa i~przez miłość Ducha, abyście udzielili mi wsparcia modłami waszymi za mnie do Boga
 
-   -- Rz 15, 30
+   -- Rz 15,30
 
 Duch Św. jest Bogiem równym Ojcu i~Synowi
 
@@ -72,17 +72,17 @@ Duch Św. – Duch Jezusa Chrystusa, On jest nim napełniony, namaszczony, On ni
 
    Pełen Ducha Świętego, powrócił Jezus znad Jordanu i~przebywał w~Duchu [Świętym] na pustyni.Potem powrócił Jezus w~mocy Ducha do Galilei, a~wieść o~Nim rozeszła się po całej okolicy. Przyszedł również do Nazaretu, gdzie się wychował. W~dzień szabatu udał się swoim zwyczajem do synagogi i~powstał, aby czytać. Podano Mu księgę proroka Izajasza. Rozwinąwszy księgę, natrafił na miejsce, gdzie było napisane: Duch Pański spoczywa na Mnie, ponieważ Mnie namaścił i~posłał Mnie, abym ubogim niósł dobrą nowinę, więźniom głosił wolność, a~niewidomym przejrzenie; abym uciśnionych odsyłał wolnymi,
 
-   -- Łk 4, 1.14.16-18
+   -- Łk 4,1.14.16-18
 
 Jezus Chrystus (namaszczony Duchem Św.) posyła nam Ducha Św., aby On dopełnił w~nas dzieła zbawienia
 
    Ja zaś będę prosił Ojca, a~innego Pocieszyciela da wam, aby z~wami był na zawsze - Ducha Prawdy, którego świat przyjąć nie może, ponieważ Go nie widzi ani nie zna. Ale wy Go znacie, ponieważ u~was przebywa i~w was będzie.A Pocieszyciel, Duch Święty, którego Ojciec pośle w~moim imieniu, On was wszystkiego nauczy i~przypomni wam wszystko, co Ja wam powiedziałem.
 
-   -- J 14, 16-17.26
+   -- J 14,16-17.26
 
    «Słyszeliście o~niej ode Mnie - [mówił] - Jan chrzcił wodą, ale wy wkrótce zostaniecie ochrzczeni Duchem Świętym». Zapytywali Go zebrani: «Panie, czy w~tym czasie przywrócisz królestwo Izraela?» Odpowiedział im: «Nie wasza to rzecz znać czasy i~chwile, które Ojciec ustalił swoją władzą, ale gdy Duch Święty zstąpi na was, otrzymacie Jego moc i~będziecie moimi świadkami w~Jerozolimie i~w całej Judei, i~w Samarii, i~aż po krańce ziemi».
 
-   -- Dz 1, 4b - 8
+   -- Dz 1,4b-8
 
 Uczestnicy w~czasie odkrywania kolejnych puzzli prawdopodobnie będą na bieżąco starali się je układać - nie przeszkadzajmy im w~tym. Na końcu skończyły się już puzzle z~sygnaturkami, a~puzzli niektórych brakuje. Mamy dziury.
 

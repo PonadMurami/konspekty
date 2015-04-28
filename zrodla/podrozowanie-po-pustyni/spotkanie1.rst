@@ -54,7 +54,7 @@ Na  początku naszych rozważań o~pustyni przypatrzmy się sytuacji Izraelitów
 
    Pan rzekł do Mojżesza: «Czemu głośno wołasz do Mnie? Powiedz Izraelitom, niech ruszają w~drogę. Ty zaś podnieś swą laskę i~wyciągnij rękę nad morze i~rozdziel je na dwoje, a~wejdą Izraelici w~środek na suchą ziemię. Ja natomiast uczynię upartymi serca Egipcjan, że pójdą za nimi. Wtedy okażę moją potęgę wobec faraona, całego wojska jego, rydwanów i~wszystkich jego jeźdźców. A~gdy okażę moją potęgę wobec faraona, jego rydwanów i~jeźdźców, wtedy poznają Egipcjanie, że ja jestem Pan». Anioł Boży, który szedł na przedzie wojsk izraelskich, zmienił miejsce i~szedł na ich tyłach. Słup obłoku również przeszedł z~przodu i~zajął ich tyły, stając między wojskiem egipskim a~wojskiem izraelskim. I~tam był obłok ciemnością, tu zaś oświecał noc. I~nie zbliżyli się jedni do drugich przez całą noc. Mojżesz wyciągnął rękę nad morze, a~Pan cofnął wody gwałtownym wiatrem wschodnim, który wiał przez całą noc, i~uczynił morze suchą ziemią. Wody się rozstąpiły, a~Izraelici szli przez środek morza po suchej ziemi, mając mur z~wód po prawej i~po lewej stronie. Egipcjanie ścigali ich. Wszystkie konie faraona, jego rydwany i~jeźdźcy weszli za nimi w~środek morza. O~świcie spojrzał Pan ze słupa ognia i~ze słupa obłoku na wojsko egipskie i~zmusił je do ucieczki. I~zatrzymał koła ich rydwanów, tak że z~wielką trudnością mogli się naprzód posuwać. Egipcjanie krzyknęli: «Uciekajmy przed Izraelem, bo w~jego obronie Pan walczy z~Egipcjanami». A~Pan rzekł do Mojżesza: «Wyciągnij rękę nad morze, aby wody zalały Egipcjan, ich rydwany i~jeźdźców». Wyciągnął Mojżesz rękę nad morze, które o~brzasku dnia wróciło na swoje miejsce. Egipcjanie uciekając biegli naprzeciw falom, i~pogrążył ich Pan w~środku morza. Powracające fale zatopiły rydwany i~jeźdźców całego wojska faraona, którzy weszli w~morze, ścigając tamtych, nie ocalał z~nich ani jeden.Izraelici zaś szli po suchym dnie morskim, mając mur [wodny] po prawej i~po lewej stronie. W~tym to dniu wybawił Pan Izraela z~rąk Egipcjan. I~widzieli Izraelici martwych Egipcjan na brzegu morza. Gdy Izraelici widzieli wielkie dzieło, którego dokonał Pan wobec Egipcjan, ulękli się Pana i~uwierzyli Jemu oraz Jego słudze Mojżeszowi.
 
-   -- Wj 3, 15-31
+   -- Wj 3,15-31
 
 Na początku drogi Izraelitów do Ziemi Obiecanej widzimy ich pełnych radości, wielbiących Boga za wielkie dzieła, które wobec nich uczynił. Można przeczytać też następny fragment z~pieśnią. Jeśli grupa nie jest zorientowana w~temacie (tak może być) warto pokrótce opowiedzieć historię pobytu izraelitów w~Egipcie.
 
@@ -62,7 +62,7 @@ Następnie przeczytajmy kolejny fragment z~Księgi Wyjścia. Oczywiście to nie 
 
    Całe zgromadzenie Izraelitów wyruszyło na rozkaz Pana z~pustyni Sin, aby przebyć dalsze etapy. Potem rozbili obóz w~Refidim, gdzie lud nie miał wody do picia. I~kłócił się lud z~Mojżeszem mówiąc: «Daj nam wody do picia!» Mojżesz odpowiedział im: «Czemu kłócicie się ze mną? I~czemu wystawiacie Pana na próbę?» Ale lud pragnął tam wody i~dlatego szemrał przeciw Mojżeszowi i~mówił: «Czy po to wyprowadziłeś nas z~Egiptu, aby nas, nasze dzieci i~nasze bydło wydać na śmierć z~pragnienia?» Mojżesz wołał wtedy do Pana i~mówił: «Co mam uczynić z~tym ludem? Niewiele brakuje, a~ukamienują mnie!»Pan odpowiedział Mojżeszowi: «Wyjdź przed lud i~weź kilku ze starszych Izraela ze sobą. Weź w~rękę laskę, którą uderzyłeś Nil, i~idź. Oto Ja stanę przed tobą na skale, na Horebie. Uderzysz w~skałę, a~wypłynie z~niej woda, i~lud zaspokoi swe pragnienie». Mojżesz uczynił tak na oczach starszyzny izraelskiej. I~nazwał to miejsce Massa2  i~Meriba2, ponieważ tutaj kłócili się Izraelici i~wystawiali Pana na próbę, mówiąc: «Czy też Pan jest rzeczywiście wśród nas, czy nie?»
 
-   -- Wj 17, 1-7
+   -- Wj 17,1-7
 
 Po krótkim okresie czasu Izraelici zmieniają spojrzenie na przejście przez morze. Wydarzenie, które było powodem do wielbienia Boga, radości etc. stało się początkiem nieszczęść, powodem do niezadowolenia i~narzekania. Chcą wrócić do Egiptu, wolą tam przebywać – w~domu niewoli – niż wolni umrzeć na pustyni.
 
@@ -112,7 +112,7 @@ Podobny motyw można odnaleźć także w~życiu proroków i~Jezusa. Po chrzcie, 
 
    W~owym czasie przyszedł Jezus z~Nazaretu w~Galilei i~przyjął od Jana chrzest w~Jordanie. W~chwili gdy wychodził z~wody, ujrzał rozwierające się niebo i~Ducha jak gołębicę zstępującego na siebie. A~z~nieba odezwał się głos: «Tyś jest mój Syn umiłowany, w~Tobie mam upodobanie». Zaraz też Duch wyprowadził Go na pustynię. Czterdzieści dni przebył na pustyni, kuszony przez szatana. Żył tam wśród zwierząt, aniołowie zaś usługiwali Mu.
 
-   -- Mk 1, 9-13
+   -- Mk 1,9-13
 
 Nie analizujmy głęboko tego fragmentu. Bardziej chodzi o~zaakcentowanie paradoksu, że z~wielkimi dziełami Boga sąsiadują wydarzenia, które nas przerażają, groźne i~niebezpieczne.
 

@@ -49,7 +49,7 @@ Przeczytajmy z~uczestnikami tekst i~podzielmy się tym, co o~nim myślimy, jakie
 
    Wy zaś jesteście wybranym plemieniem, królewskim kapłaństwem, narodem świętym, ludem [Bogu] na własność przeznaczonym, abyście ogłaszali dzieła potęgi Tego, który was wezwał z~ciemności do przedziwnego swojego światła, wy, którzyście byli nie-ludem, teraz zaś jesteście ludem Bożym, którzyście nie dostąpili miłosierdzia, teraz zaś jako ci, którzy miłosierdzia doznali.
 
-   -- 1 P 2, 9- 10
+   -- 1 P 2,9-10
 
 =========================================
 Modlitwa

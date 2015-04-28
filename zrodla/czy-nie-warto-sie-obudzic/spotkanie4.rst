@@ -115,7 +115,7 @@ Przeczytajmy:
 
 * Co robie wtedy gdy łapie się na tym, że "zgubiłem sens" jakiegoś mojego działania?
 
-* Czy mam nawyk pytania się o~moje motywacje podejmowania jakiś działań w~myśl 2 Kor 13, 5?
+* Czy mam nawyk pytania się o~moje motywacje podejmowania jakiś działań w~myśl 2 Kor 13,5?
 
 * **Czym się różni zgubienie celu od tego, że się go nie widzi?**
 
@@ -154,7 +154,7 @@ Często tak mamy, że za wszelką cenę chcemy utrzymać się w~"poczuciu sensu"
    | Kij Twój i~laska pasterska
    | są moją pociechą.
 
-   -- Psalm 23, 1-4
+   -- Psalm 23,1-4
 
 Bóg prowadzi po "właściwych ścieżkach", ale mimo to od razu w~następnej linijce jest mowa o~"ciemnej dolinie".
 
@@ -174,7 +174,7 @@ Przeczytajmy:
 
    Wy jesteście solą dla ziemi. Lecz jeśli sól utraci swój smak, czymże ją posolić? Na nic się już nie przyda, chyba na wyrzucenie i~podeptanie przez ludzi. **Wy jesteście światłem świata**. Nie może się ukryć miasto położone na górze. Nie zapala się też światła i~nie stawia pod korcem, ale na świeczniku, aby świeciło wszystkim, którzy są w~domu. Tak niech świeci wasze światło przed ludźmi, aby widzieli wasze dobre uczynki i~chwalili Ojca waszego, który jest w~niebie.
 
-   -- Mt 5, 13-16
+   -- Mt 5,13-16
 
 * Jeżeli jesteśmy naprawdę światłością świata (w dzisiejszej ewangelii też pada to określenie) to czy nie mamy właśnie iść na cały świat? Czy ciemne doliny nie potrzebują najmocniej rozświetlenia?
 
