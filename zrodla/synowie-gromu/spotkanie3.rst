@@ -156,7 +156,9 @@ Przeczytajmy wiersz Laputa autorstwa Jacka Kaczmarskiego:
     | Trzeba uderzać ich po uszach
     | By w żywy się wsłuchali los -
     | Trzeba uderzać ich po ustach
-    | By mogli własny wydać głos.	Ale króciutko trwa ocknienie
+    | By mogli własny wydać głos.
+    |
+    | Ale króciutko trwa ocknienie
     | Nim wrócą we wszechwiedny sen,
     | A nam, z pałaców ich, kamienie
     | Lecą na głowy w biały dzień.

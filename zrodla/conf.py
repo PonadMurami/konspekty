@@ -53,7 +53,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Konspekty spotkań grupowych'
-copyright = u'2014, Diakonia Rekolekcji Weekendowych'
+copyright = u'2015, Diakonia Rekolekcji Weekendowych'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -70,7 +70,7 @@ language = 'pl'
 
 # There are two options for replacing |today|: either, you set today to some
 # non-false value, then it is used:
-today = u'Wrzesień 2014'
+today = u'Maj 2015'
 # Else, today_fmt is used as the format for a strftime call.
 #today_fmt = '%m-%d-%Y'
 
@@ -269,7 +269,7 @@ texinfo_documents = [
 epub_title = u'Konspekty spotkań grupowych'
 epub_author = u'Diakonia Oaz Weekendowych'
 epub_publisher = u'Diakonia Oaz Weekendowych'
-epub_copyright = u'2014, Diakonia Oaz Weekendowych'
+epub_copyright = u'2015, Diakonia Oaz Weekendowych'
 
 # The basename for the epub file. It defaults to the project name.
 epub_basename = u'konspekty'
