@@ -18,6 +18,7 @@ Opis rekolekcji:
     .. rubric:: Spis konspektów spotkań w~grupach
 
 .. toctree::
+   dokument-programowy.rst
    spotkanie1.rst
    spotkanie2.rst
    spotkanie3.rst
