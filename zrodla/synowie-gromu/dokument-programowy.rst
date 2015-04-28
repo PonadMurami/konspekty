@@ -9,7 +9,7 @@ Wprowadzenie
 Koncepcja autora wobec przedstawienia tematu jest obarczona ryzykiem projekcji przeżyć duchowych na konkretnego człowieka, co jest zranieniem jego indywidualności i~wrażliwości. Forma ta winna być więc traktowana ze stosowną rezerwą i~służyć jedynie jako ułatwienie w~zobaczeniu całości linii programowej rekolekcji w~spójnej formie. Może służyć jako weryfikator poszczególnych materiałów z~globalną wizją. Absolutnie nie może służyć jako jakakolwiek forma ewaluacji rekolekcji.
 
 =====================================
-1. Tęsknota (piątek)
+Tęsknota (piątek)
 =====================================
 
 .. note:: Część "widzieć"
@@ -23,13 +23,13 @@ Jestem człowiekiem, który wie o~Chrystusie, wie o~Kerygmacie i~który wie nawe
 Tak - jestem człowiekiem cielesnym. Nie patrzę jak buntownik na słowa wiary, raczej jest we mnie smutek, że “nie dorastam” do ich wymagań. **Jest we mnie tęsknota za życiem, które byłoby Pełne**. Czy walczyłem o~takie? Już niejeden raz - prędzej czy później jest taki dzień jak dzisiaj - siadam i~zastanawiam się dlaczego inni potrafią, a~ja nie.
 
 =====================================
-2. Ucieczka i~Przerastanie (piątek)
+Ucieczka i~Przerastanie (piątek)
 =====================================
 
 Mam poczucie, że to wszystko jest dla mnie za trudne, że przerasta moje siły i~możliwości. Pomyślałem ostatnio, że widocznie tak jest, że w~Kościele są mocne jednostki, które potrafią dotykać gwiazd i~tacy, dla których to niedostępne. Wielkie rzeczy nie są dla mnie, powinienem raczej myśleć realistycznie, przecież nie będę drugim św. Pawłem. Przyznaję, że czasami zwyczajnie mam ochotę schować się pod kołdrę i~od wszystkiego się odciąć. **Dobrze mi z~tym, co mam. Przynajmniej nie przeżywam rozczarowań, a~przecież wiem jak bardzo są bolesne**. Gdy nazywam to pokorą to lepiej się z~tym czuję.
 
 =====================================
-3. Natchnienie (sobota I)
+Natchnienie (sobota I)
 =====================================
 
 .. note:: Część "osądzić"
@@ -43,7 +43,7 @@ Przeczytałem ostatnio taki fragment:
 Nie potrafię przestać o~tym myśleć. To słowo nie skierowane do jednego człowieka, ale do całej wspólnoty. Dlaczego Bóg woli, abym raczej był zimny niż letni? Czy bycie gorącym naprawdę dostępne jest dla wszystkich? Usłyszałem dzisiaj od kilku osób (o których wiem, że poświęcili bardzo dużą część swojego życia tylko dla jednej sprawy), że mieli takie same wątpliwości jak ja. Niektórzy z~nich mają je nadal - w~życiu bym tego nie podejrzewał. **Mówili o~ich odczuciu, że to nie ich siłami dokonują się rzeczy**. Mówili o~**odwadze do radykalnego przemienienia życia**. Mówili jak ludzie, którzy odkryli swoje miejsce. Usłyszałem z~ich ust pytanie o~to, co ja chcę swoim życiem zmienić. Dziwnie się poczułem - zawsze na rekolekcjach pytali mnie o~to, co chcę zmienić w~swoim życiu, a~teraz nie koncentrujemy się na mnie, tylko na świecie. Tych ludzi napędza jakaś idea. Mówią o~służbie drugim, o~odnajdywaniu w~tym siebie. **Co mnie napędza?** Czy jestem gotowy poświęcić temu większość swojego czasu? Ktoś mówiąc o~ludziach w~Kościele postawił takie pytanie: “Sympatycy czy chrześcijanie?”. **Ta sprawa stała się dla mnie jasna - zdecydowanie nie chcę być sympatykiem.**
 
 ==============================================
-4. Wytrwałość, wierność, gorliwość (sobota II)
+Wytrwałość, wierność, gorliwość (sobota II)
 ==============================================
 
 Obraz, który ciągle mam przed oczami: stanęli przed nami nasi animatorzy i~opowiadali o~wierności i~wytrwałości oraz o~swojej walce o~nie. **“Wierność” to obecnie niezbyt popularne słowo**. Mówili o~różnych obliczach wierności: wierności modlitwie, wierności tajemnicy, wierności drugiej osobie, itd. Byłem zaskoczony. Jedna część była w~tym wspólna: wierność to decyzja na gotowość do zaangażowania, którą się nieustannie ponawia. Ciągle myślę o~Kościele jako o~miejscu, gdzie są podawane wymagania, a~moim obowiązkiem jest starać się im sprostać - o~własnych siłach. Gdy mi nie wychodzi - jest źle. Gdy się udaje - jest dobrze. Dzisiaj spojrzałem inaczej - wierność to współpraca obu stron. **“Nie wystarczy wierzyć w~Boga, trzeba być Mu wiernym”**.
@@ -59,7 +59,7 @@ Przeczytałem dzisiaj:
 Droga do bycia gorącym, do radykalnego chrześcijaństwa nie ma wiele wspólnego z~błyskiem zapałki. Kluczem jest wierność. Bóg jest wierny swoim obietnicom i~łaskawy. Za chwilę idę na modlitwę wieczorną, na której mam prosić Go o~pomoc. **Bóg nie jest Wielkim Egzaminatorem, który chce sprawdzić moje umiejętności w~zachowywaniu Jego Prawa, ale chce mi pomóc jak tylko potrafi i~czeka na moją otwartość**.
 
 ==============================================
-5. Spełnienie (niedziela)
+Spełnienie (niedziela)
 ==============================================
 
 .. note:: Część "działać"
