@@ -6,6 +6,7 @@ module.exports = function(grunt) {
 	grunt.loadNpmTasks("grunt-mkdir");
 	grunt.loadNpmTasks("grunt-ftp-deploy");
 	grunt.loadNpmTasks("grunt-contrib-connect");
+    grunt.loadNpmTasks("grunt-text-replace");
 	
 	grunt.initConfig({
 		connect: {
@@ -69,7 +70,17 @@ module.exports = function(grunt) {
 					"make epub"
 				].join(" && ")
 			}
-		}
+		},
+        replace: {
+            rst: {
+                src: ['zrodla/wprowadzenie-do-weekendowek/index.rst'],
+                overwrite: true,
+                replacements: [{
+                    from: / (w|W|i|I|z|Z|o|O|a|A|u|U) /g,
+                    to: " $1~"
+                }]
+            }
+        }
 	});	
 	
 	grunt.task.registerTask("make", ["mkdir", "shell:makeAll", "copy:main", "shell:makeMobi"]);
