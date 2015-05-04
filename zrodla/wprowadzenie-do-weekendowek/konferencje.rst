@@ -7,4 +7,4 @@ Okiem diakonii głoszenia
 * Głoszenie przez świeckich
 * Jeden mówi - wszyscy tak naprawdę walczą
 * Konferencja czy świadectwo? Po co rozróżniać!
-* Dobre konferencje są zaraźliwe - o nadawaniu kierunku
+* Dobre konferencje są zaraźliwe - o~nadawaniu kierunku

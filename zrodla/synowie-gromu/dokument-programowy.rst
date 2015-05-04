@@ -14,9 +14,9 @@ Tęsknota (piątek)
 
 .. note:: Część "widzieć"
 
-Jestem człowiekiem, który wie o~Chrystusie, wie o~Kerygmacie i~który wie nawet o~priorytecie Miłości w~życiu. Mam całkiem sporą wiedzę. Widzę jednak, że moje życie jest inne. W Piśmie Świętym odnajduję fragment, który doskonale opisuje mój stan:
+Jestem człowiekiem, który wie o~Chrystusie, wie o~Kerygmacie i~który wie nawet o~priorytecie Miłości w~życiu. Mam całkiem sporą wiedzę. Widzę jednak, że moje życie jest inne. W~Piśmie Świętym odnajduję fragment, który doskonale opisuje mój stan:
 
-    Jestem bowiem świadom, że we mnie, to jest w~moim ciele, nie mieszka dobro; bo łatwo przychodzi mi chcieć tego, co dobre, ale wykonać — nie. Nie czynię bowiem dobra, którego chcę, ale czynię to zło, którego nie chcę. Jeżeli zaś czynię to, czego nie chcę, już nie ja to czynię, ale grzech, który we mnie mieszka. A zatem stwierdzam w~sobie to prawo, że gdy chcę czynić dobro, narzuca mi się zło. Albowiem wewnętrzny człowiek we mnie ma upodobanie zgodne z~Prawem Bożym. W członkach zaś moich spostrzegam prawo inne, które toczy walkę z~prawem mojego umysłu i~podbija mnie w~niewolę pod prawo grzechu mieszkającego w~moich członkach. Nieszczęsny ja człowiek! Któż mnie wyzwoli z~ciała, co wiedzie ku tej śmierci? Dzięki niech będą Bogu przez Jezusa Chrystusa, Pana naszego! Tak więc umysłem służę Prawu Bożemu, ciałem zaś — prawu grzechu.
+    Jestem bowiem świadom, że we mnie, to jest w~moim ciele, nie mieszka dobro; bo łatwo przychodzi mi chcieć tego, co dobre, ale wykonać — nie. Nie czynię bowiem dobra, którego chcę, ale czynię to zło, którego nie chcę. Jeżeli zaś czynię to, czego nie chcę, już nie ja to czynię, ale grzech, który we mnie mieszka. A~zatem stwierdzam w~sobie to prawo, że gdy chcę czynić dobro, narzuca mi się zło. Albowiem wewnętrzny człowiek we mnie ma upodobanie zgodne z~Prawem Bożym. W~członkach zaś moich spostrzegam prawo inne, które toczy walkę z~prawem mojego umysłu i~podbija mnie w~niewolę pod prawo grzechu mieszkającego w~moich członkach. Nieszczęsny ja człowiek! Któż mnie wyzwoli z~ciała, co wiedzie ku tej śmierci? Dzięki niech będą Bogu przez Jezusa Chrystusa, Pana naszego! Tak więc umysłem służę Prawu Bożemu, ciałem zaś — prawu grzechu.
 
     -- Rz 7,18–25
 
@@ -36,7 +36,7 @@ Natchnienie (sobota I)
 
 Przeczytałem ostatnio taki fragment:
 
-    Znam twoje czyny, że ani zimny, ani gorący nie jesteś. Obyś był zimny albo gorący! A tak, skoro jesteś letni i~ani gorący, ani zimny, chcę cię wyrzucić z~mych ust. Ty bowiem mówisz: "Jestem bogaty", i~"wzbogaciłem się", i~"niczego mi nie potrzeba", a~nie wiesz, że to ty jesteś nieszczęsny i~godzien litości, i~biedny i~ślepy, i~nagi. Radzę ci kupić u mnie złota w~ogniu oczyszczonego, abyś się wzbogacił, i~białe szaty, abyś się oblókł, a~nie ujawniła się haniebna twa nagość, i~balsamu do namaszczenia twych oczu, byś widział.
+    Znam twoje czyny, że ani zimny, ani gorący nie jesteś. Obyś był zimny albo gorący! A~tak, skoro jesteś letni i~ani gorący, ani zimny, chcę cię wyrzucić z~mych ust. Ty bowiem mówisz: "Jestem bogaty", i~"wzbogaciłem się", i~"niczego mi nie potrzeba", a~nie wiesz, że to ty jesteś nieszczęsny i~godzien litości, i~biedny i~ślepy, i~nagi. Radzę ci kupić u~mnie złota w~ogniu oczyszczonego, abyś się wzbogacił, i~białe szaty, abyś się oblókł, a~nie ujawniła się haniebna twa nagość, i~balsamu do namaszczenia twych oczu, byś widział.
 
     -- Ap 3,15-18
 

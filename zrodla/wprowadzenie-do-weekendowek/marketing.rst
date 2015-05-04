@@ -9,5 +9,5 @@ Okiem diakonii marketingu
 * Marketing szeptany
 * Budowanie grona przywiązanych osób
 * Element rozpoznawczy
-* Spotkania z bierzmowańcami
-* Spotkania w szkołach
+* Spotkania z~bierzmowańcami
+* Spotkania w~szkołach

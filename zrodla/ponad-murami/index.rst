@@ -11,7 +11,7 @@ Miejsce powstania konspektów:
 Grupa docelowa:
     Ludzie nie należący do Ruchu Światło-Życie od gimnazjum po studentów
 Opis rekolekcji:
-    "Ponad murami" są rekolekcjami "na start" opartymi na historii Zacheusza, a~konkretniej na jego spotkaniu z Panem Jezusem. Chcieliśmy zainspirować ludzi, pokazać im, że życie jest przygodą, którą należy czerpać pełnymi garściami. W~czasie pierwszego spotkania mówiliśmy o naszych pragnieniach oraz o podejmowaniu decyzji, drugie spotkanie miało na celu uświadomienie uczestnikom, że pomimo swoich barier i~niedoskonałości możemy, tak jak Zacheusz, wspiąć się na sykomorę i~dostrzec to, czego nie widzieliśmy do tej pory. Ostatnie spotkanie miało skonfrontować uczestników z pytaniem "Co dalej?", miało przygotować ich do podjęcia drogi chrześcijańskiej wspólnoty. Kulminacyjnym momentem rekolekcji była modlitwa wieczorna, podczas której każdy mógł przyjąć Jezusa jako swojego Zbawiciela i~Pana.
+    "Ponad murami" są rekolekcjami "na start" opartymi na historii Zacheusza, a~konkretniej na jego spotkaniu z~Panem Jezusem. Chcieliśmy zainspirować ludzi, pokazać im, że życie jest przygodą, którą należy czerpać pełnymi garściami. W~czasie pierwszego spotkania mówiliśmy o~naszych pragnieniach oraz o~podejmowaniu decyzji, drugie spotkanie miało na celu uświadomienie uczestnikom, że pomimo swoich barier i~niedoskonałości możemy, tak jak Zacheusz, wspiąć się na sykomorę i~dostrzec to, czego nie widzieliśmy do tej pory. Ostatnie spotkanie miało skonfrontować uczestników z~pytaniem "Co dalej?", miało przygotować ich do podjęcia drogi chrześcijańskiej wspólnoty. Kulminacyjnym momentem rekolekcji była modlitwa wieczorna, podczas której każdy mógł przyjąć Jezusa jako swojego Zbawiciela i~Pana.
 
 
 .. only:: html

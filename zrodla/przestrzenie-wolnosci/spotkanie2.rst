@@ -70,7 +70,7 @@ Bóg próśb wysłuchuje, ale wysłuchuje próśb swoich dzieci. Warunkiem jest 
    -- Św. Jan Chryzostom
 
 * Ile razy zdarzało Ci się prosić o~coś bez większej wiary w~wysłuchanie?
-* Ile razy prośba stawała się rutynowym	wymienianiem rzeczy, jakby z przyzwyczajenia?
+* Ile razy prośba stawała się rutynowym	wymienianiem rzeczy, jakby z~przyzwyczajenia?
 
 =========================================
 Podsumowanie

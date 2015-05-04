@@ -73,7 +73,7 @@ module.exports = function(grunt) {
 		},
         replace: {
             rst: {
-                src: ['zrodla/wprowadzenie-do-weekendowek/index.rst'],
+                src: ['zrodla/**/*.rst'],
                 overwrite: true,
                 replacements: [{
                     from: / (w|W|i|I|z|Z|o|O|a|A|u|U) /g,
@@ -83,7 +83,7 @@ module.exports = function(grunt) {
         }
 	});	
 	
-	grunt.task.registerTask("make", ["mkdir", "shell:makeAll", "copy:main", "shell:makeMobi"]);
+	grunt.task.registerTask("make", ["mkdir", "replace", "shell:makeAll", "copy:main", "shell:makeMobi"]);
 	grunt.task.registerTask("deploy", ["ftp-deploy"]);
 	grunt.task.registerTask("server", ["connect"]);
 	grunt.registerTask("default", ["mkdir", "watch:html"]);

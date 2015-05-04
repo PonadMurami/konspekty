@@ -11,7 +11,7 @@ Miejsce powstania konspektów:
 Grupa docelowa:
     Rekolekcje otwarte dla ludzi od 13 do 23 roku życia
 Opis rekolekcji:
-    Rekolekcje wielkanocne o radykaliźmie ewangelicznym
+    Rekolekcje wielkanocne o~radykaliźmie ewangelicznym
 
 .. only:: html
 

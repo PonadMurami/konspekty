@@ -21,7 +21,7 @@ Zaczynamy dzisiaj rekolekcje, których siła nie polega na nowych treściach lec
     | By móc podarować prywatne zachwyty
     | Komuś, przed kim zachwyt - goryczą zakryty.
     | By móc się podzielić swoim niepokojem
-    | Z kimś, kto tak się boi przyznać: ja się boję!
+    | Z~kimś, kto tak się boi przyznać: ja się boję!
     | By to, co słabością, bólem i~kalectwem
     | Stało się modlitwą, światłem i~świadectwem.
 
@@ -43,11 +43,11 @@ Wprowadzenie do spotkania
 
 Na początku spotkania musimy się poznać. Użyjemy do tego metody “niedokończonych zdań”. Animator rozdaje każdemu uczestnikowi kartkę z~10 zdaniami (patrz załącznik). Następnie każdy podpisuje swoją kartkę i~uzupełnia zdania. Informujemy, że to co wpisujemy będzie prezentowane innym. Następnie każdy prezentuje swoje odpowiedzi, a~grupa zadaje każdemu pytania o~jedną rzecz, aby rozwinąć. Dla animatora jest to szansa, aby wychwycić pierwsze informacje o~swoich uczestnikach.
 
-* Cenię u innych…
+* Cenię u~innych…
 * Uśmiecham się, gdy…
 * W~ życiu osobistym pragnę…
 * Mój charakter…
-* U ludzi drażni mnie…
+* U~ludzi drażni mnie…
 * Moje słabe strony to…
 * Moje mocne strony to…
 * Na pierwszym miejscu jest dla mnie…
@@ -91,7 +91,7 @@ Tęsknota serca
 
 .. note:: ~15 minut.
 
-Na świecie jest sporo rzeczy przykrych z~powodów arbitralnych jak pogoda. Mogą sprawiać dyskomfort. Ale dużo bardziej od wizji pięknego świata oddziela nas zachowanie człowieka. Nie tylko zachowanie “tego drugiego człowieka, mojego sąsiada”, ale także mnie samego. Z drugiej strony jest w~nas przecież pragnienie dobra! Dlaczego w~takim razie się to nam nie udaje?
+Na świecie jest sporo rzeczy przykrych z~powodów arbitralnych jak pogoda. Mogą sprawiać dyskomfort. Ale dużo bardziej od wizji pięknego świata oddziela nas zachowanie człowieka. Nie tylko zachowanie “tego drugiego człowieka, mojego sąsiada”, ale także mnie samego. Z~drugiej strony jest w~nas przecież pragnienie dobra! Dlaczego w~takim razie się to nam nie udaje?
 
 Być może ktoś przed chwilą powiedział, że potrzebowałby 200 mld dolarów. No tak - nie mamy ich, więc się nam nie udaje. Być może ktoś przed chwilą powiedział, że potrzebowałby by doba miała 40h. No tak - doba ma tylko 24h, więc się nam nie udaje. Być może ktoś przed chwilą powiedział, że musiałby być prezydentem USA. Nikt z~nas prawdopodobnie nie jest, więc się nam nie udaje. Być może ktoś przed chwilą powiedział, że….
 
@@ -105,7 +105,7 @@ Pisaliśmy o~świecie. Napiszmy teraz o~sobie, tym razem nie będziemy tego czyt
 
 Przeczytajmy:
 
-    Jestem bowiem świadom, że we mnie, to jest w~moim ciele, nie mieszka dobro; bo łatwo przychodzi mi chcieć tego, co dobre, ale wykonać — nie. Nie czynię bowiem dobra, którego chcę, ale czynię to zło, którego nie chcę. Jeżeli zaś czynię to, czego nie chcę, już nie ja to czynię, ale grzech, który we mnie mieszka. A zatem stwierdzam w~sobie to prawo, że gdy chcę czynić dobro, narzuca mi się zło. Albowiem wewnętrzny człowiek we mnie ma upodobanie zgodne z~Prawem Bożym. W~ członkach zaś moich spostrzegam prawo inne, które toczy walkę z~prawem mojego umysłu i~podbija mnie w~niewolę pod prawo grzechu mieszkającego w~moich członkach. Nieszczęsny ja człowiek! Któż mnie wyzwoli z~ciała, co wiedzie ku tej śmierci? Dzięki niech będą Bogu przez Jezusa Chrystusa, Pana naszego! Tak więc umysłem służę Prawu Bożemu, ciałem zaś — prawu grzechu.
+    Jestem bowiem świadom, że we mnie, to jest w~moim ciele, nie mieszka dobro; bo łatwo przychodzi mi chcieć tego, co dobre, ale wykonać — nie. Nie czynię bowiem dobra, którego chcę, ale czynię to zło, którego nie chcę. Jeżeli zaś czynię to, czego nie chcę, już nie ja to czynię, ale grzech, który we mnie mieszka. A~zatem stwierdzam w~sobie to prawo, że gdy chcę czynić dobro, narzuca mi się zło. Albowiem wewnętrzny człowiek we mnie ma upodobanie zgodne z~Prawem Bożym. W~ członkach zaś moich spostrzegam prawo inne, które toczy walkę z~prawem mojego umysłu i~podbija mnie w~niewolę pod prawo grzechu mieszkającego w~moich członkach. Nieszczęsny ja człowiek! Któż mnie wyzwoli z~ciała, co wiedzie ku tej śmierci? Dzięki niech będą Bogu przez Jezusa Chrystusa, Pana naszego! Tak więc umysłem służę Prawu Bożemu, ciałem zaś — prawu grzechu.
 
     -- Rz 7,18–25
 
@@ -147,7 +147,7 @@ Przeczytajmy:
 
 * Za co św. Paweł gani Koryntian?
 
-Koryntianie bardziej koncentrowali się na tym, kim jest osoba, która przekazuje im Dobrą Nowinę, zamiast na tym od kogo ta nauka pochodziła. Zachowywali się zatem niedojrzale. Chcieli dobrze! Przecież słuchali Dobrej Nowiny! Mimo to jednak wkradła się w~ich życie niedoskonałość. Z naszej perspektywy jest ona oczywista i~duża, ale dla nich na ich etapie rozwoju wiary nie było to jasne i~św. Paweł musiał reagować.
+Koryntianie bardziej koncentrowali się na tym, kim jest osoba, która przekazuje im Dobrą Nowinę, zamiast na tym od kogo ta nauka pochodziła. Zachowywali się zatem niedojrzale. Chcieli dobrze! Przecież słuchali Dobrej Nowiny! Mimo to jednak wkradła się w~ich życie niedoskonałość. Z~naszej perspektywy jest ona oczywista i~duża, ale dla nich na ich etapie rozwoju wiary nie było to jasne i~św. Paweł musiał reagować.
 
 * Jak się zachowujesz gdy mimo dobrych i~szczerych chęci coś Ci nie wychodzi?
 
@@ -187,7 +187,7 @@ Radykalizm czy fanatyzm?
 
 W czasie rekolekcji będziemy prawdopodobnie często używali słów: gorliwy, radykalny. Każdy może te słowa rozumieć inaczej.
 
-* Z czym kojarzy Ci się słowo “radykał” i~“radykalizm”?
+* Z~czym kojarzy Ci się słowo “radykał” i~“radykalizm”?
 
 * Co dobrego może być w~radykalizmie?
 
@@ -200,7 +200,7 @@ Warto w~tym miejscu (jeżeli czas na to pozwala) podyskutować z~grupą podając
 3. Zejście w~górach ze szlaku 20 km w~poszukiwaniu Kościoła w~niedzielę - fanatyzm czy pozytywny radykalizm?
 4. Zrezygnowanie z~pasji himalaizmu ponieważ atak na szczyt trwa więcej niż 7 dni i~jest związany z~opuszczeniem niedzielnej Eucharystii - fanatyzm czy pozytywny radykalizm?
 5. Powtórzenie całej dziesiątki różańca jeżeli się nie miało pewności czy się dobrze przesuwało palce na różańcu - fanatyzm czy pozytywny radykalizm?
-6. Z powodu spóźnienia na Mszę niedzielną o~8:00 o~2 minuty wrócenie do domu i~przyjście odpowiednio wcześniej na kolejną Eucharystię - fanatyzm czy pozytywny radykalizm?
+6. Z~powodu spóźnienia na Mszę niedzielną o~8:00 o~2 minuty wrócenie do domu i~przyjście odpowiednio wcześniej na kolejną Eucharystię - fanatyzm czy pozytywny radykalizm?
 7. Temperatura 38 st. nie jest wystarczającym powodem, by nie pójść do kościoła w~niedzielę - fanatyzm czy pozytywny radykalizm?
 8. Czekanie na zielone światło, choć jezdnia jest pusta. - fanatyzm czy pozytywny radykalizm?
 

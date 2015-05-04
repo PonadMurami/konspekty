@@ -6,4 +6,4 @@ Okiem diakonii leitmotiv-u
 * Pozwala rozróżniać rekolekcje pomiędzy sobą
 * Dobry wentyl bezpieczeństwa
 * Zawsze ma znaczenie!
-* Tworzy klimat, przestrzeń z którą się identyfikujemy
+* Tworzy klimat, przestrzeń z~którą się identyfikujemy

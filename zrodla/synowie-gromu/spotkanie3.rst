@@ -45,7 +45,7 @@ Patrząc na ich opis autora listu można by ich spokojnie nazwać Synami Gromu. 
 
 Przeczytajmy:
 
-    Wstał więc o~świcie Jerubbaal, czyli Gedeon, wraz z~całym zgromadzonym ludem i~rozbił obóz u źródeł Charod. Obozowisko Madianitów leżało na północ od pagórka More w~dolinie.  Pan rzekł do Gedeona: «Zbyt liczny jest lud przy tobie, abym w~jego ręce wydał Madianitów, gdyż Izrael mógłby przywłaszczyć sobie chwałę z~pominięciem Mnie i~mówić: "Moja ręka wybawiła mnie".  Wobec tego tak wołaj do uszu ludu: Ten, który się boi i~drży, niech zawróci ku górze Gilead i~chroni się». Tak więc odeszło z~ludu dwadzieścia dwa tysiące, a~pozostało dziesięć tysięcy.  Rzekł Pan do Gedeona: «Jeszcze zbyt liczny jest lud. Zaprowadź go nad wodę, gdzie ci go wypróbuję. Będzie tak: o~którym powiem: Ten pójdzie z~tobą! - on pójdzie z~tobą. O którym zaś powiem: Ten nie pójdzie z~tobą! - on nie pójdzie». Zaprowadził więc lud nad wodę, a~Pan rzekł do Gedeona: «Wszystkich, którzy będą wodę chłeptać językiem, podobnie jak pies, pozostawisz po jednej stronie, a~tych wszystkich, którzy przy piciu uklękną, pozostawisz po drugiej stronie».  Liczba tych, którzy chłeptali z~ręki podnoszonej do ust, wynosiła trzystu mężów. Wszyscy inni pijąc zginali kolana.  Rzekł wówczas Pan do Gedeona: «Przy pomocy tych trzystu mężów, którzy chłeptali wodę językiem, wybawię was i~w ręce twoje wydam Madianitów. Wszyscy inni mężowie niech wracają do siebie».  Lud wziął ze sobą żywność i~rogi, a~Gedeon odesłał mężów izraelskich, każdego do swego namiotu, z~wyjątkiem owych trzystu mężów. A obóz Madianitów znajdował się w~dolinie poniżej jego stanowiska.
+    Wstał więc o~świcie Jerubbaal, czyli Gedeon, wraz z~całym zgromadzonym ludem i~rozbił obóz u~źródeł Charod. Obozowisko Madianitów leżało na północ od pagórka More w~dolinie.  Pan rzekł do Gedeona: «Zbyt liczny jest lud przy tobie, abym w~jego ręce wydał Madianitów, gdyż Izrael mógłby przywłaszczyć sobie chwałę z~pominięciem Mnie i~mówić: "Moja ręka wybawiła mnie".  Wobec tego tak wołaj do uszu ludu: Ten, który się boi i~drży, niech zawróci ku górze Gilead i~chroni się». Tak więc odeszło z~ludu dwadzieścia dwa tysiące, a~pozostało dziesięć tysięcy.  Rzekł Pan do Gedeona: «Jeszcze zbyt liczny jest lud. Zaprowadź go nad wodę, gdzie ci go wypróbuję. Będzie tak: o~którym powiem: Ten pójdzie z~tobą! - on pójdzie z~tobą. O~którym zaś powiem: Ten nie pójdzie z~tobą! - on nie pójdzie». Zaprowadził więc lud nad wodę, a~Pan rzekł do Gedeona: «Wszystkich, którzy będą wodę chłeptać językiem, podobnie jak pies, pozostawisz po jednej stronie, a~tych wszystkich, którzy przy piciu uklękną, pozostawisz po drugiej stronie».  Liczba tych, którzy chłeptali z~ręki podnoszonej do ust, wynosiła trzystu mężów. Wszyscy inni pijąc zginali kolana.  Rzekł wówczas Pan do Gedeona: «Przy pomocy tych trzystu mężów, którzy chłeptali wodę językiem, wybawię was i~w ręce twoje wydam Madianitów. Wszyscy inni mężowie niech wracają do siebie».  Lud wziął ze sobą żywność i~rogi, a~Gedeon odesłał mężów izraelskich, każdego do swego namiotu, z~wyjątkiem owych trzystu mężów. A~obóz Madianitów znajdował się w~dolinie poniżej jego stanowiska.
 
     -- Sdz 7,1-8
 
@@ -53,7 +53,7 @@ Przeczytajmy:
 
 * Ilu wojowników zostało na końcu? (300 wojowników)
 
-Nie musimy traktować tych liczb dosłownie. Z całej armii pozostał niecały 1%, czyli “bardzo bardzo mało”.
+Nie musimy traktować tych liczb dosłownie. Z~całej armii pozostał niecały 1%, czyli “bardzo bardzo mało”.
 
 * Jak czuje się 300 żołnierzy, którzy mają iść zwyciężyć licznego nieprzyjaciela? Jakie myśli ma w~głowie?
 
@@ -137,7 +137,7 @@ Stwórzmy teraz drugą listę. Listę spraw wiary w~których spotkaliśmy się z
 
 * Czy było Ci ciężko czy łatwo stworzyć taką listę? Dlaczego?
 
-* O czym to świadczy?
+* O~czym to świadczy?
 
 .. note:: Oczywiście być może będą uczestnicy dla których stworzenie obu list nie będzie większym problemem. Bogu za takich dziękować! Wtedy należy zmienić akcent na: co łatwiej było stworzyć?
 
@@ -160,7 +160,7 @@ Przeczytajmy wiersz Laputa autorstwa Jacka Kaczmarskiego:
     |
     | Ale króciutko trwa ocknienie
     | Nim wrócą we wszechwiedny sen,
-    | A nam, z~pałaców ich, kamienie
+    | A~nam, z~pałaców ich, kamienie
     | Lecą na głowy w~biały dzień.
     |
     | Nie wiedzą już, choć wiedzą wszystko
@@ -171,7 +171,7 @@ Przeczytajmy wiersz Laputa autorstwa Jacka Kaczmarskiego:
     | Nikt nigdy ich już nie obudzi,
     | Śmiech z~klątwą się na usta cisną…
     | Głupio jest żyć wśród mądrych ludzi
-    | Z ich piękną Latającą Wyspą.
+    | Z~ich piękną Latającą Wyspą.
 
     -- Laputa, Jacek Kaczmarski
 
@@ -201,7 +201,7 @@ Chcemy być Chrystusowi. Jeździmy na rekolekcje, chodzimy na spotkania, modlimy
 
 Przeczytajmy:
 
-    A kiedy im umył nogi, przywdział szaty i~znów zajął miejsce przy stole, rzekł do nich: «Czy rozumiecie, co wam uczyniłem?  Wy Mnie nazywacie "Nauczycielem" i~"Panem" i~dobrze mówicie, bo nim jestem.  Jeżeli więc Ja, Pan i~Nauczyciel, umyłem wam nogi, to i~wyście powinni sobie nawzajem umywać nogi.  Dałem wam bowiem przykład, abyście i~wy tak czynili, jak Ja wam uczyniłem.
+    A~kiedy im umył nogi, przywdział szaty i~znów zajął miejsce przy stole, rzekł do nich: «Czy rozumiecie, co wam uczyniłem?  Wy Mnie nazywacie "Nauczycielem" i~"Panem" i~dobrze mówicie, bo nim jestem.  Jeżeli więc Ja, Pan i~Nauczyciel, umyłem wam nogi, to i~wyście powinni sobie nawzajem umywać nogi.  Dałem wam bowiem przykład, abyście i~wy tak czynili, jak Ja wam uczyniłem.
 
     -- J 13,12-15
 
@@ -209,7 +209,7 @@ Przeczytajmy:
 
 Opisaną tutaj relacje lepiej oddają słowa uczeń-mistrz. Mistrz nie prawi kazań, mistrz daje przykład. Jezus nie przedstawia teorii w~jaki sposób należy umywać nogi (widocznie uznał, że to nie jest tak ważne?), a~potem nie robi sprawdzianu w~którym ocenia postępy swoich apostołów. To nie taka szkoła jaką znamy. W~Szkole Uczniów Chrystusa przygląda się temu co robi mistrz, a~później stara się go naśladować. Życie rodzi się z~życia!
 
-* Które sprawy, które “podejrzałeś/aś u Mistrza” wprowadziłeś/aś w~życie?
+* Które sprawy, które “podejrzałeś/aś u~Mistrza” wprowadziłeś/aś w~życie?
 
 * Co w~wierze jest Ci tak najbliższe, że poznałeś/aś to umysłem i~sercem?
 
@@ -229,7 +229,7 @@ Przeczytajmy:
 
 Głoszenie Ewangelii to nie tylko zadanie, to łaska. Umywanie nóg to naśladowanie mistrza. Głoszenie Ewangelii to stawanie się (na jakiś czas) nauczycielem dla innych.
 
-.. warning:: Animatorze: Opowiedz o~tym jak to jest być animatorem i~prowadzić innych do Jezusa. Opowiedz o~tym czy potrzebne Ci do tego było bardziej KODA czy bardziej otwarte serce i~odwaga? Dla części animatorów wskazówką będą takie słowa: “Powołani przez słowo Jezusa. Z pośród świata wybrani na światków, przyjmujemy zadanie i~łaskę czynić uczniów ze wszystkich narodów. W~tej wspólnocie jesteśmy Kościołem, **Uczniem Pana i~drogą dla uczniów**. Jak latorośl w~Winnym Krzewie, by być drzewem dojrzałym i~siewem.”
+.. warning:: Animatorze: Opowiedz o~tym jak to jest być animatorem i~prowadzić innych do Jezusa. Opowiedz o~tym czy potrzebne Ci do tego było bardziej KODA czy bardziej otwarte serce i~odwaga? Dla części animatorów wskazówką będą takie słowa: “Powołani przez słowo Jezusa. Z~pośród świata wybrani na światków, przyjmujemy zadanie i~łaskę czynić uczniów ze wszystkich narodów. W~tej wspólnocie jesteśmy Kościołem, **Uczniem Pana i~drogą dla uczniów**. Jak latorośl w~Winnym Krzewie, by być drzewem dojrzałym i~siewem.”
 
 ==============================================
 To jest mój czas

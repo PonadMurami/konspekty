@@ -67,7 +67,7 @@ Każdy z~uczestników otrzymuje następującą kartkę:
 | **"sprawy" które ciągle budzą wątpliwości**                                 |
 +-----------------------------------------------------------------------------+
 
-Prosimy o~wypełnienie jej starając się przypominać, że pytamy o **chwilę obecną**. Poinformujmy od razu, że pomimo, że to praca bardzo osobista z~założenia będziemy dzielili się tym co napisaliśmy! To nie oznacza, że mamy teraz "okłamywać siebie" nie piesząc czegoś...zapiszmy to, a~potem po prostu powiedzmy, że "jest tutaj coś, ale nie chce tego czytać na głos".
+Prosimy o~wypełnienie jej starając się przypominać, że pytamy o~**chwilę obecną**. Poinformujmy od razu, że pomimo, że to praca bardzo osobista z~założenia będziemy dzielili się tym co napisaliśmy! To nie oznacza, że mamy teraz "okłamywać siebie" nie piesząc czegoś...zapiszmy to, a~potem po prostu powiedzmy, że "jest tutaj coś, ale nie chce tego czytać na głos".
 
 Dzielimy się doświadczeniem (narazie bez czytania całości!):
 
