@@ -7,7 +7,7 @@ module.exports = function(grunt) {
 	grunt.loadNpmTasks("grunt-ftp-deploy");
 	grunt.loadNpmTasks("grunt-contrib-connect");
     grunt.loadNpmTasks("grunt-text-replace");
-	
+
 	grunt.initConfig({
 		connect: {
 			server: {
@@ -32,16 +32,16 @@ module.exports = function(grunt) {
 		mkdir: {
 			all: {
 				options: {
-					create: ['zbudowane']
+					create: ["zbudowane"]
 				}
 			}
 		},	
 		copy: {
 			main: {
 				files: [
-				  {expand: false, src: ['zrodla/.htaccess'], dest: 'zbudowane/html/.htaccess'},
-				  {expand: false, src: ['zbudowane/latex/konspekty.pdf'], dest: 'zbudowane/html/konspekty.pdf'},
-				  {expand: false, src: ['zbudowane/epub/konspekty.epub'], dest: 'zbudowane/html/konspekty.epub'},
+				  {expand: false, src: ["zrodla/.htaccess"], dest: "zbudowane/html/.htaccess"},
+				  {expand: false, src: ["zbudowane/latex/konspekty.pdf"], dest: "zbudowane/html/konspekty.pdf"},
+				  {expand: false, src: ["zbudowane/epub/konspekty.epub"], dest: "zbudowane/html/konspekty.epub"},
 				]
 			}
 		},
@@ -73,7 +73,7 @@ module.exports = function(grunt) {
 		},
         replace: {
             rst: {
-                src: ['zrodla/**/*.rst'],
+                src: ["zrodla/**/*.rst"],
                 overwrite: true,
                 replacements: [{
                     from: / (w|W|i|I|z|Z|o|O|a|A|u|U) /g,
