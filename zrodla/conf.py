@@ -53,7 +53,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Konspekty spotkań grupowych'
-copyright = u'2015, Diakonia Rekolekcji Weekendowych'
+copyright = u'2016, Diakonia Ponad Murami'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -70,7 +70,7 @@ language = 'pl'
 
 # There are two options for replacing |today|: either, you set today to some
 # non-false value, then it is used:
-today = u'Maj 2015'
+today = u'Kwiecień 2016'
 # Else, today_fmt is used as the format for a strftime call.
 #today_fmt = '%m-%d-%Y'
 
@@ -202,7 +202,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   ('index', 'konspekty.tex', u'Konspekty Rekolekcji Weekendowych',
-   u'Diakonia Rekolekcji Weekendowych', 'book')      
+   u'Diakonia Ponad Murami', 'book')
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -266,10 +266,10 @@ texinfo_documents = [
 # -- Options for Epub output ----------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = u'Konspekty spotkań grupowych'
-epub_author = u'Diakonia Oaz Weekendowych'
-epub_publisher = u'Diakonia Oaz Weekendowych'
-epub_copyright = u'2015, Diakonia Oaz Weekendowych'
+epub_title = u'Konspekty Rekolekcji Weekendowych'
+epub_author = u'Diakonia Ponad Murami'
+epub_publisher = u'Diakonia Ponad Murami'
+epub_copyright = u'2016, Diakonia Ponad Murami'
 
 # The basename for the epub file. It defaults to the project name.
 epub_basename = u'konspekty'

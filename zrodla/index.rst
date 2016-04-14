@@ -29,3 +29,4 @@ Spis Treści
    ponad-murami/index
    poczekalnia/index
    synowie-gromu/index
+   gora-blogoslawienstw/index
