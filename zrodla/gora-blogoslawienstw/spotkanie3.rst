@@ -184,6 +184,8 @@ Mimo, że jesteśmy ze sobą niecałe dwa dni spróbujemy w~duchu chrześcijańs
 
 * Co możemy zrobić jako mała grupa, aby Ci pomóc je obronić?
 
+.. note::  To miejsce animatora na świadectwo o~odnalezieniu “swojego miejsca na ziemi” w~diakonii (o ile jest to prawdą!)
+
 Zachęćmy grupę do działania. Przejdźmy z~mówienia o~miłosierdziu do jego czynienia. Tu i~teraz.
 
 **Wariant 1 (w gorącej wodzie kąpani):**
