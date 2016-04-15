@@ -58,16 +58,16 @@ Proponujemy przeprowadzenie kilku ćwiczeń, w~celu pokazania naszych teorii w~p
 Całe ćwiczenie polega na tym, żebyśmy potrafili spojrzeć na określoną sytuację stawiając się w~innej roli. Dobrze jest to sobie zwizualizować, więc można stworzyć na podłodze oś czasu. Okreslamy początek i~koniec oraz wiek, np. gdzie na osi znajduje się 18. rok życia. Następnie prosimy chętnego uczestnika, by przemieszczał się po osi, wcielając się w~różne role (10-latka, 50-latka lub 75-latka) i~opisywał, jak widzi tę sytuację w~danym momencie. Dwa pierwsze przykłady będą lepsze dla młodszych grup, a~dwa kolejne dla starszych.
 
 * Sytuacja 1.
-    16-letnia Marta chce iść na imprezę w~towarzystwie swojej koleżanki. Na miejsce muszą dojechać autobusem i~tak samo wrócić nad ranem. Przykładowe role: 16 lat -- sama Marta lub jej koleżanka, 40 lat -- na przykład ich rodzice, 65 lat -- dziadek, 7 lat -- młodszy brat.
+    16-letnia Marta chce iść na imprezę w~towarzystwie swojej koleżanki. Na miejsce muszą dojechać autobusem i~tak samo wrócić nad ranem. Przykładowe role: 16~lat -- sama Marta lub jej koleżanka, 40~lat -- na przykład ich rodzice, 65~lat -- dziadek, 7~lat -- młodszy brat.
 
 * Sytuacja 2.
-    15-letnia Gosia zawsze pozwala ściągać zadanie swojej koleżance Kamili. Przykładowe role: 7 lat -- dziecko, 15 lat -- same zainteresowane, 30 lat -- rodzice, 60 lat -- dziadkowie lub Gosia w~takim wieku.
+    15-letnia Gosia zawsze pozwala ściągać zadanie swojej koleżance Kamili. Przykładowe role: 7~lat -- dziecko, 15~lat -- same zainteresowane, 30~lat -- rodzice, 60~lat -- dziadkowie lub Gosia w~takim wieku.
 
 * Sytuacja 3.
-    Z~powodu niezadowolenia społecznego ogłoszono wcześniejsze wybory parlamentarne. Przykładowe role: 7 lat -- dziecko, 18 lat -- nastolatek, 40 lat -- dorosły, 80 lat -- osoba starsza.
+    Z~powodu niezadowolenia społecznego ogłoszono wcześniejsze wybory parlamentarne. Przykładowe role: 7~lat -- dziecko, 18~lat -- nastolatek, 40~lat -- dorosły, 80~lat -- osoba starsza.
 
 * Sytuacja 4.
-    30-letni Stanisław pracuje w~firmie, w~której zarabia 5 tysięcy złotych miesięcznie, co w~zupełności wystarcza na utrzymanie rodziny, ale nie spełnia się tam zawodowo i~nie ma perspektyw rozwoju. Przykładowe role: 7 lat -- syn, 18 lat -- nastolatek, 30 lat -- sam Stanisław, 60 lat -- człowiek ze starszego pokolenia.
+    30-letni Stanisław pracuje w~firmie, w~której zarabia 5~tysięcy złotych miesięcznie, co w~zupełności wystarcza na utrzymanie rodziny, ale nie spełnia się tam zawodowo i~nie ma perspektyw rozwoju. Przykładowe role: 7~lat -- syn, 18~lat -- nastolatek, 30~lat -- sam Stanisław, 60~lat -- człowiek ze starszego pokolenia.
 
 Wnioski (dyskusja):
 
@@ -95,11 +95,11 @@ Celem ćwiczenia jest pokazanie, że od tego jak podejdziemy do sytuacji, zależ
 Do wykonania ćwiczenia potrzebne są cztery osoby. Dwie będą w~jakimś konflikcie, a~dwie pomocnikami (po jednym na stronę konfliktu). Zadanie polega na odegraniu sceny kłótni, a~następnie poproszeniu o~pomoc.
 
 * Przebieg:
-    #. pomocnicy na chwilę wychodzą,
-    #. dwójka uczestników odgrywa scenkę przy reszcie grupy,
-    #. wychodzi jedna z~osób skonfliktowanych, wchodzi jeden pomocnik
-    #. druga strona konfliktu przekazuje pomocnikowi całą sytuację i~prosi go o~przekonanie oponenta do swojej racji,
-    #. następuje zamiana: te osoby wychodzą, wchodzą kolejne dwie -- powtarza się sytuacja z~prośbą o~pomoc,
+    #. pomocnicy na chwilę wychodzą;
+    #. dwójka uczestników odgrywa scenkę przy reszcie grupy;
+    #. wychodzi jedna z~osób skonfliktowanych, wchodzi jeden pomocnik;
+    #. druga strona konfliktu przekazuje pomocnikowi całą sytuację i~prosi go o~przekonanie oponenta do swojej racji;
+    #. następuje zamiana: te osoby wychodzą, wchodzą kolejne dwie -- powtarza się sytuacja z~prośbą o~pomoc;
     #. na koniec wszyscy wchodzą i~pomocnicy relacjonują jak widzą sytuację, która się wydarzyła.
 
 * Temat scenki:
