@@ -1,22 +1,18 @@
-***************************************************************
 Spotkanie 4. - Quo vadis?
-***************************************************************
+*************************
 
-==================================
 Cel
-==================================
+===
 
 To nie jest koniec rekolekcji. Spotkanie nie jest żadną klamrą czy finiszowaniem. Celem jest odnalezienie zastosowania w~życiu uczestników teorii rozważanej w~ciągu ostatnich dni. Odpowiedzieć sobie na pytanie co robić, aby mądrze iść w~kierunku celu. Przygotowanie na potknięcia bez "końca mojego świata". Zwrócenie uwagi na innych w~tej drodze.
 
-====================================
 Modlitwa
-====================================
+========
 
 Dostosowana do możliwości grupy.
 
-=========================================
 Wprowadzenie
-=========================================
+============
 
 Zastanawiamy się i~wiemy gdzie jesteśmy (dzień 1). Pytamy się siebie czy i~jak idziemy.  Szukaliśmy własnych ambicji i~celów, sensu (Spotkanie 2). Zostaliśmy wezwani przykładem drogi Jezusa do nie tylko mówienia o~drodze, ale konkretnego kroczenia, bo... to On jest tym, który przychodzi po to, aby nas obudzić i~podnieść do godności naszego powołania (Spotkanie 3), abyśmy budząc się otworzyli oczy i~widzieli więcej (Ewangelia niedzielna). Co teraz?
 
@@ -26,9 +22,8 @@ Jesteśmy razem z~Nim na drodze i~przed nami jedno proste pytanie: "gdzie teraz 
 
 * Czy odbieram dzisiejszy dzień jako nową szansę?
 
-=========================================
 Posiadanie celu - dokąd zmierzam?
-=========================================
+=================================
 
 Każdy z~uczestników otrzymuje kartkę z~tabelką:
 
@@ -81,9 +76,8 @@ Powinniśmy wiedzieć w~jakim kierunku idziemy, aby nie błądzić. Znamy kierun
 
 Ale to jak? Teraz trzeba być konsekwentnym i~z niczego nie rezygnować?! Tak się nie da!
 
-=========================================
 Nie zgubić celu sprzed oczu (?)
-=========================================
+===============================
 
 * Czy zdarzyło Ci się kiedyś stracić sens tego co robisz w~czasie wykonywania jakiejś czynności? Co to było?
 
@@ -133,9 +127,8 @@ Nie wiem zatem z~góry czy będę architektem czy grafikiem.... ale przez 30 ost
 
 * Jak bronić się przed rozmazaniem celu poprzez próbę podjęcia 100 rzeczy na raz? (Bóg! On kurde o~to się chce troszczyć! Pozwól mu!)
 
-=========================================
 Gubić odczucia, lecz zawsze ufać!
-=========================================
+=================================
 
 Często tak mamy, że za wszelką cenę chcemy utrzymać się w~"poczuciu sensu", świetle. Gdy w~naszym życiu **nie czujemy**, że ma ono sens to zakładamy, że od razu nie ma. Dzisiejszy psalm, tak doskonale znany wszystkim, że już praktycznie graniczy z~cudem, aby spróbować widzieć w~nim coś nowego, jest pod tym względem intrygujący:
 
@@ -180,9 +173,8 @@ Przeczytajmy:
 
 * Co dla mnie znaczy to wezwanie Jezusa?
 
-=========================================
 Spotkania w~czasie drogi
-=========================================
+========================
 
 .. note:: Polecam odwtorzyć utwór
 
@@ -222,9 +214,8 @@ Na drodze nie jesteśmy sami. Gdy dzisiaj na tych rekolekcjach 25 osób po raz k
 
 O tych ludziach na mojej drodze warto pamiętać. Warto nazwać po imieniu co od każdego z~nich otrzymałem, jaką rolę spełnił/spełnia w~naszej wędrówce.
 
-=========================================
 Podsumowanie – odwaga następnego kroku
-=========================================
+======================================
 
 Następny krok jest mój i~nikt za mnie go nie zrobi. Podsumujmy wspólnie:
 
@@ -309,8 +300,7 @@ Chrześcijaństwo to branie byka za rogi, życie pełne pasji, szukania i~znajdo
 
 ... a~wszędzie tam tyle dobra, którego możemy stać się udziałem - "Musimy tylko w~to uwierzyć".
 
-=========================================
 Zastosowanie
-=========================================
+============
 
 Dokąd zatem zmierzam? Nazwijmy to, nie zostawiajmy tego tylko w~głowie. Możemy to powiedzieć odważnie teraz na spotkaniu, możemy zapisać sobie na drugiej stronie kartki z~tabelką i~włożyć do kopert, a~następnie przeczytać za parę miesięcy czy lat. Ale niech odpowiem na to pytanie tak jak czuje i~widzę odpowiedzieć na dzisiejszy dzień.

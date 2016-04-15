@@ -1,36 +1,30 @@
-*************************************************************
 Spotkanie 3. - Jak szukam?
-*************************************************************
+**************************
 
-=====================================
 Cel Spotkania
-=====================================
+=============
 
 Podzielenie się doświadczeniem własnego poszukiwania. Odkrycie iluzji pomiędzy deklaracją szukania a~faktycznym szukaniem. Celem wychowawczym jest postawienie każdemu z~uczestników podstawowego pytania: czego szukasz?
 
-=====================================
 Uwagi dla animatora
-=====================================
+===================
 
 Dzisiejsze spotkanie koncentruje się mimo wszystko na poszukiwaniu duchowym. Utożsamiam to pojęcie z~"poszukiwaniem w~wierze" bardzo świadomie. Wątki "metodologii poszukiwania" w~ogólnych przypadkach zostały rozważone wyczerpująco na wczorajszej drugiej konferencji. Robię także pewne analogie pomiędzy szukaniem a~oczekiwaniem – mimo, że są to jakościowo odrębne sprawy to są ze sobą powiązane. Jeżeli szukam na poważnie to muszę mieć świadomość, że nie wszystkie odpowiedzi przyjdą od razu (część uczestników może/powinna być na takim właśnie etapie).  Spotkanie wydawać się może krótkie, ale posiada około 10 pytań dzieleniowych uczestników jest około 8 a~minut 90. To daje minutę na osobę gdyby na spotkaniu się nic nie działo więcej.
 
-==================================
 Modlitwa początkowa
-==================================
+===================
 
 Zapalenie świecy: Ps 105,4
 
-==================================
 Wstęp
-==================================
+=====
 
 * Czy udało wam się zrealizować wczorajsze postanowienie? Czy było trudne? Czy coś wam to dało?
 
 .. note:: uczestnicy mogli dać sobie zastosowanie, które dotyczy punktu rekolekcji, którego jeszcze nie było – wtedy oczywiście nie odpowiadają
 
-==================================
 Obyś był zimny albo gorący!
-==================================
+===========================
 
 Na początku rozważmy fragment z~Apokalipsy św. Jana. Niech uczestnicy po przeczytaniu go wypowiedzą się jak go rozumieją.
 
@@ -64,9 +58,8 @@ Człowiek letni, to człowiek próbujący ukryć swoje wątpliwości i~pytania. 
 
 * Czy nam wiara nasuwa jakieś pytania? Czy może przez fakt, że od urodzenia jesteśmy katolikami "wszystko dla nas jest oczywiste"? Jakie to są pytania?
 
-==================================
 O wartości poszukiwania
-==================================
+=======================
 
 Nasze poszukiwania wzbudzają wiele rożnych emocji – mówiliśmy o~tym wczoraj. Często jest to zniecierpliwienie, zaniepokojenie, może nawet złość, czasami radość. Nie są one przypisane do tego czy szukamy czegoś materialnego czy duchowego. Można się cieszyć biorąc udział w~poszukiwaniu skarbu w~grze terenowej, można się cieszyć z~rozgryzania Pisma Świętego. Można także się denerwować skrajnie nie potrafiąc znaleźć ważnego dokumentu w~mieszkaniu lub kompletnie nie umiejąc odpowiedzieć sobie na pytanie o~własne powołanie.
 
@@ -96,9 +89,8 @@ Każdy z~nas czegoś szuka – uświadamialiśmy sobie od początku tych rekolek
 
 .. note:: ważny moment spotkania, proszę przeznaczyć na niego odpowiednio dużo czasu. Jeżeli uważamy, że jest taka potrzeba i~możliwości to można pytanie "przenieść" na modlitwę końcową w~ramach dziękczynienia za to, że możemy szukać/czekać i~dlaczego. Oczywiście z~kontekstu wypowiedzi można się "domyśleć" o~jaką sprawę chodzi, ale uczestnicy jeżeli nie będą chcieli powiedzieć to znajdą na to sposób, aby to wypowiedzieć bardziej ogólnie.
 
-==================================
 Jak szukam?
-==================================
+===========
 
 Nasze poszukiwania są zatem czymś niezmiernie ważnym. Chcielibyśmy zatem, aby były jak najlepsze. Powstaje pytanie – jak to zrobić? Jak szukać dobrze? Doskonale wiemy, że szukanie to pewna umiejętność, którą można opanować w~stopniu lepszym lub gorszym. Nie każdy odnajdzie w~googlach informacje równie szybko, tak jak nie każdy z~taką samą sprawnością posługuje się encyklopedią. Spróbujmy porozmawiać trochę o~tym - Jak szukać? Zacznijmy od posłuchania fragmentu:
 
@@ -130,7 +122,6 @@ Mówiliśmy wczoraj na spotkaniu o~pewnej dynamice poszukiwania. Jeżeli cały c
 
 * Czy doświadczyliście czegoś podobnego, że coś sobie zaszufladkowaliście i~potem szczerze byliście zdziwieni jak się okazało, że zrobiliście to błędnie?
 
-====================================
 Szukam będąc otwartym na zaskoczenie
 ====================================
 
@@ -195,14 +186,12 @@ Owszem – będąc na ziemi nigdy nie poznamy Prawdy do końca. Nie znaczy to je
 
 Św. Paweł mówi "widzę jakby w~zwierciadle, niejasno, znam tylko część" tuż obok "gdybym miłości bym nie miał, byłbym niczym". To nigdy się nie wyklucza... to się uzupełnia. Dlatego poszukiwanie nieustanne jest czymś normalnym... jest drogą.
 
-====================================
 Zastosowanie
-====================================
+============
 
 Jako zastosowanie z~tego spotkania uczyńmy jakieś postanowienie w~związku z~czymś czego obecnie poszukujemy, że spróbujemy potraktować to jako dar, a~nie jako przeszkodę w~naszym życiu. (Częściowo od razu do zrealizowania na modlitwie po spotkaniu)
 
-====================================
 Modlitwa
-====================================
+========
 
 Modlitwa spontaniczna dziękczynna za to, że możemy szukać/czekać. Za wszystkie dary, które otrzymaliśmy dzięki temu (odkryte (np. cechy charakteru) i~nieodkryte). Wspomnieć także wszystkich poszukujących swojego pierwszego spotkania z~Bogiem, aby znaleźli odpowiedzialnych ludzi Kościoła, którzy zaświadczą o~Stwórcy.

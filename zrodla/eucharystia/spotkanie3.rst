@@ -1,10 +1,8 @@
-**************************************************************
 Spotkanie 3. - Eucharystia jako zjednoczenie z~ludźmi i~Bogiem
 **************************************************************
 
-=====================================
 Wprowadzenie dla Animatora
-=====================================
+==========================
 
 Celem dzisiejszego spotkania jest:
 
@@ -16,9 +14,8 @@ Dzisiejsze spotkanie odbywa się po niedzielnej Eucharystii, dlatego wnioski i~p
 
 Dziś najważniejsze jest odwołanie do przeżyć, odczuć uczestników. Niech opowiedzą jak przeżyli te msze podczas tych rekolekcji, czy różniły się one od innych dotychczasowych przez nich przeżywanych. Ta refleksja może przebiegać wg pytań w~konspekcie, ale może także poruszać inne momenty mszy. Najważniejszą rzeczą w~tej części jest wydobycie konkretnych postaw, które postaramy się wprowadzać w~nasze życie po powrocie. To spotkanie ma przede wszystkim charakter dzieleniowy. Należy "pomagać" uczestnikom w~przypomnieniu ważnych fragmentów Eucharystii, a~nawet szukać dziury w~całym, prowokować do wypowiedzenia swojej opinii.
 
-================================================================
 Eucharystia jako zbawcza obecność Jezusa we wspólnocie wiernych
-================================================================
+===============================================================
 
     W~pierwszy dzień Przaśników, kiedy ofiarowywano Paschę, zapytali Jezusa Jego uczniowie: «Gdzie chcesz, abyśmy poszli poczynić przygotowania, żebyś mógł spożyć Paschę?» I~posłał dwóch spośród swoich uczniów z~tym poleceniem: «Idźcie do miasta, a~spotka was człowiek, niosący dzban wody. Idźcie za nim i~tam, gdzie wejdzie, powiecie gospodarzowi: Nauczyciel pyta: gdzie jest dla Mnie izba, w~której mógłbym spożyć Paschę z~moimi uczniami? On wskaże wam na górze salę dużą, usłaną i~gotową. Tam przygotujecie dla nas». Uczniowie wybrali się i~przyszli do miasta, gdzie znaleźli, tak jak im powiedział, i~przygotowali Paschę.
 
@@ -56,9 +53,8 @@ Jezus wzywa nas, abyśmy potrafili sobie wzajemnie wybaczać. Abyśmy mogli bez 
 
 * Jaką rolę w~moim przeżywaniu Eucharystii pełni "znak pokoju"? Czy jest to tylko podanie ręki, bo tak wypada? Czy potrafię na mszy podać rękę tym, których skrzywdziłem, tym, którzy mnie skrzywdzili?
 
-================================================================
 Udział musi być czynny!
-================================================================
+=======================
 
 Uczestnictwo we mszy musi być czynne. Nie można być tylko słuchaczem, kimś, kto przypatruje się z~boku. Aby spotkanie mogło nastąpić, aby było owocne i~korzystne dla obu stron, musi nastąpić czynny udział tych 2 stron.
 
@@ -85,9 +81,8 @@ poszanowania, źródło wspólnoty ludzi, odradza jedność między ludźmi, kt�
 
     -- Jan Paweł II
 
-================================================================
 Zastosowanie
-================================================================
+============
 
 Spróbujmy w~tej części spotkania zastanowić się nad praktycznymi rzeczami wynikającymi z~Eucharystii. Ponieważ Eucharystia nie jest oderwana od rzeczywistości, a~ma nam pomagać w~naszym codziennym życiu, jest obrazem idealnego życia we wspólnocie z~innymi ludźmi i~Bogiem, dlatego zastanówmy się na podstawie kazania ks. Blachnickiego, jakie elementy Eucharystii mogę i~chcę poprawić i~pogłębić w~moim życiu (w kontekście tematu dnia). Przeanalizujmy wspólnie z~uczestnikami tekst tego kazania. Spróbujmy wyakcentować te punkty liturgii, które możemy przenieść na grunt naszego życia codziennego.
 

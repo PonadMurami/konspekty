@@ -1,30 +1,25 @@
-*******************************************
 Spotkanie 2. - Czego szukam?
-*******************************************
+****************************
 
-=====================================
 Cel Spotkania
-=====================================
+=============
 
 Podzielenie się doświadczeniem własnego poszukiwania. Odkrycie iluzji pomiędzy deklaracją szukania a~faktycznym szukaniem. Celem wychowawczym jest postawienie każdemu z~uczestników podstawowego pytania: czego szukasz?
 
-==================================
 Wprowadzenie dla animatora
-==================================
+==========================
 
 Spotkanie dzisiejsze jest pod koniec dnia. Mamy za sobą w~szczególności dwie konferencje. Spotkanie powinno mieć akcent zdecydowanie bardziej dzielenia się życiem niż dociekania filozoficznego. Atmosferę konieczną do zrealizowania takiej formy **musi** wprowadzić animator.
 
 Każde użycie słowa "świat" w~tym konspekcie należy rozumieć w~znaczeniu jakim używa go św. Paweł w~swoich listach! Nie – nie mam fobii na punkcie spiskowej teorii dziejów.
 
-==================================
 Modlitwa początkowa
-==================================
+===================
 
 Zapalenie świecy: Ps 105,4
 
-==================================
 Być "Człowiekiem poszukującym"
-==================================
+==============================
 
 * Jak wam się kojarzy określenie – "Jestem człowiekiem poszukującym"?
 
@@ -38,7 +33,6 @@ Uwaga: Uczestnicy oczywiście mogą się już z~tym zdaniem zgadzać (w końcu m
 
 Jeżeli ktoś jest poszukującym przez dłuższy czas to znaczy, że jest niedorajdą, że nie potrafi znajdować, że jest nieskuteczny. "W~XXIw się nie szuka, w~XXIw się odnajduje".
 
-===================================
 Odpowiedz  świata na nasze szukanie
 ===================================
 
@@ -71,7 +65,6 @@ Człowiek XXIw zatem szuka i~to całkiem sporo.
 
 To zasada, którą można najkrócej określić jako: "Szukasz czegoś? Masz to!".
 
-==========================================
 Odpowiedź Pisma Świętego na nasze szukanie
 ==========================================
 
@@ -107,9 +100,8 @@ Różnica jest ogromna! Poszukiwanie nieustanne to tworzenie dynamicznej relacji
 
 Nasze szukanie jest jednak mocno zagrożone. Łatwo nim manipuluje świat, ale także my sami.
 
-==========================================
 Szukam, bo mi powiedzieli, że tego chcę
-==========================================
+=======================================
 
 .. note:: ten punk, można zreferować. Umieszczam go tutaj ze względu na znaczną rozpiętość wieku naszych uczestników – być może będą grupy gdzie ten temat będzie najowocniejszy
 
@@ -125,9 +117,8 @@ Przykłady:
 
 Wszystkie te rzeczy bezpośrednio lub mniej polegają na tym, że ktoś nam mówi, że znajdziemy szczęście gdzieś gdzie go nie ma!
 
-==========================================
 Mówię, że szukam "A", a~wypatruję "B"
-==========================================
+=====================================
 
 .. note:: ten punkt jest kluczowy! Jest to explicite realizacja drugiego celu spotkania. Przeznaczyć mu odpowiednio dużo czasu, gdyż jest to zasadnicza praca grupy
 
@@ -186,9 +177,8 @@ Poniżej przedstawiam **proponowane przykłady** do omówienia. Sugeruje w~podob
    * Boga
 * W~sobie samym (prawdopodobnie nie omawiać – zostawić ich z~takim pytaniem)
 
-==========================================
 Podsumowanie
-==========================================
+============
 
 Zadać pytania:
 
@@ -210,16 +200,14 @@ Aby wypełnić wolę Boga (pełnia szczęścia) nie musimy szukać "nie wiadomo 
 
 * Czy doświadczyliście czegoś takiego, że szukaliście "daleko" czegoś co było koło was?
 
-==========================================
 Zastosowanie
-==========================================
+============
 
 Zastosowaniem z~naszego spotkania niech będzie wybranie sobie jednego elementu rekolekcji. Postarajmy się tuż przed jego rozpoczęciem zapytać siebie:
 
 * Jestem tu i~teraz – wezmę zaraz w~czymś udział. Czego w~tym szukam?
 
-==========================================
 Modlitwa końcowa
-==========================================
+================
 
 Zakończmy to spotkanie modlitwą spontaniczną.  Najpierw niech będzie to modlitwa dziękczynienia za to ze jesteśmy **"poszukującymi" Boga i~,poszukiwanymi" przez Boga**. Jeżeli czas pozwoli to później modlitwa prośby w~której poprosimy Ducha Świętego o~prowadzenie w~naszym poszukiwaniu.

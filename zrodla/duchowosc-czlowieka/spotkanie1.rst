@@ -1,16 +1,13 @@
-*******************************************
 Spotkanie 1. - Duchowa kondycja człowieka
-*******************************************
+*****************************************
 
-=====================================
 Wprowadzenie dla Animatora
-=====================================
+==========================
 
 Według Instrumentum laboris VIII Zwyczajnego Synodu Biskupów z~1990r. słowo "duchowość oznacza pewien «styl życia», albo «życie według Ducha» (por. Rz 8,9), «postępowanie według Ducha» (por. Rz 8,4) [...], zespół po- staw serc  pobudzonych przez Ducha, a~mianowicie  przekonań, motywacji, decyzji" (nr 21). **Duchowość więc jest zbiorem postaw, przez które, zgodnie z~myślą ks. kard. Karola  Wojtyły, rozumie się zajęcie sta- nowiska wobec kogoś lub  czegoś, nie będące jeszcze działaniem, a~będące już czymś więcej niż świadomością i~zarazem gotowością do zadziałania  według zajętego stanowiska.**
 
 Spróbujmy "wyizolować" siebie i~spojrzeć na nas w~samotności (patrz Namiot Spotkania). Pokazać,  że samotność  jest nieodłączną częścią życia. Każdy nasz wybór dokonuje się w~nagiej samotności.....spróbujmy dotknąć tego doświadczenia, tego jak się z~nim czujemy.
 
-==================================
 Wstęp. Dzielenie  się owocami dnia
 ==================================
 
@@ -20,9 +17,8 @@ Wstęp. Dzielenie  się owocami dnia
 
 *Nie śpieszyć się z~tym  punktem! Niech ludzie otwierają  się na siebie. Niech od razu będzie tutaj zaznaczone, że bogactwem  tego spotkania jest to czym sami się dzielimy.*
 
-====================================
 Czym  jest duchowość?
-====================================
+=====================
 
 Mamy zamiar rozmawiać o~kondycji człowieka. Na osobę człowieka składa się wiele spraw, moglibyśmy wyróżnić: ciało, psychike, emocje i~duchowość. Każdy z~nas może własnym doświadczeniem potwierdzić, że mamy te rzeczy w~sobie i~są one nasze własne.  Dlaczego jednak właśnie duchowości chcemy poświęcić tyle czasu?
 
@@ -42,9 +38,8 @@ Mamy zamiar rozmawiać o~kondycji człowieka. Na osobę człowieka składa się 
 
 Nie  ma więc wolności bez duchowości, gdyż człowiek nie może odpowiedzialnie kierować sobą i~swoim życiem dopóki nie wie, kim jest i~po co żyje. **Człowiek  bez duchowości to człowiek z~definicji uzależniony od jednej ze swoich sfer cząstkowych albo od nacisków płynących ze środowiska zewnętrznego**. To człowiek, który żyje jak małe dziecko, czyli nieświadomie i~jedynie w~oparciu o~bodźce, które oddziałują na niego w~danym momencie."
 
-====================================
 Pytanie o~naszą kondycję duchową
-====================================
+================================
 
 Na ile potrafimy spoglądać na siebie z~perspektywy duchowej? To znaczy: Patrzeć na całą naszą osobę - nie rozdzielać nas na kilka, nie mających ze sobą nic wspolnego, rzeczywistości?
 
@@ -56,7 +51,6 @@ Patrząc na uzyskaną kartkę próbujemy znaleźć jakieś prawidłowości.
 
 * Jak myślimy: dlaczego akurat w~takich momentach? co mają one wspólnego?
 
-======================================
 Co możemy z~własną duchowością zrobić?
 ======================================
 
@@ -95,9 +89,8 @@ Istotą  tego o~czym teraz mówimy jest  to czy potrafimy wychodzić do drugiego
 
 Przede wszystkim świadomość wagi jaką ma duchowość (patrz. początek spotkania!). Ona natomiast powinna nas motywać do pracy nad sobą, do przypominania sobie nieustannie, pernamentnie kim jest człowiek.
 
-======================================
 Mądra odwaga stawiania sobie pytań
-======================================
+==================================
 
 Chodzi o~to, aby wspólnie dojść do tego, że jeżeli będziemy trzymać się zasad o~których mówiliśmy wyżej znika lęk stawiania sobie pytań trudnych. Nie są one już zagrożeniem, a~czymś co rozwija naszą osobowość. Dla człowieka który duchowość swoją traktuje "na zawołanie" niektóre pytania przerażają - szczególnie te na które odpowiedź należy szukać dłużej niż "przez chwilę".
 
@@ -117,17 +110,15 @@ Na zakończenie przeczytajmy:
 
     --  Stefan Kisielewski
 
-======================================
 Zastosowanie
-======================================
+============
 
 Metoda Ruchu Światło-Życie nie pozwala na to, abyśmy pozostawali tylko na poziomie wiedzy  i~informacji. Każde spotkanie  powinno zakończyć się
 "zastosowaniem", czyli konkretnym wprowadzeniem w~życie treści.
 
 Propozycja, aby każdy z~nas  podjął  teraz jedno małe postanowienie w~związku z~omawianym tematem, które liczy, że będzie  mógł zrealizować jeszcze na tych rekolekcjach.
 
-======================================
 Modlitwa końcowa
-======================================
+================
 
 Dowolna w~intencji wytrwałości w~naszych postanowieniach i~za te rekolekcje.

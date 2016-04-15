@@ -1,16 +1,13 @@
-****************************************************************
 Spotkanie 1. - Eucharystia jako spotkanie z~człowiekiem i~Bogiem
 ****************************************************************
 
-=====================================
 Cel Spotkania
-=====================================
+=============
 
 Pokierować ludzi do spojrzenia na Eucharystie jako na Spotkanie. Uświadomienie uczestnikom wartości spotkania samego w~sobie. Refleksja nad naszym przygotowaniem do spotkania.
 
-==================================
 Wprowadzenie dla Animatora
-==================================
+==========================
 
 Takie słowa do przemyślenia - żeby zdać sobie sprawę czym jest spotkanie. W~starszych grupach być może warto przeczytać je jako wprowadzenie.
 
@@ -18,15 +15,13 @@ Takie słowa do przemyślenia - żeby zdać sobie sprawę czym jest spotkanie. W
 
 Spotkanie to nie będzie akcentowało się na słowie "Eucharystia" mimo wszystko. Będzie na jej temat jeszcze wiele w~sobotę oraz niedziele. Chcemy w~tym spotkaniu się przygotować. Zastanowić się nad istotą samego spotkania (z Bogiem lub z~Człowiekiem – generalnie OSOBĄ.....). Syntezą tego spotkania będzie: Eucharystia to miejsce podwójnego spotkania.
 
-====================================
 Modlitwa
-====================================
+========
 
 Dostosowana do możliwości grupy.
 
-====================================
 Refleksja nad "Spotkaniem"
-====================================
+==========================
 
 Najpierw przeczytajmy takie zdanie. Być może będziemy się z~nim zgadzać lub nie – będzie ono wprowadzeniem do naszej dalszej rozmowy.
 
@@ -52,9 +47,8 @@ Spotkanie to dar. Coś absolutnie niesamowitego. Jeżeli mamy niewiele wpisów n
 
 Postanowienie: Świetną okazją, aby "podziękować" za ten "cud spotkania" osobą które pojawiły się w~naszym życiu jest jutrzejsza Eucharystia! Niech to będzie pierwszym owocem tego spotkania (o ile ktoś chce) – aby jutrzejszą Eucharystię ofiarować w~ich intencji.
 
-======================================
 Cechy Prawdziwego Spotkania
-======================================
+===========================
 
 Powstaje pytanie:
 
@@ -84,9 +78,8 @@ Uczestnicy mogą rozszerzyć tą listę!!!
 
 **Te DWA ostatnie cytaty animator KONIECZNIE musi zmienić jeżeli uzna to za stosowne do grupy!!!**
 
-======================================
 W poszukiwaniu Spotkania
-======================================
+========================
 
 Wiemy, że coraz rzadziej naprawdę się ze sobą spotykamy. Wiemy czym się takie spotkania powinny charakteryzować i~co musi być spełnione, aby mogło do nich dojść. Czy to jednak nam wystarcza, aby móc ich doświadczyć? Na pewno jest to pomocne, może nawet niezbędne – więc warto było. Jednak i~tak wiele z~nas chodzi po świecie z~tęsknotą za Prawdziwym Spotkaniem.
 
@@ -99,7 +92,6 @@ Człowiek jest tak stworzony. Poszukujemy... Im dłużej na świecie żyjemy tym
 *Tak naprawdę w~tym momencie może nawet powinniśmy zatrzymać spotkanie. Nawet nie odpowiadać na te pytania głośno. Zostać w~takim zdumieniu – jest coś co odczuwam
 i czego szukam...Bóg wie o~tym co głęboko we mnie siedzi....wiedział już zanim mnie stworzył i~tak przygotował Plan Zbawienia, że dał nam Eucharystie...Po prostu Miłość.*
 
-======================================
 Umocnienie w~odkrywaniu i~zastosowanie
 ======================================
 

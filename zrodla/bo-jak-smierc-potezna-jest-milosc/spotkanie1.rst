@@ -1,8 +1,6 @@
-***************************************************************
 Spotkanie 1. - Czemu miłości trzeba szukać?
-***************************************************************
+*******************************************
 
-=========================================
 Wprowadzenie dla animatorów do rekolekcji
 =========================================
 
@@ -18,10 +16,8 @@ W~czasie spotkań grupowych będziemy chcieli razem z~uczestnikami lepiej pozna�
 
 W~miarę możliwości należy wystrzegać się traktowanie spotkań jako wykładu, lecz starać się dochodzić do pewnych spraw RAZEM z~uczestnikami. Nie chcę, aby to była tylko rozumowa analiza tekstu, ale proponuję włączać wyobraźnię, uczucia, emocje, wczuwanie się w~postaci.
 
-
-==================================
 Cele
-==================================
+====
 
 1. Wprowadzenie do Pnp; przedstawienie tej księgi jako niezwykłej i~nie mającej sobie równej w~całym Piśmie Świętym.
 
@@ -29,15 +25,13 @@ Cele
 
 3. Miłość niesie z~sobą dramatyzm rozstania, ból – bez tego nie da się miłości znaleźć i~jej cenić.
 
-====================================
 Modlitwa
-====================================
+========
 
 Dowolna modlitwa do Ducha Św. o~Jego dary na czas tego spotkania oraz całych rekolekcji.
 
-=============================================================
 Wprowadzenie do Księgi Pieśni nad Pieśniami i~analiza tekstu
-=============================================================
+============================================================
 
 Zacznijmy rozmowę z~uczestnikami na temat:
 
@@ -65,9 +59,8 @@ Na podstawie pierwszego fragmentu pokażę jak mniej więcej powinna praca nad t
 Taką metodą będziemy posługiwać się czytając poszczególne fragmenty księgi. Oczywiście nie wszystkie musimy omawiać tak bardzo dokładnie. Dziś zależy mi, aby szczególnie zwrócić uwagę właśnie na pierwszą wypowiedź oblubienicy oraz na jej wypowiedź na początku pieśni czwartej, czyli od wersetu 5,2. Pozostałe fragmenty oczywiście czytamy, ale nie musimy się nad nimi tak bardzo zastanawiać.
 Przy okazji wcześniejszych fragmentów można poruszyć temat języka miłości jakim posługują się zakochani w~tej księdze. Warto tu wyjaśnić pochodzenie tych porównań, metafor. Następnie zapytać jakim językiem obecnie mówimy o~miłości. (Oczywiście animator nie musi podejmować tego wątku, ale warto podać objaśnienie metafor i~porównań, a~przynajmniej genezę; tzn. uwarunkowanie kulturowe i~historyczne porównania np. do owcy.)
 
-===========================================
 Czemu miłości trzeba szukać?
-===========================================
+============================
 
 Gdy już przeczytamy tą część Pnp zastanówmy się dlaczego oblubienica zawsze szuka swego oblubieńca, dlaczego następują chwile rozstania? Czemu to ma służyć?
 
@@ -77,7 +70,6 @@ Zapytajmy uczestników czy nie słuchając rodziców; robiąc krzywdę najbliżs
 
 Otóż nie zawsze musi tak być. Przecież niejeden z~nas nie będąc posłusznym wobec rodziców nie chce od razu dla niech jak najlepiej. Jeśli pokochamy kogoś, to nie jest tak łatwo miłość tą z~nas usunąć. Owszem, czasami przysłaniamy ją innymi sprawami, problemami, które wydają się dla nas ważniejsze. Ale trzeba się bardzo napracować, żeby miłość z~nas całkowicie usunąć. Podobnie jak bardzo trzeba się starać, aby tę miłość znaleźć – podobnie jak oblubienica bardzo się trudzi szukając na początku księgi swojego ukochanego. (Bardzo dobrze, gdyby to o~czym pisałem wyżej wyszło w~trakcie rozmowy, a~nie było tylko wykładem animatora.)
 
-======================================================
 Dlaczego do miłości dochodzimy od stanu braku, pustki?
 ======================================================
 
@@ -106,8 +98,7 @@ W wymiarze człowiek – Bóg:
 
 Myślę, że warto przyjrzeć się tym problemom zwłaszcza w~wymiarze człowiek – Bóg. Niech uczestnicy będą świadomi po tym spotkaniu pracy, którą należy wykonać, żeby kochać. Każdy z~nas indywidualnie musi wyruszyć na poszukiwanie Boga i~samemu odkryć w~sobie tą miłość. Tego nikt za nas nie zrobi. To musi dokonać każdy z~nas. Oczywiście przykład oblubienicy pokazuje, że raz znaleziona miłość nie trwa niezmienna cały czas. Zawsze będzie taki moment, kiedy będziemy musieli nagle (podobnie jak oblubienica) wyruszyć ponownie na poszukiwanie swojej miłości. I~może się zdarzyć, że to drugie poszukiwanie będzie trudniejsze i~bardziej bolesne niż pierwsze.
 
-======================================================
 Modlitwa końcowa
-======================================================
+================
 
 Modlitwa prośby o~siłę do kroczenia drogą miłości, o~siły do jej nieustannego poszukiwania.

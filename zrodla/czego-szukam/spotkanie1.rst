@@ -1,10 +1,8 @@
-***************************************************************
 Spotkanie 1. - Czym jest poszukiwanie?
-***************************************************************
+**************************************
 
-====================================
 Wprowadzenie
-====================================
+============
 
 Pozwólcie że zaczniemy mniej pobożnie:
 
@@ -41,9 +39,8 @@ Pozwólcie że zaczniemy mniej pobożnie:
 
 * O~czym nam opowiada?
 
-====================================
 Podróżnicy - poszukiwacze
-====================================
+=========================
 
 .. note:: odczytywać powoli kolejnymi akapitami, na wypadek gdyby odgadli wcześniej
 
@@ -69,9 +66,8 @@ Przeczytam wam teraz tekst bardziej poważny. Jest to pewien życiorys, zgadnijc
 
 Zapiszmy nasze odkrycia [zapis na przygotowanej mapce świata]
 
-====================================
 Motywy poszukiwania w~literaturze
-====================================
+=================================
 
 * Czy  znacie jakieś utwory literackie, w~których bohaterowie czegoś poszukują?  [np. "Odyseja" Homera]
 
@@ -81,9 +77,8 @@ Motywy poszukiwania w~literaturze
 
 Zapiszmy nasze odkrycia [zapis na przygotowanej mapce świata]
 
-====================================
 Motywy poszukiwania w~filmie
-====================================
+============================
 
 * A~czy  znacie jakieś filmy, w~których bohaterowie czegoś poszukują?  [np. "Poszukiwacze zaginionej arki", "Uprowadzona", "Tożsamość Bournea" - cała trylogia]
 
@@ -107,7 +102,6 @@ Posłuchajcie teraz tekstu:
 
 Zapiszmy nasze odkrycia [zapis na przygotowanej mapce świata]
 
-======================================
 Dziecięce pragnienie poznawania świata
 ======================================
 
@@ -117,9 +111,8 @@ Dziecięce pragnienie poznawania świata
 
 * Dlaczego dziecko tak postępuje? [Pragnie poznać świat je otaczający]
 
-======================================
 Pismo Święte
-======================================
+============
 
 * A~czy znacie jakieś fragmenty Pisma Św. mówiące o~poszukiwaniu? Kto, czego i~dlaczego szuka?
 
@@ -135,9 +128,8 @@ Pismo Święte
 
 Zapiszmy nasze odkrycia [zapis na przygotowanej mapce świata]
 
-======================================
 Podsumowanie
-======================================
+============
 
 Zbierzmy nasze odkrycia.
 

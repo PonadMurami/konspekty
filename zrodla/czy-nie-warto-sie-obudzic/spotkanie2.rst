@@ -1,22 +1,18 @@
-***************************************************************
 Spotkanie 2. - Jeśli chcemy dojść do celu – to dojdziemy?
-***************************************************************
+*********************************************************
 
-==================================
 Cel
-==================================
+===
 
 Ukazanie życia jako wędrówki. Moja motywacja do przebudzenia i~wyruszenia w~drogę.
 
-====================================
 Modlitwa
-====================================
+========
 
 Krótko, spontanicznie. Proponuję uwielbienie, dziękczynienie za podarunek "tego czasu", na możliwość **przebudzenia**, "otworzenia oczu".
 
-=========================================
 "Mapy są nam niepotrzebne"
-=========================================
+==========================
 
 .. note:: możliwość odtworzenia utworu. Każdy uczestnik powinien mieć własną wersje tekstu
 
@@ -145,8 +141,7 @@ Odczytajmy fragment:
 
 * Czy naprawdę od nas zależy "osiągnięcie celu"?
 
-=========================================
 Podsumowanie
-=========================================
+============
 
 Proszę, aby każdy animator wg rozeznania możliwości swojej grupy zaproponował modlitwę na zakończenie spotkania.

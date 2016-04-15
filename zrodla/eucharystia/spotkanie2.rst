@@ -1,10 +1,8 @@
-*******************************************
 Spotkanie 2. - Eucharystia jako pokarm
-*******************************************
+**************************************
 
-=====================================
 Wprowadzenie dla Animatora
-=====================================
+==========================
 
 Celem dzisiejszego spotkania jest:
 
@@ -15,9 +13,8 @@ Celem dzisiejszego spotkania jest:
 
 Dzisiejsze spotkanie odbywa się późno, jesteśmy już po Namiocie Spotkania oraz pieczeniu chleba. Do tych dwóch punktów to spotkanie będzie się przede wszystkim odwoływało. Jest to spotkanie w~dużej mierze oparte o~fragmenty z~Pisma Św. Nie chodzi tu jednak, aby szybko je przeczytać i~przejść jak najszybciej do następnego fragmentu. Każdy fragment należy bardzo dokładnie z~uczestnikami omówić, wyjaśnić. Pomocne, zwłaszcza w~grupach młodszych będzie opowiedzenie sytuacji ukazanej w~Piśmie Św., tj. gdzie się odbywa, kto bierze udział, jak to mogło wyglądać, jakie towarzyszyły temu emocje itd., odwołanie się do znaczenia chleba w~ich życiu, nawet poprzez takie pytania, jak: "jak często jecie chleb, jaki lubicie najbardziej itp." oraz odwołanie do pieczenia chleba, które miało miejsce wcześniej. "Jak to jest być piekarzem?" Generalnie należy dążyć, aby to spotkanie było jak najbardziej ROZMOWĄ z~uczestnikami. Absolutnie nie może być to wykład teologiczny animatora. W~czasie spotkania należy ukazać różnice pomiędzy ST a~NT, co nowego wnosi Jezus Chrystus.
 
-==================================
 Wstęp
-==================================
+=====
 
 Przeczytajmy:
 
@@ -31,9 +28,8 @@ Następnie porozmawiajmy o~tym, jak traktowany jest chleb w~naszych domach.
 
 * Jak dużo chleba w~naszych domach jest marnowane? Jakie w~naszych domach panuje podejście do chleba? Czy podchodzimy z~szacunkiem do chleba (tradycja b. rozpowszechniona na Śląsku) ?
 
-==================================
 Bóg troszczy się o~nas
-==================================
+======================
 
 Pan Bóg troszczy się także o~nasze życie codzienne, o~nasz pokarm doczesny (w "Ojcze nasz" prosimy o~chleb powszedni, który może być rozumiany także jako ten ziemski). Bóg wysłuchuje szemrania Izraelitów, zsyła swój pokarm. Przy tym fragmencie z~księgi Wyjścia zwróćmy uwagę na dwie rzeczy. Po pierwsze Izraelici pytali "co to jest?", było to dla nich zjawisko niezwykłe, nowe. Po drugie każdy mógł zebrać tyle, żeby najeść się do syta. Bóg nie pozwala nikomu być głodnym. Porozmawiajmy o~tym fragmencie, co się w~nim wydarzyło, jakie były przyczyny, jakie skutki. Niech to będzie luźna rozmowa na temat tego fragmentu. Można przytoczyć fragment psalmu:
 
@@ -65,9 +61,8 @@ Zapytajmy:
 
 Bóg karmi swój naród przez całą jego wędrówkę, przez całą drogę. Pokarm ten pozwala im iść do celu, jaki przeznaczył im Bóg. Jednak ten cud nie powoduje, że Izraelici przestają szemrać, wątpić. Dlatego większość z~nich pomarła i~nie doszła do ziemi obiecanej.
 
-==================================
 Sakrament
-==================================
+=========
 
 Przeczytajmy:
 
@@ -91,7 +86,6 @@ Nawiążmy do przemyśleń z~Namiotu Spotkania:
 
 * Czym tak naprawdę jest przyjęcie Jezusa, spożywanie Jego Ciała i~Krwi? Jest to o~wiele większy dar niż tylko pomoc w~doczesnym życiu jak to miało miejsce w~ST. Tutaj chleb oznacza życie wieczne, oznacza zjednoczenie z~Chrystusem (o czym jutro, więc nie rozwijajmy tego wątku), oznacza wreszcie UDZIAŁ W~OFIERZE CHRYSTUSA, a~także zadatek, przedsmak nieba.
 
-==========================================
 "Co to jest?" = "lecz świat Go nie poznał"
 ==========================================
 
@@ -113,9 +107,8 @@ Nie może być Eucharystia źródłem i~szczytem życia chrześcijanina, jego na
     
 **To właśnie znaczy, że Eucharystia jest szczytem życia chrześcijanina, ponieważ w~niej dokonuje się największe pragnienie chrześcijanina: jednoczy się z~Bogiem.**
 
-==========================================
 Podsumowanie
-==========================================
+============
 
     Posłuchajcie o~małej dziewczynce, którą znalazłam na jednej z~ulic Kalkuty. Miała może sześć lat, a~po jej twarze poznałam, że jest głodna i~nie jadła od kilku dni. Dałam jej kromkę chleba, a~ona zaczęła ją jeść, powoli, po jednym okruszku. Powiedziałam: Jedz chleb, nie bój się, jedz. Dziecko powiedziało: Boję się, bo jak chleb się skończy, znowu będę głodna
     
@@ -129,9 +122,8 @@ Człowiek nie może żyć bez codziennego pokarmu, chrześcijanin nie może ży�
 
 * Czy mogę zrobić coś, żeby sprawić, aby tych okresów było jak najmniej?
 
-==========================================
 Zastosowanie
-==========================================
+============
 
 * postaram się zmienić moje podejście do pokarmu, jedzenia (o ile to konieczne);
 

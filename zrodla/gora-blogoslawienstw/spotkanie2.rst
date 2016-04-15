@@ -1,4 +1,3 @@
-***************************************************************
 Spotkanie 2. - Bardziej być niż mieć
 ***************************************************************
 
@@ -10,7 +9,6 @@ Przygotowanie uczestników do modlitwy wieczornej. Przedstawienie służby jako 
 
 To spotkanie trwa 1 godzinę 45 minut. Z~tym spotkaniem jest tak, że jeżeli ludzie wejdą w~temat to trzy pytania wystarczą na całą rozmowę. Nie unikajmy pytania o~rzeczy podstawowe. W~wierze nie trzeba dzielić się subtelnymi niuansami teologicznymi. Moim marzeniem jest, aby na tym spotkaniu ktoś powiedział jak on osobiście doświadcza miłosierdzia ze strony Jezusa Ukrzyżowanego. Nie przekombinujmy tego! Wiara się obroni tym, że jest prawdziwa.
 
-==========================================
 Wprowadzenie
 ==========================================
 
