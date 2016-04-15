@@ -1,7 +1,7 @@
 Spotkanie 1. - Perspektywa w~codzienności
 *****************************************
 
-Cel spotkania i wprowadzenie dla animatora
+Cel spotkania i~wprowadzenie dla animatora
 ==========================================
 
 Podczas tego spotkania chcemy pokazać, że zmiana perspektywy powinna towarzyszyć nam na co dzień. Podajemy bardzo praktyczne i~uniwersalne przykłady, które potwierdzają tę tezę dla każdej sfery życia, nie tylko religijnej. Jest to wstęp do dalszego ciągu rekolekcji, gdzie będziemy zmieniać perspektywę związaną z~konkretnymi elementami rozwoju duchowego. Zrozumienie sensu zmian sposobu patrzenia na różne rzeczy jest zatem kluczem do tego, żeby dobrze wprowadzać kolejne treści. Spotkanie odbywa się pod koniec dnia, więc jego charakter powinien być w~miarę możliwości luźny, ale przy tym dynamiczny i~zmuszający do refleksji w~dyskretny sposób. Na koniec spotkania warto powoli wprowadzać w~to, że Jezus był osobą, która niewątpliwie wielu ludziom zmieniała perspektywę (patrz modlitwa końcowa).
@@ -42,7 +42,7 @@ Czas na konkrety i~wejście we właściwą część spotkania. Stwórzmy atmosfe
 
 * Jakie skutki miała ta zmiana? Może nic się nie zmieniło?
 
-* Jak myślisz, po co można zmieniać punkt widzenia? Skoro już coś działa i jest wypracowane, to po co zmieniać podejście do tego?
+* Jak myślisz, po co można zmieniać punkt widzenia? Skoro już coś działa i~jest wypracowane, to po co zmieniać podejście do tego?
 
 * Czy potrafisz wskazać sytuację w~twoim życiu, kiedy miałeś potrzebę zmiany perspektywy? Po co? Czy przyniosło to efekt, czy raczej nic się nie zmieniło?
 
@@ -55,7 +55,7 @@ Proponujemy przeprowadzenie kilku ćwiczeń, w~celu pokazania naszych teorii w~p
 
 **Spojrzenie na różne wydarzenia z~perspektywy różnego położenia w~czasie (czyli na przykład będąc dorosłym, dzieckiem itd.).**
 
-Całe ćwiczenie polega na tym, żebyśmy potrafili spojrzeć na określoną sytuację stawiając się w~innej roli. Dobrze jest to sobie zwizualizować, więc można stworzyć na podłodze oś czasu. Okreslamy początek i~koniec oraz wiek, np. gdzie na osi znajduje się 18. rok życia. Następnie prosimy chętnego uczestnika, by przemieszczał się po osi, wcielając się w~różne role (10-latka, 50-latka lub 75-latka) i~opisywał, jak widzi tę sytuację w~danym momencie. Dwa pierwsze przykłady będą lepsze dla młodszych grup, a dwa kolejne dla starszych.
+Całe ćwiczenie polega na tym, żebyśmy potrafili spojrzeć na określoną sytuację stawiając się w~innej roli. Dobrze jest to sobie zwizualizować, więc można stworzyć na podłodze oś czasu. Okreslamy początek i~koniec oraz wiek, np. gdzie na osi znajduje się 18. rok życia. Następnie prosimy chętnego uczestnika, by przemieszczał się po osi, wcielając się w~różne role (10-latka, 50-latka lub 75-latka) i~opisywał, jak widzi tę sytuację w~danym momencie. Dwa pierwsze przykłady będą lepsze dla młodszych grup, a~dwa kolejne dla starszych.
 
 * Sytuacja 1.
     16-letnia Marta chce iść na imprezę w~towarzystwie swojej koleżanki. Na miejsce muszą dojechać autobusem i~tak samo wrócić nad ranem. Przykładowe role: 16 lat -- sama Marta lub jej koleżanka, 40 lat -- na przykład ich rodzice, 65 lat -- dziadek, 7 lat -- młodszy brat.
@@ -99,7 +99,7 @@ Do wykonania ćwiczenia potrzebne są cztery osoby. Dwie będą w~jakimś konfli
     #. dwójka uczestników odgrywa scenkę przy reszcie grupy,
     #. wychodzi jedna z~osób skonfliktowanych, wchodzi jeden pomocnik
 	#. druga strona konfliktu przekazuje pomocnikowi całą sytuację i~prosi go o~przekonanie oponenta do swojej racji,
-    #. następuje zamiana: te osoby wychodzą, wchodzą kolejne dwie -- powtarza się sytuacja z prośbą o~pomoc,
+    #. następuje zamiana: te osoby wychodzą, wchodzą kolejne dwie -- powtarza się sytuacja z~prośbą o~pomoc,
     #. na koniec wszyscy wchodzą i~pomocnicy relacjonują jak widzą sytuację, która się wydarzyła.
 
 * Temat scenki:
@@ -126,7 +126,7 @@ Celem tego punktu jest krótkie podsumowanie oraz przedstawienie, dlaczego tak k
 
 * Jesteśmy na początku rekolekcji. Jak podchodzicie do tego, żeby odkryć coś nowego, żeby wynieść z~tego czasu jak najwięcej?
 
-* Czy jesteście gotowi na to, żeby już dziś na modlitwie wieczornej spojrzeć na swoje życie z~troszkę innej perspektywy? (Jeżeli jest czas, animator może zachęcić do jak najpełniejszego włączenia się w modlitwę wieczorną. To od nas animatorów zależy to, jak uczestnicy wejdą w~rekolekcje).
+* Czy jesteście gotowi na to, żeby już dziś na modlitwie wieczornej spojrzeć na swoje życie z~troszkę innej perspektywy? (Jeżeli jest czas, animator może zachęcić do jak najpełniejszego włączenia się w~modlitwę wieczorną. To od nas animatorów zależy to, jak uczestnicy wejdą w~rekolekcje).
 
 * Wena animatorska :)
 
