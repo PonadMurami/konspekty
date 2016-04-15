@@ -1,16 +1,13 @@
-***************************************************************
 Spotkanie 1. - Perspektywa w~codzienności
-***************************************************************
+*****************************************
 
-==========================================
 Cel spotkania + wprowadzenie dla animatora
 ==========================================
 
 Celem spotkania jest pokazanie, że zmiana perspektywy jest czymś, co powinno towarzyszyć nam w~życiu codziennym abstrahując od życia duchowego. Celowo są tu pokazane bardzo praktyczne przykłady, które są uniwersalne, aby pokazać sens tego typu działań w~każdej sferze życia. Jest to więc wstęp do dalszego czasu rekolekcji, gdzie będziemy już konkretnie zmieniać perspektywy związane z~rzeczywistym rozwojem duchowym. Zrozumienie sensu podejmowania zmian sposoby patrzenia na różne rzeczy jest więc kluczem do tego, żeby dobrze wprowadzać kolejne treści rekolekcji. Jest to spotkanie osadzone na końcu dnia - niech więc ma charakter w~miarę możliwości luźny, ale przy tym dynamiczny i~zmuszający do refleksji w~dyskretny sposób. Na koniec spotkania, warto już powoli wprowadzić w~to, że Jezus był tym, który niewątpliwie zmieniał perspektywę wielu ludziom (patrz modlitwa końcowa).
 
-==========================================
 Zapoznanie się grupy
-==========================================
+====================
 
 Celem tego punktu spotkania jest zawiązanie "małej wspólnoty" w~grupie. Dobrze by było, żeby już na początku swojej przygody z~rekolekcjami poznali siebie, mieli świadomość tego, że od pojedynczej osoby może zależeć to jak będą wyglądały rekolekcje całej grupy. Jak najbardziej można tu wymyślić coś swojego.
 
@@ -22,9 +19,8 @@ Każdy z~grupy dostanie dosłownie jedną minutę, żeby opowiedzieć jak najwi�
 
 Grupa ma za zadanie stworzenie swego rodzaju CV grupy. Musi stworzyć działy na podstawie wiedzy o~sobie w~których może jest dobra, które czynią ją wyjątkową. Niech to będą rzeczy zarówno przydatne do posługi na rekolekcjach (jak śpiew czytanie), ale także rzeczy "poza" (czyli na przykład niestandardowe rzeczy jak np. składanie komputerów).
 
-==========================================
 Dyskusja wstępna
-==========================================
+================
 
 Celem tego punktu jest pierwsze wprowadzenie do tematu. Będzie to czas nas to, żeby animator mógł motywacyjnie wprowadzić w~rekolekcje, ale także będzie to czas, żeby wprowadzić w~rekolekcje według zdania "O co właściwie chodzi z~tą perspektywą?".
 
@@ -52,9 +48,8 @@ Czas na konkrety - jest to element wejścia we właściwe spotkanie. Stwórzmy a
 
 * Czy zgadzasz się ze zdaniem "Zmiana perspektywy przynosi nowe spojrzenie, a~więc i~nowe rozwiązania"? Jak jest rozumiesz?
 
-==========================================
 Praktyczne ćwiczenia zmiany perspektywy
-==========================================
+=======================================
 
 Celem tego punktu jest przeprowadzenie paru ćwiczeń związanych ze zmianą perspektywy tak, ażeby pokazać sens naszych dywagacji w~praktyce. Spotkanie jest bardziej warsztatowe stąd dobrze jest właściwie zrozumieć idee ćwiczeń. Ćwiczenia powinny uświadomić nam fakt, że zmiana perspektywy jest często konieczna, a~na pewno zawsze bardzo wartościowa. Jest to potrzebne, aby dobrze wejść w~sobotni dzień, gdzie już podejmiemy właściwą tematykę w~zakresie ewangelicznej zmiany perspektywy.
 
@@ -117,9 +112,8 @@ Wnioski (dyskusja):
 
 * Jakie są twoje doświadczenia związane z~obiektywizowaniem sytuacji?
 
-==========================================
 Podsumowanie i~zastosowanie
-==========================================
+===========================
 
 Celem tego punktu jest krótkie podsumowanie spotkania. Przedstawienie dlaczego takie krótkie spotkanie warsztatowe jest tak ważne w~perspektywie rekolekcji.
 
@@ -133,17 +127,15 @@ Celem tego punktu jest krótkie podsumowanie spotkania. Przedstawienie dlaczego 
 
 * Wena animatorska :)
 
-==========================================
 Zastosowanie
-==========================================
+============
 
 Podczas ciszy nocnej, modlitwy zastanów się nad tym gdzie w~twoim życiu zmieniła się perspektywa. Kiedy, dlaczego, czemu było warto?
 
 W kolejnym dniu będziemy chcieli o~tym jeszcze porozmawiać - warto więc być przygotowanym. :>
 
-==========================================
 Modlitwa
-==========================================
+========
 
 Jako wstęp do modlitwy proponuję przeczytanie fragmentu o~cudzołożnicy jako pokazanie, że Jezus jest tym, który poprzez zmianę perspektywy zmienia ludzkie serca. Niech to będzie dobry wstęp do tego co będzie, a~jednocześnie dobrym podsumowaniem tego co robiliśmy na spotkaniu (po co to właściwie było). Następnie podziękujmy Bogu za ten czas i~prośmy Ducha Świętego, aby pomógł nam się otworzyć na dalszy czas rekolekcji.
 
@@ -152,6 +144,3 @@ Fragment do modlitwy:
     Jezus natomiast udał się na Górę Oliwną, ale o~brzasku zjawił się znów w~świątyni. Cały lud schodził się do Niego, a~On usiadłszy nauczał ich. Wówczas uczeni w~Piśmie i~faryzeusze przyprowadzili do Niego kobietę którą pochwycono na cudzołóstwie, a~postawiwszy ją pośrodku, powiedzieli do Niego: «Nauczycielu, tę kobietę dopiero pochwycono na cudzołóstwie. W~Prawie Mojżesz nakazał nam takie kamienować. A~Ty co mówisz?» Mówili to wystawiając Go na próbę, aby mieli o~co Go oskarżyć. Lecz Jezus nachyliwszy się pisał palcem po ziemi. A~kiedy w~dalszym ciągu Go pytali, podniósł się i~rzekł do nich: «Kto z~was jest bez grzechu, niech pierwszy rzuci na nią kamień». I~powtórnie nachyliwszy się pisał na ziemi. Kiedy to usłyszeli, wszyscy jeden po drugim zaczęli odchodzić, poczynając od starszych, aż do ostatnich. Pozostał tylko Jezus i~kobieta, stojąca na środku. Wówczas Jezus podniósłszy się rzekł do niej: «Kobieto, gdzież oni są? Nikt cię nie potępił?» A~ona odrzekła: «Nikt, Panie!» Rzekł do niej Jezus: «I Ja ciebie nie potępiam. - Idź, a~od tej chwili już nie grzesz!».
 
     -- J 8,1-11
-
-
-

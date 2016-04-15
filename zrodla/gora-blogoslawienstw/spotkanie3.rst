@@ -1,16 +1,13 @@
-***************************************************************
 Spotkanie 3. - Być sługą Boga i~ludzi
-***************************************************************
+*************************************
 
-==========================================
 Cel spotkania + wprowadzenie dla animatora
 ==========================================
 
 Celem dzisiejszego spotkania jest wypracowanie przez każdego z~uczestników weryfikowalnego konkretu życia w~którym będzie chciał “bardziej być, niż mieć”. Chcemy zmierzyć się z~naszymi obawami i~dobrze umotywować naszą potencjalną zmianę. To spotkanie trwa 1 godzinę 20 minut. Dzisiejsze spotkanie grupowe nie ma modlitwy przed spotkaniem. Ma modlitwę w~drugim punkcie tego spotkania.
 
-==========================================
 Wprowadzenie
-==========================================
+============
 
 Wczoraj na modlitwie wieczornej każdy z~Was został posłany do czynienia miłosierdzia. Symbolicznie otrzymaliście zapaloną świecę. Kościół stawiał się u~Boga za Wami, abyście zrealizowali swoje powołanie.
 
@@ -20,15 +17,13 @@ Wczoraj na modlitwie wieczornej każdy z~Was został posłany do czynienia miło
 
 * Jak czujesz się na tych rekolekcjach?
 
-==========================================
 Modlitwa
-==========================================
+========
 
 Kościół, który wspierał nas w~powołaniu to nie tylko “specjalni uprawnieni”. Kościół to my. Przeżywamy te rekolekcje razem i~tak jak mówiliśmy na pierwszym spotkaniu - jesteśmy odpowiedzialni nawzajem za siebie. Pomódlmy się zatem teraz w~swoich intencjach o~to, abyśmy schodząc dzisiaj z~tej góry przenieśli jedną rzecz do naszego życia w~sposób trwały.
 
-==========================================
 Jestem powołany
-==========================================
+===============
 
 Zostaliśmy posłani. Zostaliśmy powołani. To jedna z~podstawowych prawd wiary - Bóg nas kocha i~ma dla nas plan. Zauważcie, że do tej pory nie pytaliśmy Was o~to jakie macie powołanie. Nie musieliśmy, bo Bóg wzywa do niektórych rzeczy nas wszystkich. Tak jest np. z~czynieniem miłosierdzia czy dążeniem do świętości. Nadal jest to jednak powołanie - które trzeba usłyszeć, a~potem dobrowolnie odpowiedzieć. Mimo, że jest powszechne/masowe to szanuje wolność każdego z~nas.
 
@@ -83,9 +78,8 @@ Niech każda z~grup wybierze swoje 10 przestrzeni zapisując to na kartce tak, a
 
 .. note:: Jest to miejsce w~którym jako animatorzy możemy zaświadczyć o~tym “odnajdywaniu w~sobie obrazu Tego, który nas powołał” w~diakonii. Jest to osobiste, ale chyba niezbędne.
 
-==========================================
 Otrzymałem więc daję
-==========================================
+====================
 
 Przeczytajmy:
 
@@ -109,9 +103,8 @@ Bóg widzi w~nas ludzi wartościowych i~obdarowanych. Jeżeli spojrzymy na siebi
 
 * Za co w~życiu jesteś najbardziej wdzięczny?
 
-==========================================
 Zobaczyć brata i~siostrę
-==========================================
+========================
 
 Przeczytajmy ostatni fragment:
 
@@ -145,7 +138,6 @@ Kluczem jest właśnie zmiana perspektywy z~piątku. Ktoś z~pracy mi kiedyś po
 
 * W~jaki sposób Twoja wiara zmienia perspektywę w~patrzeniu na życie?
 
-==============================================
 Posługiwać we wspólnocie, do końca i… od teraz
 ==============================================
 
@@ -198,9 +190,8 @@ Ktoś chce modlitwy? Pomódlmy się nad naszym bratem (wspólne Ojcze Nasz). Kto
 
 Każdy z~uczestników stara się pełnić dojrzałą służbę miłosierdzia względem każdego. Uczestnik przypomina co jest jego “Westerplatte” a~następnie każdy (oprócz autora) wypisuje na kartce co zrobi w~tej sprawie dla niego, aby mu w~tym pomóc i~wręcza mu ją. W~ten sposób grupa związuje swoisty “kontrakt”, że będzie się wspierała w~najbliższym czasie.
 
-==============================================
 Podsumowanie + Zastosowanie
-==============================================
+===========================
 
 11 stycznia 2016 r. podczas modlitwy Anioł Pański Franciszek mówił: “Potrzeba dziś miłosierdzia i~istotne jest, aby wierni świeccy żyli nim i~zanieśli je do różnych sfer społecznych. Naprzód! Przeżywamy czas miłosierdzia, to jest właśnie czas miłosierdzia.”
 

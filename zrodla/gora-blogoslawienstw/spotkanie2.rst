@@ -1,7 +1,6 @@
 Spotkanie 2. - Bardziej być niż mieć
-***************************************************************
+************************************
 
-==========================================
 Cel spotkania + wprowadzenie dla animatora
 ==========================================
 
@@ -10,7 +9,7 @@ Przygotowanie uczestników do modlitwy wieczornej. Przedstawienie służby jako 
 To spotkanie trwa 1 godzinę 45 minut. Z~tym spotkaniem jest tak, że jeżeli ludzie wejdą w~temat to trzy pytania wystarczą na całą rozmowę. Nie unikajmy pytania o~rzeczy podstawowe. W~wierze nie trzeba dzielić się subtelnymi niuansami teologicznymi. Moim marzeniem jest, aby na tym spotkaniu ktoś powiedział jak on osobiście doświadcza miłosierdzia ze strony Jezusa Ukrzyżowanego. Nie przekombinujmy tego! Wiara się obroni tym, że jest prawdziwa.
 
 Wprowadzenie
-==========================================
+============
 
 W czasie dzisiejszego Namiotu Spotkania czytaliśmy rozmowę Jezusa z~Nikodemem. Jezus mówi o~narodzeniu się na nowo. Temat “nowego otwarcia” jest często obecny w~całym Piśmie Świętym. O~tym też mówiliśmy wczoraj: o~nowej perspektywie i~umiejętności otwarcia się na nią.
 
@@ -32,9 +31,8 @@ Nasze rekolekcje to symboliczna wyprawa na górę. Wczoraj wdrapywaliśmy się n
 
 Co przed nami dzisiaj? Po pierwszym zachwycie nowymi perspektywami chcemy się teraz jednej z~nich dokładniej przyjrzeć. Ocenić jaki jest mój rzeczywisty stosunek do niej, czy chce coś w~niej zmienić, zdecydować z~czym chce wrócić jutro do domu.
 
-==========================================
 Świat wartości
-==========================================
+==============
 
 Celem ćwiczenia jest pokazanie, że wartości, które są dane jakiejś rzeczy, jakiemuś bytowi nie biorą się znikąd. To od nas zależy jakie byty mają dla nas największe wartości. Jest to dość trudne, bo z~doświadczenia wiem, że ciężko ludziom przychodzi hierarchizowanie swoich wartości, ale myślę, że warto. To jest ważne w~życiu każdego człowieka, aby miał świadomość systemu wartości, który posiada i~dlaczego taki jest. To ćwiczenie w~sposób praktyczny pozwoli nam spojrzeć na świat duchowy z~wysokiej perspektywy.
 
@@ -69,9 +67,8 @@ To jaką wartość coś ma, zależy od tego jaką wartość nadamy. Przykłady:
 
 **Wniosek:** To jaką coś ma wartość w~bardzo dużym stopniu zależy więc ode mnie. Tak samo się to ma do wartości drugiego człowiek, czy nawet mnie.
 
-==========================================
 Jak to jest z~tym miłosierdziem?
-==========================================
+================================
 
 Jezus w~Kazaniu na Górze szuka istoty prawa, istoty wiary. Mówiliśmy o~tym w~czasie porannej konferencji. My postarajmy się skoncentrować na jednym aspekcie.
 
@@ -100,9 +97,8 @@ Spróbujmy zmierzyć się z~sytuacjami naiwnego i~dojrzałego miłosierdzia. Spr
 #. Modlę się w~czyjejś intencji, wiedząc, że tego potrzebuje
 #. Pomagam komuś z~zadaniem domowym, a~nie robię za niego (dla młodszych)
 
-==========================================
 Chrystus Sługa
-==========================================
+==============
 
 Zacznijmy od ćwiczenia, które wykonamy indywidualnie każdy dla siebie. Weźmy proszę notatniki i~zanotujmy różne określenia Jezusa np Jezus-Zbawca, Jezus-Uzdrowiciel itd.
 
@@ -120,9 +116,8 @@ Piotr dał obmyć sobie nogi. W~czasie wesela przyniesiono Jezusowi wodę, aby r
 
 Tutaj dygresja: słowa “być sługą” może kojarzyć się obecnie bardzo negatywnie. Kultura tak ukształtowała nasz język. Sługa to nie jest przecież człowiek wolny. Czasami sam język, który słyszy w~Kościele może nas odstraszać tylko dlatego, że jest dla nas obecnie niezrozumiały. Te rekolekcje opowiadają o~odwadze do zmiany perspektywy. Przy wysiłku własnym można z~tym językiem się oswoić i~dotrzeć do treści, które za nim stoją.
 
-==========================================
 Być sługą z~wyboru
-==========================================
+==================
 
 Bóg nadaje nam wartość jako człowiekowi nie po to, żebyśmy po prostu mieli, nie po to, żeby się dobrze czuć, nie po to by skupiać się tylko na własnym rozwoju i~nie po to, żeby stawiać się w~centrum. Przez służbę, przez miłosierdzie to drugi człowiek, za przykładem Jezusa Chrystusa, staje na piedestale naszego czynienia miłości i~dobra względem niego.
 
@@ -182,9 +177,8 @@ Przeczytajmy fragment Homilii Jana Pawła II z~1987r z~Westerplatte dzieląc ją
 
 * Jak w~naszym obecnym powołaniu lub zawodzie wygląda stosunek “więcej mieć” do “bardziej być”?
 
-==========================================
 Spalać się dla innych
-==========================================
+=====================
 
 .. warning:: Ważny moment spotkania. Od niego zależy gotowość przeżycia znaku na modlitwie wieczornej.
 
@@ -232,9 +226,8 @@ Nie zostańmy tylko na etapie interpretacji. Podzielmy się swoim doświadczenie
 
 * Jakie trudności spotykasz (możesz spotykać) w~służbie? Jak możesz się z~nimi uporać?
 
-==========================================
 Opuścić strefę komfortu?
-==========================================
+========================
 
 Służba jest wychodzeniem ze swojej strefy komfortu (czyli poza co nam przychodzi w~miarę łatwo, bo czujemy się na tyle dobrze). Niesie za sobą wymaganie, aby wyjść poza to co dla nas jest w~widocznym zasięgu ręki, poza to co “chcielibyśmy” robić. Dzięki temu też służba staje się niesamowitym rozwojem - w~zakresie wiary, miłości do drugiego człowieka i~po prostu w~sensie rozwoju własnej osobowości, dlaczego?
 
@@ -248,9 +241,8 @@ Zaobserwujmy to na prostym przykładzie spoza dziedziny Kościoła:
 
 * Czy przeżyłeś taki moment, że przez służbę drugiemu sam dużo otrzymałeś? Możesz się podzielić?
 
-==========================================
 Zastosowanie
-==========================================
+============
 
 Stworzenie listy osób, które okazały nam miłosierdzie. Modlitwa w~ich intencji.
 
