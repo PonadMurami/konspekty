@@ -1,28 +1,23 @@
-***************************************************************************
 Spotkanie 3. - Tobie, Adamie, rozkazuję: Zbudź się, który śpisz!
-***************************************************************************
+****************************************************************
 
-==================================
 Cel
-==================================
+===
 
 Spotkanie jest wentylem bezpieczeństwa. Dzisiejsze popołudnie obfituje w~"ciężki kaliber" – Droga Krzyżowa, rachunek sumienia, świadectwo, spowiedź, modlitwa. Człowiek mimo starań szczerych przeżycia dobrze tego czasu ma swoją zdolność do skupienia. To spotkanie nie ma wprowadzić treści nowych. **Jego celem jest podzielnie się tym co przeżyliśmy**. To także moment, aby **przygotować się do sakramentu pokuty**. To moment w~którym walczymy o~to, aby podejść do niego jak najgłębiej potrafimy.
 
-====================================
 Modlitwa
-====================================
+========
 
 Proponuje raczej krótko. Można poprowadzić myśli w~kierunku światła, abyśmy na spotkaniu mówili o~tym czego doświadczyliśmy naprawdę, a~nie o~tym czego pragnęlibyśmy doświadczyć.
 
-=========================================
 Wprowadzenie
-=========================================
+============
 
 Przed nami możliwość spowiedzi. Oczywiście nie trzeba iść.... ale można. Zastanawialiśmy się już dzisiaj czy i~jak idziemy. Teraz rekolekcje kładą przed nami konkretną możliwość "iść do spowiedzi". Chcemy w~ogóle gdzieś iść czy dobrze nam tu?
 
-=========================================
 Droga Krzyżowa
-=========================================
+==============
 
 .. note:: koncentrujemy się na **Drodze** Krzyżowej
 
@@ -34,9 +29,8 @@ Droga np. była długa, jasno określona, mająca konkretny cel. Była wybrana p
 
 Zgodzimy się jednak wszyscy, że była tak wypełniona przykrością i~bólem, że gdybyśmy mieli tylko pomyśleć, że sami mielibyśmy ją podjąć to uważalibyśmy to za szaleństwo.
 
-=========================================
 Dlaczego mam iść?
-=========================================
+=================
 
    | To nic! To nic! To nic!
    | Dopóki sił,
@@ -65,9 +59,8 @@ Dotyczy to też naszego rachunku sumienia. Czy pytamy się też "o ten czas w~ś
 
 * Ile procent mojego życia to czas "niemożliwy do oceny" czyli zazwyczaj ignorowany w~czasie spowiedzi?
 
-=========================================
 Stoimy, czekamy, śpimy...
-=========================================
+=========================
 
 Potrzebujemy, aby ktoś do nas przyszedł i~wyciągnął z~naszego "czasu bylejakiego" do zadań, które przed nami stoją. Na kogoś kto określi nasz cel i~tożsamość. Ze stanu zastania nigdy się nie da wyjść samemu. Życia nie można przespać.... a~łatwo nam to przychodzi.
 
@@ -95,9 +88,8 @@ Przeczytajmy na spokojnie tekst metodą Västerås. Proponuje wersję uproszczon
 
 * Czy mam wokół siebie kogoś, kto nie odwraca się, mimo moich niepowodzeń?
 
-=========================================
 Podsumowanie i~zastosowanie
-=========================================
+===========================
 
 Wspólna modlitwa w~intencji spowiedników, którzy będą posługiwać na rekolekcjach. Modlitwa w~intencji wszystkich, którzy do sakramentu pokuty i~pojednania przystąpią.
 
