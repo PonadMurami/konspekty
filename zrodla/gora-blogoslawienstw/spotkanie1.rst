@@ -98,7 +98,7 @@ Do wykonania ćwiczenia potrzebne są cztery osoby. Dwie będą w~jakimś konfli
     #. pomocnicy na chwilę wychodzą,
     #. dwójka uczestników odgrywa scenkę przy reszcie grupy,
     #. wychodzi jedna z~osób skonfliktowanych, wchodzi jeden pomocnik
-	#. druga strona konfliktu przekazuje pomocnikowi całą sytuację i~prosi go o~przekonanie oponenta do swojej racji,
+    #. druga strona konfliktu przekazuje pomocnikowi całą sytuację i~prosi go o~przekonanie oponenta do swojej racji,
     #. następuje zamiana: te osoby wychodzą, wchodzą kolejne dwie -- powtarza się sytuacja z~prośbą o~pomoc,
     #. na koniec wszyscy wchodzą i~pomocnicy relacjonują jak widzą sytuację, która się wydarzyła.
 
