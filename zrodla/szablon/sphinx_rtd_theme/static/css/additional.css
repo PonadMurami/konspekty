@@ -73,3 +73,7 @@
 p {
     text-align: justify;
 }
+
+blockquote p {
+    text-align: left;
+}
