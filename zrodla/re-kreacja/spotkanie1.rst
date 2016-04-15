@@ -1,28 +1,23 @@
-***************************************************************
 Spotkanie 1. - Wolność
-***************************************************************
+**********************
 
-==================================
 Wprowadzenie dla animatora
-==================================
+==========================
 
 Treści tego spotkania są kluczowe dla celów dalszej merytoryki rekolekcji. Prawidłowe przeprowadzenie spotkania umożliwi uczestnikom wejście w~rekolekcje od razu - będą zmuszeni do myślenia. Proponuję dokładnie przeanalizować konspekt pod kątem swojej grupy- czy któreś pytania mogą okazać się za trudne, może coś jest zbyt trywialne- tutaj liczę na swego rodzaju "instynkt animatorski". Przeprowadzenie spotkania "z biegu" bez analizy konspektu może być dość problematyczne stąd dobre przygotowanie jest kluczem do prowadzenia spotkania. Zamieszczone zostały dwa istotne fragmenty z~Biblii – proponuję przemodlenie ich w~takcie Namiotu Spotkania. Wynika to z~faktu, że słowa, która wypowiadamy muszą być żywe, musi być zauważalne to, że to o~czym mówimy jest naszą drogą życia bądź celem do którego zmierzamy. Jednocześnie nie należy bad się wypowiadania swoich słabszych stron- radzę wystrzegać się postawy "animatora idealnego". To postawa animatora jest podstawowym czynnikiem to otwierania się grupy.
 
-=========================================
 Modlitwa
-=========================================
+========
 
 Animator musi wiedzieć ile może potrwać spotkanie - w~zależności od tego musi ocenić długość modlitwy, bo czasu nie ma za dużo ;))
 
-=========================================
 Zapoznanie
-=========================================
+==========
 
 Pozostawiam to w~gestii animatora, może to być na zasadzie pytać zapoznawczych, a~może to być jakaś zabawa. Tu także można przedstawić zasady pracy w~grupach i~tego typu sprawy organizacyjne.
 
-=========================================
 Wstęp do treści czysto merytorycznych
-=========================================
+=====================================
 
 Tutaj animator nie może przegapić tego momentu - musi być to mocne wejście w~spotkanie. Bez tego przeprowadzenie spotkania może okazać się mało efektywne.
 
@@ -88,9 +83,8 @@ Puszczenie piosenki Marka Grechuty pt. Wolność (Jeżeli nie ma możliwości pu
 
 * Jak myślicie - czy wolność którą znacie jest tą samą wolnością o~której przed chwilą słyszeliśmy? (Tutaj płynnie przechodzimy do kolejnego punktu zadając następne pytanie)
 
-=========================================
 Właściwa merytoryka
-=========================================
+===================
 
 CEL: Właściwe pojmowanie słowa wolność oraz rozbudzanie pragnienia dążenia do prawdziwej wolności, która może zostać osiągnięta dzięki prawdzie, a~ta jest w~Chrystusie.
 
@@ -190,16 +184,14 @@ Sporo już wiecie o~tej wolności
 
 * Czy ta wolność wiąże się z~jakimś trudem?
 
-=========================================
 Wnioski
-=========================================
+=======
 
 Jeżeli czas na to pozwoli można krótko przypomnieć istotę spotkania:
 
 Czym jest wolność – czym się różni od takiej, którą powierzchownie możemy znad, jak ją osiągnąć (w Bogu, w~Prawdzie), trud (nie poddawać się) wolność nie jest zniewoleniem (brzmi to stosunkowo dziwnie, ale ma to swój sens), lecz jest naszym dobrem i~drogą do prawdziwej radości.
 
-=========================================
 Zastosowanie
-=========================================
+============
 
 Jako zastosowanie niech każdy z~uczestników się zastanowi czy jest gotów dzisiaj podjąć decyzję o~dążeniu do prawdziwej wolności. Czy jest gotów podjąć trud walki o~nią. Niech tą decyzję "przyniesie" ze sobą na modlitwę wieczorną.

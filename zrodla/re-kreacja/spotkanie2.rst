@@ -1,28 +1,23 @@
-***************************************************************
 Spotkanie 2. - Tożsamość
-***************************************************************
+************************
 
-==================================
 Potrzebne materiały
-==================================
+===================
 
 Kartki (dla każdego uczestnika jedna - wystarczą takie z~zeszytu), długopisy/pisaki, jedna duża kartka (A4 lub większa).
 
-==================================
 Cel
-==================================
+===
 
 Mamy uświadomić/przypomnieć uczestnikom kim są-> zaplanowanymi i~stworzonymi przez Boga niepowtarzalnymi istotami. Następnie chcemy im pokazać, że z~tego kim są (patrz zdanie poprzednie) wynika ich niezwykła wartość.
 
-====================================
 Modlitwa
-====================================
+========
 
 Krótka rozmowa o~tym, co już się działo (modlitwa piątkowa wieczorna? ogólne wrażenia?)
 
-=========================================
 Kim jestem?
-=========================================
+===========
 
 Robimy mały eksperyment na wyobraźnię:
    Wyobraź sobie, że spotykasz pewnego dnia kogoś całkowicie obcego, kto wygląda, jakby znalazł się na Ziemi nie wiadomo skąd i~nic o~niej nie wiedział, i~który pyta Cię: "Kim jesteś?". Co byś mu odpowiedział?
@@ -63,9 +58,8 @@ Gdyby zaistniała potrzeba:
 
 * Czy jeśli uznajemy, że sami nadajemy sobie tożsamość, to mamy pewność, że się nie mylimy?
 
-=========================================
 Wartość tego, kim jestem
-=========================================
+========================
 
 Bóg-Twórca człowieka:
 
@@ -169,9 +163,8 @@ Zapytajmy:
 Świadectwo animatora:
    Myślę, że tu jest bardzo odpowiedni moment na świadectwo animatora- będziecie wiedzieć o~czym ;) (mi się osobiście narzuca temat tego, że swoją wartość odkrywa się w~relacji z~Panem Bogiem ;); każdy z~nas ma inne doświadczenia, więc posłuchajcie Ducha Świętego ;)
 
-=========================================
 Zakończenie
-=========================================
+===========
 
 Podsumowanie:
    Jestem stworzeniem Bożym; Bóg jako mój Stwórca najlepiej wie, kim jestem; pozwalając Mu wejść w~relację ze Mną, a~tym samym przyjmując Jego imię dla mnie, mogę odkrywać swoja prawdziwa wartość i~to, kim jestem.
@@ -179,9 +172,8 @@ Podsumowanie:
 Pozostawić ich z~pytaniem:
    Czy chcę, aby to Pan Bóg był tym, który mnie nazywa? Aby to On był tym, kto określa, kim jestem?
 
-=========================================
 Dodatek
-=========================================
+=======
 
 Parę słów z~KKK o~wadze imienia- dla własnego animatorskiego użytku i~rozwoju:
 

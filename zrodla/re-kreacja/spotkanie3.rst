@@ -1,16 +1,13 @@
-***************************************************************************
 Spotkanie 3. - Przejawy Nowej Kultury w~życiu chrześcijańskim
-***************************************************************************
+*************************************************************
 
-==================================
 Cel
-==================================
+===
 
 Uświadomienie uczestnikom czym tak naprawdę jest Nowa Kultura, skąd się wzięła i~po co jest. Przekazanie, że warto być sobą i~warto otwarcie głosić poglądy, które się wyznaje; podanie propozycji jak to zrobić. Ukazanie istoty Nowej Kultury – miłości Boga i~bliźniego.
 
-====================================
 Wprowadzenie dla animatora
-====================================
+==========================
 
 Mimo że "Ty też?" nie są rekolekcjami stricte oazowymi, "Re-kreacja" dotyczy Nowej Kultury i~oparta jest na IX Drogowskazie ku dojrzałości chrześcijańskiej. Nie trzeba odczytywać go uczestnikom w~całości (chociaż fragment będzie użyty w~trakcie spotkania), lecz warto samemu się z~nim po raz kolejny zapoznać, przeczytać, przemyśleć:
 
@@ -26,9 +23,8 @@ POTRZEBNE POMOCE:
 * karteczki z~napisami "egoista", "maruda", śmieszek", itp...
 * kartka z~definicją Nowej Kultury (ostatnia strona)
 
-=========================================
 Wprowadzenie
-=========================================
+============
 
 Wiemy już, że powołaniem człowieka jest tworzenie i~kształtowanie otaczającego go świata (konferencja), że jest to naszym zadaniem danym nam przez Boga. Rozmawialiśmy o~naszej wolności i~tożsamości, czas zrobić krok dalej i~wcielić to w~życie.
 
@@ -48,9 +44,8 @@ Podane poniżej przykłady służą tylko jako pomoc dla animatora – NIE CZYTA
 
 .. note:: Gdzie w~tym życiu jest miejsce na tworzenie nowego świata? Jak to zrobić? (naw. do konferencji)
 
-=========================================
 Odkrycie i~zrozumienie
-=========================================
+======================
 
 * Na czym polega tworzenie Nowej Kultury w~codziennym życiu?
 
@@ -115,9 +110,8 @@ Dajemy uczestnikom do skosztowania sól. Pytamy jak wrażenia – sól ma ostry,
 
 Nasze światło ma świcić przed ludźmi, mamy stać na świeczniku: Nowa Kultura to bardzo potrzebna dzisiaj forma świadectwa i~ewangelizacji, zmiana świata na lepsze. Aby móc wcielać w~życie Nową Kulturę, ona najpierw musi być w~nas, musimy mieć fundament. Musimy być w~100% przekonani co do "słuszności sprawy", że robimy dobrze, że to jest właściwe i~że chcemy tak żyć, inaczej będziemy nieautentyczni, a~to ludzi nie pociąga, a~wręcz odpycha.
 
-=========================================
 Zakładanie masek
-=========================================
+================
 
 Potrzebne materiały: karteczki z~wypisanymi rolami: egoista, gwiazda, śmieszek, mądrala, maruda, podburzacz, udręczony, twardziel...
 
@@ -179,9 +173,8 @@ Bóg daje nam najdoskonalszą odpowiedź:
 
 By móc rozwijać relacje z~innymi ludźmi, trzeba poznać i~zaakceptować siebie, przyjąć siebie ze swoimi ograniczeniami, dobrymi i~złymi stronami. W~przeciwnym razie ciągle będziemy się czuć niepewnie, jakbyśmy byli cały czas atakowani i~odrzucani. To działa w~obie strony – należy przyjąć drugą osobę taką jaką jest, odróżnić grzech od osoby. Głębokie relacje są możliwe tylko przy wzajemnej akceptacji. Dlatego tak ważne jest, żebyśmy pokochali i~zaakceptowali siebie, wtedy będziemy mogli też kochać innych. Największe świadectwo wiary i~największy wkład w~kulturę, jaki możemy dać, zawiera się w~tych dwóch zdaniach – kochać Boga ponad wszystko i~zawierzyć Mu całe swoje życie oraz zaakceptować siebie i~rozwijać relacje z~innymi ludźmi.
 
-=========================================
 Zastosowanie
-=========================================
+============
 
 1. Zachęta do zawierzenia Bogu swojego życia (może po raz kolejny, może po raz pierwszy)
 2. Zastanowienie się nad swoimi "maskami" (nadal bez wprowadzania do LM!)

@@ -1,16 +1,13 @@
-***************************************************************
 Spotkanie 4. - Maski
-***************************************************************
+********************
 
-==================================
 Uwagi dla animatora
-==================================
+===================
 
 Na to spotkanie mamy tylko ok. 40 minut. Nie chcemy już tu bombardować uczestników nowymi treściami, ale bardziej nastawiamy się na dzielenie, tym co przeżyliśmy. To ma być spotkanie, na którym po prostu w~grupie porozmawiacie o~tych rekolekcjach. Konspekt zawiera pytania, które mogą w~tym pomóc. Podsumowaniu rekolekcji ma służyć też krótkie dzielenie się Słowem Bożym. Bardzo ważnym elementem spotkania jest napisanie przez uczestników na maskach, które właśnie zrobili na LM, napisów, które będą odzwierciedlały to, co dla nich jest taką maską, która nie pozwala im być sobą. To jest bardzo ważne- uczestnicy nie będą mieli potem czasu, żeby to zrobić, a~maski z~napisami są każdemu z~nich potrzebne na podsumowaniu Lightmotivu.
 
-=========================================
 Napisy na maskach
-=========================================
+=================
 
 Każdy z~Was przed chwilą stworzył swoją własną maskę.
 
@@ -28,9 +25,8 @@ Podkreślamy, że nie będziemy się tym dzielić i~prosimy uczestników o~napis
 
 .. warning:: Każdemu uczestnikowi będzie potrzebna jego maska na podsumowaniu -> ważne jest, żeby się porządnie zastanowili i~napisali "coś" na swoich maskach.
 
-=========================================
 Pytania
-=========================================
+=======
 
 Teraz po prostu jest czas, aby podzielić się tym, co przeżyliśmy w~czasie tych rekolekcji.
 Przykładowe pytania:
@@ -41,9 +37,8 @@ Przykładowe pytania:
 
 * Refleksje do modlitwy wieczornej?
 
-=========================================
 Dzielenie Słowem Bożym
-=========================================
+======================
 
 Przeczytajmy z~uczestnikami tekst i~podzielmy się tym, co o~nim myślimy, jakie refleksje (także/szczególnie a~propos przeżytych rekolekcji) nam się pojawiają, gdy czytamy ten tekst. Możliwe, że przy dzieleniu uczestnicy będą chcieli powrócić do treści, które były poruszane podczas całych rekolekcji i~podzielić się jeszcze swoimi przezyciami.
 
@@ -51,9 +46,8 @@ Przeczytajmy z~uczestnikami tekst i~podzielmy się tym, co o~nim myślimy, jakie
 
    -- 1 P 2,9-10
 
-=========================================
 Modlitwa
-=========================================
+========
 
 Warto tutaj pomodlić się o~owoce tych rekolekcji, o~to abyśmy wyjeżdżając stąd do naszych domów i~środowisk, w~których żyjemy, umieli być sobą i~żyć wg tego, co wyznajemy.
 Propozycja formy: można pomodlić się wspólnie tekstem pieśni "Serce wielkie nam daj".
