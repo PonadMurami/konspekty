@@ -192,7 +192,7 @@ f = open('szablon/latex.sty', 'r+')
 PREAMBLE = f.read();
 
 latex_elements = {
-	'papersize': 'b5paper',
+	'papersize': 'a5paper',
 	'pointsize': '10pt',
 	'preamble': PREAMBLE
 }
