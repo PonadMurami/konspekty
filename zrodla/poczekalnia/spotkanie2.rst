@@ -1,30 +1,25 @@
-*******************************************
 Spotkanie 2. - Czekanie, które jest odwagą
-*******************************************
+******************************************
 
-=====================================
 Cel Spotkania
-=====================================
+=============
 
 Rewizja naszych wątpliwości - analiza ich struktury. Pokazanie, że odważne (nie przemyślane pod każdym kątem) decyzje są lepszą drogą nich paraliż związany z~brakiem decyzyjności. Wprowadzenie do tematu umiejętności czekania na owoce.
 
-==================================
 Wprowadzenie dla animatora
-==================================
+==========================
 
 Spotkanie ma charakter silnie dzieleniowy. Należy bardzo świadomie kontrolować czas spotkania - **ważniejsze jest, aby ludzie się realnie podzieli swoim życiem niż realizacja nawet ½ tego konspektu**. Konspekt jest obszerny - posiada 39 pytań dzieleniowych (!), wybierz z~nich to, co dla Twojej grupy będzie największą wartością - nie próbuj zadawać ich wszystkich. Może się okazać, że część tych treści zostanie poruszona na konferencjach/świadectwach wcześniej - nie umiemy przewidzieć jak zawieje Duch Święty - ten konspekt jest buforem, który umożliwia dostosowanie lini programowej.
 
-==================================
 Modlitwa początkowa
-==================================
+===================
 
 .. note:: ~5 minut
 
 Modlitwa niech zmierza w~klimacie otwartości na Ducha Św., ale także otwartości na dzielenie się. Spotkanie ma zdecydowanie charakter dzieleniowy - bez stworzenia od samego początku atmosfery otwartości, zaufania, dotykania rzeczy ważnych to się nie uda. Modlitwa może znakomicie spełnić taką “funkcję”.
 
-==================================
 Dzielenie się Namiotem Spotkania
-==================================
+================================
 
 .. note:: ~10 minut
 
@@ -36,9 +31,8 @@ Dzielenie się Namiotem Spotkania
 
 * Co ma wspólnego ten tekst z~wątpliwościami?
 
-==========================================
 Wprowadzenie do spotkania
-==========================================
+=========================
 
 .. note:: ~10 minut
 
@@ -74,7 +68,6 @@ Podsumujmy:
 
 * Czy ktoś był zaskoczony “podanym przykładem wątpliwości” do danej przestrzeni? O~czym to świadczy?
 
-================================================
 Moje wątpliwości, a~może po prostu brak decyzji?
 ================================================
 
@@ -140,9 +133,8 @@ Wysiłek związany z~podjęciem decyzji nadaje wartość wybranej drodze. To cz�
 
 * Jakie rzeczy w~moim życiu, normalnie "zwykłe", stały się dla mnie bardzo wartościowe dzięki mojemu wyborowi?
 
-==========================================
 Czekanie, które jest odwagą
-==========================================
+===========================
 
 .. note:: ~20 minut
 
@@ -201,9 +193,8 @@ Przeskakiwanie etapów w~swoim życiu, których samemu się nie przeżyło jest 
 .. warning:: Animatorze - to miejsce spotkania czeka na Twoje świadectwo. Odważne, otwarte, szczere świadectwo Twojej drogi. Nie powiem Ci o~czym masz mówić - mogę powiedzieć o~czym ja spróbuje powiedzieć: o~tym, że chciałem zacząć czytanie Pisma Świętego od Apokalipsy, bo wydawała mi się najbardziej “pro”. Opowiem o~tym, że próbowałem kochać innych omijając niewygodny temat kochania samego siebie. Opowiem, że prosiłem o~dary epifanijne równocześnie nigdy wcześniej nie modląc się regularnie codziennie wieczorem przez trzy tygodnie. Jestem przekonany, że dla każdego z~nas Adwent jest jakimś wyzwaniem.
 
 
-===============================================
 Czekanie, które zmienia i~pozwala nam zmieniać
-===============================================
+==============================================
 
 .. note:: ~15 minut
 
@@ -251,9 +242,8 @@ Apostołowie odważnie zdecydowali (wybrane = wartościowe) i~dodatkowo mimo tru
 
 * Czy widzisz w~tym obrazie jakąś swoją sytuację z~życia?
 
-==========================================
 Zastosowanie + modlitwa
-==========================================
+=======================
 
 .. note:: ~5 minut
 

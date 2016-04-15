@@ -1,8 +1,6 @@
-**********************************************************
 Spotkanie 1. - Życie jako odpowiedź na powołanie do służby
 **********************************************************
 
-=====================================
 Wprowadzenie (nie)tylko dla animatora
 =====================================
 
@@ -21,14 +19,11 @@ Na początek warto przytoczyć kilka fragmentów, które rozjaśnią nam nieco c
 | *Przypomnienie:*
 | **Spotkania Ruchu Światło-Życie  mają charakter dzieleniowy, nie wykładowy. Mamy sami siebie ubogacać. Wartością spotkania nie ma być treść konspektu tylko spotkanie z~drugim człowiekiem w~duchu zaufania oraz podzielenie się samym sobą.**
 
-
-==========================
 Modlitwa początkowa
-==========================
+===================
 
 Dowolna z~uwzględnieniem szczególnie Ducha Świętego. Modlitwę należy dostosować do poziomu grupy
 
-===================================
 Wprowadzenie do spotkania grupowego
 ===================================
 
@@ -42,7 +37,6 @@ Odczytanie Fragmentu, a~następnie umieszczenie go w~widocznym miejscu, aby "tow
 
 Fragment ten jest równocześnie wprowadzeniem do tematyki spotkania – zapytać konkretnie kogoś jak reaguje gdy widzi taki tekst, czy są to dla niego "frazesy" czy może nieżyciowe rozważania, a~może czymś co poruszyło?
 
-==========================================
 Dar  życia: co z~z nim zrobić? Czym  jest?
 ==========================================
 
@@ -58,7 +52,6 @@ To bardzo poważna i~fundamentalna sprawa – wyrwanie się z~myślenia pragmaty
 
 Realizować życie można na tyle sposobów ilu ludzi jest na świecie. Można próbować samemu absolutnie od podstaw poszukiwać jego sensu. To droga jednak raczej dla niewielu. Kościół głosząc Dobrą Nowinę o~Chrystusie pokazuje bardzo wyraźny kierunek-propozycję dla nas.
 
-==========================================================
 Powołanie:  co zrobić z~moim życiem? Jaka jest moja droga?
 ==========================================================
 
@@ -74,7 +67,6 @@ Bóg wybiera każdego z~nas. On nas stworzył i~nie dokonał tego "ot tak sobie 
 
 Powstaje perspektywa, że ten dar życia o~którym mówiliśmy na początku ma konkretny cel. Nie jesteśmy tym czym moglibyśmy być. Jest ktoś prócz nas samych komu zależy na tym abyśmy tym byli. Ma on możliwości aby nam pomóc, musimy jednak z~nim współpracować.
 
-===============================
 Służba: postawa do naśladowania
 ===============================
 
@@ -94,9 +86,8 @@ Aby służyć innym (obdarowywać ich swoją miłością) musimy umieć także o
 
 * Czy doświadczyliśmy w~naszym życiu czegoś takiego, że z~powodu nieumiejętności (swojej/cudzej) otrzymywania powstało zniechęcenie u~osoby dającej? (np. z~powodu fałszywej pokory)
 
-============================================
 Powołanie do służby konsekwencją daru życia
-============================================
+===========================================
 
     Zrealizować we własnym życiu Boże powołanie to stać się wiernym uczniem Chrystusa, to stać się przedłużeniem Jego słów i~Jego czynów, to stać się przedłużeniem Jego obecności na tej ziemi. To doprowadzić do sytuacji, w~której za św. Pawłem możemy powiedzieć, że już nie ja żyję, lecz żyje we mnie Chrystus. To oddać Jezusowi do całkowitej dyspozycji samego siebie, aby poprzez nas Jego serce i~Jego ręce mogły nadal obejmować małych i~zagubionych, chorych i~odrzuconych przez ludzi, słabych i~grzeszników.
 
@@ -114,17 +105,15 @@ To właśnie jest Kościół – grzesznik grzesznikowi służy. Zamiast oddala�
 
 * Czy przeżywamy swoje powołanie jako radość z~możliwości służenia, czyli upodabniania  się do Jezusa? Czy widzimy, że miłość najpełniej wyraża się w~służbie, czyli czynie?
 
-==========================
 Zastosowanie
-==========================
+============
 
 Metoda Ruchu Światło-Życie nie pozwala na to, abyśmy pozostawali tylko na poziomie wiedzy  i~informacji. Każde spotkanie  powinno zakończyć się
 "zastosowaniem", czyli konkretnym wprowadzeniem w~życie treści.
 
 Propozycja, aby każdy z~nas  podjął  teraz jedno małe postanowienie w~związku z~omawianym tematem, które liczy, że będzie  mógł zrealizować jeszcze na tych rekolekcjach.
 
-==========================
 Modlitwa końcowa
-==========================
+================
 
 Dowolna w~intencji wytrwałości w~naszych postanowieniach.

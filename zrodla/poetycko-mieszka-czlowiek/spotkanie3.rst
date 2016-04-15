@@ -1,26 +1,21 @@
-******************************************************************
 Spotkanie 3. - Codzienność i~pasja - dwa filary jednego mieszkania
 ******************************************************************
 
-==================================
 Cel Spotkania
-==================================
+=============
 
 Pokazać harmonię między codziennością a~niezwykłością, że te dwie rzeczywistości się przenikają, a~nie są obok siebie, znaleźć miejsce zachwytu w~codzienności, pokazać, że to w~dużej mierze my decydujemy, jak nasze życie będzie wyglądać.
 
-====================================
 Modlitwa
-====================================
+========
 
 Dostosowana do możliwości grupy.
 
-=========================================
 Wprowadzenie
-=========================================
+============
 
 W piątek szukaliśmy niezwykłych rzeczy, miejsc w~naszym życiu, tego, co kształtuje naszą tożsamość, wyróżnia nas. Wczoraj zastanawialiśmy się, czy rutyna i~codzienność na pewno są potrzebne. Doszliśmy do tego, że codzienność też jest potrzebna i~też jest darem. No ale czy te dwie rzeczywistości mają być obok siebie? Czy teraz mam wydzielony czas na rzeczy niezwykłe, pasje, świętowanie, a~za chwilę wrócę do tych zwykłych, codziennych szarych zajęć? Chcemy się zastanowić, jak połączyć te rzeczywistości.
 
-=====================================================
 Akceptacja codzienności, uświęcenie przez codzienność
 =====================================================
 
@@ -84,9 +79,8 @@ Uciekanie od codzienności jest uciekaniem od samego siebie, od własnego człow
 
    -- Karl Rahner
 
-=====================================================
 Gdzie jest miejsce na zachwyt?
-=====================================================
+==============================
 
 Jak codzienność jest taka super to po co właściwie ten zachwyt? Gdzie jest na niego miejsce?
 
@@ -117,9 +111,8 @@ Jezus mówi, że mamy stać się jak dzieci.
 
 * A~może jest tak, że się tego nie da u~was pogodzić i~koniec?
 
-=====================================================
 Eucharystia sakramentem codzienności
-=====================================================
+====================================
 
 * Jaka rzeczywistość jest takim doskonałym zjednoczeniem codzienności i~niezwykłości?
 
@@ -129,9 +122,8 @@ Codziennie w~każdym kościele jest sprawowana Eucharystia. Właśnie Eucharysti
 
 Chyba nie można nazwać zwykłą rzeczą tego, że Bóg zstępuje na ziemię i~przychodzi do nas w~kawałku chleba. Ale Jezus nie powiedział: czyńcie to na moją pamiątkę, ale każdego dnia inaczej. Nie, każdego dnia dokonuje się to tak samo i~to jest zbawienne.
 
-=====================================================
 W chwilach najdrobniejszych ukryty jest smak życia
-=====================================================
+==================================================
 
 * Jak myślicie, czy takie rzeczy nadzwyczajne - jaką jest każda Eucharystia - i~zwyczajnej - jak fakt, że jest ona codziennie - można połączyć?
 
@@ -149,17 +141,15 @@ Musimy się zdobyć na wysiłek zadawania pytań, poszukiwania. Nasze pasje same
 
 Od tych najprostszych, najdrobniejszych i~najbardziej codziennych spraw i~wyborów zależy najwięcej. W~każdej chwili, w~każdym momencie naszego życia możemy wybrać dobro, piękno i~prawdę.
 
-=====================================================
 Podsumowanie
-=====================================================
+============
 
    Myślę, że najpiękniejszym sposobem poznawania siebie i~miejsc wokół jest wzbudzanie w~sobie zachwytu. Zachwyt człowiekiem jakże trudna sztuka, zachodem słońca, strzelistością wieży, snem, zimą, narodzinami i~bodaj było nam to dane śmiercią ten zachwyt jest naszą szansą przetrwania w~świecie. A~jest to świat arogancji, nonszalancji, wściekłego ryku reklam, tanich i~szybkich posiłków, zabójczego pośpiechu. Ufam, że to znamionuje człowieka właśnie, że potrafi ulec zachwytowi.
 
    -- Jacek Kurek
 
-=====================================================
 Zastosowanie
-=====================================================
+============
 
 Zastosowaniem tego spotkania niech będzie modlitwa za siebie nawzajem. Jest tak, że nie mamy pogodzonej do końca tej codzienności z~niezwykłością. Niech każdy zastanowi się na jakiej konkretnie rzeczy, sferze najbardziej w~tej chwili mu zależy, żeby to pogodzić i~w tej intencji będziemy się za niego modlić przez najbliższy tydzień.
 (animator musi rozeznać czy grupa jest na tyle otwarta, żeby mówić to na forum, czy każdy mówi jednej osobie tylko)

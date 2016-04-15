@@ -1,22 +1,18 @@
-***************************************************************
 Spotkanie 2. - Pustynia nas kształtuje
-***************************************************************
+**************************************
 
-==================================
 Cel
-==================================
+===
 
 Pokazać dobrą stronę doświadczenia pustyni – jest dla nas potencjalnym darem, który można wykorzystać lub odrzucić. Podzielenie się naszym doświadczeniem "braku" w~życiu i~na dzisiejszej Drodze Krzyżowej. Pustynia kształtuje!
 
-====================================
 Modlitwa
-====================================
+========
 
 Dostosowana do możliwości grupy.
 
-=========================================
 Wprowadzenie
-=========================================
+============
 
 Wczoraj  mówiliśmy  o~ pustyni  jako  miejscu  niebezpiecznym  i~ groźnym,  to  naturalny odruch w~jej postrzeganiu. Dzisiaj jesteśmy po "dziwnym doświadczeniu" Drogi Krzyżowej w~ciszy. Doświadczyliśmy "trudnych warunków braku ruchu" – rzuca to jakieś światło na przeżywanie przez nas pustyni. Na dzisiejszym spotkaniu nie chcemy referować mądrych książek, ale porozmawiać o~tym co widzieliśmy/przeżyliśmy.
 
@@ -28,7 +24,6 @@ Wczoraj  mówiliśmy  o~ pustyni  jako  miejscu  niebezpiecznym  i~ groźnym,  t
 
 .. note:: animatorzy: zburzmy z~miejsca tendencje do "dobrych odpowiedzi, które chce usłyszeć animator" i~sprowokujmy otwartą rozmowę
 
-=============================================================
 "Życie toczy się samo, my się do niego zręcznie dopasowujemy"
 =============================================================
 
@@ -53,7 +48,6 @@ Animator rozdaje grupie wydruki i~wspólnie z~nimi próbuje je analizować. Poni
 
 (Np. dla potrzeby bezpieczeństwa, aby sobie je zapewnić muszę wybrać w~jakim banku będę odkładał sobie pieniądze na przyszłość, gdy go już wybiorę muszę zdecydować jaką kwotę co miesiąc sobie będę tam wpłacać, a~jaką zostawię "na życie", potem muszę podjąć wybór kiedy tych pieniędzy użyję)
 
-==================================================================================
 "Życie toczy się samo, my się do niego zręcznie dopasowujemy" – dlatego  pustynia!
 ==================================================================================
 
@@ -67,9 +61,8 @@ To  pytanie  jest  najważniejsze.  Wczorajszego  dnia  i~dzisiaj  na  konferenc
 
 * Czy byliście Bogu za to później wdzięczni?
 
-==================================================================================
 Pustynia – trud, piasek  w~oczy
-==================================================================================
+===============================
 
 Wszyscy się jednak zgodzimy, że o~ile "po" jeszcze łatwo być Bogu wdzięcznym to gdy na pustynie zostajemy przez Ducha wyprowadzeni przyjemnie raczej nie jest. Zachowujemy się często w~taki sposób, że gdy tylko poczujemy swymi stopami gorący piasek zaczynamy od razu próbować z~niego wyskoczyć miotając się i~często zakopując się w~tym momencie w~nim przez to po kolana. Przed pustynią się "ucieka".
 
@@ -97,9 +90,8 @@ czasami może się spotykać z,~delikatnie mówiąc, niezrozumieniem.
 
 .. warning:: To pytanie może się odwoływać do bardzo intymnych relacji np. damsko- męskich. Przykład: Facet stara się usuwać doły wybranki jak najszybciej, żeby znowu było fajnie i~mogli spędzać czas "jak zawsze". Tym samym jest to ważne miejsce spotkania grupowego
 
-==================================================================================
 Wytrwać do końca
-==================================================================================
+================
 
 Przed czasem pustyni zatem nie należy uciekać, a~go jak najlepiej wykorzystać. Myślę, że najczęstszym   błędem   na   pustyni   jest   brak   cierpliwości.   Pustynia   to   "doświadczenie graniczne" które pozwala otworzyć nowy rozdział, dać nowe spojrzenie na jakiś etap życia. Przykładem tutaj może być rozpacz i~pustynia duchowa Judasza po zdradzie Jezusa. Te doświadczenie  pustki doprowadziło  go do fatalnej decyzji o~odebraniu sobie życia. Gdyby udało mu się przetrwać tą noc i~podnieść się... Zobaczmy jak bardzo tryumfowałoby Miłosierdzie, jak wielkie byłoby to świadectwo gdyby nauczał o~odpuszczeniu grzechów itd. Kto wie – być może byłby jednym z~największych świętych.
 
@@ -135,9 +127,8 @@ Przeczytajmy teraz wiersz Jacka Kaczmarskiego "O krok". Niech każdy z~nas zazna
 
 * Czy w~czasie pustyni i~trudności mamy ufność, że zawędrujemy w~końcu do Oazy jeżeli to będzie dla nas dobre?
 
-==================================================================================
 Nic już nie jest takie same
-==================================================================================
+===========================
 
 Ci, którzy doświadczyli pustyni i~przeszli przez nią zmieniają spojrzenie na wiele spraw. Często owocem jest szacunek i~pokora wobec Boga, przyrody, innych ludzi. To podstawowe owoce po których można rozeznawać jak wykorzystało się pustynię.
 
@@ -145,9 +136,8 @@ Ci, którzy doświadczyli pustyni i~przeszli przez nią zmieniają spojrzenie na
 
 * Czy będąc na pustyni pozwalasz sobie na odwagę "zmiany Ciebie" czy bronisz się przed tym?
 
-==================================================================================
 Podsumowanie
-==================================================================================
+============
 
 Pustynia nas kształtuje. To są te momenty naszego życia, które być może mają najsilniejszy wpływ na całość naszej osoby. Pustynia prowokuje nas do wyjścia poza utarte schematy dające zadowolenie.
 

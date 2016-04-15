@@ -1,20 +1,16 @@
-***************************************************************
 Spotkanie 4. - Duch Święty jako ten, który zmienia
-***************************************************************
+**************************************************
 
-==================================
 Potrzebne pomoce
-==================================
+================
 
 Teksty "Akatystu ku czci Ducha Świętego" dla każdego uczestnika.
 
-====================================
 Cele spotkania
-====================================
+==============
 
 Podzielenie się przeżyciami związanymi z~sobotnia modlitwą o~wylanie darów Ducha Świętego oraz niedzielną jutrznią o~wschodzie słońca (z położeniem szczególnego akcentu na ZMIANY jakie się dokonały, zmiany duże, małe i~jeszcze mniejsze, ale tez takie, które pozostają niezauważone np. "Jutrznia nie zrobiła na mnie żadnego wrażenia - okej, ale przeżyłeś ją, byłeś tam, brałeś w~tym udział. To już inna rzeczywistość nawet jeśli teraz tego nie czujesz, nie rozumiesz").
 
-=========================================
 Wprowadzenie dla animatora (i nie tylko!)
 =========================================
 
@@ -22,9 +18,8 @@ Wczorajsze spotkanie popołudniowe rzuciło nam już dość dużo światła na o
 
 W czasie modlitwy wieczornej doświadczyliśmy niezwykłego z~Nim Spotkania. Usłyszeliśmy melodię  o~ której wcześniej  tylko  czytaliśmy. To  zupełnie  coś  nowego, jakościowo  innego. Dlatego na tym spotkaniu sięgniemy do Akatystu ku czci Duch Świętego - wspaniałego hymnu Kościoła na temat tego kim jest i~jakie ma znacznie Duch Czasów. Nie jest to tekst powstały z~dedukcji teologicznej, ale właśnie z~wsłuchiwania się, ze Spotkania ludzi z~Duchem. Będziemy próbować znaleźć w~nim coś nam bliskiego. Jeżeli odnajdziemy oznaczać to będzie, że dzisiejszego wieczoru doświadczyliśmy tej samej mocy którą już 1600 lat temu odkrywał Kościół układając te słowa. Bo Duch prowadzi nieustannie swój lud...i nieustannie zaskakuje.
 
-=========================================
 Dzielenie się tym co za nami
-=========================================
+============================
 
 Dzielenie się doświadczeniami poprzedniego wieczora i~poranka, zgodne z~sugestią podaną w~celu spotkania - odczucia i~uniesienia są ważne i~cenne, ale jeśli ich nie ma nie znaczy że wszystko było bez sensu i~nic mi nie dało.Mogło być głupio, zimno i~nudno, ale BYŁO, to fakt a~nie playback. Ponieważ było tego dużo (modlitwa i~jutrzni!) to ta część spotkania może zająć więcej czasu.
 
@@ -32,9 +27,8 @@ Próbujemy wyciągać jakieś drugie dno z~obserwacji "normalnych":
 	* przed światłem widzieliśmy kształty, ale były one szare, jakby bez życia. Dopiero Światło pozwoliło zobaczyć życie takim jakie ono jest.
 	* było zimno. Wydawało mi się, że to już jest wschód słońca a~ciągle go nie było. Straszne jest takie czekanie, ale rozumowo miałem pewność, że wzejść musi!
 
-=========================================
 Akatyst ku czci Ducha Świętego
-=========================================
+==============================
 
 Wyjaśnienie teoretyczne:
 	Akatyst (z gr. akatihstos – nie-siedzący) – to rodzaj hymnu liturgicznego... (patrz: wewnętrzna strona okładki)
@@ -75,14 +69,12 @@ Dzielenie się zaznaczonymi fragmentami w~określonej kolejności:
 
 * Co zaznaczyliście strzałką? (wypowiadają się wszyscy)
 
-=========================================
 Podsumowanie
-=========================================
+============
 
 Można żyć mocniej i~bardziej! Szkoda jednak, abyśmy bez Ducha Świętego próbowali wnikać w~głębie świata. To Duch przenika głębokości Boga samego. On został nam dany! On chce działać i~działa. Dwa tysiące lat istnienia Kościoła jest jego sprawą. Duch który unosi się nad wodami przed stworzeniem świata, który namaszcza królów, który jest natchnieniem proroków i~poetów, który jest sprawcą wszelkiego ruchu i~życia, ten sam Duch, chce rozpoczynać nieustannie z~Tobą współpracę. Nie ignoruj go! Daj mu się porwać.
 
-=========================================
 Zastosowanie i~modlitwa
-=========================================
+=======================
 
 Modlitwa grupy wzajemnie za siebie o~dobre przygotowanie do Uroczystości Zesłania Ducha Świętego!

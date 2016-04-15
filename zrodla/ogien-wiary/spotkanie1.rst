@@ -1,34 +1,28 @@
-***************************************************************
 Spotkanie 1. - Wiara - przestrzeń dynamicznych zwrotów
-***************************************************************
+******************************************************
 
-==================================
 Potrzebne pomoce
-==================================
+================
 
 Dwa flamastry różnych kolorów, czyste kartki (szt. min. 5), Pismo Św., kartka z~napisem "ZMARTWYCHWSTANIE TO DUŻO SZUMU O~NIC", wydrukowane wykresy (ale można je też tworzyć na bieżąco z~grupą)
 
-==================================
 Cel
-==================================
+===
 
 Uzyskanie wspólnej płaszczyzny z~uczestnikami na starcie rekolekcji w~odniesieniu do wiary - nie ma "bliżej" i~"dalej", jeżeli wiara jest łaską.
 
-================================================
 Wprowadzenie dla animatora do całości rekolekcji
 ================================================
 
 Spotkanie z~drugim człowiekiem zaczynające się od znaku krzyża jest czymś, czego nie da się przewidzieć i~czego nie uda nam się nigdy zamknąć w~ramy konspektu. Stajemy przed Tajemnicą drugiej osoby, jej historii, pragnień, przeżytych sytuacji. Dlatego niech te konspekty będą tylko próbą nakierowania animatorów na temat, pewną propozycją. "Litera zabija ale duch ożywia" (2 Kor 3,6) - niech te litery rozrzucone na tych kartkach nie zabiją Ducha Spotkania, który czeka, aż Go razem zaprosimy do dialogu z~nami.
 
-=========================================
 Wprowadzenie dla animatora
-=========================================
+==========================
 
 Z racji, że spotkanie wymaga przekroczenia "ugłaskanego katolicyzmu", trzeba na to uwrażliwić animatorów, że muszą stworzyć taką atmosferę otwartości już od pierwszych minut spotkania, aby ludzie poczuli się zachęceni i~docenili wartość pogadania o~tym jak jest, a~nie o~tym jak powinno być. Warto powiedzieć, że właśnie po to przyjeżdżamy na rekolekcje, że jesteśmy w~takim gronie gdzie ufamy wzajemnie sobie, że gdy ktoś coś mówi to nie dlatego, że nie kocha Boga, tylko dlatego, że chce razem z~grupą szukać odpowiedzi. Ocieramy się moim zdaniem o~jakieś sedno tego czym jest animatorstwo. Duży od animatorów wymagamy. To nie jest konspekt do poprowadzenia czytając go jak scenariusz. W~zasadzie o~tym co tutaj napisałem jest sobota I, ale animatorzy muszą już teraz tworzyć taką atmosferę. Oficjalnym momentem przejścia do tego jest homilia ks. Jarka.
 
-=========================================
 Wprowadzenie
-=========================================
+============
 
 Wprowadzenie wspólne będzie przed spotkaniami i~tam będzie dużo powiedziane o~samych rekolekcjach. Tutaj proponuje wprowadzić nie tyle do spotkania co do spotkania grupowego. Nawiązać do słów z~wprowadzenia:
 
@@ -38,9 +32,8 @@ Rekolekcje nie mają magii i~cudownych mocy...ale mają małą grupę :). To jes
 
 .. note:: To jest miejsce na pierwsze świadectwo (5-7 zdań) animatora dot. tego co się stało, gdy Boga potraktował serio
 
-=========================================
 Wiara nie jest monolitem
-=========================================
+========================
 
 Przykłady wydarzeń z~życia odkrywane dzięki różnym wykresom funkcji ;). Uczestnicy sami próbują wymyślać o~jaką życiową sytuację może chodzić.
 
@@ -77,7 +70,6 @@ PRZYKŁAD:
 
 Widzimy więc i~uzmysławiamy sobie, że w~życiu różnie odbieramy ważne wydarzenia - towarzyszy temu i~obojętność, i~rozczarowanie, i~serie tzw. "wzlotów i~upadków", i~niestałość, czyli rzeczy generalnie niezbyt pozytywnie przez nas odbierane, powiedzielibyśmy "do zmiany".
 
-=================================================
 Historia Jezusa dla nas to historia zwrotów akcji
 =================================================
 
@@ -109,9 +101,8 @@ Skoro nie to spróbujmy prześledzić jak to wyglądało na przestrzeni 33 lat j
 Wniosek dotyczący ostatnich dni Jezusa przed Emaus:
    Jezus opowiada przypowieści, wskrzesza Łazarza, wjeżdża uroczyście do Jerozolimy,idą za nim tłumy i~kilka dni później jest wyszydzony i~zabity. 180 stopniowy zwrot akcji w~kilka dni, a~historia trwała 3 lata.
 
-=================================================
 Dobre rozczarowanie, bo odskocznią w~górę!
-=================================================
+==========================================
 
 Poszukiwanie:
 
@@ -142,9 +133,8 @@ Kładziemy na stole kartkę ze słowami "ZMARTWYCHWSTANIE TO DUŻO SZUMU O~NIC"
 
 * A~nawet jeśli sami czujemy, że nie, to czy możemy powiedzieć że tak myślą niektórzy? Dlaczego tak myślą?
 
-=================================================
 Wnioski
-=================================================
+=======
 
 Trudno nam sobie poradzić ze zmartwychwstaniem. Mamy świadomość doniosłości tego wydarzenia, wciąż ktoś cytuje św. Pawła, że "jeżeli Chrystus nie zmartwychwstał, daremna jest nasza wiara"; wciąż ktoś powtarza że Wielkanoc to najważniejsze dla chrześcijan święta...ale czy ja to dźwigam? Czy ja to przyjmuję? Czy to faktycznie jest dla mnie ważne? Czy ja tego chcę? I~nie chodzi o~to żeby teraz na te wszystkie pytania odpowiedzieć twierdząco, ale aby chcieć stanąć w~prawdzie i~uświadomić sobie że MOGĘ nie rozumieć, nie przyjmować, nie dźwigać, ale nie powinienem odpuszczać, być obojętnym. Każdy z~nas czuje, że jego osobista wiara jest czymś dla niego ważnym. A~o~rzeczy ważne warto,a nawet trzeba walczyć.
 
@@ -160,8 +150,7 @@ Czy jesteś gotowy/a krzyczeć tak do osoby, która potraktuje ten krzyk bardzo 
 
 .. note:: Jeżeli jesteś w~stanie to to jest miejsce w~którym będziesz wiedział o~czym powiedzieć świadectwo
 
-=================================================
 Zastosowanie i~modlitwa
-=================================================
+=======================
 
 U progu tych rekolekcji chciejmy, bogatsi o~to co powiedzieliśmy sobie na tym spotkaniu, prosić Boga w~modlitwie. Nie bójmy się wypowiedzieć na głos swoich próśb. Pamiętajmy też o~tym, że tworząc małą grupę chcemy też pamiętać w~modlitwie o~sobie nawzajem.

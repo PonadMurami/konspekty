@@ -1,20 +1,16 @@
-***************************************************************************
 Spotkanie 3. - Kim jest i~jak działa Duch Święty?
-***************************************************************************
+*************************************************
 
-==================================
 Wprowadzenie dla animatora
-==================================
+==========================
 
 To spotkanie, może się wydawać krótkie. Jest w~nim bufor czasowy tak odnośnie całych rekolekcji, aby popytać grupę o~działanie Ducha Świętego, może wyjdzie rozmowa o~charyzmatach epifanijnych itd. Myślę, że potrzeba tutaj naszej elastyczności.
 
-====================================
 Nawiązanie do tego co już było
-====================================
+==============================
 
 Namiot Spotkania - dzielenie.
 
-============================================================
 Przypomnienie podstawowych faktów o~tym kim jest Duch Święty
 ============================================================
 
@@ -99,9 +95,8 @@ Tutaj uczestnicy mogą iść bardzo różnymi drogami w~interpretacji. Fajnie, a
 
 * Co to dla Was znaczy? (niepozorne pytanie, ale kluczowe!)
 
-=========================================
 Duch nadaje i~odkrywa przed nami sens
-=========================================
+=====================================
 
 Można by jeszcze wiele o~Duchu powiedzieć, ale na potrzeby tego spotkania zaakcentujmy szczególnie ten ostatni fakt - Duch Święty jako ten, którego dostajemy po to, aby uzdolnił nas do wiary (" otrzymacie Jego moc i~będziecie moimi świadkami..."), jako brakujący element układanki jaką jest nasza wiara, bez którego pozostaje ona tylko pobożną gadaniną, czymś co możemy powtarzać całe życie nie czując tego kompletnie. Tak jak np. autor tego demotywatora:
 
@@ -120,9 +115,8 @@ Narzędziem, którym Kościół posługuje się celem poprowadzenia ku takiej w�
 
 Na to szczególne działanie Ducha związane z~uzdalnianiem i~umacnianiem do wiary. Nie mówimy - Pragniemy żeby Duch Święty sprawił że będę go mocno czuł i~już nigdy nie zapomniał, że w~unosił się nad wodami jak głosi Księga Rodzaju...- nie tyle emocje i~wiedza, co "mężne wyznawanie wiary"
 
-=========================================
 Od słuchania i~czytania do wołania!
-=========================================
+===================================
 
 I co z~tego wynika? Bo my tak tutaj sobie dużo mówimy na tych rekolekcjach. Spróbujmy zebrać to jakoś razem. Przeczytam wam kilka konkluzji do których dochodzimy i~które już powoli przed nami się majaczą. To będą zdania z~konspektu, ale my jesteśmy małą grupą więc spróbujemy przełożyć to na nasz język i~dotychczasowe doświadczenie. Spróbujemy na każdy punkt odpowiedzieć, krótko czy się z~tym zgadzamy czy nie i~co to dla nas znaczy.
 
@@ -136,20 +130,17 @@ Przed nami modlitwa wieczorna z~wołaniem o~Ducha Świętego. Skoro doszliśmy d
 
 * Czy myślisz ze jesteś w~stanie przyjść na modlitwę bez pomysłu na to jak ona będzie wyglądała i~jak ty ja poprowadzisz tylko dając się poprowadzić?
 
-=========================================
 Podsumowanie
-=========================================
+============
 
 Na końcu spotkania powinno raz jeszcze wybrzmieć to, że kilka elementów układanki zostało pustych. Niech wieńczy je konkluzja, że nie możemy "dokończyć Nieuchwytnego", że w~Duchu są takie obszary, takie cechy których my nie umiemy podać na talerzu na tym spotkaniu grupowym. Elementy, które Ty poznasz w~relacji z~Duchem i~będą "wasze" i~że do poznania tego jesteśmy zaproszeni. Duch chce z~nami współpracować i~chce nam to pokazywać, On zawsze czeka na nasze zawołanie sercem "Przyjdź Duchu Święty". To zawołanie będzie możliwe dzisiaj wieczorem.
 
-=========================================
 Zastosowanie
-=========================================
+============
 
 Zastanów się i~nazwij po imieniu sprawę/obszar/rzecz w~Twoim życiu, w~którym może nie do końca jesteś jeszcze gotowy być otwartym na działanie Ducha. Jak już nazwiesz to otwarcie, to powiedz o~tym Bogu, że tak jest. Tak po prostu np. "Panie Boże wiem, że w~sprawie... wydaje mi się, że najmniej potrafię otworzyć się na działanie Twojego Ducha. Mam tego świadomość i~z tym przed Tobą staje." Pan Bóg Cię nie pogoni... On lubi i~ceni szczerość. Dobrze by było jakby się udało to zrobić w~dowolnej chwili przed modlitwą wieczorną.
 
-=========================================
 Zastosowanie
-=========================================
+============
 
 Jest taka osoba, która radykalnie otwarta na wszystko to co przynosił jej Duch. To Maryja. Dlatego zakończymy to spotkanie 10 różańca z~dopowiedzeniami.

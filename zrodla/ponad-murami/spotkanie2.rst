@@ -1,10 +1,8 @@
-***************************************************************
 Spotkanie 2. - Zobaczyć horyzont
-***************************************************************
+********************************
 
-==================================
 Cel
-==================================
+===
 
 Dydaktyczny:
    Uczestnicy uświadamiają sobie, że pomimo licznych ograniczeń, barier, słabości są w~stanie wznieść się ponad mury, "wspiąć się na sykomorę", by dostrzec z~niej to, czego do tej pory nie widzieli.
@@ -12,23 +10,20 @@ Dydaktyczny:
 Wychowawczy:
    Z~tej perspektywy powinni zacząć zmieniać swoje życie, traktować je jako przestrzeń realizacji swoich pragnień i~przemiany świata na lepsze, co możliwe jest tylko po otwarciu się na Jezusa, oddaniu Mu swoich słabości i~wyruszenie razem z~Nim w~drogę.
 
-==================================
 Wprowadzenie dla animatora
-==================================
+==========================
 
 Dzisiejsze spotkanie ma dwa wymiary. Z~jednej strony jest swego rodzaju podsumowaniem tego, co na rekolekcjach już się wydarzyło - a~wydarzyło się wiele, stanowi pewne usystematyzowanie wydarzeń, przeżyć i~treści. Z~drugiej strony jest bezpośrednim przygotowaniem do modlitwy wieczornej, w~czasie której będzie miało miejsce wyjątkowe spotkanie -  jeśli dobrze je przeżyjemy, może stać się ono  najważniejszym w~naszym życiu.. Bardzo ważną rolę w~czasie tego spotkania grupowego odgrywa świadectwo animatora. Jeżeli poczujesz w~sercu, że potrzebujesz modlitwy do tego, by zaświadczyć w~ten bezpośredni sposób, zwróć się do diakonii modlitwy - na pewno Ci nie odmówią ;). Chcemy zachęcić uczestników do otwartości, do tego, by w~pokorze i~z odwagą zmierzyli się z~własnymi ograniczeniami - najpierw je nazywając, a~następnie oddając Jezusowi. Istotne jest zwrócenie uwagi na to, że kładziemy akcent na ograniczenia i~słabości nie po to, by się na nich zatrzymać, rozdrapywać rany i~koncentrować na własnej małości. Nazywamy je po to, by powierzyć je Bogu i~iść dalej. Kerygmat nie kończy się na drugim prawie życia duchowego. Chcemy zaświadczyć o~tym, że w~życiu nie ma drogi na skróty - Jezus przychodzi do naszego życia, ale to od nas zależy, czy wyjdziemy Mu na spotkanie, do nas należy zrobienie kroku w~przód, wspięcie się na sykomorę pomimo naszego niskiego wzrostu po to, by widzieć więcej i~lepiej, by znaleźć się na takiej wysokości, że będziemy w~stanie dostrzec horyzont, zachwycić się nim i~z tym doświadczeniem pójść dalej.
 
 W materiałach dla animatorów znajdujących się na końcu konspektu **umieszczony jest dłuższy tekst o~samoograniczających przekonaniach. Warto zapoznać się z~nim przed rekolekcjami, by łatwiej Ci było wyjaśnić to pojęcie uczestnikom**. Materiał ten jest dość obszerny, więc nie zostawiaj go na ostatnią chwilę przed rekolekcjami - dobrze jest chwilę się nad nim zatrzymać. Pamiętaj również o~tym, że konspekt jest pomocą, nie sztywnym schematem, którego należy się bezwzględnie trzymać. **Przeanalizuj go na spokojnie i~wyselekcjonuj** te treści, te pytania dzieleniowe, te materiały, które według Twojego rozeznania będą najbardziej odpowiednie dla Twojej grupy (jeśli tego nie zrobisz, Twoje spotkanie nagle może się urwać przy punkcie trzecim z~powodu braku czasu).
 
-====================================
 Modlitwa
-====================================
+========
 
 Spontaniczna do Ducha Świętego - wołanie o~Jego światło, którego potrzebujemy, by w~prawdzie stanąć przed Bogiem i~sobą nawzajem, o~odwagę do mierzenia się z~własnymi ograniczeniami i~otwartość zmysłów i~serc, byśmy potrafili zachwycić się krajobrazem, który rozciągnie się przed nami, kiedy już wzniesiemy się ponad nasze mury.
 
-====================================
 Wprowadzenie do spotkania
-====================================
+=========================
 
 Duża część rekolekcji za nami. Wiele się wydarzyło, wiele już mogliśmy doświadczyć. Podzielmy się tym, jak ten czas do tej pory wykorzystaliśmy, złóżmy świadectwo o~tym, czego Bóg w~naszych sercach dokonał.
 
@@ -52,9 +47,8 @@ Wczorajsza modlitwa wieczorna była momentem, w~którym podjęliśmy decyzję o~
 
 * Co robiliśmy, żeby te ograniczenia pokonać? Czy ostatecznie nam się to udało?
 
-====================================
 Zdobyć się na szaleństwo
-====================================
+========================
 
 Wyobraźmy sobie następującą sytuację. W~szkole / na uczelni organizowany jest z~jakiejś okazji koncert. Występują na nim uczniowie. Mają dużo chęci i~zapału, ale coś nie idzie do końca tak, jak powinno i~występ nie należy do udanych. Najprawdopodobniej reakcją otoczenia, ich kolegów i~koleżanek będą szyderstwa, kpiny i~ostra krytyka. Lecz gdyby poprosić tych ludzi, żeby sami odważyli się wystąpić w~tym koncercie, mało kto by się na to zdobył.
 
@@ -96,9 +90,8 @@ Tu możemy bazować na naszych przeczuciach - musiał być bardzo mocno zdetermi
 
 Tu można podać różne przykłady - postaci biblijne (św. Piotr, św. Paweł...), misjonarze, szczególni świadkowie wiary, osoby spełniające niecodzienne marzenia, pasje. Idealnie by było, gdyby udało nam się takie osoby znaleźć w~naszym najbliższym otoczeniu.
 
-====================================
 Ponad murami
-====================================
+============
 
 Każdy z~nas ma jakiś swój "niski wzrost", takie przestrzenie w~życiu, które go blokują, ograniczają, nie pozwalają mu na to, by iść do przodu, choć bardzo by chciał. Spróbujmy na chwilę przyjrzeć się tym naszym murom, barierom - to bardzo ważne, ponieważ dopiero, gdy coś dostrzeżemy, będziemy wstanie wspiąć się ponad to.
 
@@ -156,9 +149,8 @@ Niemożliwe jest wznoszenie się ponad mury bez Jezusa - tylko On jest w~stanie 
 
    -- bł. Matka Teresa z~Kalkuty
 
-====================================
 Dostrzec horyzont
-====================================
+=================
 
 Spróbujmy na chwilę uruchomić wyobraźnię. Zamknijmy oczy i~spróbujmy przywołać obraz horyzontu. Można tu wykorzystać jakąś wizualizację - ładnie wydrukowane w~dużym formacie zdjęcie, prezentację, filmik, wedle uznania. Można też puścić uczestnikom piosenkę zespołu Raz Dwa Trzy:
 
@@ -210,9 +202,8 @@ Horyzont to "miejsce", gdzie niebo styka się z~ziemią - obraz piękny i~wyjąt
 
 * W~jaki sposób Pan Bóg przemienił trudności w~dobro?
 
-====================================
 Wyjątkowe spotkanie
-====================================
+===================
 
 Spotkania są ważnym elementem naszego życia. Trudno jest nam sobie w~ogóle wyobrazić życie bez wyjątkowych osób, z~którymi możemy się widywać, rozmawiać, przeżywać dobre i~wartościowe chwile. Spróbujmy teraz przypomnieć sobie jedno wyjątkowe spotkanie, które było dla nas na tyle ważne, że zapadło nam głęboko w~pamięć. Spróbujmy korzystając z~tabelki, która znajduje się w~naszych notatnikach, przypomnieć sobie i~wypisać elementy, które były dla nas najistotniejsze w~tym spotkaniu:
 
@@ -244,21 +235,18 @@ Jezus w~ciągu całego swojego ziemskiego życia spotykał wielu ludzi - przebyw
 
 Każde spotkanie Jezusa z~człowiekiem jest wyjątkowe - każde przebiega inaczej, każde ma inny skutek. Jezus każdego traktuje indywidualnie (nawet kiedy uzdrawia, to każdego w~inny sposób). Dokładnie tak samo dzieje się w~naszym życiu. Moja relacja z~Jezusem jest taka, jakiej nie ma nikt inny, moje spotkania z~nim są jedyne i~niepowtarzalne. Przygoda z~Jezusem zawsze zaczyna się od spotkania, dialogu. Dokładnie to będzie miało miejsce na dzisiejszej modlitwie wieczornej. Dobrze jest przygotować się na to spotkanie, uświadomić sobie, jakie ograniczenia, jakie małości i~słabości chcę Jemu powierzyć tak, by to On je przemienił w~nieograniczone możliwości.
 
-====================================
 Zastosowanie
-====================================
+============
 
 Jedyne, co można zrobić z~naszymi ograniczeniami, to oddać je bardzo konkretnie Jezusowi. Niech to będzie zastosowaniem z~dzisiejszego spotkania. Zróbmy to  w~modlitwie indywidualnej (można w~czasie dzisiejszej adoracji) rozpoczynając za każdym razem od słów: "W~imię Jezusa, rezygnuję z~przyjmowania za prawdę, że...", a~następnie powierzając Mu swoich możliwość poprzez wyrażenie: "Jezu Chryste, z~Tobą i~dla Ciebie chcę przyjąć, że..." Jest to oczywiście propozycja (bo przecież już doszliśmy do tego, że każde spotkanie z~Jezusem, każda modlitwa jest wyjątkowa i~niepowtarzalna).
 
-====================================
 Modlitwa
-====================================
+========
 
 Uwielbienie Boga w~tym wszystkim, czego w~nas dokonuje - w~tym czasie, który z~Jego łaski możemy przeżywać, w~tym wszystkim, czego już na tych rekolekcjach doświadczyliśmy i~przede wszystkim w~tych wszystkich ograniczeniach, na które otworzył nam oczy i~które swoją mocą chce przemieniać.
 
-====================================
 Materiały dla animatorów
-====================================
+========================
 
 .. note:: Fragmenty pochodzą z~publikacji: Niwiński T., 2011,  Ja, czyli jak zmienić siebie, Gliwice: Złote Myśli.
 

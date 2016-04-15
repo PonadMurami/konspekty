@@ -1,10 +1,8 @@
-*********************************************************************
 Spotkanie 2. - Stworzyłeś nas bowiem jako skierowanych ku Tobie Panie
 *********************************************************************
 
-=====================================
 Cel Spotkania
-=====================================
+=============
 
 1. Zobaczyć Boga jako tego, który ponad wszystko pragnie człowieka i~tęskni za nim
 
@@ -12,9 +10,8 @@ Cel Spotkania
 
 3. Zachwycić się cudem wcielenia – Jezusem – Emmanuelem – który jest dowodem Bożej Miłości
 
-==================================
 Wprowadzenie dla animatora
-==================================
+==========================
 
 Tak  naprawdę w~ spotkaniu  najważniejsze jest,  aby  dostrzec  sytuację  "po  grzechu"  nie  tylko z~perspektywy grzeszności człowieka, ale także z~punktu widzenia "osamotnionego" Boga, który stwarzając człowieka ujawnił swoją ogromną Miłość ku niemu. Problem ten niejako rozwiązuje się w~Chrystusie i~to ma być bardzo wyraźnie przedstawione. Proponuję także parę zagadnień mocniej
 "filozoficznych" (wg  moich  osobistych  upodobań), daję  je  w~ nawias,  są  oczywiście nieobligatoryjne, ale zachęcam, nawet przy mniej ambitnej grupie, bo pobudzają do myślenia.
@@ -35,13 +32,11 @@ Cytaty do wykorzystania:
 
    -- św. Matka Teresa z~Kalkuty
 
-==================================
 Modlitwa początkowa
-==================================
+===================
 
 Dostosowana do możliwości grupy.
 
-============================================
 Dzielenie się doświadczeniem nocnej adoracji
 ============================================
 
@@ -49,9 +44,8 @@ Dzielenie się doświadczeniem nocnej adoracji
 
 * Czy wypełniliście zadanie jakie dostaliście?
 
-============================================
 Tęsknota
-============================================
+========
 
 Luźna rozmowa nt tęsknoty w~naszym życiu, jej doświadczania, tego czym ona jest.
 
@@ -74,9 +68,8 @@ Luźna rozmowa nt tęsknoty w~naszym życiu, jej doświadczania, tego czym ona j
 
 * Czy takie doświadczenie tęsknoty za Bogiem dotyczy mnie osobiście?
 
-============================================
 Zmiana perspektywy
-============================================
+==================
 
 .. note:: Ćwiczenie na wyobraźnie
 
@@ -99,9 +92,8 @@ Czytamy następujący fragment i~poruszamy dyskusje na temat tego jak go rozumie
 
    -- ks. Tomasz Jaklewicz
 
-============================================
 Jezus – Emannuel – Bóg z~nami
-============================================
+=============================
 
 Czytamy J 3,16 – wskazując jednocześnie z~całą mocą na JEZUSA jako DOWÓD MIŁOŚCI Bożej
 
@@ -123,9 +115,8 @@ Do refleksji i~ew. zastosowania w~rozmowie:
 
    -- św. Matka Teresa z~Kalkuty
 
-============================================
 Bóg jest Osobą! - czyli zastosowanie
-============================================
+====================================
 
 Bóg bardzo konkretnie okazuje swoje uczucia, swoją tęsknotę za człowiekiem, ma bardzo konkretne pragnienie (pragnie mnie), stał się konkretnym człowiekiem, Jezusem, Emmanuelem. Często nie korzystamy z~tej prawdy, że nasz Bóg jest Bogiem z~nami i~czynimy z~Niego Boga zamkniętego w~pustym raju, odgrodzonego błyszczącymi mieczami cherubów. Zapominamy o~Jego RELANEJ OBECNOŚCI między swoim ludem. Traktujemy Go BEZOSOBOWO, jak siłę, energię. Dlatego:
 

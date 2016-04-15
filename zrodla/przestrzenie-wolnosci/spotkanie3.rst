@@ -1,26 +1,21 @@
-****************************************************************************
 Spotkanie 3. - Dlaczego słowa "Bądź wola Twoja" są istotne dla mojego życia?
 ****************************************************************************
 
-==================================
 Cel
-==================================
+===
 
 Odkryć, których sfer mojego życia nie potrafię oddać Bogu. Uświadomienie, że każdy z~nas ma takie elementy, którymi chce sam kierować. (Ważne, aby nikt nie poczuł się gorszy przez to, że nie potrafi oddać Bogu całego życia) Podzielenie się naszym doświadczeniem "samokierowania" życiem. Próba znalezienia odpowiedzi na pytanie: "Dlaczego niektóre strefy łatwiej jest oddać Bogu, a~niektóre trudniej (lub wręcz jest to niemożliwe)?".
 
-====================================
 Modlitwa
-====================================
+========
 
 Modlitwa o~umiejętność patrzenia na nasze życie w~Prawdzie. Akcent nie w~kierunku rozliczania się z~czegoś, wprost przeciwnie - prosimy o~to, abyśmy właśnie umieć widzieć to jak wygląda nasze życie, a~nie jakie są jego plusy i~minusy.
 
-=========================================
 Wprowadzenie
-=========================================
+============
 
 Wczoraj mówiliśmy o~tym czym jest wolność i~jak ją odróżniać od samowoli. Czyli o~tym jak "nie przesadzić" z~wolnością. Dzisiaj już wiemy, że nasza wolność możemy oddać Bogu, by on nią kierował. Ale jak to pogodzić? Jak pogodzić wolność z~pełnieniem woli Bożej – jak "nie zniewolić własnej wolności".
 
-=============================================
 Gdzie w~moim życiu jest miejsce na wolę Boga?
 =============================================
 
@@ -40,9 +35,8 @@ Pytania te mają mieć charakter dzieleniowy i~nie ma w~nich jedynej słusznej o
 
 2. Jestem tak przywiązany do tych małych spraw, że nie wyobrażam sobie, że mogą się zmienić, pójść "nie po mojej myśli", natomiast nad ważnymi sprawami się nie zastanawiam, więc jest mi łatwiej uznać wole Boga w~tych dziedzinach
 
-=============================================
 Czy to jest mi potrzebne?
-=============================================
+=========================
 
 .. note:: "To" = wola Boża
 
@@ -95,9 +89,8 @@ W Liście św. Pawła do Galatów czytamy:
 * Czym zatem jest postawa "Bądź wola Twoja"?
 * Czy w~obliczu powołania do wolności możemy nadal powiedzieć, że pełnienie woli Bożej nie jest nam koniecznie potrzebne?
 
-=============================================
 Dla Grup Młodszych (i nie tylko) - dodatek
-=============================================
+==========================================
 
 Na kartce piszemy duży napis "Bóg" i~kładziemy go pod kartkę stworzoną na początku spotkania. Na tle okna na naszym pierwszym planie prześwietla się napis Bóg.
 
@@ -106,9 +99,8 @@ Na kartce piszemy duży napis "Bóg" i~kładziemy go pod kartkę stworzoną na p
 
 .. note:: Dla animatora – przykład interpretacji: Prawdziwa wolność ma szanse zaistnieć tylko w~pełnym oddaniu jej Bogu. To On rozświetla prawdziwą wolnością nasze życie. Bez promieni jego wolności to jest tylko nasza wolność, a~tak następuje idealne połączenie - ale to my czerpiemy nasza wolność z~jego Wolności, nie odwrotnie :)
 
-=============================================
 Zastosowanie
-=============================================
+============
 
 Jeszcze raz wróćmy do hierarchii obszarów naszego życia. Czy obszary, w~których nie potrafimy powiedzieć "Bądź wola Twoja" są w~nas wolne? Czy w~nich (mimo, że sami chcemy kierować) czujemy się wolni?
 

@@ -1,10 +1,8 @@
-***************************************************************
 Spotkanie 1. - Niespokojne jest serce nasze
-***************************************************************
+*******************************************
 
-=====================================
 Cel Spotkania
-=====================================
+=============
 
 * zobaczyć człowieka w~kontekście jego pragnień
 
@@ -12,23 +10,20 @@ Cel Spotkania
 
 * przygotować się do porządnego przeżycia "zajęć nocnych" (pisanie na ścianach labiryntu pragnień)
 
-=====================================
 Wprowadzenie dla animatora
-=====================================
+==========================
 
 Na spotkanie jest bardzo mało czasu, bo tylko 45minut. Z~konspektu trzeba wybrać to co wydaję się, że najbardziej "zadziała" lub robić pokolei z~nastawieniem, że z~jutrzejszego (trwającego 1.5h) spotkania początek poświęci się na dokończenie. Nie można, absolutnie pominąć zastosowania!
 
 Zapoznanie się w~grupie proszę potraktować bardzo technicznie (dlatego nie uwzględnia go ten konspekt) i~zamiast "gadać o~tym kim jesteśmy" pokażmy to po prostu idąć na głęboką wodę.
 
-=====================================
 Modlitwa początkowa
-=====================================
+===================
 
 Dostosowana do możliwości grupy.
 
-=====================================
 Życie rozpięte na pragnieniach
-=====================================
+==============================
 
 * Co to są pragnienia?
 
@@ -39,7 +34,6 @@ Dostosowana do możliwości grupy.
 .. image:: diagram.*
    :align: center
 
-==================================================
 Przyjrzenie się bliżej strukturze naszych pragnień
 ==================================================
 
@@ -57,9 +51,8 @@ Przyjrzenie się bliżej strukturze naszych pragnień
 
 Spróbujmy na naszym rysunku wyróżnić (kolorem, ramką, podkreśleniem itp.) główne pragnienia wskazując, które mogłyby być tymi "zaszczepionymi". Jeżeli zachodzi taka potrzeba można jeszcze dopisać jakieś nowe.
 
-==================================================
 Niespokojne nasze serce!
-==================================================
+========================
 
 Popatrzmy jak wiele z~tych pragnień nie może zostać zaspokojonych. Gdy pragnę komputera z~Intel Pentium IV to za rok już będę pragnąć mieć Intel Pentium VII. Gdy będę miał garaż z~ogródkiem na który zbierałem finanse 5 lat to zapragnę wybudować sobie basen itd.
 
@@ -71,9 +64,8 @@ Popatrzmy jak wiele z~tych pragnień nie może zostać zaspokojonych. Gdy pragn�
 
 .. note:: Można tutaj opowiedzieć o~współczesnych reklamach, które nas przekonują, że ciągle jeszcze czegoś powinniśmy pragnąć, abyśmy nieustannie chcieli więcej.... aby gospodarka się rozwijała
 
-==================================================
 Odpowiedź na tą sytuację, która jest pytaniem (!)
-==================================================
+=================================================
 
 Zagrać scenkę, przeczytać z~podziałem na role lub coś takiego:
 
@@ -106,9 +98,8 @@ Przeczytajmy:
 
 .. centered:: **Wniosek: Pragnienia mogą być bardzo pomocne, a~nie tylko powodować ciągłe niezadowolenie z~życia**
 
-==================================================
 Zastosowanie
-==================================================
+============
 
 Dzisiejszego wieczoru będziecie mieli sporo czasu na zastanowienie się jakie są wasze pragnienia. Stwórzcie listę swoich pragnień i~każde z~nich przeanalizujcie pod kątem trzech pytań:
 

@@ -1,22 +1,18 @@
-***************************************************************
 Spotkanie 1. - Wyjście na pustynię
-***************************************************************
+**********************************
 
-==================================
 Cel
-==================================
+===
 
 Wstępne zdefiniowanie pustyni jako czegoś niebezpiecznego, groźnego dla człowieka.
 
-====================================
 Modlitwa
-====================================
+========
 
 Dostosowana do możliwości grupy.
 
-=========================================
 Wprowadzenie
-=========================================
+============
 
 Dzisiejsze spotkanie jest pierwszym punktem merytorycznym rekolekcji. Jest ono zatem wprowadzeniem do tematyki poruszanej podczas kolejnych punktów. Podczas tego spotkania będziemy chcieli przede wszystkim zdefiniować pustynię, którą będziemy się zajmowali. Zastanowimy się z~czym wiąże pustynia, jakie skojarzenia z~nią mamy. Nie rozwijamy wszystkich wątków. Nie chcemy poznać podczas tego spotkania odpowiedzi na wszystkie pytania, zwłaszcza z~punktu "Dlaczego"! Chcemy otworzyć tylko drzwi, przez które przejdziemy w~ciągu kolejnych punktów rekolekcji. Jeśli spotkanie skończy się przed czasem, to nie będzie w~tym nic złego. Najważniejsze, żeby uczestnicy poznali przedmiot rozważań.
 
@@ -46,9 +42,8 @@ Na początku zapytajmy uczestników, jakie 5 przedmiotów wzięliby na pustynię
    * ulubiony obraz
    * kąpielówki
 
-=========================================
 Wyjście Izraelitów
-=========================================
+==================
 
 Na  początku naszych rozważań o~pustyni przypatrzmy się sytuacji Izraelitów wychodzących z~Egiptu:
 
@@ -66,9 +61,8 @@ Następnie przeczytajmy kolejny fragment z~Księgi Wyjścia. Oczywiście to nie 
 
 Po krótkim okresie czasu Izraelici zmieniają spojrzenie na przejście przez morze. Wydarzenie, które było powodem do wielbienia Boga, radości etc. stało się początkiem nieszczęść, powodem do niezadowolenia i~narzekania. Chcą wrócić do Egiptu, wolą tam przebywać – w~domu niewoli – niż wolni umrzeć na pustyni.
 
-=========================================
 Życie na pustyni
-=========================================
+================
 
 Spróbujmy teraz przyjrzeć się miejscu, którego tak bardzo nie lubili Izraelici i~je opisać. Może ktoś miał okazję być na prawdziwej pustyni. Ponieważ mieszkamy w~takiej a~nie innej strefie klimatycznej pewnie niewielu z~nas mogło na pustyni przebywać. Będziemy przez to musieli odwoływać się mocno do naszej wyobraźni. Poniżej  cytuję wspomnienia ludzi, którzy mieli okazję być na pustyni.
 
@@ -95,9 +89,8 @@ Spróbujmy tutaj wraz z~uczestnikami opisać warunki panujące na pustyni, jak n
 
 .. note:: Ta część spotkania może zostać rozbudowana w~młodszych grupach
 
-=========================================
 Dlaczego
-=========================================
+========
 
 W kolejnej części spotkania spróbujmy zastanowić się nad pytaniem:
 
@@ -116,8 +109,7 @@ Podobny motyw można odnaleźć także w~życiu proroków i~Jezusa. Po chrzcie, 
 
 Nie analizujmy głęboko tego fragmentu. Bardziej chodzi o~zaakcentowanie paradoksu, że z~wielkimi dziełami Boga sąsiadują wydarzenia, które nas przerażają, groźne i~niebezpieczne.
 
-=========================================
 Podsumowanie
-=========================================
+============
 
 Na końcu zbierzmy raz jeszcze wszystkie rzeczy, jakie zostały powiedziane podczas tego spotkania. Chcemy, aby na końcu uczestnicy myśleli o~pustyni jako o~czymś groźnym, niebezpiecznym dla nas.

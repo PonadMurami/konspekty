@@ -1,22 +1,18 @@
-***************************************************************
 Spotkanie 3. - "KONSEKWENCJE!!!" czy po prostu "Konsekwencje"?
 ***************************************************************
 
-==================================
 Cel Spotkania
-==================================
+=============
 
 Doprowadzić do pragnienia konsekwencji własnych decyzji w~pełnej odpowiedzialności ich podejmowania. Zobaczyć skąd rodzi się niepewność. Dotknięcie dobrych konsekwencji własnych wyborów.
 
-====================================
 Modlitwa
-====================================
+========
 
 Dostosowana do możliwości grupy.
 
-=========================================
 Wprowadzenie
-=========================================
+============
 
 Wczoraj z~taką radością mówiliśmy – chcemy podejmować decyzje, chcemy decydować! Dzisiejszego dnia zaczęliśmy mówić o~konsekwencjach wyborów. Z~jednej strony dzięki wybieraniu możemy "czynić cennym" coś na tej ziemi z~drugiej... no właśnie – narażamy się na straty, wyśmianie, porażkę.
 
@@ -26,9 +22,8 @@ Klasycznym przykładem jest tutaj podejmowanie decyzji np. w~polityce. Dużo ła
 
 * Czy masz takie decyzje w~życiu, których sposobu dokonania jesteś na tyle pewien, że nie boisz się jakiejkolwiek krytyki, bo Ty **wiesz**, że wtedy był to najlepszy ruch?
 
-=========================================
 Pewność, niepewność
-=========================================
+===================
 
 Zgodzimy się chyba z~tym, że takich decyzji w~naszym życiu jest raczej mniej niż więcej. Normalnie niepewność towarzyszy nam mniej lub bardziej, ale nieustannie. Zawsze możemy zadać sobie to pytanie: "a jeżeli jednak...?" i~rozpocząć od nowa analizę sytuacji. Niepewność bywa czasami nieznośna, mamy jej dosyć, staramy się za wszelką cenę wyeliminować.
 
@@ -70,9 +65,8 @@ Chrześcijanin nie mówi "co ma być to będzie", lecz wchodzi w~świat i~swoimi
 
 .. note:: wyłapać i~omówić "slogan oazowy" – "Bóg nie raz mi pokazywał, że to On jest Panem mojego życia i~ja z~moimi decyzjami sobie mogę...". To zdanie wypowiadane jest z~jak najlepszą intencją, ale w~gruncie rzeczy przegina w~drugą stronę i~może być zrozumiałe jako swego rodzaju ubezwłasnowolnienie!)
 
-=========================================
 Konsekwencje – druga strona medalu
-=========================================
+==================================
 
 Z jednej strony więc konsekwencje jawią się nam jako coś "groźnego" z~drugiej jesteśmy powołani, aby je powodować. Konsekwencje to nie "przekleństwo", ale dar dzięki niemu właśnie możemy budować coś na ziemi (bo coś mogę zmieniać!). Skutki decyzji to realna siła i~władza do zmieniania świata. Kojarzy się tutaj wiersz znany może niektórym z~was z~Stowarzyszenia Umarłych Poetów:
 
@@ -92,9 +86,8 @@ Z jednej strony więc konsekwencje jawią się nam jako coś "groźnego" z~drugi
 
 Konsekwencje to silna sprawa, która może przerażać, ale daje też horyzont możliwości.
 
-=========================================
 Konsekwencja – postawa życiowa
-=========================================
+==============================
 
 Oprócz konsekwencji wyborów możemy mówić o~konsekwencji jako postawie życiowej. Ten wyraz znowu ma nacechowanie pozytywne. "Być człowiekiem konsekwentnym" – brzmi świetnie i~każdy chciałby usłyszeć to pod swoim adresem.
 
@@ -114,9 +107,8 @@ Konsekwencja (jako postawa) to kolejny etap świadczący o~dojrzałości. Gdy ju
 
 .. warning:: Animatorze: to moment na Twoje świadectwo decyzji o~trwaniu w~Kościele Chrystusowym jako sługa po wieloletnim przygotowaniu i~rozeznawaniu! Nie mówimy tutaj o~metafizyce, ale o~tym co każdy z~nas doskonale zna. Oni na to czekają.
 
-=========================================
 Podsumowanie
-=========================================
+============
 
 Podejmowanie decyzji, branie na siebie ich konsekwencji to codzienność dorosłego człowieka. Chrześcijanin nie tylko nie ucieka przed tym to jeszcze jest to realizacją jego powołania i~możliwością uświęcania swojego życia. Jestem odpowiedzialny za każdy mój czyn i~słowo a~konsekwencje ich są dla mnie nie do przewidzenia (efekt motyla). Gdy to wszystko sobie uświadamiam powinienem zamknąć się w~swoim pokoju i~bać się w~jakikolwiek sposób wpłynąć na świat. Jako człowiek wierzący jednak wiem, że moje decyzje nie są obojętne Bogu i~on im błogosławi i~prowadzi. Gdy teraz czytam te słowa konspektu ufam, że Bóg nie pozwoli, aby z~tego powodu ktokolwiek na duszy poniósł stratę gdyż rozpocząłem to spotkanie znakiem Krzyża. To daje mi wiara, dlatego nie wycofam się ze świata! – przeciwnie - jak nikt inny mam predyspozycje, aby w~niego wejść i~go przemieniać. Nie mogę zmarnować tak wielkiego potencjalnego dobra, które ktoś mi powierzył.
 

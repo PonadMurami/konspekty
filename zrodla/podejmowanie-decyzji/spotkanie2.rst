@@ -1,22 +1,18 @@
-***************************************************************
 Spotkanie 2. - Etapy podejmowania decyzji – czym się kieruję?
-***************************************************************
+*************************************************************
 
-==================================
 Cel
-==================================
+===
 
 Zobaczyć różne motywację w~podejmowaniu decyzji (na podstawie czego podejmuje decyzje?)
 
-====================================
 Modlitwa
-====================================
+========
 
 Dostosowana do możliwości grupy.
 
-=========================================
 Wprowadzenie
-=========================================
+============
 
 Wczoraj mówiliśmy, że wybór nie jest rzeczą łatwą. Tak naprawdę gdy stoimy przed dylematem wyboru oznacza to, że  jest już za nami droga "zobaczenia możliwości"! Mówiliśmy o~tym na rekolekcjach adwentowych – chodzi o~poszukiwanie, o~widzenie dróg. Jesteśmy zatem po wykonaniu pewnej pracy i~możemy być zmęczeni. Wybór jawi się nam często jako obowiązek, który jest "ostatnią przeszkodą", aby mieć tzw. "święty spokój". Spróbujmy się nad nim zastanowić!
 
@@ -24,9 +20,8 @@ Wczoraj mówiliśmy, że wybór nie jest rzeczą łatwą. Tak naprawdę gdy stoi
 
 * Czy czuliśmy presję, że nie wiedzieliśmy co wybrać, ale musieliśmy coś zaznaczy?
 
-=========================================
 Dokonywać wyboru/mieć coś wybranego
-=========================================
+===================================
 
 Człowiek myśli za pomocą słów. To jakie mamy skojarzenia z~wyrazami bezpośrednio przekłada się na to w~jaki sposób traktujemy to co oznaczają. Przyjrzyjmy się naszym skojarzeniom!
 
@@ -44,9 +39,8 @@ Są to skojarzenia bardzo, bardzo pozytywne.
 
 * Jak myślicie skąd bierze się ta różnica w~skojarzeniach wyrazów tak podobnych?
 
-=========================================
 Wybór – co dzięki niemu możemy dać?
-=========================================
+===================================
 
 .. centered:: **"Wybrany znaczy wartościowy"!**
 
@@ -70,9 +64,8 @@ Czy możemy na przykład kryterium "największej wartości" używać w~odniesien
 
 Popatrzmy, że tutaj nie chodzi o~to, że wybieramy, że coś od tej pory już nie będzie/będzie ważne (o ile takich wybór jest technicznie możliwy, aby aktem rozumu coś takiego zmienić!!!!), ale że podejmując decyzje to się dzieje automatycznie jakby "w tle".
 
-=========================================
 Moje wybory – analiza kroków
-=========================================
+============================
 
 Wypełnialiśmy wczoraj ankietę. Musieliśmy dokonywać, konkretnych wyborów, nawet takich "wbrew nas" gdy chcielibyśmy znaleźć inne (lepsze) rozwiązanie, ale takie nie było uwzględnione w~możliwościach odpowiedzi. Spróbujmy przeanalizować teraz każdą z~14 sytuacji. Próbujmy się jednak koncentrować na etapach podejmowania decyzji niż na samej jej treści.
 
@@ -109,9 +102,7 @@ Przykład, abyście jako animatorzy zobaczyli jak odkrywcze to mogą być rozmow
 **Cel:**
    Zobaczenie, że podejmowanie wyboru to złożony proces, którego ciężko ująć w~schematy, zawsze indywidualny. Zwrócenie uwagi na to, że używamy różnych płaszczyzn naszego życia do rzucenia światła na sprawę (intelekt, intuicja, emocje itd.). Zobaczenie, których płaszczyzn kiedy używamy.
 
-
-=========================================
 Podsumowanie
-=========================================
+============
 
 Podejmij tu i~teraz jakąś decyzję, nawet najprostszą, ale zastanów się dlaczego tak a~nie inaczej i~wprowadź ją w~życie jeszcze dzisiejszego dnia.

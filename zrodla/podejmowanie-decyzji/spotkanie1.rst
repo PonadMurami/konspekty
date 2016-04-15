@@ -1,10 +1,8 @@
-***************************************************************
 Spotkanie 1. - Jakie decyzje podejmujemy?
-***************************************************************
+*****************************************
 
-==================================
 Cel
-==================================
+===
 
 Przybliżenie znaczenia "decyzji". Rodzaje i~stopień skomplikowania decyzji.
 
@@ -18,9 +16,8 @@ Ukazanie następujących decyzji:
 
 Wszystkie te rodzaje decyzji można podzielić jeszcze na osobiste i~wspólnotowe.
 
-=========================================
 Wprowadzenie
-=========================================
+============
 
 Przed uczestnikami będą leżały dwie kartki A4, jedna z~namalowanymi górami, druga z~morzem. Na odwrocie tych kartek będą wypisane zadania, które mają zrealizować. Każdy uczestnik zostanie postawiony przed wyborem jednej z~kartek, a~następnie wykona zadanie znajdujące się na jej odwrocie.
 
@@ -46,9 +43,8 @@ Zadanie 2 z~drugiej kartki (morze):
 
 * Zaklnij dwukrotnie, a~następnie pognieć kartkę i~rzuć nią w~animatora ( tak żeby odbiła mu się od głowy, jeśli nie trafisz czynność powtórz).
 
-=========================================
 Dyskusja
-=========================================
+========
 
 Wybór pierwszy góry czy morze pochodzi z~grupy taktyczno-materialno-sentymentalnej? Jeśli wybór dotyczył by wakacji to: ile mamy kasy, co nam bardziej odpowiada, przestrzeń czasowa pozwala nam zaplanować wakacje jedynie w~tym miejscu
 
@@ -75,9 +71,8 @@ Proponowane postacie:
 * Jezus Chrystus
 * Ja (Czy ja podjąłem w~swoim życiu jakieś decyzje, jak tak to jakie?)
 
-=========================================
 Podsumowanie
-=========================================
+============
 
 W życiu na różnych płaszczyznach zostajemy postawieni w~sytuacji, w~której dalsza nasza egzystencja zależy od podjętej decyzji. Od porannego wyboru ubrania po decyzje, w~których poświęcamy własne idee, a~nawet życie. Możliwe, że nawet w~obecnej chwili stoimy przed wyborem.
 
@@ -87,9 +82,8 @@ Decyzje trudne nie są niemożliwe istnieje wiele sposobów, które je ułatwia,
 
    -- Jerzy Liebert
 
-***************************************************************
 Ankieta - potrzebna do następnego spotkania
-***************************************************************
+*******************************************
 
 Zaznacz tylko jedną odpowiedź przy każdym pytaniu. Odpowiedzi zapisz zarówno na karcie pytań, jak i~na karcie odpowiedzi.
 

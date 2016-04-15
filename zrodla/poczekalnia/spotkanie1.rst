@@ -1,32 +1,27 @@
-***************************************************************
 Spotkanie 1. - Choć goni nas czas
-***************************************************************
+*********************************
 
-==================================
 Cele
-==================================
+====
 
 Ukazanie wartości czasu, podkreślenie jego roli, zrozumienie jego wpływu i~działania. Zaczynając od jego roli w~‘codziennym’ życiu, przechodząc przez znaczenie czasu w~Kościele. Uczestnicy powinni być świadomi, że czas umożliwia Nam rozwój poprzez podejmowanie decyzji i~zmiany w~życiu.
 
-=====================================
 Wskazówki dla animatora
-=====================================
+=======================
 
 Ten konspekt jest dosyć krótki, a~zarazem treściwy. Ważne, żeby nie była to tylko pogadanka o~różnych definicjach czasu - chcemy poznać jego realny wpływ i~działanie. Obawy: traktowanie konspektu nie jako całości, lecz jak zbiór punktów, które po kolei trzeba odbębnić. Z~racji na ograniczony czas, postaraj się zachować dynamiczną płynność tego spotkania. Poniżej znajduje się sugestia/propozycja jego przeprowadzenia. Jeżeli się coś Ci nie leży, pogubisz się, itd. patrz na cel spotkania. Może się zdarzyć, że odpowiedzi uczestników nie będą się zgadzać z~“oczekiwanymi”, można ich lekko naprowadzić, ale nie wymuszać naszego toku myślenia.
 
 W konspektach niektóre rozdziały mają w~nawiasie zaznaczony orientacyjny czas trwania tego punktu spotkania. Jest to tylko i~wyłącznie sugestia autora konspektu - animator będąc na spotkaniu i~widząc jego rozwój najlepiej dostosuje akcenty czasowe.
 
-====================================
 Modlitwa
-====================================
+========
 
 .. note:: ~5 minut
 
 Spontaniczna do Ducha Świętego o~dobre przeżycie czasu rekolekcji. Prośba o~siły, abyśmy ten czas umieli wykorzystać od początku na 100%, bez odpuszczania sobie, bez czekania na momenty uniesień. Chcemy walczyć o~każdą sekundę. Prośba o~otwartość i~zawiązanie wspólnoty w~grupie.
 
-====================================
 Wprowadzenie do spotkania
-====================================
+=========================
 
 .. note:: ~5 minut
 
@@ -46,9 +41,8 @@ W tym momencie można zadać pytanie:
 
 Tym pytaniem przechodzimy do dalszej części spotkania.
 
-======================================
 Czym jest czas?
-======================================
+===============
 
 .. note:: ~10 minut
 
@@ -68,9 +62,8 @@ Kościół mierzy czas bardzo skrupulatnie - to znaczy, że jest to bardzo ważn
 
 * Jak mogę wykorzystać czas tych rekolekcji?
 
-======================================
 Czas umożliwia zmianę
-======================================
+=====================
 
 .. note:: ~10 minut. Dalej siedzimy w~rozważaniach dotyczących czasu.
 
@@ -86,9 +79,8 @@ Czas umożliwia zmianę
 
 Na podstawie przykładów możemy wywnioskować, że czas był mierzony na podstawie obserwacji zmiany np. poziomu piasku w~klepsydrze. **Czas umożliwia zmianę**.
 
-======================================
 Apokalipsa! Zmiana poprzez decyzję
-======================================
+==================================
 
 .. note:: ~15 minut
 
@@ -117,7 +109,6 @@ Zmiana wymaga decyzji. Jeżeli motyw z~decyzją się nie pojawi: Przytyło Ci si
 
 Jeżli coś wymaga zmiany, to z~definicji nie jest idealne. Jeżeli na ziemi jest czas, a~czas umożliwia zmiany to znaczy, że coś tej zmiany wymaga.
 
-=======================================
 Podsumowanie - dojrzewanie przez zmianę
 =======================================
 
@@ -172,9 +163,8 @@ Przeczytajmy:
 
 Pobyt na ziemi, to niezłe pole do popisu. Dostajemy możliwość zmiany czegoś na lepsze, dojrzewania - nie zmienia się czegoś co jest idealne. Z~góry nie jesteśmy idealni, wylądowaliśmy w~świecie, który daje możliwość zmian. Ale nie mamy przez to buczeć, tylko brać się do roboty. Można poprosić każdego uczestnika o~podsumowanie jednym zdaniem/podzielenie się tym co najbardziej do niego przemówiło.
 
-======================================
 Modlitwa + zastosowanie
-======================================
+=======================
 
 Miejsca, płaszczyzny, przestrzenie w~mojej relacji z~Bogiem, na które poświęcam za mało czasu - konkretnie je nazwać. Co konkretnie mogę zrobić na tych rekolekcjach, aby to naprawić - zapisać postanowienie do notatników.
 

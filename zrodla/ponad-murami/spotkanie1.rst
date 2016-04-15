@@ -1,10 +1,8 @@
-***************************************************************
 Spotkanie 1. - Pragnienie Życia
-***************************************************************
+*******************************
 
-==================================
 Cel
-==================================
+===
 
 Wychowawczy:
    To spotkanie ma maksymalnie zbliżyć uczestników do podjęcia najważniejszej decyzji "Chcę coś zmienić. Chcę Boga".
@@ -12,9 +10,8 @@ Wychowawczy:
 Dydaktyczny:
    Umiejętność spojrzenia na pojęcie pragnienia z~różnych perspektyw. Uczestnicy odpowiadają na pytania: W~jakim momencie życia aktualnie się znajduję?; Jak wyglądają moje "cztery ściany"?; Jakie jest moje największe pragnienie? Tylko przyjmując Bożą Miłość jesteśmy w~stanie wyjść ze swoich "czterech ścian". Odkrycie Bożej Miłości jako "Pragnienie Życia".
 
-=========================================
 Wprowadzenie dla animatora
-=========================================
+==========================
 
 Przed rekolekcjami warto posłuchać konferencji o. Adama Szustaka OP, w~której mówi o~pragnieniach i~pustce.
 
@@ -22,17 +19,15 @@ Przed rekolekcjami warto posłuchać konferencji o. Adama Szustaka OP, w~której
 
 Jesteśmy na początku tych rekolekcji. Przed Tobą naprawdę bardzo ważne zadanie. Pamiętaj, że ludzie, których właśnie masz przed sobą prawdopodobnie Cię nie znają i~widzą pierwszy raz na oczy. Musisz być dla nich przede wszystkim wzorem i~towarzyszem, który przeprowadzi ich przez te rekolekcje. To czas, w~którym powinieneś zbudować z~Nimi więź, postawić swoją grupę na pierwszym miejscu, troszczyć się o~nią i~oddać całe swoje serce i~siły w~walce o~każdego z~jej członków. Naszym zadaniem jest pokazanie horyzontu, pięknych widoków, które znajdują się za murami oraz zaświadczenie, że to wszystko jest realne i~prawdziwe. Pragniemy ich zachęcić do podjęcia radykalnej decyzji- przyjęcia Bożej Miłości, do wyjścia z~tą Bożą Miłością poza swoje "cztery ściany", do otworzenia się na Pana Boga, wręcz wzbudzenia tęsknoty za Nim. Musimy to zrobić w~ten sposób, aby nigdy więcej do tych swoich "czterech ścian" nie zechcieli wrócić. Dzisiejsze spotkanie jest wprowadzeniem do modlitwy wieczornej, której głównym celem będzie decyzja o~przyjęciu Miłości Boga. Jesteśmy ludźmi, którzy swoje "Chcę coś zmienić. Chcę, Tobie Boże, powierzyć wszystko co mam" już wypowiedzieli. Dlatego, teraz my, chcemy im w~podjęciu tej decyzji pomóc.
 
-====================================
 Modlitwa
-====================================
+========
 
 Modlitwa spontaniczna do Ducha Świętego (trzeba pamiętać o~wprowadzeniu do niej, aby każdy miał pojęcie o~co w~niej chodzi - szczególnie jeżeli w~grupie są osoby, które pierwszy raz uczestniczą w~rekolekcjach) o~otwartość na Niego, na siebie nawzajem oraz dobre przeżycie rekolekcji.
 
 Jeżeli grupa nie jest zbytnio skłonna do modlitwy, animator może powiedzieć wezwanie, a~grupa dopowiada "przyjdź Duchu Święty".
 
-=========================================
 Wprowadzenie do spotkania
-=========================================
+=========================
 
 Aby swobodniej czuć się w~grupie, musimy się najpierw poznać. Następuje krótkie przedstawienie się i~opowiedzenie czegoś o~sobie. Z~jakiegoś powodu siedzimy tu razem, jednak każdy z~nas jest inny, różne czynniki miały wpływ na to, że znajdujemy się właśnie w~tym miejscu. Jest coś, co zachęciło nas do udziału w~tych rekolekcjach, co spowodowało, że chcieliśmy tu przyjechać.
 
@@ -52,9 +47,8 @@ Tutaj następuje płynne przejście go głównego tematu dzisiejszego spotkania.
 
 Nazwa dzisiejszego spotkania "Pragnienie Życia", mówi o~tym, że pośród tylu pragnień w~naszym życiu jest takie jedno najważniejsze. Takie, które zasługuje na miano "Pragnienie Życia". Jest to pragnienie Boga. Na spotkaniu chcemy przejść przez pragnienia; zaczynając od tych najbardziej błahych, kończąc na największych pragnieniach w~naszym życiu. Chcemy skonfrontować nasze - pragnienia i~pojęcia o~nich z~tym czym właściwie są i~co tak naprawdę oznaczają.
 
-=========================================
 O samym pragnieniu
-=========================================
+==================
 
 .. note:: Przydatna wypowiedź kleryka (V rok, Wyższe Międzydiecezjalne Seminarium Duchowne w~Opolu):  "Pragnienia dla mnie to sygnały, które daje mi organizm lub dusza informujące mnie, co jest potrzebne mojemu organizmowi lub duszy, a~czego nie jestem w~stanie w~inny sposób zobaczyć. Jeśli mówić o~pragnieniach organizmu - niezaspakajanie ich prowadzi do śmierci po określonym czasie, jednak niezaspakajanie potrzeb duszy czasem jest mniej zauważalne, a~tłumione wręcz powoduje że potrzeby znikają. Tu ciekawe, do czego doszedłem myśląc o~tym - niezaspokojone potrzeby duszy można zauważyć dopiero kiedy się je zaspokoi choćby w~znikomy sposób - co daje wielką wolność i~otwiera drogę do nawrócenia". /Łukasz Michalik/
 
@@ -133,9 +127,8 @@ W ramach podsumowania tego punktu, można puścić piosenkę Bartka Króla i~Mic
 
    -- Bartek Król i~Michał Jelonek -- Znalem kiedyś człowieka
 
-=========================================
 Ciekawość Zacheusza
-=========================================
+===================
 
 Ciekawość jest często motorem, który popycha do działania. Potrafi nawet uzbroić w~odwagę, aby tylko zobaczyć to, co niedostrzegalne. Dokładnie to samo wydarzyło się w~życiu Zacheusza - wyszedł z~domu, wszedł w~tłum, kierowała nim zwykła ciekawość, chciał zobaczyć człowieka, o~którym szemrano na mieście. Spójrzmy na sytuację w~jakiej znalazł się Zacheusz. Czytamy tekst, prosimy jedną osobę o~opisanie tej sytuacji własnymi słowami.
 
@@ -198,9 +191,8 @@ Tak często mówi się o~Bożych Planach. Ale zwróćmy uwagę na to, że Bóg n
 
 Dziś Zbawienie nam trochę "spowszedniało". Nie czujemy tego dreszczyku na plecach myśląc o~tym, że  SAM BÓG przygotował  WSZYSTKO co ma (no a~ile może mieć Bóg?) i~chcę dać to Tobie! I~to dzieje się już dziś! Źródłem wszystkich pragnień jest Bóg. Jednocześnie On sam jest naszym największym pragnieniem życia. On nie chce byśmy przez to właśnie życie przeszli mimochodem, szaro, płynęli wraz z~prądem. Przygotował dla każdego wspaniały plan pełen życia, odkrywania pragnień, realizowania marzeń, w~którym w~pełni możemy się realizować i~być sobą.
 
-=========================================
 Radykalna decyzja
-=========================================
+=================
 
 Św, Jan w~swojej Ewangelii opisuje podobną sytuację, gdzie jedna decyzja człowieka całkowicie odmienia jego życia.
 
@@ -244,9 +236,8 @@ Dochodzimy do tego, że pragnienie zobowiązuje nas do podjęcia decyzji- Chcę 
 
 Haaaalo. On ma dla Ciebie wspaniały plan! Pomysł na Twoje życie. Odkryjmy całe bogactwo, które niesie ze sobą słowo wspaniały, a~tak dawno zostało już przetarte. Piękno, zachwyt, fascynacja, życie- to wszystko się w~tym mieści. Ale musisz podjąć decyzję! **"Chcę teraz wstać i~iść naprzód!"**
 
-=========================================
 Ruszyłem, co dalej?
-=========================================
+===================
 
 .. warning:: To jest miejsce na krótkie świadectwo animatora. Człowieka, który podjął wiele trudnych decyzji, ale również człowieka, którego nie raz "obleciał strach". Jednak dzięki podjęciu trudu, jesteś teraz w~takim, a~nie innym miejscu. Dzięki temu trudowi możesz pokazać innym, że warto ryzykować i~działać, a~nie tylko z~boku obserwować, co się dzieje.
 
@@ -274,9 +265,8 @@ Ruszyłem, co dalej?
 
 .. note:: Można zasugerować grupie, aby szczerze to przemyśleli, a~nie udzielili odpowiedzi takiej, jakiej oczekuje animator. Warto podkreślić, że to Bóg ożywia codzienność. Skupienie się na najlepszym planie Boga dla każdego z~nas.
 
-=========================================
 Wprowadzenie do modlitwy wieczornej
-=========================================
+===================================
 
 Wprowadzenie uczestników do modlitwy wieczornej polega na wyjaśnieniu kilku technicznych kwestii, które będą w~trakcie tego punktu programu. Przede wszystkim chodzi o~przedstawienie na czym polega modlitwa spontaniczna równoczesna, modlitwa spontaniczna wymienna oraz echo słowa - modlitwa psalmem.
 
@@ -296,9 +286,8 @@ Warto powiedzieć również o~tym, że nie ma złej modlitwy - każda modlitwa j
 
 .. warning:: Nie zapomnij powiedzieć o~tym: nie przejmuj się też, gdy się zdarzy, że zaczniesz mówić równocześnie z~kimś innym wezwanie lub słowa psalmu, które Cię poruszyły - Pan Bóg słucha nas wszystkich.
 
-=========================================
 Zastosowanie
-=========================================
+============
 
 W ramach zastosowania niech pozostaną w~głowach trzy pytania, na które warto sobie odpowiedzieć podczas modlitwy wieczornej:
 
@@ -310,9 +299,8 @@ W ramach zastosowania niech pozostaną w~głowach trzy pytania, na które warto 
 
 Pomocą niech będą słowa św. Ignacego Loyoli, które znajdują się w~notatniku. Jest to modlitwa oddania się Bogu, która może okazać się pomocna podczas wieczornej modlitwy. Jej celem jest doprowadzenie do świadomego przyjęcia Bożej miłości.
 
-=========================================
 Modlitwa
-=========================================
+========
 
 Na zakończenie pomódlmy się wspólnie tą krótką modlitwą, która może być również podsumowaniem dzisiejszego spotkania:
 

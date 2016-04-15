@@ -1,28 +1,23 @@
-***************************************************************
 Spotkanie 2. - Życie, które jest pomimo wspaniałych (?) marzeń
 ***************************************************************
 
-==================================
 Cel
-==================================
+===
 
 Pokazać dobrą stronę doświadczenia codzienności – jest dla nas darem, który można wykorzystać lub odrzucić. Podzielenie się naszym doświadczeniem "zwykłości" w~życiu. Uświadomienie, że to codzienność jest stanem większości naszego życia.
 
-====================================
 Modlitwa
-====================================
+========
 
 Modlitwa o~umiejętność patrzenia na nasze życie w~Prawdzie. Akcent nie w~kierunku rozliczania się z~czegoś, wprost przeciwnie - prosimy o~to, abyśmy właśnie umieć widzieć to jak wygląda nasze życie, a~nie jakie są jego plusy i~minusy.
 
-====================================
 Wprowadzenie
-====================================
+============
 
 Wczoraj mówiliśmy cały dzień o~zachwycie i~pasji. Budowaliśmy miasto w~którym są "nasze miejsca". To miasto jednak nie jest jeszcze pełne. To nie jest miasto, w~którym mieszkasz Ty i~ja. Nasze życie nie składa się tylko z~chwil, o~których potrafimy mówić z~zachwytem w~głosie. Co z~tym czasem zwykłym? Czy to, że takowy istnieje oznacza, że musimy jeszcze dużo pracować, aby "wykorzystać życie w~pełni"? O~tym będzie druga część rekolekcji.
 
-====================================
 Co stanowi większość mojego życia?
-====================================
+==================================
 
 Wypiszmy na kartce rzeczy "niezwykłe" jakie przeżyliście (w jakich uczestniczyliśmy) w~ostatnim tygodniu lub miesiącu. Pomocna może w~tym być pamięć o~tym co położyliśmy wczoraj na makiecie miasta.
 
@@ -50,7 +45,6 @@ Odpowiedzieć na ostatnie pytanie jest bardzo trudno. Możemy jednak poszukać j
 
 Codzienność to znaczna większość naszego życia. Nie jest to nic nienaturalnego – taki porządek pochodzi od Boga samego. Zresztą warto zauważyć, że nawet gdybyśmy na siłę próbowali uczynić z~naszego życia "samo nadzwyczajne" to właśnie ten czas okazałby się dla nas powszednością i~codziennością – nie da się więc tych pojęć usunąć – i~Chwała Panu!
 
-========================================
 Szaro, zwykle, podobnie, nudnie – po co?
 ========================================
 
@@ -72,9 +66,8 @@ Przeczytać:
 
 * Czy potrafimy wykorzystywać siłę jaką dają rzeczy do których jesteśmy przyzwyczajeni? (np. dzięki temu, że pewne operacje komputerowe są dla mnie rutyną mogę je wykonywać niemalże bezmyślnie)
 
-========================================
 Miasto uzupełnione
-========================================
+==================
 
 Codzienność nie tylko jest dobra dlatego, że jest "skuteczna" w~różnych momentach naszego życia i~nam pomaga. Potrafi ona być także sama w~sobie źródłem radości.
 
@@ -95,9 +88,8 @@ Wróćmy do naszego miasta, które zbudowaliśmy wczoraj. Powołując się na Ks
 Podsumujmy:
    Mamy zatem rzeczy zwyczajne i~nadzwyczajne. Wskazaliśmy je i~omówiliśmy. Nasze "miasto zostało uzupełnione"! Jeżeli zrobiliśmy to solidnie patrząc teraz na nie możemy widzieć wszystkie jego elementy. Są to jednak "tylko punkty na mapie". Omawialiśmy każdy z~nich jako osobny budynek. Umieszczaliśmy je pomiędzy tymi samymi ulicami, ale traktowaliśmy jako indywidualne. Czegoś tutaj brakuje? Brakuje! Właśnie teraz po tym wszystkim co zrobiliśmy możemy zająć się tym co tematem jest naszych rekolekcji... popatrzmy na to co jest **"pomiędzy"**!
 
-========================================
 Walka wewnętrzna
-========================================
+================
 
 Przeczytajmy:
 
@@ -127,9 +119,8 @@ Można mocniej...ile serc posiada człowiek? Czy zdrowe jest bycie w~kilku świa
 
 .. note:: To dobry moment, żeby to sobie przypomnieć (lub powiedzieć po raz pierwszy jakby ktoś na wprowadzeniu do dnia zapomniał :) ) - dzisiejszy dzień zmierza ku temu, aby na wieczornej modlitwie oddać Bogu tą "walkę".
 
-========================================
 Codzienność uświęcona
-========================================
+=====================
 
 Spróbujemy zakończyć to spotkanie z~odpowiednim nastawieniem do dzisiejszego dnia. Wiemy już w~jakim kierunku idziemy, podzieliliśmy się tym jak to wygląda u~nas. Zbliżamy się powoli do "próby połączenia" dwóch rzeczywistości naszego życia. Zanim zaczniemy coś łączyć w~życiu i~będziemy oczekiwać efektów - próbujemy oddać to Bogu w~modlitwie (dziś wieczór). Jednak... zanim staniemy przed Bogiem w~modlitwie warto zapytać samych siebie czy już w~tym momencie nie mamy "dwóch serc"?
 
@@ -139,9 +130,8 @@ Spróbujemy zakończyć to spotkanie z~odpowiednim nastawieniem do dzisiejszego 
 
 * Czy gdy robimy rachunek sumienia to "rozmawiamy" z~nim tylko o~momentach "nadzwyczajnych" czyli o~grzechu lub dobrym uczynku? A~gdzie 80% naszego życia, które ciężko tak zaklasyfikować?
 
-========================================
 Podsumowanie
-========================================
+============
 
 Chyba każdy z~nas miał taki czas kiedy w~"szarej codzienności" przypominał sobie z~nostalgia chwile zachwytu, ważne dla niego spotkania, to wszystko co było "bardzo ważne"... Jednak wtedy najbardziej nie zauważamy tego co jest ważne dla nas a~jest częścią naszej codzienności. To tak jak spotkanie z~przyjacielem po wielu miesiącach, choćby upłynęło na rozmowie o~pogodzie - będzie cudownym wspomnieniem do którego będziemy wracać myślami, natomiast jeśli nasz przyjaciel jest obok, siedzi z~nami w~jednej ławce, wspólnie spędzamy razem wiele godzin, to nawet jeśli nasza rozmowa będzie o~istotnych sprawach, to stanie się dla nas "tylko" elementem codzienności.
 

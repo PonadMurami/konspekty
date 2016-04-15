@@ -1,10 +1,8 @@
-*****************************************************************
 Spotkanie 3. - Wyruszyć w~drogę, która jest celem
-*****************************************************************
+*************************************************
 
-==================================
 Cel Spotkania
-==================================
+=============
 
 Zebrać i~wstępnie podsumować rekolekcje.
 
@@ -14,17 +12,15 @@ Dydaktyczny:
 Wychowawczy:
    Uczestnicy zdobywają odwagę do bycia częścią wspólnoty (to nie znaczy, że muszą już ją wybrać!), konfrontują strefę życzeniową swojego życia (ja chciałbym, ja marzę o...) z~gotowością do wykonania konkretnego kroku w~tym kierunku.
 
-==================================
 Wprowadzenie dla animatora
-==================================
+==========================
 
 To ostatnie i~bardzo ważne spotkanie na rekolekcjach. Nie możemy pozwolić, aby uczestnicy odnieśli wrażenie, że to koniec rekolekcji, ponieważ przed nami jest Eucharystia i~godzina świadectw. Spotkanie na początku ma charakter dzieleniowy, potem skupiamy się na trudzie wędrówki oraz kolejnych punktach kerygmatu: Wspólnota i~Duch Święty. Spotkanie powinno ukierunkować uczestników na to, co będzie po rekolekcjach. Nie możemy zatrzymać się na tych treściach i~osiąść na laurach. Ostatni dzień rekolekcji to spojrzenie na konsekwencje, owoce spotkania, które się dokonało. Moment, w~którym Jezus wchodzi do naszego domu jest tym, w~którym nasze życie realnie nabiera innego wymiaru. Istotnym jest, że te owoce są rzeczywiste (Zacheusz czyni szereg konkretnych rzeczy). Końcówka rekolekcji to moment wyjścia w~podróż (dzisiaj nic się nie kończy, lecz zaczyna). Wznosimy się ponad nasze mury i~idziemy w~świat z~bagażem dobrych doświadczeń i~chcemy ten świat zmieniać. Bo to, co przed nami to nie mury, lecz lista miast, które chcemy odwiedzić i~miejsc, których chcemy doświadczyć.
 
 .. warning:: Konspekt składa się z~ponad 40 pytań dzieleniowych. Spotkanie ma 90 minut. NIE ZREALIZUJESZ wszystkiego . Ten konspekt ma być Ci pomocą, a~nie scenariuszem. Rozeznaj co dla Twojej grupy będzie najważniejsze i~na tym się skoncentruj.
 
-====================================
 Modlitwa
-====================================
+========
 
 O Ducha Świętego żeby już teraz pomagał nam treści rekolekcji wprowadzać w~życie, dawał odwagę i~zapał do tego; dziękczynna za to, co za nami.
 
@@ -34,9 +30,8 @@ Grupa skłonna do modlitwy:
 Grupa mająca trudności z~formowaniem własnych wezwań:
    animator podaje wezwania reszta powtarza "przyjdź Duchu Święty" lub "dziękujemy Ci Panie".
 
-=========================================
 Wprowadzenie do spotkania
-=========================================
+=========================
 
 Dziś na konferencji usłyszeliśmy, że czeka nas droga. Droga pełna przygód, droga przeżywana z~innymi.
 
@@ -52,9 +47,8 @@ Podzielmy się przeżyciem wczorajszej modlitwy wieczornej:
 
 Dzisiaj na spotkaniu chcemy zająć się tym co będzie po  powrocie do domu,  naszą nową drogą.....
 
-=========================================
 Czeka nas droga
-=========================================
+===============
 
 Pomyślmy sobie: niech każdy z~nas przypomni sobie jedną sytuację, gdy wyjeżdżał w~podróż, na którą długo czekał, na którą nie mógł się doczekać.
 
@@ -78,9 +72,8 @@ Spójrzmy, co Kościół mówi na temat wychodzenia w~drogę, wędrówki:
 
 Ewangelia jest odpowiedzią na nasze najgłębsze potrzeby, często na to, o~czym nie wiemy, a~czego tak potrzebujemy. Papież nie mówi jakie decyzje masz podjąć i~kim masz być! Nie mówi, że "skrzyżowania dróg" to jakaś nasza pomyłka, że nie powinniśmy ich mieć. Rozterki "wyboru drogi" są wpisane w~życie tych, którzy decydują się na opuszczenie swoich dotychczasowych czterech ścian życia.
 
-=========================================
 Wypłyń na głębię!
-=========================================
+=================
 
 Zobaczmy, co Pismo Święte mówi na temat drogi, wędrówki życia:
 
@@ -141,9 +134,8 @@ Jezus daje także obietnice związane z~życiem według Jego nauki, według stan
 
 .. warning:: To jest miejsce na świadectwo animatora o~trudzie wędrówki, pyle drogi, atakującym zniechęceniu, o~wierności wyborowi, o~satysfakcji z~tego, co za nami, o~odczuciu, że jest się na właściwym miejscu swojego życia i~o błysku w~oku, który ma człowiek, który zrozumiał po co żyje.
 
-=========================================
 Ale nie samemu!
-=========================================
+===============
 
 .. centered:: **Razem jest się silniejszym.**
 
@@ -173,9 +165,8 @@ Jeśli żyjemy w~prawdziwie chrześcijańskiej wspólnocie zbliżając się do B
 
    -- św. Jan Paweł II -- Homilia w~czasie Mszy Świętej odprawionej na Placu Zwycięstwa, Warszawa, 2 czerwca 1979
 
-=========================================
 Dlaczego razem?
-=========================================
+===============
 
 Kościół jest rzeczywistością wiary, ciężki do uchwycenia w~definicjach i~słowach - dlatego do jego przedstawiania często używamy symboli.
 
@@ -249,9 +240,8 @@ Podsumujmy to odczytując fragment Konstytucji Dogmatycznej o~Kościele:
 
    -- Konstytucja Dogmatyczna o~Kościele, pkt. 9
 
-=========================================
 Ja we wspólnocie?
-=========================================
+=================
 
 Analizując takie obrazy nachodzi nas myśl - czy oglądam coś przez szybę, witrynę sklepową, co jest obce i~odległe? A~może jest mi to w~jakiś sposób bliskie, jest "moje"? Czy żyję we wspólnocie? Czy ważna jest dla mnie wspólnota?
 
@@ -295,9 +285,8 @@ To jest miejsce na drugie (krótkie) świadectwo animatora o~doświadczeniu wsp�
 
 * Czego się najbardziej boisz myśląc o~takiej decyzji?
 
-=========================================
 O wierze, która jest przygodą
-=========================================
+=============================
 
 Na koniec spotkania przeczytajmy świadectwo (**bez podawania  autora**):
 
@@ -317,17 +306,16 @@ Czy trzeba przeczytać 1000 książek? Czy trzeba kupić specjalny strój do mod
 
 .. centered:: "Nie rodzimy się, lecz stajemy chrześcijanami!"
 
-=========================================
 Zastosowanie
-=========================================
+============
 
 Napisać w~notatniku 3 sprawy, które chciałbym/chciałabym wynieść z~tych rekolekcji (teraz jeśli jest czas) i~nie zapomnieć o~nich za pół roku. Ustawić sobie w~telefonie budzik/przypomnienie na 1 września 2014 roku z~informacją "zajrzyj do notatnika z~rekolekcji <Ponad Murami> i~sprawdź, co tam napisałeś/aś!".
 
 Dodatkowo każdy uczestnik może oczywiście dodać do zastosowania coś swojego indywidualnego i~się tym z~innymi podzielić.
 
-=========================================
 Modlitwa
-=========================================
+========
+
 Modlitwa o~umocnienie owoców tych rekolekcji w~naszym życiu. Modlitwa za wybraną inną małą grupę wstawienniczo (!) o....
 
 .. note:: Grupa niech sama zdecyduje o~co chce się modlić i~za jaką grupę - uczymy się odpowiedzialności. Jeśli ktoś będzie miał troskę, że w~ten sposób jakaś grupa może zostać "nieomodlona" proszę uspokoić i~wskazać na Diakonię Modlitwy ;)

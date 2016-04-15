@@ -1,10 +1,8 @@
-***********************************************************************
 Spotkanie 3. - Niespokojne jest serce nasze, dopóki nie spocznie w~Panu
 ***********************************************************************
 
-=====================================
 Cel Spotkania
-=====================================
+=============
 
 * Podsumowanie i~wyciągnięcie wniosków z~minionych 2 dni:
 
@@ -18,19 +16,16 @@ Cel Spotkania
 
 * Podkreślenie roli wspólnoty
 
-=====================================
 Wprowadzenie dla animatora
-=====================================
+==========================
 
 Ostatniego dnia rekolekcje mają naturalną tendencje do "rozluźniania się". Dzisiejszego dnia spotkanie grupowe pełni najważniejszą rolę w~utrzymaniu rekolekcji w~tematyce którą proponujemy. Jeżeli tutaj nie utrzymamy konkretnego analizowania problemu dzisiejszy dzień w~oczach uczestników zatraci "swój rys" i~stanie się po prostu "ostatnim dniem".
 
-=====================================
 Modlitwa początkowa
-=====================================
+===================
 
 Dostosowana do możliwości grupy.
 
-===========================================
 Dzielenie się doświadczeniem minionego dnia
 ===========================================
 
@@ -38,7 +33,6 @@ Dzielenie się doświadczeniem minionego dnia
 
 * Czy wierzycie, że taka modlitwa może coś realnie zmienić w~życiu? W~jaki sposób? A~może już coś zmieniło?
 
-========================================================
 Wprowadzenie - czy św. Augustyn nie przereklamował Boga?
 ========================================================
 
@@ -54,9 +48,8 @@ Przypomnijmy:
 
 Krzyże, które pojawiły się w~labiryncie są tak naprawdę istotą dzisiejszego spotkania. Chcemy porozmawiać o~tym, czy ich pojawienie się tam to tylko teoria i~"ładny symbol" czy jest to faktycznie dla nas odbicie pewnej prawdy.
 
-========================================================
 Boże działanie jest mądre
-========================================================
+=========================
 
 Wyobraźcie sobie, że małe dziecko o~prosi was o~wiele rzeczy (pragnie czegoś). Wy możecie na te pragnienia odpowiadać albo po myśli dziecka albo nie. Spróbujmy stworzyć listę powodów dla których moglibyśmy wykonać coś nie według pragnień tego dziecka i~podajmy przykład. (tworzymy razem listę mniej więcej wyglądającą tak):
 
@@ -93,9 +86,8 @@ Powstaje pytanie:
 
 * To po co nam nasze pragnienia? Mógł Bóg ich nie wkładać w~nasze serce i~"zawsze pasowalibyśmy" do jego zamiarów? (dyskusja)
 
-========================================================
 Boże działanie chce przemieniać
-========================================================
+===============================
 
 Pragnienia człowiek posiada, bo jesteśmy stworzeni na obraz Boży, który pragnął (choćby stworzyć człowieka). Jaka jest więc rola naszych pragnień obecnie? Bóg sam na to odpowiada!
 
@@ -116,9 +108,8 @@ Aby Bóg działał trzeba najpierw mu powierzyć swoją drogę. Bardzo często p
 
 (Być może ktoś z~grupy ma doświadczenie takiej "pracy z~Bogiem" dotyczącej jakieś swoich pragnień. Jeżeli tak to ogromnym ubogaceniem tego spotkania byłoby jego podzielenie sięz grupą!)
 
-========================================================
 Boże działanie jest w~odpowiedzi na dialog
-========================================================
+==========================================
 
 W sprawie pragnień warto opowiedzieć w~tym miejscu taką (znaną) historyjkę.
 
@@ -140,9 +131,8 @@ Taka modlitwa jest też "naturalna". Rozmawiamy na niej o~tym co się teraz dzie
 
 Wypiszmy każdy na swoich kartkach 3-5 naszych pragnień, które jak rozeznajemy wymagają w~naszym życiu najpilniejszego "obgadania" z~Jezusem. Następnie spróbujmy się tym wzajemnie podzielić – czytając na głos. Oczywiście nie ma przymusu – można NIE czytać.
 
-========================================================
 Niedosyt na ziemi jest naturalny i~dobry
-========================================================
+========================================
 
 Przeczytajmy:
 
@@ -168,9 +158,8 @@ Bóg gwarantuje nam, że w~niebie w~komunii z~nim już nie będziemy niczego pra
 
 * W~jaki sposób pragnienie samo w~sobie (niespełnione) przybliża mnie do Boga? (konkret!)
 
-========================================================
 Zastosowanie – rola wspólnoty
-========================================================
+=============================
 
 Faktycznie – podejmowanie wysiłku takiego życia z~Bogiem "na 1oo%" jest bardzo trudne. Ale dosłownie nie jesteśmy sami w~tym trudzie – mamy siebie. Chcielibyśmy tutaj na tych rekolekcjach "dotknąć" tego czym jest nasza wspólnota.
 

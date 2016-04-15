@@ -1,22 +1,18 @@
-***************************************************************
 Spotkanie 2. - Bądź wola Twoja
-***************************************************************
+******************************
 
-==================================
 Cel
-==================================
+===
 
 Pochylić się i~odkryć na nowo znaczenie słów "Bądź wola Twoja" w~swoim życiu. Zrozumieć tajemnicę modlitwy pozornie niewysłuchanej.
 
-====================================
 Modlitwa
-====================================
+========
 
 Nie narzucam, co kto lubi. Choć może tak w~klimacie – żeby się Ojcze nasz pojawiło.
 
-=========================================
 Wprowadzenie - Ojcze Nasz
-=========================================
+=========================
 
 Modlitwa Ojcze nasz dla nas, jako chrześcijan, jest modlitwą szczególną. Jest pierwszą modlitwą, której nauczył nas Jezus. A~nauczył jej, bo o~to prosili Go uczniowie "Panie naucz nas modlić się" (Łk11,1-2). I~Jezus nauczył. Natomiast pytanie brzmi:
 
@@ -34,9 +30,8 @@ W pochylaniu się nad Modlitwą pańską to jest pierwsza rzecz, na którą trze
 
 .. warning:: Zadając powyższe pytania należy uważać na to jakie są relacje uczestników do ich ojców - szczególnie jeśli animator wie, że relacje te nie są "bliskie, szczere, prawdziwe, ufne".
 
-=========================================
 Wprowadzenie - Bądź wola Twoja
-=========================================
+==============================
 
 Nie ma niestety czasu na pochylanie się nad całą Modlitwą Pańską. Chcemy się skupić na jej fragmencie.
 
@@ -72,9 +67,8 @@ Bóg próśb wysłuchuje, ale wysłuchuje próśb swoich dzieci. Warunkiem jest 
 * Ile razy zdarzało Ci się prosić o~coś bez większej wiary w~wysłuchanie?
 * Ile razy prośba stawała się rutynowym	wymienianiem rzeczy, jakby z~przyzwyczajenia?
 
-=========================================
 Podsumowanie
-=========================================
+============
 
 Bóg  zachęca do modlitwy:
 

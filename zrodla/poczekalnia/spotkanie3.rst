@@ -1,40 +1,33 @@
-*************************************************************
 Spotkanie 3. - Ja przekazuję wam królestwo
-*************************************************************
+******************************************
 
-=====================================
 Cele
-=====================================
+====
 
 Celem tego spotkania jest przekazanie uczestnikom, że Kościół (więc też każdy jego członek) idzie w~kierunku Królestwa Bożego, które po trochu tworzymy przez całe życie, kończąc na pełni chwały w~wieczności. Chcemy też pokazać uczestnikom, że ta droga (Kościół jest przecież pielgrzymujący) jest równa decyzjom i~wyborom każdego z~nas. W~efekcie Królestwo Boże jest dziełem każdego z~nas. Jest sumą wszystkich naszych dążeń ku większej chwale Bożej.
 
-=====================================
 Uwagi dla animatora
-=====================================
+===================
 
 Królestwo Niebieskie jest kwestią dosyć odległą dla przeciętnego śmiertelnika. Większość ludzi niewiele wie na ten temat. Poziom abstrakcyjności tych pojęć może być dla uczestników tak wysoki, że mogą po prostu nie przyswoić tych wiadomości (“nie załapać” tematu). Dlatego animator powinien w~miarę możliwości przybliżyć (najlepiej jak najbardziej warsztatowo) temat tego spotkania. Zadziałają ćwiczenia aktywizujące, ruchowe, itd. Im bardziej kreatywnie, tym lepiej. Konspekt jest tylko szkicem spotkania. To animator je tworzy. Dlatego też nie trzeba wykorzystać wszystkich propozycji autora (w tym pytań).
 
-=====================================
 Modlitwa
-=====================================
+========
 
 Modlitwa niech wprowadza już w~tematykę budowania Nowego Jeruzalem. Można prosić Ducha Świętego o~dar jedności i~czerpania od siebie nawzajem (z doświadczenia całego Kościoła), aby móc budować na powstałych już fundamentach. Można też wykorzystać modlitwę “Ojcze nasz” (uwaga: “(...) święć się imię Twoje, **przyjdź Królestwo Twoje** ”). Będzie to odpowiedni wstęp do spotkania: można później spytać się uczestników, jak rozumieją te słowa i~czy są świadomi, o~co proszą Boga.
 
-==============================================
 Dzielenie się
-==============================================
+=============
 
 Ten czas przeznaczony jest na podzielenie się dotychczasowymi przeżyciami, Namiotem Spotkania, itd. Warto zapytać o~najważniejszy moment na ten czas rekolekcji, o~przemyślenia w~związku ze swoim życiem. Jeśli grupa nie wykazuje chęci dzielenia się, animator może zachęcić swoim przykładem.
 
-==============================================
 Wprowadzenie do spotkania
-==============================================
+=========================
 
 Wiemy już, że każdy z~nas żyje w~czasie i~to zmusza do zmian, oraz podejmowania decyzji. Ten “przymus” świata doczesnego ma swój cel. Na tym spotkaniu chcemy dojść do tego, co jest tym celem.
 
-==============================================
 Jak czekamy?
-==============================================
+============
 
 Podejmowanie przez nas decyzji jest nieuniknione. Co jednak dzieje się potem? Zaczyna się okres czekania na efekty. Czas wątpliwości, o~których mówiliśmy ostatnio. Warto zauważyć, że to nas właśnie łączy. Animator może teraz zadać uczestnikom pytania:
 
@@ -48,9 +41,8 @@ Poszukajmy w~grupie podobieństw w~naszym czekaniu.
 
 Ten punkt można zrealizować schematem na wspólnej kartce; stworzyć zbiory z~naszymi odpowiedziami i~sprawdzić, czy tworzymy jakąś całość; czy nikt nie jest osobno. Można zrobić to samo używając innych metod, np.: Kto odpowiedział tak samo jak inna osoba z~grupy bierze cukierka tego samego koloru. Na koniec sprawdzamy, które osoby mają cukierki. To ćwiczenie pokaże nam nasze podobieństwa.
 
-==============================================
 Jak czeka Kościół?
-==============================================
+==================
 
 Warto zauważyć, że Kościół czeka podobnie do “zwykłych ludzi” (świeckich). Służy temu każda wspólna modlitwa, sakramenty, czytanie Słowa Bożego, adwent, Eucharystia i~wiele innych. Na poprzednim spotkaniu była mowa o~tym, że Kościół czeka na różne rzeczy.
 
@@ -60,9 +52,8 @@ Warto zauważyć, że Kościół czeka podobnie do “zwykłych ludzi” (świec
 
 * Czy widzę podobieństwo w~czekaniu “pobożnym” i~“świeckim”?
 
-==============================================
 Na co więc czekamy?
-==============================================
+===================
 
 Obecni w~czasie czekamy na koniec tego czasu. Ta odpowiedź powinna się już powoli nasuwać grupie. Czy wiemy jednak, co to znaczy? Czym jest Królestwo Boże?
 
@@ -84,9 +75,8 @@ Kiedy już jesteśmy podzieleni i~budzi się mały antagonizm między uczestnika
 
 Zauważmy, że to co nas teraz dzieli, nie będzie mieć miejsca w~Nowym Jeruzalem. Tam nastanie pokój idealny. Można zapytać uczestników, jak odbierają taką wizję.
 
-==============================================
 Jak budować? - zastosowanie
-==============================================
+===========================
 
 Oczywiście nie będziemy biernie czekać, aż Paruzja sama “przyjdzie”.
 
@@ -109,10 +99,8 @@ Zastosowaniem z~tego spotkania może być np. stworzenie i~wprowadzenie w~życie
     | **Realny** – aby był możliwy do osiągnięcia;
     | **Terminowy** – aby był określony czasowo (wyznaczony czas osiągnięcia celu mobilizuje)
 
-
-==============================================
 Oto bowiem królestwo Boże pośród was jest
-==============================================
+=========================================
 
 Podsumowując spotkanie trzeba zauważyć, że skoro już teraz budujemy to Nowe Królestwo to zmieniamy świat wokół nas. Jesteśmy w~pełni świadomi zła tego świata (konflikty, wojny, itd.), ale i~tak idziemy w~ten świat i~chcemy czynić go coraz lepszym. Niech ta myśl będzie obecna w~modlitwie na koniec spotkania. Można też wykorzystać tu modlitwę franciszkańską, w~której motyw zmieniania świata jest bardzo mocny.
 

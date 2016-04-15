@@ -1,10 +1,8 @@
-***************************************************************
 Spotkanie 1. - O~istocie wolności
-***************************************************************
+*********************************
 
-==================================
 Cel
-==================================
+===
 
 Próba znalezienia odpowiedzi na pytania:
 
@@ -14,21 +12,18 @@ Próba znalezienia odpowiedzi na pytania:
 #. Jak znaleźć takie zdrowe podejście do tego bycia wolnym, czy to oznacza totalny chaos i~"róbta co chceta"?
 #. Co jest przekroczeniem wolności, czyli de facto "uwolnieniem" się od niej?
 
-=========================================
 Modlitwa
-=========================================
+========
 
 Modlitwa do Ducha Świętego z~prośbą o~jego światło i~prowadzenie na czas tych rekolekcji. Modlitwa dostosowana do możliwości grupy, proponuje się jednak modlitwę spontaniczną.
 
-=========================================
 Wprowadzenie
-=========================================
+============
 
 Tematem rekolekcje jest "Wolność". Pojęcie to jest bardzo szerokie i~pozostawia olbrzymią swobodę interpretacji. Dlatego, aby lepiej się rozumieć, postaramy się zastanowić nad tym czym dla nas jest wolność? Jaka jest definicja wolności odpowiadająca naszemu doświadczeniu, światopoglądowi, wierze...
 
-=========================================
 Czym dla mnie osobiście	jest wolność?
-=========================================
+=====================================
 
 .. note:: W~grupach młodszych przed tworzeniem "indywidualnych definicji wolności" proponuję użyć metody "słoneczko" zadając pytanie: "Z~czym mi się kojarzy wolność?". Można też (w~przypadku trudności ze~zdefiniowaniem tego słowa) poprosić o~to by narysowali lub w~inny sposób wyrazili co kojarzy się im ze słowem wolność. A~dopiero później przechodzimy do tworzenia indywidualnych definicji – jak poniżej.
 
@@ -38,9 +33,8 @@ Każdy uczestnik grupy stara się zapisać na kartce swoją definicję wolności
 
 Po wypowiedzeniu się wszystkich uczestników przechodzimy do dalszej części spotkania, zaznaczając jednak, że każdy może zmodyfikować swoją definicję w~czasie spotkania.
 
-=========================================
 Jak kościół rozumie wolność?
-=========================================
+============================
 
 KKK podaje następującą definicję wolności:
 
@@ -70,9 +64,8 @@ W kolejnych punktach KKK zyskujemy dodatkowe wskazówki:
 
 * Czy w~tym kontekście dostrzegam różnicę między wolnością a~samowolą? (granica grzechu, przykazań, Bożego prawa, odpowiedzialności za drugą osobę....)
 
-=========================================
 Wolność a~samowola
-=========================================
+==================
 
 W dalszej części spotkania nie unikniemy pojęć "grzech" i~"przykazania". Pojęcie grzechu wydaje się ograniczać naszą wolność, bo grzech to jest właśnie to, czego nam robić nie wolno. Bóg dał nam przykazania, które zaczynają się od słów "nie będziesz".
 
@@ -120,15 +113,13 @@ Poniżej jeszcze kilka fragmentów Nowego Testamentu na temat wolności i~niewol
 
 * Czy mam takie doświadczenie o~jakim pisze św. Paweł?
 
-=========================================
 Podsumowanie uczestników
-=========================================
+========================
 
 Na początku spotkania każdy z~nas stworzył definicję wolności. Podzielmy się teraz tym czy coś w~tych definicjach zmieniliśmy? Czy to spotkanie jakoś nas zmieniło, dało inne spojrzenie na wolność?
 
-=========================================
 Pytania (bez odpowiedzi?)
-=========================================
+=========================
 
 .. warning:: Pytania z~dalszej części spotkania proponuje pozostawić bez odpowiedzi na forum, tak aby każdy z~uczestników mógł sam się z~nimi zmierzyć. Jednak należy pamiętać, że to animator ma kontakt z~grupą i~w razie potrzeby może uznać inaczej.
 
@@ -158,8 +149,7 @@ Przeczytajmy:
 
 .. note:: Ostatnie pytanie jest jednym z~istotniejszych pytań tych rekolekcji. Absolutnie nie należy go pominąć. Jeśli grupa okaże się na tyle dojrzała i~otwarta można spróbować podzielić się odpowiedzią na to pytanie.
 
-=========================================
 Modlitwa
-=========================================
+========
 
 Modlitwa dziękczynna za dar wolności. Każdy z~uczestników może powiedzieć (bazując na swojej definicji) za co dokładnie dziękuje – za jaką wolność. Czym ona dla niego jest.
