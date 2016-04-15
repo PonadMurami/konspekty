@@ -1,30 +1,25 @@
-***************************************************************
 Spotkanie 4. - Walka ze słowem - o~słowo
-***************************************************************
+****************************************
 
-==================================
 Cel Spotkania
-==================================
+=============
 
 1. Uświadomienie sobie tego, że spotkaliśmy się ze słowem, które jest Żywe i~o które musimy teraz walczyć.
 2. Zastanowienie się nad tym, jak mam konkretnie walczyć.
 3. Uświadomienie sobie, że to właśnie od KAŻDEGO Z~NAS zależy, co się ze słowem stanie.
 
-==================================
 Wprowadzenie dla animatora
-==================================
+==========================
 
 To już ostatnie spotkanie na tych rekolekcjach. Podzielmy się na nim tym, czego tutaj doświadczyliśmy i~czego się dowiedzieliśmy. Po tym spotkaniu i~po zakończeniu rekolekcji pozostaje już tylko jedno: nie zapominać nigdy, że słowo jest życiem (czyli to co oazowicze lubią najbardziej ;) ). I~mieć świadomość, że słowo to nie "tylko słowo", ale "aż słowo". Na tym spotkaniu będziemy starali się przygotować do walki o~słowo. Bo kto jak nie my?
 
-====================================
 Modlitwa
-====================================
+========
 
 O odwagę, o~wprowadzanie tego, co usłyszeliśmy, w~życie, o~umiejętność świadczenia i~przekazywania innym ważnych dla nas treści, słów.
 
-=========================================
 Wprowadzenie do spotkania
-=========================================
+=========================
 
 Przed chwilą pisaliśmy na wyczerpanych kartkach. Każdy pisał jeden fragment. I~potem z~naszego tworzenia powstała księga. I~to księga zawierająca Słowa Boga.
 
@@ -34,9 +29,8 @@ Przed chwilą pisaliśmy na wyczerpanych kartkach. Każdy pisał jeden fragment.
 
 * A~czym jest dla mnie Pismo Święte, które właśnie leży przede mną?
 
-=========================================
 Słowo, które nie pozostawia takim samym
-=========================================
+=======================================
 
 Wczoraj wieczorem celebrowaliśmy Słowo Boże. Słuchaliśmy Boga. Na każdej Mszy Świętej słuchamy Boga. Sami czytamy Pismo Święte i~słuchamy Boga.
 
@@ -47,9 +41,8 @@ Możesz porównać to do muzyki. Słuchasz jej i~po jakimś czasie przychodzą C
 
 * Czy masz takie doświadczenie?
 
-=========================================
 Słowo, które ożywia
-=========================================
+===================
 
 Słyszeliśmy wczoraj w~jednym z~czytań na celebracji o~Ezechielu, który prorokował nad kośćmi na polecenie Boga, a~te ożyły.
 
@@ -69,9 +62,8 @@ Stwórzmy mapę myśli z~naszych pomysłów, której centrum będzie "Żyjący, 
 
 * Czy myślę, że moje środowisko potrzebuje ożywienia? Czy w~jakimś aspekcie jest ono martwe?
 
-=========================================
 Walka o~słowo i~słowem
-=========================================
+======================
 
 Kiedy słowo mnie ożywia, kiedy naprawdę uświadamiam sobie jego moc i~jego wartość, nie pozostaje mi nic innego jak wziąć odpowiedzialność za jego los. Jak POTRAKTOWAĆ JE NA SERIO.
 
@@ -98,9 +90,8 @@ Bóg daje nam narzędzie, którym mamy walczyć:
 
 * Czy chcę podzielić się z~innymi ludźmi tym ożywczym Słowem?
 
-=========================================
 Walka ze słowem
-=========================================
+===============
 
 * Zdarzyło się Wam przeczytać coś w~Piśmie Świętym czego nie rozumieliście lub co było dziwne?
 
@@ -112,9 +103,8 @@ Drugą sprawą walki ze słowem jest wcielanie go w~życie. Tak, aby było ono r
 
    -- Jk 1,19-25
 
-=========================================
 Zastosowanie
-=========================================
+============
 
 Tyle już powiedzieliśmy o~Słowie... Przeczytajmy wiec Słowo, które dzisiaj kieruje do nas Bóg. Przeczytajmy dzisiejsze czytania , zastanówmy się co Pan Bóg chce mi dzisiaj powiedzieć i~podzielimy się tym.
 

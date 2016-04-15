@@ -1,19 +1,16 @@
-***************************************************************
 Spotkanie 2. - Czym jest spotkanie?
-***************************************************************
+***********************************
 
-==================================
 Cel
-==================================
+===
 
 1. uzmysłowienie uczestnikom że istnieją spotkania i~Spotkania (przez wielkie S) i~że to my, będąc twórcami i~kreatorami naszych życiowych spotkań decydujemy o~tym, które będą przeważać
 2. wypuszczenie ich ze spotkania z~próbą zdefiniowania tego czym jest Spotkanie
 3. zwrócenie uwagi na trudy i~cienie spotkań z~innymi
 4. ukazanie wspólnoty jako przestrzeni spotkań, nie zawsze łatwych
 
-====================================
 Pomoce do spotkania
-====================================
+===================
 
 * blok rysunkowy i~przybory do pisania
 * dwie kartki z~napisami "spotkanie" i~"Spotkanie"
@@ -22,9 +19,8 @@ Pomoce do spotkania
 * wydruk z~przykładami różnych dialogów internetowych
 * zdjęcia różnych spotkań
 
-=========================================
 Spotkania w~codziennym życiu
-=========================================
+============================
 
 Rozłożenie na stole kilku zdjęć przedstawiających różne spotkania (spotkanie rodzinne, randka, spotkanie przyjaciół, wizyta u~chorego, kłótnia, spotkanie biznesowe, spotkanie Jana Pawła II z~Alim Agcą i~dwa zdjęcia przedstawiające spotkanie w~sieci). Uczestnicy próbują znaleźć wspólny motyw dla wszystkich zdjęć – SPOTKANIE.
 
@@ -32,7 +28,6 @@ Luźna acz krótka rozmowa z~uczestnikami na temat spotkań w~życiu codziennym.
 
 .. warning:: Ten punkt służy głównie pewnemu zagajeniu tematu, uzmysłowieniu, że życie to pasmo spotkań, mniej lub bardziej dla nas znaczących, łatwiejszych przyjemniejszych i~trudniejszych, bolesnych itp. Konkluzja do jakiej powinna zmierzać rozmowa to: MY SAMI JESTEŚMY TWÓRCAMI NASZYCH SPOTKAŃ - może nie zawsze my decydujemy o~fakcie spotkania, ale na pewno zawsze mamy wpływ na ich kształt, atmosferę itp.
 
-==========================================
 Spotkania w~realu vs. spotkania w~virtualu
 ==========================================
 
@@ -81,9 +76,8 @@ ETAP 2 – Przebieg tych spotkań:
    * Komiks - Komiks ilustruje jak w~sieci łatwo o~nieporozumienia, jak można błędnie odczytać czyjeś słowa czyjeś zachowanie bądź właśnie jego brak
    * Można chwilę pociągnąć temat z~uczestnikami: Czy skądś to znają, czy się zgadzają itp. Ale głównie chodzi o~to, żeby teraz skłonić ich do zastanowienia się nad tym jak mogłoby wyglądać to spotkanie gdyby oni siedzieli naprzeciwko siebie, gdyby nie dzielił ich ten monitor. Można im zaproponować przygotowanie krótkich scenek ilustrujących takie spotkanie np. w~różnych miejscach (kawiarnia, park, przystanek autobusowy) –i zachęcić aby pomyśleli o~tym czego na pewno nie mogliby doświadczyć w~sieci. Konkluzja - SPOTKANIA W~REALU PRZEZ TO, ŻE ZAPEWNIAJĄ BEZPOŚREDNI KONTAKT Z~DRUGIM CZŁOWIEKIEM MOGĄ DOSTARCZYĆ NAM WIĘCEJ DOŚWIADCZEŃ, BARDZIEJ ZAPAŚĆ NAM W~PAMIĘĆ A~TYM SAMYM MIEĆ DLA NAS WIĘKSZE ZNACZENIE. POZWALAJĄ UNIKNĄĆ ROZCZAROWAŃ SPOWODOWANYCH INTERNETOWĄ NIEPEWNOŚCIĄ I~KONIECZNOŚCIĄ DOMYSŁÓW ORAZ NIEPOROZUMIEŃ ZWIĄZANYCH Z~NIEPOPRAWNYM ODCZYTANIEM CZYICHŚ SŁÓW CZY INTENCJI.
 
-==========================================
 Jakość spotkań w~realu
-==========================================
+======================
 
 Warto teraz zadać sobie pytanie o~jakość naszych spotkań w~realu - jak my je przeżywamy, jak one wyglądają itd.
 
@@ -105,9 +99,8 @@ Ciekawostka - sentencja: Panie, zachowaj mnie od zgubnego nawyku mniemania, że 
 
 ...i kontynuując temat o~jakości spotkań, kolejna kwestia: W~imię czego się spotykamy? (dla siebie, np. żeby nie czuć się samotnym, dla innych - aby oni nie czuli się samotni, bo mamy jakiś interes) - można wykorzystać zdjęcia z~początku spotkania. Które spotkania przeważają? Jak czuję – które z~nich więcej wnoszą w~moje życie? Dlaczego?
 
-==========================================
 Kwestia spotkań i~Spotkań
-==========================================
+=========================
 
 W tym miejscu warto **poruszyć temat spotkań i~Spotkań**
 
@@ -136,17 +129,15 @@ Chodzi o~to, że spotkania są drogą do Spotkań, piaskiem wśród ziarenek kt�
 Podsumowanie tej części:
    **Spotkania są różne, faktem jest że wypełniają nasze życie. Mam ogromny wpływ na jakość i~kształt moich spotkań z~innymi. Od decyzji o~fakcie spotkania może wiele zależeć, są Spotkania, które mogą wiele zmienić.**
 
-==========================================
 Spotkanie jako przestrzeń trudności
-==========================================
+===================================
 
 Wracamy do zdjęć z~przykładami spotkań z~początku. Zadaniem uczestników jest pomyślenie według jakiego kryterium można podzielić te spotkania - chodzi o~spotkania trudne i~miłe. Jeśli na to nie wpadną to bierzemy jedno zdjęcie z~miłym spotkaniem i~jedno z~trudnym stawiając je jakby w~opozycji do siebie - wtedy powinni wpaść:P
 
 Po podziale zdjęć wychodzi zasadniczo pół na pół; spotkanie biznesowe i~spotkanie w~sieci może być różnie zakwalifikowane, ale to nieistotne. Zmierzamy do tematu "trudnych spotkań" - z~jakich powodów te spotkania mogą być trudne (negatywne emocje, stres, obawa, konieczność przebaczenia)? co to znaczy że są trudne, dlaczego tak je odbieramy? czy te spotkania mogą być w~jakiś sposób cenne czy to tylko źródło smutku, bólu, zdenerwowania itp.?
 
-==========================================
 Wspólnota jako spotkanie
-==========================================
+========================
 
 Teraz przejdziemy do rozważenia kwestii "Wspólnota jako przestrzeń spotkania" (bo nasze rekolekcje są o~wspólnocie)- z~jakimi spotkaniami mamy do czynienia we wspólnocie? co możemy o~nich powiedzieć? być może niektórzy mają już jakieś doświadczenie - niech opowiedzą o~swoich spotkaniach na gruncie wspólnotowym.
 

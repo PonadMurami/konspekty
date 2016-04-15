@@ -1,24 +1,20 @@
-***************************************************************
 Spotkanie 1. - Sam dla siebie pytaniem
-***************************************************************
+**************************************
 
-=====================================
 Wskazówki dla animatora
-=====================================
+=======================
 
 Podczas pierwszego spotkania będziemy starali się wraz z~uczestnikami **porozmawiać** o~wierze w~sposób teoretyczny. Połóżmy nacisk na wymianę zdań, żeby to uczestnicy komentowali, omawiali przedstawione tezy i~teksty.
 
 Konspekt zawiera znaczną ilość przykładów i~fragmentów. Nie wszystkie trzeba wymieniać. Niektóre punkty można pominąć, bądź tylko omówić grupie. Najważniejsze części spotkania są wyróżnione.
 
-==================================
 Cele
-==================================
+====
 
 Celem dzisiejszego spotkania jest uświadomienie sobie czym jest wiara w~znaczeniu ogólnym, pojęciowym. Będziemy starali się zobaczyć skąd się ona bierze, czym tak naprawdę jest. Jest to spotkanie czysto teoretyczne, hipotetyczne, z~jak najmniejszym odniesieniem do samego siebie.
 
-====================================
 Wiedzieć, wierzyć, uwierzyć
-====================================
+===========================
 
 Zacznijmy od rozważenia stwierdzenia św. Tomasza z~Akwinu
 
@@ -52,10 +48,8 @@ Można oczywiście podać inne przykłady, ważne, aby to uczestnicy sami doszli
 
     -- o. Jacek Salij
 
-
-====================================
 Wiara żywa. Paradoksy ateizmu.
-====================================
+==============================
 
 Najpierw przeczytajmy takie zdanie. Być może będziemy się z~nim zgadzać lub nie – będzie ono wprowadzeniem do naszej dalszej rozmowy.
 
@@ -81,9 +75,8 @@ Spotkanie to dar. Coś absolutnie niesamowitego. Jeżeli mamy niewiele wpisów n
 
 Postanowienie: Świetną okazją, aby "podziękować" za ten "cud spotkania" osobą które pojawiły się w~naszym życiu jest jutrzejsza Eucharystia! Niech to będzie pierwszym owocem tego spotkania (o ile ktoś chce) – aby jutrzejszą Eucharystię ofiarować w~ich intencji.
 
-======================================
 Cechy Prawdziwego Spotkania
-======================================
+===========================
 
 *(Ten punkt, podobnie jak następny, można tylko zasygnalizować, nie trzeba go omawiać w~całości. Warto jednak, aby uczestnicy poznali "paradoksy" ateizmu. Nawet jeśli animator zrobi miniwykład.)*
 
@@ -105,15 +98,13 @@ Spróbujmy zapytać o~to uczestników. Jak oni to rozumieją.
 
 A więc być ateistą to nie wierzyć w~nic ani niczemu. To znaczy poddać się chaosowi. Wyjście poza ten poziom, oznacza wyjście z~ateizmu.
 
-======================================
 Bóg daleki
-======================================
+==========
 
 Ale to nadal nie koniec naszej drogi ku wierze. Jeśli na tronie Boga posadzimy coś innego, albo Bóg będzie bogiem niedostępnym, absolutem, czymś odległym to nadal nie możemy mówić o~wierze w~znaczeniu chrześcijańskim. Można uznawać prawdziwość zdania: *"Bóg istnieje"*, a~ciągle być *niewierzącym*.
 
-======================================
 Pytania wiary
-======================================
+=============
 
 * Co tak naprawdę powoduję, że człowiek staje się wierzącym, że jego wiara jest żywa?
 
@@ -129,9 +120,8 @@ Można przytoczyć tu następujące opowiadanie:
 
 Podstawowym pytaniem wiary jest "może". Wyraża ono jej istotę: nieustanne napięcie, niepewność, ten ciągły paradoks nie możności powiedzenia czegoś "obiektywnego". Świat wiary to świat nieustannego "może".
 
-======================================
 Człowiek pytaniem dla siebie
-======================================
+============================
 
 Zastanówmy się nad pytaniem, które zadał św. Augustyn, fundamentalnym pytaniem jego wiary (w kontekście punktu 4):
 
@@ -147,9 +137,8 @@ Wiara chrześcijańska jest tym, co jest głębiej. Bóg nie przebywa "naprzeciw
 Wiara jest odkrywaniem głębi samego siebie, jest odnalezieniem własnej tożsamości, własnej świadomości, umiejscowieniem samego siebie wobec rzeczywistości. Wiara jest wreszcie zaangażowaniem całego siebie, całkowitym zwrotem ku tej rzeczywistości. Wiara jest
 nawróceniem. Jest pytaniem o~samego siebie, trzeba stać się "sam dla siebie pytaniem". Pytaniem w~którym zawiera się niepewność, niestałość itp.
 
-======================================
 Czym jest wiara?
-======================================
+================
 
 Spróbujmy na koniec ułożyć "definicję wiary wynikającą z~tego spotkania, a~może bardziej określić czym ona jest i~kim jest człowiek wierzący.
 

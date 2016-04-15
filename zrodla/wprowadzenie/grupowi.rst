@@ -1,6 +1,5 @@
-===================================================================
 Okiem diakonii animatorów grup
-===================================================================
+==============================
 
 * Kluczem jest zaangażowanie w~proces przygotowywania rekolekcji - wtedy posługa jest jakościowo inna
 * Animator grupy nie prowadzi spotkań - prowadzi rekolekcje dla własnej grupy :)

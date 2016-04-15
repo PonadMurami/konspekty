@@ -1,22 +1,18 @@
-*************************************************************
 Spotkanie 3. - Dynamizm wiary
-*************************************************************
+*****************************
 
-=====================================
 Uwagi dla animatora
-=====================================
+===================
 
 Dzisiejsze, ostatnie spotkanie jest rozmową o~przeżyciach, których doznaliśmy w~naszym życiu, opiera się głównie na doświadczeniu animatora. Zaproponowałem przykład gór, gdyż jest mi on najbliższy. Oczywiście, jeśli ktoś nie podziela mojej opinii może użyć innego. Ważne, aby odnosił się on do wędrówki, obojętne po czym. Dajmy też uczestnikom opowiedzieć własne. Niech czują się swobodnie opowiadając o~swoich przeżyciach - zasadniczą częścią tego spotkania jest właśnie wymienienie doświadczeń z~naszych wędrówek. Następnie spróbujemy poszukać analogii pomiędzy wiarą a~drogą.
 
-=====================================
 Cele
-=====================================
+====
 
 Celem dzisiejszego spotkania jest ukazanie dynamiki wiary, jej zmienności. Po tym spotkaniu uczestnicy powinni wiedzieć, że wątpliwości, załamania są normalne, że będą się nam zdarzać w~czasie całego naszego życia.
 
-=====================================
 Obyś był zimny albo gorący!
-=====================================
+===========================
 
 Na początku rozważmy fragment z~Apokalipsy św. Jana. Niech uczestnicy po przeczytaniu go wypowiedzą się jak go rozumieją.
 
@@ -37,7 +33,6 @@ Spróbujmy wraz z~uczestnikami przeprowadzić charakterystykę postaw wymieniony
 
 * Jak można scharakteryzować każdą z~tych postaw?
 
-==============================================
 Przykłady ludzkiego gorąca, chłodu i~letniości
 ==============================================
 
@@ -58,9 +53,8 @@ Człowiek letni, to właśnie człowiek próbujący ukryć swoje wątpliwości, 
 
 Faryzeusze schowali wszelkie wątpliwości, wszystkie pytania za literę prawa. W~ich świecie jedynymi wątpliwościami były te prawne. Pytanie o~człowieka zostało zapomniane. Jezus mówi o~wierze żywej, nie skostniałej, ukrytej.
 
-==============================================
 Nowości w~naszym życiu
-==============================================
+======================
 
 W tym punkcie najważniejsze są odczucia, przeżycia własne i~uczestników. Niech opowiedzą jak się wtedy czuli, jakie pytania im wtedy towarzyszyły.
 
@@ -76,9 +70,8 @@ Przykładowo jak wyglądał nasz pierwszy dzień w~nowej szkole, z~nowymi ludźm
 
 * Czy dzięki nowej sytuacji zmienił się nasz stosunek do jakichś problemów, czy zmieniło się nasze wyobrażenie na jakiś temat?
 
-==============================================
 Wędrówka po górach
-==============================================
+==================
 
 Ten punkt, podobnie jak poprzedni zakłada wymianę doświadczeń pomiędzy uczestnikami. Jak już wcześniej pisałem można użyć innego przykładu. Ważne, aby poruszyć temat wędrówki.
 
@@ -104,9 +97,8 @@ Oprócz wspaniałych widoków podczas najcięższych momentów wędrówki nachod
 
 Te wątpliwości, pytania towarzyszą drodze nieustannie. Nie da się przejść bez nich. Nie da się ich tak łatwo wyeliminować z~wędrówki. Nie da się przejść choćby kawałka drogi (zwłaszcza nieznanej) bez pytania o~wygląd ścieżki za kilkanaście metrów, ewentualne przeszkody itp.
 
-==============================================
 Wiara a~podróż
-==============================================
+==============
 
 W tym punkcie postarajmy się przełożyć doświadczenia z~wędrówek na nasze życie duchowe, na naszą wiarę. Wykorzystajmy odczucia, pytania, przykłady z~poprzednich punktówi spróbujmy poszukać analogii w~wierze. Poniżej wnioski z~porównania przykładów, które wymieniłem wyżej.
 
@@ -139,9 +131,8 @@ Zastanówmy się nad tekstem ks. Halika i~jego wyznaniem wiary. Pozwólmy uczest
 
 Wiara, która chce być żywa, która się rozwija musi nieść z~sobą wątpliwości. One służą, abyśmy nie popadli w~samozachwyt, abyśmy nigdy nie potrafili powiedzieć: wiem już o~sobie wszystko. Wiara wraz z~wątpliwościami stawia nas ciągle w~niepewności, w~stanie ciągłej gotowości, napięcia, czujności. Wątpliwości pozwalają nam odsunąć od siebie pewność, która jest w~wierze bardzo zwodnicza. Przypomnijmy sobie przypowieść o~pannach głupich i~roztropnych, gdzie zbytnia pewność zgubiła panny nieroztropne. Albo scenę Sądu Ostatecznego, gdzie ludzie zbawieni są zdziwieni tym, co się dokonało.
 
-==============================================
 Zakończenie
-==============================================
+===========
 
 Na zakończenie proponuję dwa wiersze do rozważenia w~ciągu tego ostatniego dnia. Samodzielnie, już nie na forum grupy.
 

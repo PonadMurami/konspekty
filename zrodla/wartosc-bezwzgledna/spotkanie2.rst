@@ -1,16 +1,13 @@
-***************************************************************
 Spotkanie 2. - Walka o~wartość
-***************************************************************
+******************************
 
-==================================
 Cel
-==================================
+===
 
 Refleksja na temat tego co w~moim życiu jest wartością i~bez-wartością. Odkrycie, że wartości są równocześnie wezwaniem (i zadaniem!) walki o~nie. Analiza tej walki, zobaczeniem jej płaszczyzn.
 
-==================================
 Wprowadzenie dla animatora
-==================================
+==========================
 
 To spotkanie otwiera drugą połowę rekolekcji w~czasie której przechodzimy "ze światła do życia". Stając przed swoimi uczestnikami w~dniu dzisiejszym powinieneś mieć w~głowie modlitwę wieczorną na której razem macie zawołać "Boże spraw niech będę kimś!". To spotkanie o~rozbudzaniu pragnień, nadziei, wiary - taki też powinno mieć charakter.
 Kartki które masz przed sobą są tylko nieudolną próbą przekazania tego klimatu o~którym, jak jestem przekonany, wiesz wiele i~masz go w~sercu, bo jesteś tym, który powołany został do ożywiania i~powoływania innych.
@@ -27,15 +24,13 @@ Przygotuj:
 
 * Dużą kartkę (A1/A0 mile widziane)
 
-====================================
 Modlitwa
-====================================
+========
 
 Kluczem wydaje się **otwartość** - na mówienie tak jak jest, a~nie tak jak chciałbym, aby było. Otwartość musi zaś być poprzedzona **odwagą**. Te dwie przestrzenie niech będą na pierwszym planie. W~starszych grupach proponuje objąć modlitwą młodsze grupy tych rekolekcji oraz modlitwę wieczorną - uczmy odpowiedzialności....i walki.
 
-====================================
 Wprowadzenie do spotkania
-====================================
+=========================
 
 Dzisiejszy Namiot Spotkania był o~Marii i~Marcie. Zacznijmy od podzielenia się tą modlitwą.
 
@@ -45,9 +40,8 @@ Dzisiejszy Namiot Spotkania był o~Marii i~Marcie. Zacznijmy od podzielenia się
 
 * Czy w~moim życiu muszę decydować pomiędzy "cząstkami"?
 
-====================================
 Moje wartości
-====================================
+=============
 
 Na rekolekcjach nie chcemy tylko mówić o~wartościach, nie chcemy ich analizować, rozkładać na części i~im się przyglądać. Chcemy odnosić to wszystko do siebie. Tą naszą naturę dobrze rozumie Kościół dlatego dajmy się poprowadzić słowom papieża.
 
@@ -81,7 +75,6 @@ Na koniec każdy z~grupy odczytuje to co napisał (choć lepiej byłoby gdyby w~
 
 * Skąd masz odwagę do wypowiadania takich słów?
 
-==================================================
 "Dopóki sił, będę szedł! Będę biegł! Nie dam się!"
 ==================================================
 
@@ -125,9 +118,8 @@ Przeczytajmy:
 
 .. note:: To jest miejsce na świadectwo animatora. Świadectwo człowieka, który już nie tyle szuka, co kocha. Który nie tyle marzy, co realizuje. Człowieka spełnionego, bo odnalazł jakiś sens swojego życia. Świadectwo człowieka, którego serce jest już spokojne, bo odnalazło Boga. Człowieka, który mimo, że odnalazł, to nadal jego serce jest pełne żaru, bo widzi jak wiele jest do zrobienia, a~tak mało czasu... Człowieka, którego w~dużym stopniu "bieg i~cel" siedzi teraz przed nim wokół świeczki i~który wie po co tu dla nich jest. Twoja formacja Cię do tego przygotowała - Niech Bóg Cię poprowadzi!
 
-==================================================
 Walka o~intensywność (o soli smak)
-==================================================
+==================================
 
 Grozi nam utrata intensywności, aromatu, zapachu, smaku. Tak działa bez-wartość o~której mówiliśmy rano - rozcieńcza. Intuicyjnie czujemy bunt przeciwko takiemu czemuś, szczególnie gdy dotyczy to wartości dla nas kluczowej. Mamy ochotę krzyknąć:
 
@@ -152,9 +144,8 @@ Na koniec każdy z~uczestników spotkania wybiera ze wspólnej listy jedno, któ
 
 * Czy próbowałeś walczyć z~Jezusem?
 
-==================================================
 Walka o~moją wartość
-==================================================
+====================
 
 "Wszystko co robię to musi być dla innych bo inaczej jestem egocentrykiem" to przekonanie niejednego pobożnego katolika. Ciężko nam dopuścić do siebie myśl, że coś może być specjalnie dla mnie i~do mnie. Nie da się walczyć o~wartość wokół jeżeli nie będzie się umiało walczyć o~nią w~sobie samym.
 
@@ -198,9 +189,8 @@ Jezus od samego początku nadaje jej wartość - zmierza do tego, aby wyprostowa
 
 Sami z~siebie wchodząc w~głąb swojej osoby nie jesteśmy zdolni znaleźć swojej wartości. Potrzebny jest ktoś drugi. Wartość zdobywa się w~spotkaniu, w~dialogu!
 
-==================================================
 "Odbuduj mury Jeruzalem!"
-==================================================
+=========================
 
 .. note:: Ta część spotkania jest bezpośrednio związana z~modlitwą wieczorną i~stanowi wprowadzenie do niej [kontynuacją będzie wieczornica]
 
@@ -218,8 +208,7 @@ Jak to możliwe?! Dlaczego wybrany Izrael, drogi w~oczach Pana (fragment z~Iz)  
 
 * Co zrobić, aby dzięki dzisiejszej modlitwie jutro być piękniejszymi?
 
-==================================================
 Zastosowanie
-==================================================
+============
 
 Wypisać do trzech krwawiących we mnie wartości, które dzisiaj na modlitwie wieczornej oddam Bogu, mówiąc "Ty wszystko czynisz nowe, odbuduj mury Jeruzalem!". W~starszych grupach dodatkowo modlitwa wstawiennicza za siebie + całą wspólnotę oraz osobę prowadzącą wieczornicę.

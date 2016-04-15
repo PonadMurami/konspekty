@@ -1,14 +1,11 @@
-*******************************************************************
 Spotkanie 1. - Wspólnota - fenomen indywidualności czy konformizmu?
 *******************************************************************
 
-==================================
 Cel
-==================================
+===
 
 Zapoznanie się grupy, ale nie przez opowiadanie o~sobie, ale rozmowę na temat. Zmierzenie się z~pierwszym stereotypem wspólnoty jakim jest utrata siebie. (a nie "posiadaniem siebie w~dawaniu siebie"!). Nakreślenie wizji Kościoła jak pojednanej różnorodności.
 
-=================================================
 Wprowadzenie dla animatora - do całych rekolekcji
 =================================================
 
@@ -18,22 +15,18 @@ Zobacz: http://www.youtube.com/watch?v=o0ijs1GggU8
 
 Jakie uczucia się w~Tobie rodzą? Widzisz bardziej wspólnotę czy manipulacje? Bardziej jedność czy naśladownictwo? Widzisz w~tym piękno "organizmu ponad organizmem" czy Cię to jakoś niepokoi? Tak samo ludzie niezwiązani z~Kościołem mogą patrzeć na Msze Świętą i~wspólnotę Kościoła(!). W~przykładzie o~dużym kontraście (a jak!) stań po drugiej stronie i~popatrz przez ramię uczestnika w~tym samym kierunku. Zmierz się z~tymi uczuciami i~je zapamiętaj. Podyskutuj z~resztą diakonii. Poprowokujmy się trochę. Powodzenia! :).
 
-
-=========================================
 Modlitwa
-=========================================
+========
 
 Nie wiemy *kim są i~skąd przychodzą ludzie*, którzy zostali nam powierzeni. Modlitwa zatem nie powinna zakładać umiejętności modlitwy spontanicznej, ale koniecznie musi zawierać element znajomy dla uczestników (np. "Duchu Święty, który oświetlasz...."). Można zrobić na zasadzie kolekty - żeby każdy pomyślał o~tym o~co chce się pomodlić a~zebrać to wspólnym Ojcze Nasz.
 
-=========================================
 Wprowadzenie (nie tylko) do spotkania
-=========================================
+=====================================
 
 Po co są te spotkania? Żeby rozmawiać. Rozmawiać tzn przekazywać to co ma się w~głowie i~sercu. Nie ma "dobrych odpowiedzi które pasują do klucza". Nie chodzi też o~to, abyśmy używali słów Maryja, Jezus, Bóg, Modlitwa,  wstawiając pomiędzy nie pojedyncze wyrazy. (bo szczerze mówiąc sami mamy tego dosyć?). Chcemy się spotkać czyli dzielić się tym co myślimy, a~nie tym co chcielibyśmy myśleć. To poważna różnica.
 
-=========================================
 Jaka jest moja "indywidualność"?
-=========================================
+================================
 
 .. note:: Animator przygotowuje dużo kartek z~różnymi napisami: napisane niebieskim kolorem "słoń", podkreślony czarny napis "widelec" itd.
 
@@ -53,9 +46,8 @@ Wariant I:
 Wariant II:
    Jakie 5 cech mnie najlepiej charakteryzuje?
 
-=========================================
 Stracenie indywidualności?
-=========================================
+==========================
 
 Wróćmy do naszych kartek.
 
@@ -73,9 +65,8 @@ Jak się zadaje takie pytanie to ma się ochotę bronić, że przecież tak nie 
 
 .. centered:: **Nie chcemy być częścią bezkształtnej masy.**
 
-=========================================
 Zbiór to co innego niż wspólnota
-=========================================
+================================
 
 .. note:: Wzór prostokątnych kartek do wycięcia dla animatora znajduje się poniżej.
 
@@ -109,9 +100,8 @@ Właśnie! Takie grupy same **się tworzą**, a~nie ktoś je tworzy. Zbiory twor
 
 * Czy szanowana jest w~nich Twoja indywidualność?
 
-=========================================
 Razem, ale indywidualnie?
-=========================================
+=========================
 
 Kościół też jest grupą. Grupą która bezsprzecznie jest zaszufladkowana jako zbiór - mamy tego świadomość. Bo można zapytać: gdzie w~nim miejsce na indywidualizm jeżeli wszystko jest ustalone przez innych, a~my mamy się podporządkowywać...
 
@@ -145,17 +135,15 @@ Taka jest wspólnota Kościoła. Jest złożona z~indywidualnych osób choć jes
 
 * Czy wierzycie, że Kościół właśnie taki jest?
 
-=========================================
 Podsumowanie, zastosowanie
-=========================================
+==========================
 
 Proponuje zrobić tutaj wprowadzenie do modlitwy wieczornej. Zapytać ludzi czy brali udział w~czymś takim. Rozwiać ich wątpliwości. Miejsce na świadectwo animatora jak on przeżywa swoją indywidualność jako część czegoś większego na modlitwie (to nasze indywidualne wezwania tworzą modlitwę wpólnotową. To modlitwa wspólnotowa inspiruje nas do indywidualnych wezwań). Zaproszenie do próby powalczenia o~coś takiego samego przez te trzy dni.
 
 Zastosowaniem dla uczestników niech będzie taka próba spojrzenia na ludzi razem modlących się.
 
-=========================================
 Modlitwa
-=========================================
+========
 
 Zdecydowanie dziękczynna za to spotkanie, ale też za to co przed nami.
 

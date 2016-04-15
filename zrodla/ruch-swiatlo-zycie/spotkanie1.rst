@@ -1,22 +1,18 @@
-***************************************************************
 Spotkanie 1. - Jesteśmy Oazą!
-***************************************************************
+*****************************
 
-=====================================
 Cel Spotkania
-=====================================
+=============
 
 Pokierować ludzi do spojrzenia na tą grupę, te rekolekcje, swoją wspólnotę parafialną jak na dar.
 
 Analogia: gdy dowiadujemy się, że otrzymaliśmy jakiś prezent to się po prostu nim cieszymy i~chcemy zobaczyć czym on jest (czy książka czy film itp.). Nie oglądamy go jeszcze szczegółowo! Chcemy znać jego nazwę.
 
-==================================
 Modlitwa
-==================================
+========
 
 Dostosowana do możliwości grupy.
 
-=================================================
 "Największe wartości" w~których teraz mamy udział
 =================================================
 
@@ -42,9 +38,8 @@ Można poddać "krytycznemu spojrzeniu" nasze kontakty – na ile w~nich jest ot
  
 * Czy doceniamy to coś naprawdę niezwykłego, że drugi człowiek chce ze mną rozmawiać o~czymś więcej niż cenach nowych abonamentów telefonów komórkowych?
 
-=================================================
 Co już zawdzięczamy wspólnocie
-=================================================
+==============================
 
 Jeżeli coś otrzymujemy to źle byłoby nawet tego nie zauważać – wtedy nie dajemy sobie szans na bycie wdzięcznym za dar.
 
@@ -53,9 +48,8 @@ Jeżeli coś otrzymujemy to źle byłoby nawet tego nie zauważać – wtedy nie
 | **Zastosowanie:**
 | Jutrzejsza Msza Św. może być doskonałą okazją, aby stała się dziękczynieniem za to ubogacenie waszego życia
 
-=================================================
 "Dotknięcie" wartości wspólnoty
-=================================================
+===============================
 
 *(jest to zasadnicza cześć spotkania na którą powinien być położony największy akcent)*
 
@@ -68,9 +62,8 @@ wszystkim, na samym początku, w~tym pierwszym dniu chcemy sobie to uświadomić
 
 * *Następnie będziemy odpowiadać sobie na te pytania. Jednak, aby nie "rozcieńczać" tego spotkania umówmy się, że staramy się odpowiedzieć w~4 zdaniach! One na pewno wystarczą, aby na chwałę Boga zbudować bliźniego jeżeli się tylko o~to postaramy.*
 
-=================================================
 Podsumowanie
-=================================================
+============
 
 Bez cienia ironii:
 
@@ -82,8 +75,7 @@ Bez cienia ironii:
 
 I to właśnie dlatego z~radością wołamy "Jesteśmy Oazą!".
 
-=================================================
 Zastosowania
-=================================================
+============
 
 Jedno już było – intencja jutrzejszej Mszy. Być może warto jeszcze coś dodać.

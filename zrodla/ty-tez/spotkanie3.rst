@@ -1,34 +1,28 @@
-***************************************************************************
 Spotkanie 3. - Wspólnota jest decyzją
-***************************************************************************
+*************************************
 
-==================================
 Cel
-==================================
+===
 
 Przedostatni punkt merytoryczny rekolekcji. Zdecydowanie podsumowujemy, zbieramy, dzielimy się przeżyciami. Przekonanie do otwartej i~aktywnej postawy w~swoim życiu, do wychodzenia poza swoje "ja".
 
-==================================
 Dla animatora
-==================================
+=============
 
 **Za wszelką cenę** unikać jakiegokolwiek nawet pozoru prania mózgów. Nie jesteśmy jednostką rekrutującą, a~to czy te rekolekcje są dobre czy nie w~żaden sposób nie zależy od tego ile osób zakochało się w~Oazie i~chce do niej przyjść. Dzisiejsze spotkanie jest długie, a~uczestnicy też będą już zmęczeni - trzeba czuwać nad jego dynamiką.
 
-====================================
 Modlitwa
-====================================
+========
 
 Jesteśmy po konferencji (Binia - najlepsze pozdrowienia :P) o~odwadze do decyzji oraz odpowiedzialności, o~nie marnowaniu czasu. Warto iść za ciosem i~pomodlić się o~to, abyśmy umieli z~tych trzech dni wyciągnąć dobre rzeczy niezależnie czy zechcieliśmy się bardziej zaangażować w~jakąś wspólnotę czy nie.
 
-=========================================
 Wprowadzenie do spotkania
-=========================================
+=========================
 
 Pierwszego dnia pytaliśmy siebie gdzie jesteśmy i~co nam to daje. Drugie dnia bardziej zwracaliśmy uwagę na to, że oprócz nas są też inni z~którymi w~jakiś sposób jesteśmy powiązani. Mamy dużo wiedzy, bo wiele zobaczyliśmy. Czy potrafimy teraz coś z~tym zrobić? Co nam to dało?
 
-=========================================
 Kluczowe decyzje
-=========================================
+================
 
 Chcielibyśmy dzisiaj spotkanie zacząć od posłuchania lub przeczytania utworu.
 
@@ -115,9 +109,8 @@ Wspólnota nie spada z~nieba. Wspólnotę się buduje, a~do tego potrzeba naszyc
 
 * Czy my przychodząc do Kościoła nie oczekujemy też gotowej wspaniałej wspólnoty, która może nam coś zaoferować?
 
-=========================================
 Decyzja o~działaniu
-=========================================
+===================
 
 Przeczytajmy modlitwę św. Franciszka:
 
@@ -169,9 +162,8 @@ To jest moment w~którym pojawia się wiara. Wiara uzdalnia nas do wyjścia poza
 
 * Czy warto ryzykować opuszczenie swojego poukładanego świata?  (jak ktoś zna Władce Pierścieni - przykład hobbitów i~Shire)
 
-=========================================
 Otwartość na "zawsze nowe"
-=========================================
+==========================
 
 Bóg z~sobie tylko znanych powodów nie działa "magicznie" wypowiadając jednego słowa, aby wszystko było poukładane. Wciąż od wieków czeka na człowieka, aż on podejmie się działania.
 
@@ -223,9 +215,8 @@ Zdajmy sobie jeszcze takie pytanie:
 
 * Która z~przeszkód Twoim zdaniem najczęściej uniemożliwia otwarcie na spotkanie się?
 
-=========================================
 Być świadomym uczestnikiem życia
-=========================================
+================================
 
 Przeczytajmy:
 
@@ -247,8 +238,7 @@ Rozmowę o~fragmencie kończymy podsumowaniem animatora mniej więcej w~tym duch
 
 Są solą ziemi i~walczą o~smak życia....
 
-=========================================
 Modlitwa
-=========================================
+========
 
 Prośba o~dobre jakieś jedno konkretne spotkanie, które wiem, że będę miał w~najbliższej przyszłości.

@@ -1,6 +1,5 @@
-===================================================================
 Okiem diakonii muzycznej
-===================================================================
+========================
 
 * Muzyka jako element zawiązujący wspólnotę
 * Gdy nie ma czasu cierpi muzyka - radzenie sobie z~tym

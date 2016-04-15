@@ -1,22 +1,18 @@
-***************************************************************
 Spotkanie 1. - Odkrycie wartości człowieka
-***************************************************************
+******************************************
 
-==================================
 Cel
-==================================
+===
 
 Odkrycie wartości człowieka (do czego jest on zdolny, co stanowi o~jego sile, co sprawia , że hasło ‘’Człowiek-to brzmi dumnie jest prawdziwe). Odkrycie własnej wartości - ja też jestem zdolny do dokonania wielkich rzeczy, mam w~sobie ten potencjał.
 
-====================================
 Modlitwa
-====================================
+========
 
 Modlitwa spontaniczna (w młodszych grupach trzeba pamiętać, aby sprawdzić czy nie trzeba wprowadzić do tej formy modlitwy) do Ducha Świętego z~prośbą o~dobre przeżycie rekolekcji i~jego opiekę.
 
-=========================================
 Wprowadzenie do spotkania
-=========================================
+=========================
 
 Prosimy uczestników, by przedstawili się chociaż z~imienia i~nazwiska i~podali jakąś informacje o~sobie.Następnie w~ramach zapoznania się stawiamy każdemu z~uczestników po kolei następujące pytania. Ich celem jest uświadomienie uczestnikom, co dla nich jest wartością.
 
@@ -34,9 +30,8 @@ Prosimy uczestników, by przedstawili się chociaż z~imienia i~nazwiska i~podal
 
 .. note:: pytanie, jakie swoje cechy, poglądy uważa się za słuszne i~czy ja jestem z~tego dumny
 
-=========================================
 Wartość talentu
-=========================================
+===============
 
 Podsumowaniem powyższej wymiany zdań jest fragment z~Ewangelii:
 
@@ -83,14 +78,12 @@ Bóg uczynił nas na swoje podobieństwo, uczynił nas panami tej ziemi, zyskali
 
 .. warning:: uświadomienie uczestnikom,że mowa jest o~NICH, nie o~INNYCH. O~każdym z~nich indywidualnie.   Możliwe, że nasi uczestnicy nie dokonali żadnych wielkich rzeczy typu odkrycie nowego pierwiastka i~prawdopodobnie ich nie dokonają. Ale pod pojęciem wielkich rzeczy możemy podpisać takie rzeczy jak np. bycie wiernym przyjacielem, sumienne dotrzymywanie obowiązków, uczciwa praca w~przyszłości, działalność wolontariacka.
 
-=========================================
 Zastosowanie
-=========================================
+============
 
 Zastosowaniem z~tego spotkania będzie udanie się na modlitwę wieczorną z~refleksją na temat siebie-co dla mnie jest ważne, czym ja mogę przysłużyć się innym ludziom.
 
-=========================================
 Zakończenie
-=========================================
+===========
 
 Modlitwa  spontaniczna do Ducha Świętego zawierająca dziękczynienie za czas spotkania oraz za dary, które każdy z~nas otrzymał od Boga.

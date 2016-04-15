@@ -1,37 +1,30 @@
-*************************************************************
 Spotkanie 3. - Jestem *Christianoi*
-*************************************************************
+***********************************
 
-=====================================
 Cele
-=====================================
+====
 
 1. Jesteśmy dzisiejszego dnia w~części “działać” naszej Ewangelicznej Rewizji Życia. Spotkanie **musi zakończyć się konkretnymi postanowieniami lub decyzjami**. Inaczej nie przyniesie nasz trud owoców.
 2. Uczestnicy **muszą zobaczyć, że wspólnota Kościoła jest realna** i~na wyciągnięcie ręki. Muszę zobaczyć konkretną rzeczywistość realizacji swojej drogi Syna Gromu.
 3. Przełamanie się do głoszenia Ewangelii - **każdy z~uczestników podejmuje próbę świadectwa wobec grupy**. Dla ludzi, dla których to pierwszy raz w~życiu będzie to główny aspekt przeżyciowy spotkania.
 
-
-=====================================
 Uwagi dla animatora
-=====================================
+===================
 
 Nie uczyńmy z~tego spotkania typowego podsumowania, na to czas będzie później. To spotkanie to swoistego rodzaju punkt kontrolny całości rekolekcji. Część z~tych treści być może zostanie powiedzianych w~czasie konferencji niedzielnej, nie przejmuj się tym. Konspekt jest obszerny, nie zabraknie Ci treści, a~konferencja ułatwi Ci interioryzacje materiału przez uczestników.
 
-=====================================
 Modlitwa
-=====================================
+========
 
 Modlitwa niech będzie odpowiedzią na słowa z~Namiotu Spotkania (J 17, 6-19). Jezus modlił się za nas do swojego Ojca, prosił o~wielkie rzeczy dla nas. My tą modlitwę niejako usłyszeliśmy i~stajemy przed Jezusem dziękując mu za to co powiedział.
 
-==============================================
 Wprowadzenie do spotkania
-==============================================
+=========================
 
 Wybór jakiego dokonaliśmy wczoraj (przyjęcie drogi X przykazań wraz z~przykazaniem miłości) na modlitwie wieczornej jest brzemienny w~konsekwencje. Dziesięć prostych słów, które Bóg nam przekazał wieki temu i~kilka naszych słów odpowiedzi rozpoczyna nowy rozdział życia.
 
-==============================================
 Wojsko Gedeona
-==============================================
+==============
 
 .. note:: ~10 minut
 
@@ -59,9 +52,8 @@ Nie musimy traktować tych liczb dosłownie. Z~całej armii pozostał niecały 1
 
 * Skąd była w~nich odwaga?
 
-==============================================
 Armia (jakby) w~letargu
-==============================================
+=======================
 
 .. note:: ~10 minut
 
@@ -97,9 +89,8 @@ Potrzebnych jest tych symbolicznych “trzystu ludzi” którymi Bóg będzie m�
 
 .. note:: Można autorowi konspektu stawiać tutaj zarzut ekskluzywizmu. Jest on świadomy tego zagrożenia, wie on też, że takie same zarzuty padają wobec wielu inicjatyw zaangażowanych katolików. To, że szukamy ludzi gorących/zaangażowanych/poświęconych czyli w~jakimś sensie wybranych nie wyklucza w~żadnym razie powszechnego powołania do tej grupy.
 
-==============================================
 Dość tej samej (pobożnej) teorii
-==============================================
+================================
 
 .. note:: ~25 minut
 
@@ -191,9 +182,8 @@ Składa się on z~dwóch napisów greckich: ΦΩΣ - światło oraz ΖΩΗ - ży
 
 * Jakie wyzwania z~sobą niesie?
 
-==============================================
 Jestem *Christianoi*
-==============================================
+====================
 
 .. note:: ~20 minut
 
@@ -231,9 +221,8 @@ Głoszenie Ewangelii to nie tylko zadanie, to łaska. Umywanie nóg to naśladow
 
 .. warning:: Animatorze: Opowiedz o~tym jak to jest być animatorem i~prowadzić innych do Jezusa. Opowiedz o~tym czy potrzebne Ci do tego było bardziej KODA czy bardziej otwarte serce i~odwaga? Dla części animatorów wskazówką będą takie słowa: “Powołani przez słowo Jezusa. Z~pośród świata wybrani na światków, przyjmujemy zadanie i~łaskę czynić uczniów ze wszystkich narodów. W~tej wspólnocie jesteśmy Kościołem, **Uczniem Pana i~drogą dla uczniów**. Jak latorośl w~Winnym Krzewie, by być drzewem dojrzałym i~siewem.”
 
-==============================================
 To jest mój czas
-==============================================
+================
 
 .. note:: ~25 minut
 
@@ -298,9 +287,8 @@ Ewangelia mówi, że gdy świadczymy o~Jezusie to Duch Święty wstawia się za 
 
 * Jak się czujesz?
 
-==============================================
 Wieniec zwycięstwa
-==============================================
+==================
 
 .. note:: ~10 minut
 
@@ -328,9 +316,8 @@ Niech ostatnim fragmentem przeczytanym na tym spotkaniu będzie obietnica nagrod
 
 * Kto potrzebuje Twojego świadectwa najbardziej?
 
-==============================================
 Zakończenie i~zastosowanie
-==============================================
+==========================
 
 .. note:: ~10 minut
 

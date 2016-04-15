@@ -1,6 +1,5 @@
-===================================================================
 Okiem diakonii modlitewnej
-===================================================================
+==========================
 
 * Rozeznawanie w~trakcie trwania całych rekolekcji - info zwrotne w~czasie odpraw
 * Najczęściej kluczowy punkt rekolekcji - radzenie sobie z~presją

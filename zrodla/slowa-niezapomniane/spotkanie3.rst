@@ -1,28 +1,23 @@
-***************************************************************
 Spotkanie 3. - Bóg - Słowo wcielone
-***************************************************************
+***********************************
 
-==================================
 Cel Spotkania
-==================================
+=============
 
 Wzbudzenie w~sobie tęsknoty za słowem, które potrafiłoby się przebić do naszego serca i~nas zmieni. Interioryzacja "znanej prawdy", że "Słowo zamieszkało wśród nas".
 
-=========================================
 Wprowadzenie dla animatora
-=========================================
+==========================
 
 Spotkanie jest trochę na straconej pozycji. Mamy opowiedzieć słowami... że słów za dużo jest w~naszym świecie, że w~słowach mieszka Bóg. Sukces zatem na pewno nie jest ukryty w~tym, abyśmy opanowali jak najwięcej słów/zdań, które możemy wypowiedzieć. Spotkanie powinno być w~odbiorze wspólnym czasem szukania wrażliwości.
 
-====================================
 Modlitwa
-====================================
+========
 
 O światło i~wrażliwość. Duch Święty jest nam niezbędny, abyśmy otwierali się na działanie Słowa. Słowo nie jest środkiem do modlitwy, ale jest już modlitwą.
 
-=========================================
 Wprowadzenie do spotkania
-=========================================
+=========================
 
 Przed chwilą czerpaliśmy papier z~masy utworzonej ze "zwykłych słów". Spróbujmy zacząć od podzielenia się naszymi refleksjami, od interpretacji tego co się stało:
 
@@ -32,9 +27,8 @@ Przed chwilą czerpaliśmy papier z~masy utworzonej ze "zwykłych słów". Spró
 
 Staramy się na tych rekolekcjach walczyć o~słowo. Słów w~naszym życiu jest bardzo wiele - powiedzieliśmy sobie o~tym wczoraj. Próba poszukiwania "słów na które czekamy" poprzez dołożenie nowych 200 zdań tego co słyszymy codziennie nic by nie dała. Taka taktyka spowoduje tylko zwiększenie się gąszczu słów w~którym się poruszamy. Nie chcemy dokładać. Chcemy zmienić to co jest już teraz. O~to powalczymy na tym spotkaniu.
 
-=========================================
 Bóg stał się Słowem
-=========================================
+===================
 
 Przeczytajmy:
 
@@ -110,9 +104,8 @@ Przeczytajmy:
 
 * Czy doświadczyłem Słów Boga, które "przemieniały" coś na moich oczach? Czy możesz coś o~tym powiedzieć?
 
-=========================================
 My wypowiadamy słowa
-=========================================
+====================
 
 Bóg jest Bogiem dialogu. Nie tylko kieruje do nas słowa, ale słucha naszej odpowiedzi. Gdy człowieka popełnia grzech, Bóg nie mówi mu kazania tylko pyta "Adamie gdzie jesteś?" (mimo, że zna odpowiedź). Skoro sam Bóg powiedział, że "Słowo, które wychodzi z~ust moich, nie wraca do mnie bezowocne zanim wpierw nie dokona tego, co chciałem" to oznacza to, że Jego Słowo spotyka się z~odpowiedzią!
 
@@ -183,9 +176,8 @@ Może dobrze to brzmi, ale czy takie są nasze doświadczenia? Walka o~wiarę do
 
 * Czy "duże słowa", "słowa pytające o~Boga" mi nie spowszedniały?
 
-=========================================
 Słowa, które są lustrem i~oczyszczeniem
-=========================================
+=======================================
 
 Jeżeli usłyszymy Słowo Boga i~odpowiemy na nie - rozpoczynamy wspaniałą wędrówkę. Słowo Boga będzie nas prowadziło. Jest to wędrówka wiary.
 
@@ -268,7 +260,6 @@ Oraz fragment Nowego Testamentu:
 
 * Czy mogę o~sobie obecnie powiedzieć, że Słowo Chrystusa we mnie przebywa?
 
-==============================================
 Słowa, które z~czasem odkrywają się przed nami
 ==============================================
 
@@ -361,9 +352,8 @@ Jezus jest kimś kto odczuwa głód i~pragnienie, kusi go szatan. Jezus jest cz�
 
 Połączenie chrztu wody i~Ducha. Jezus jest Bogiem i~Człowiekiem zarazem.... przy czym mamy tutaj doskonałą symetrię. Św. Marek w~swoim prologu "ukrywa" podstawowe wyznanie wiary w~osobę Jezusa Chrystusa!!!
 
-==============================================
 Zakończenie - zastosowanie
-==============================================
+==========================
 
 Zastosowaniem z~tego spotkania niech będzie nasze postanowienie, abyśmy zrobili w~sobie miejsce na spotkanie się ze Słowem Bożym na dzisiejszej modlitwie wieczornej.
 

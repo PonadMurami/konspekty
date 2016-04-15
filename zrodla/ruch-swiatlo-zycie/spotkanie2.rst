@@ -1,10 +1,8 @@
-***************************************************************
 Spotkanie 2. - Jestem Oazowiczem - co to znaczy?
-***************************************************************
+************************************************
 
-=====================================
 Cel Spotkania
-=====================================
+=============
 
 Nie zrobić z~tego listy zasad do realizacji tylko spotkanie dzieleniowe. Podjęcie refleksji nad jakością naszego bycia w~Ruchu.
 
@@ -12,15 +10,13 @@ Zastanowienie się na podstawie czego opieramy własną tożsamość.
 
 Analogia: Nasz prezent składa się z~kilku części. Trzeba spróbować zrozumieć każdą nich, ich role, aby poznać to co dostaliśmy. Gdy ustaje pierwsza radość związana z~faktem otrzymania czegoś pytamy: po co ten prezent?
 
-==================================
 Modlitwa
-==================================
+========
 
 Dostosowana do możliwości grupy.
 
-=================================================
 Co to znaczy być Oazowiczem? – teoria
-=================================================
+=====================================
 
 * *Wypisujemy na dużej kartce elementy życia związane z~byciem Oazowiczem*
 
@@ -28,9 +24,8 @@ Prawdopodobne odpowiedzi: Namiot spotkania, Eucharystia, Rekolekcje, Krościenko
 
 (ważne, aby wypisać tych rzeczy możliwie wiele)
 
-====================================================
 Co to znaczy być Oazowiczem? – dzielenie się życiem
-====================================================
+===================================================
 
 Ponieważ spotkania mają charakter zieleniowy teraz i~my chcemy się właśnie podzielić naszym życiem.
 
@@ -41,9 +36,8 @@ Animator w~odpowiednim (wcześniej wybranym) miejscu rozciąga na ziemi sznurek 
    
 *Odczytujemy kolejno elementy "Oazowe" (z kartki) a~uczestnicy stają "na osi". Następnie każdy odpowiada dlaczego akurat wybrał to miejsce. W~czasie wypowiadania pozostali mogą zmieniać swoje miejsce.*
 
-====================================================
 Refleksja nad jakością własnego przeżywania Ruchu
-====================================================
+=================================================
 
 *Zastanówmy się czy czuliśmy się gorsi musząc stawać bliżej "minusa"?(indywidualnie, nie na forum)*
 
@@ -64,9 +58,8 @@ Przypowieść o~słoniu i~ślepcach (pochodzenie 2000 lat przed Chrystusem) któ
 
     Trzech ślepców chciało poznać co to jest słoń. Jeden chwycił za ucho i~stwierdził: "słoń jest jak liść kapusty". Drugi objął rękami jego nogę i~powiedział: "słoń jest jak pień drzewa". Trzeci chwycił słonia za ogon i~powiedział: "słoń jest jak lina". Wtedy – jak mówi przypowieść – zaczęli się sprzeczać, i~wykrzykując: "słoń jest taki to a~taki", rzucili się jedni na drugich i~zaczęli się okładać pięściami.
 
-====================================================
 Na czym budujemy własną tożsamość?
-====================================================
+==================================
 
 Zapytajmy:
 
@@ -78,8 +71,7 @@ Tożsamość to ważna sprawa. Powinniśmy zatem "uważać" na podstawie czego j
 
 * Czy zdajemy sobie sprawę, że trzeba odkrywać? Że nie wszystko jest dane na papierze. Że "nie jest stworzone do końca" i~wiele rzeczy czeka na współpracę z~nami?
 
-====================================================
 Zastosowanie
-====================================================
+============
 
 Każdy z~uczestników próbuje wyznaczyć je sobie samodzielnie.

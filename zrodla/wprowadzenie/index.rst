@@ -1,6 +1,5 @@
-*******************************************************************
 Wprowadzenie
-*******************************************************************
+************
 
 Gdy ponad 10 lat temu pojawił się pomysł, aby zorganizować rekolekcje tematyczne dla młodzieży z~parafii nikt z~nas nie miał świadomości, że rozpoczynamy w~ten sposób pracę, której owocem będzie m.in. ta publikacja. Chcieliśmy po prostu zrobić coś dobrego. Z~czasem zaczeliśmy sięgać do stworzonych materiałów w~czasie przygotowywania spotkań w~ciągu roku czy wakacji jako szukając źródła inspiracji. Niektóre z~tych konspektów powędrowały w~świat i~są kopiowane od animatora do animatora i~żyją już pewno własnym życiem. Dostawaliśmy, ku naszemu zdziwieniu, informacje od ludzi żyjących po drugiej stronie Polski na temat tego jak wyszły im spotkania oparte o~nasze materiały. Pomysł, aby zebrać naszą pracę w~jednym miejscu wydawał się zatem naturalny. Gdy zestawiliśmy razem wszystko co udało się odszukać w~naszych archiwach podsumować mogliśmy to tylko słowami z~Arki Noego: *"Ocalić trzeba co najdroższe, a~przecież tyle już tego jest!"*
 

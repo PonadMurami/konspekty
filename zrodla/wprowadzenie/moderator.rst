@@ -1,6 +1,5 @@
-===================================================================
 Okiem moderatora
-===================================================================
+================
 
 * Jakie skutki krótkofalowe obserwował
 * Jakie skutki długofalowe obserwował

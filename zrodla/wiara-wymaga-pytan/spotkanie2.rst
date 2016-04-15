@@ -1,18 +1,15 @@
-*******************************************
 Spotkanie 2. - Osobiste doświadczenie wiary
 *******************************************
 
-=====================================
 Cel Spotkania
-=====================================
+=============
 
 To ma być spotkanie **dzieleniowe**. Chcemy wzajemnie ubogacić się naszym życiem. Należy w~miarę możliwości **nakierowywać do dzielenia się tym co teraz**... nie "pare lat temu" czy "tym jak chcielibyśmy kiedyś"! Chcemy w~ten sposób zaakcentować naturę wiary – ma ona różne etapy, etapów tych nie należy osądzać. Wiara to życie tu i~teraz, a~nie melancholijne powroty lub pobożne marzenia.
 
 Mówiąc bardziej wprost: nie można doprowadzić do wspólnego narzekania lub koncertu życzeń, które nie przemienią nas tu i~teraz.
 
-==================================
 Wprowadzenie dla animatora
-==================================
+==========================
 
 Spotkanie nie jest proste gdyż osoby w~naszej grupie nie znają się prawdopodobnie zbyt dobrze, a~poruszamy temat najintymniejszy z~możliwych. Należy z~ogromną pokorą i~szacunkiem podejść do tych ludzi!Wyzbyć się wszelkiego myślenia typu "zrealizować robotę", a~w~miejsce to starać się o~zachwycenie świadectwem drugiego człowieka. To my "narzucamy charakter" tego spotkania poprzez nastawienie, osobiste świadectwo. Nie liczmy na to, że ludzie, którym być może ktoś po raz pierwszy na tych rekolekcjach zadał pewne pytania, sami z~siebie będą chcieli mówić o~rzeczach które w~nich (i nas) zostały poruszane. Potrzeba ogromnej wrażliwości i~wyczucia...
 
@@ -20,15 +17,13 @@ Najgorsze co można zrobić to zadać fundamentalne pytanie człowiekowi, wzbudz
 
 *(jeżeliby któryś z~animatorów czuł się urażony przypominaniem o~tak podstawowych sprawach oświadczam, że napisałem to nie ze względu na moralizowanie, a~ze względu na samego siebie.)*
 
-==================================
 Modlitwa początkowa
-==================================
+===================
 
 Dostosowana do możliwości grupy.
 
-==================================
 Wprowadzenie
-==================================
+============
 
 Cały wczorajszy dzień zastanawialiśmy się czym w~ogóle jest wiara. Być może już pojawiły się w~nas pytania "czy my sami jesteśmy ludźmi wierzącymi?", albo "w co/kogo wierzącymi?", albo "jak bardzo jesteśmy osobami wierzącymi?" Jeżeli tak się stało to bardzo dobry znak – z~rozważań "teoretycznych" jakby naturalnie przechodzimy do pytań o~konkretne życie. To jest celem całego dzisiejszego dnia, w~szczególny zaś sposób tego spotkania grupowego – wiara konkretnego człowieka...moja wiara!
 
@@ -41,9 +36,8 @@ Przed takim zadaniem ustalmy zatem na samym początku dosyć jasne zasady:
 
 * nie szukamy "prawidłowych odpowiedzi" lecz dzielimy się tym co przeżywamy, mądre książki mają służyć naszemu życiu, a~nie nasze życie książkom
 
-==========================================
 Jak wygląda nasza wiara?
-==========================================
+========================
 
 *(podstawowa metoda dzieleniowa tego spotkania)*
 
@@ -83,9 +77,8 @@ Odczytujemy efekt naszej pracy pod kątem poszukiwania podobieństw i~różnic. 
 
 * Czy zdażyło wam się czuć "gorszymi" przez to, że "takie rzeczy" mieliście jako budzące wątpliwości?
 
-==========================================
 O wątpliwościach
-==========================================
+================
 
 Wczoraj zobaczyliśmy jak szerokim pojęciem jest Wiara. W~szczególności mieszczą się w~niej te sprawy "przychodzące łatwo" i~"sprawiające ciągłe pytania". Naturalnie rodzi się pytanie: jak ustosunkować się do jednych i~drugich. Zajmijmy się na razie tymi drugimi.
 
@@ -113,18 +106,16 @@ Wątpliwości to "prezent"! Bóg dając wątpliwości zapewne ma w~tym swój cel
 
 * Czy kiedykolwiek ktoś świadczył przed nami swoją wiarą nie "herosa" lecz taką ludzką, pełną pytań bez odpowiedzi, oczekiwania na nie?
 
-==========================================
 Wyznanie wiary
-==========================================
+==============
 
 .. note:: (apogeum tego spotkania)
 
 Przed nami **najważniejszy moment tego spotkania**. Za chwilę wstaniemy i~wspólnie się pomodlimy wyznając swoją wiarę. Zachowując formę modlitwy spontanicznej rozpoczynając od
 "Wierzę", a~zakańczając słowem "amen", które wszyscy powtórzymy. Na przykład "Wierzę, że Jezus..... Amen". Oczywiście można wypowiedzieć więcej niż jedno wezwanie. W~taki sposób chcemy się sami z~sobą i~Bogiem podzielić naszą wiarą, tu i~teraz, taką jaka ona jest.
 
-==========================================
 Co zrobić z~tą sytuacją?
-==========================================
+========================
 
 Zdanie z~Pisma Świętego, które wydaję się być dla nas wzorem:
 
@@ -138,9 +129,8 @@ Zapytajmy:
 
 * Czy potrafię odnieść te słowa do mojego życia wiary? W~jaki sposób?
 
-==========================================
 Zakończenie
-==========================================
+===========
 
 Pytaliśmy się wcześniej o~"typowo nasze" sprawy w~wierze! Wiara każdego z~nas jest czymś wyjątkowym. **Istnieją "rysy" naszej duchowości, które wydają się nam szczególnie dane**. Spróbujmy zastanowić się nad tym co w~naszej wierze jest "naszego"! Próbujemy opisać/przedstawić sobie wzajemnie **wiarę naszą osobistą**.
 

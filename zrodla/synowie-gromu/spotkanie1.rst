@@ -1,18 +1,15 @@
-***************************************************************
 Spotkanie 1. - Tęsknota za ideałem
-***************************************************************
+**********************************
 
-==================================
 Cele
-==================================
+====
 
 1. Zapoznanie się uczestników grupy, zawiązanie wspólnoty
 2. Nazwanie po imieniu rzeczy nad którymi chce się pracować
 3. Wprowadzenie pojęcia radykalizmu ewangelicznego i~rozwianie potencjalnych złych skojarzeń z~nim związanych
 
-=====================================
 Wskazówki dla animatora
-=====================================
+=======================
 
 Zaczynamy dzisiaj rekolekcje, których siła nie polega na nowych treściach lecz na nieustępliwości, szczerości i~klarowności. To czy się uda osiągnąć nam cel w~niedziele zależy od tego, czy od pierwszych minut spotkania wprowadzisz “atmosferę” pragnienia zmiany bardziej niż poznawania. Rekolekcje odbywają się w~małej grupie - to Ty ją prowadzisz i~dajesz uczestnikom świadectwo bycia Synem Gromu. Wszelkie punkty dookoła tzw. “wspólne” są tylko pomocą w~tym Twoim działaniu. Bądź z~grupą zawsze, rozmawiaj z~nimi w~czasie chwil wolnych, nie unikaj ważnych tematów, prowokuj indywidualne rozmowy. Masz tylko kilka godzin od teraz, aby ich poznać! Jako animator pozwól sam/sama sobie skoncentrować się niemal w~całości na swojej grupie i~zaufaj animatorom z~diakonii specjalistycznych, że ogarną resztę. W~ zamyśle tych rekolekcji jesteś kluczową po Bogu osobą na tych rekolekcjach dla swojej grupy - jesteś ich animatorem.
 
@@ -27,17 +24,15 @@ Zaczynamy dzisiaj rekolekcje, których siła nie polega na nowych treściach lec
 
     -- Motywacja, Jacek Kaczmarski
 
-====================================
 Modlitwa
-====================================
+========
 
 .. note:: ~5 minut
 
 Modlitwa do Ducha Świętego o~dar otwartości i~stawania w~Jego świetle. Prośmy też o~odwagę do tego, aby patrzeć na swoje życia i~wiarę i~zobaczyć je takimi jakimi one są, a~nie na nasze wyobrażenia na ich temat. Warto też rozszerzyć modlitwę o~element prośby o~dobre przeżycie rekolekcji dla całej wspólnoty (można wybrać szczególnie jedną z~grup - w~takim wypadku przed spotkaniem animatorzy muszą ogarnąć kto za kogo się modli).
 
-====================================
 Wprowadzenie do spotkania
-====================================
+=========================
 
 .. note:: ~10 minut
 
@@ -59,9 +54,8 @@ Po wykonaniu ćwiczenia animator może zapytać:
 
 * Które zdanie było Ci najtrudniej uzupełnić?
 
-======================================
 Piękny świat
-======================================
+============
 
 .. note:: ~10 minut
 
@@ -85,9 +79,8 @@ Ale nie spoglądajmy tylko negatywnie! Może zamiast usuwać trzeba coś dodać?
 
 Tak uczciwie patrząc ile z~tych rzeczy, które wypisaliśmy dotyczą tylko “innych” a~nas nie?
 
-======================================
 Tęsknota serca
-======================================
+==============
 
 .. note:: ~15 minut.
 
@@ -115,9 +108,8 @@ Przeczytajmy:
 
 * Skąd w~nas jest to pragnienie czynienia dobra?
 
-======================================
 "Nigdy nie będę taki jak…"
-======================================
+==========================
 
 .. note:: ~15 minut
 
@@ -155,9 +147,8 @@ Koryntianie bardziej koncentrowali się na tym, kim jest osoba, która przekazuj
 
 * Czy św. Paweł mówi o~stanie “cielesności” jako o~czymś normalnym i~trwałym? Dlaczego?
 
-=======================================
 Przerastanie
-=======================================
+============
 
 .. note:: ~10 minut
 
@@ -179,9 +170,8 @@ W Kościele największe zmiany zaczyna się od siebie samego. Misja nas przerast
 
 .. warning:: świadectwo animatora dlaczego przyjechał na te rekolekcje, o~co tu walczy, jaka jest jego misja, jakie pragnienie serca - nie bójmy się nazywać rzeczy wprost
 
-======================================
 Radykalizm czy fanatyzm?
-======================================
+========================
 
 .. note:: ~15 minut
 
@@ -206,9 +196,8 @@ Warto w~tym miejscu (jeżeli czas na to pozwala) podyskutować z~grupą podając
 
 Jeżeli owocem tej części spotkania będzie to, że w~czasie wolnym uczestnicy będą sami  z~sobą dyskutować o~tych przykładach to cel został osiągnięty.
 
-======================================
 Zastosowanie
-======================================
+============
 
 .. note:: ~5 minut
 

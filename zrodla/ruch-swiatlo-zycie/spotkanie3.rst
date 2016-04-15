@@ -1,10 +1,8 @@
-*************************************************************
 Spotkanie 3. - Jestem Oazowiczem – co z~tego wynika?
-*************************************************************
+****************************************************
 
-=====================================
 Cel i~metoda spotkania
-=====================================
+======================
 
 W trzecim dniu rekolekcji  uczestnicy  już zdają sobie sprawę z~tego, że oaza  to coś więcej niż "kółko religijne". Znają też w~zarysie wizję ks. F. Blachnickiego, dotyczącą zadań i~metod Ruchu Światło-Życie. Nadszedł  więc czas na podjęcie konkretnych działań, dotyczących własnych parafialnych wspólnot oazowych. To spotkanie ma im pomóc w~odkryciu potrzeb tych wspólnot i~sposobów ich zaspokojenia.
 
@@ -16,23 +14,20 @@ Na spotkanie przeznaczone jest półtorej godziny. Będzie przeprowadzone metod�
 
 3. **Działać** – Znalezienie sfer działalności parafialnych wspólnot oazowych, które wymagają poprawy. Podjęcie konkretnych postanowień. (15~min.)
 
-=====================================
 Przygotowanie animatora
-=====================================
+=======================
 
 Fragment Rz 12,2–18 należy wcześniej przeczytać i~rozważyć, a~najlepiej przemodlić i~spróbować odnieść go do realiów wspólnot oazowych. Proponuję zrobić to przed przeczytaniem  dalszej części konspektu.
 
 W przygotowaniu  mogą być też pomocne pozostałe fragmenty, wypisane dalej, mimo że wększość  z~nich nie będzie prawdopodobnie  wykorzystana  na spotkaniu. Warto też zapoznać się z~materiałami dodatkowymi na końcu konspektu.
 
-=====================================
 Modlitwa
-=====================================
+========
 
 Spotkanie rozpoczynamy modlitwą do Ducha Świętego, prosząc go o~otwartość na Jego natchnienia i~gotowość do podejmowania działań, których On od nas wymaga. Można też dołączyć intencję o~jedność Ruchu i~wierność charyzmatowi.
 
-=====================================
 Widzieć
-=====================================
+=======
 
 Każdy z~uczestników opowiada o~swojej wspólnocie. Bardziej wskazana jest tu forma dyskusji niż wypowiadania  się po kolei. Jednak każdy musi mieć okazję wypowiedzenia się. Jeżeli w~grupie jest kilka osób z~jednej parafii, należy zadbać o~to, by jedna osoba nie opowiedziała "wszystkiego". Cenne są tutaj nie tylko same fakty, ale również prywatna ocena takiego stanu rzeczy, dlatego każdy głos jest ważny.
 
@@ -60,9 +55,8 @@ Pytania, które można zadawać uczestnikom:
 
 * Jak oaza widziana jest przez parafian?
 
-=====================================
 Osądzić
-=====================================
+=======
 
 Ta część  spotkania opierać się będzie na fragmencie  listu św. Pawła do Rzymian Rz  12,2–18. Jest to dość długi tekst, poruszający  zwięźle wiele kwestii. Nie we wszystko należy się wgłębiać, raczej skupić się na tym, w~czym niedomagają poszczególne wspólnoty. Jednocześnie trzeba być ostrożnym, aby nie przeoczyć ważnych kwestii, takich jak Eucharystia czy modlitwa, których ten fragment dotyka trzema słowami. Można odczytywać tekst fragmentami i~rozważać je kolejno, np. Rz 12,2.3–8.9–12.13–18.
 
@@ -116,9 +110,8 @@ Jak już wspomniałem wcześniej, animator może uznać niektóre sprawy za wyma
 * **Ef 5, 3–4**	Kultura słowa.
 * **Ga 6, 1–3**	Wzajemne wsparcie i~odpowiedzialność za drugiego. Flp~2,1–5; Ef~4,1–3 Jednomyślność i~pokora.
 
-=====================================
 Działać
-=====================================
+=======
 
 Po stwierdzeniu jak jest (część I) i~jak powinno być (część II), uczestnicy powinni podjąć wysiłek, aby odkryć możliwości poprawy życia wspólnotowego. Pewne pomysły mogły pojawić się już w~trakcie poprzednich  części. Należy je teraz powtórzyć, sprecyzować i~ocenić możliwości wprowadzenia ich w~życie. Trzeba też zastanowić  się nad tymi problemami, których rozwiązania nie narzucają się od razu.
 
@@ -126,17 +119,15 @@ Przebieg tej części zależy od pozostałego  czasu i~możliwości grupy. Jeże
 
 Najlepszym  owocem tego spotkania, będą deklaracje uczestników podjęcia konkretnych działań. Oczywiście powinny być one spontaniczne, nie można dopuścić do wytworzenia atmosfery nacisku. Jeżeli takich deklaracji nie będzie, wystarczy,  żeby uczestnicy wynieśli ze spotkania  poczucie odpowiedzialności za wspólnotę.
 
-=====================================
 Modlitwa
-=====================================
+========
 
 O moc Ducha do wypełnienia postanowień. Za wszystkich odpowiedzialnych i~za wszystkich członków naszych wspólnot. O~owocną współpracę oazy z~parafią...
 
 Alternatywnie: Tajemnica zesłania Ducha Św. — Apostołowie, zamknięci w~Wieczerniku, po otrzymaniu Ducha wyszli w~świat głosić Chrystusa świadectwem słowa i~czynu.
 
-=====================================
 Materiały dodatkowe
-=====================================
+===================
 
 **Z Kodeksu Prawa Kanonicznego, kanon 215**
     Wierni  mają prawo swobodnego zakładania  stowarzyszeń  i~kierowania  nimi  dla celów miłości  lub pobożności  albo dla ożywienia  chrześcijańskiego  powołania  w~świecie,  a~także  odbywania  zebrań dla wspólnego osiągnięcia  tych celów

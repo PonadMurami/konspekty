@@ -1,6 +1,5 @@
-===================================================================
 Okiem diakonii głoszenia
-===================================================================
+========================
 
 * Charyzmat weekendówek
 * Fenomen, że na konferencje ludzie czekają, a~nie na nich śpią

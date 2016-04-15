@@ -1,30 +1,25 @@
-***************************************************************
 Spotkanie 2. - Wartość słowa
-***************************************************************
+****************************
 
-==================================
 Cel
-==================================
+===
 
 1. Odkrycie wartości słowa.
 2. Odkrycie, że wypowiadane lub słyszane słowo zmienia rzeczywistość.
 3. Odkrycie, jak pomniejszane jest znaczenie słów.
 
-====================================
 Wprowadzenie dla animatora
-====================================
+==========================
 
 Jesteśmy po cichej Mszy i~konferencji Kasi. I~jesteśmy przed indywidualnym rozważaniem Słowa Bożego. I~mamy przekonać o~wartości słowa, o~tym, że słowo ma moc. Podejdźmy do tego spotkania z~wiarą, że "moje słowo ma moc i~słowo każdego uczestnika ma moc"- doświadczmy tego, że słowo DZIAŁA na tym spotkaniu. Bądźmy uważni w~słuchaniu i~w mówieniu.
 
-====================================
 Modlitwa
-====================================
+========
 
 O wrażliwość na siebie nawzajem, na słowa, którymi będziemy się dzielić. O~prowadzenie Ducha Świętego- to On jest Panem Słowa, On przekonuje, On otwiera na rozumienie i~odkrywanie.
 
-=========================================
 Wprowadzenie
-=========================================
+============
 
 Rano uczestniczyliśmy we Mszy - nie śpiewaliśmy, słowa były ograniczone, były dłuższe chwile ciszy. Podzielmy się tym doświadczeniem.
 
@@ -37,9 +32,8 @@ Rano uczestniczyliśmy we Mszy - nie śpiewaliśmy, słowa były ograniczone, by
 Chcemy dziś na tym spotkaniu zastanowić się nad wartością słowa. Nad tym, czy i~co słowo zmienia, gdy zostaje wypowiedziane i~usłyszane. Nad tym, jak słowo działa i~jaką ma moc.
 Postarajmy się być bardzo uważni: słuchać i~mówić tak, żeby słowa prawdziwie do nas docierały - złapmy te słowa, które tutaj zostaną wypowiedziane, przyjrzyjmy się im.
 
-=========================================
 Moc słowa
-=========================================
+=========
 
 Wczoraj wypisywaliśmy na kartkach słowa, które są dla nas ważne, które chcielibyśmy usłyszeć. Słowa, na które czekamy.
 
@@ -131,9 +125,8 @@ Przeczytajmy:
 
 Słowo może być zarówno czymś leczącym, pozytywnym (błogosławieństwo), jak i~niszczącym, i~zniewalającym (zaklęcie, przekleństwo). Wypowiedziane słowo staje się rzeczywistością. Nie możemy uznać, że "mówiliśmy na niby". Słowo działa.
 
-=========================================
 Słowa tracące moc
-=========================================
+=================
 
 Zobaczmy, jak łatwo czasem jest nam zapominać o~mocy słowa. Skupmy się i~posłuchajmy pewnego tekstu:
 
@@ -165,9 +158,8 @@ Przez takie zabiegi sprawiamy, że słowa tracą moc. Przestają znaczyć dokła
 
 * Których słów chcę bronić przed osłabieniem?
 
-=========================================
 Pytanie na koniec...
-=========================================
+====================
 
 Kimś, kto wiedział bardzo dobrze, jak wielką moc i~wartość mają słowa był Jakub, który walczył z~Bogiem, aby otrzymać Jego błogosławieństwo:
 

@@ -1,28 +1,23 @@
-***************************************************************
 Spotkanie 1. - Słowa wyczekiwane
-***************************************************************
+********************************
 
-==================================
 Cel
-==================================
+===
 
 Wprowadzenie do tematu rekolekcji, zwrócenie uwagi na wartość samego słowa oraz na nasz do niego stosunek. Ustalenie czym są słowa ważne, a~czym nieważne. Dotarcie do tego, jakich słów oczekuje każdy z~nas, jakie są mile widziane, a~jakie nie. Uświadomienie sobie, jakich słów inni oczekują od nas i~jakie słowa my możemy dać innym.
 
-====================================
 Wprowadzenie dla animatora
-====================================
+==========================
 
 Ważne jest, aby skupić się na tym, co dla uczestników jest istotne, jakich słów oni oczekują. Widzę to w~formie luźnej dyskusji, wymiany myśli, cały czas krążącej wokół tych słów oczekiwanych. Nie musi tu być jakiegoś koniecznie zaplanowanego przebiegu dyskusji, powinna się ona naturalnie potoczyć.
 
-====================================
 Modlitwa
-====================================
+========
 
 Prośba o~otwarcie się na siebie, stworzenie prawdziwej wspólnoty, a~także o~umiejętność szukania odpowiednich słów, odpowiednie ich wykorzystywanie w~czasie spotkań.
 
-=========================================
 Wprowadzenie
-=========================================
+============
 
 Posłuchajmy:
 
@@ -64,9 +59,8 @@ Posłuchajmy:
 
 Zadajemy pytania dotyczące usłyszanego utworu (pogrubione słowa to te, na które warto zwrócić szczególną uwagę i~do nich się odnieść):
 
-=========================================
 Słowa ważne dla nas
-=========================================
+===================
 
 * Jakie słowa powodują, że się śmiejesz? Jakie "wyciskają łzy"?
 
@@ -76,9 +70,8 @@ Uczestnicy wymieniają słowa. Celem jest dojście do wniosku, że jest grupa s�
 
 Pozwólmy uczestnikom na luźne wypowiedzi, sypnięcie pomysłami, jednak należałoby nadać temu odpowiedni kierunek poprzez np. podzielenie się swoimi ważnymi słowami. Istotne jest mocne podkreślenie wartości tych słów, to one w~tym spotkaniu są najważniejsze. Reszta ma być jedynie tłem, na którym będą one się bardziej odznaczać.
 
-=========================================
 Sens i~moc słowa
-=========================================
+================
 
 * "Musisz uwierzyć w~jego moc i~sens" Jaką moc, sens ma słowo w~Twoim życiu?
 
@@ -89,9 +82,8 @@ Wniosek: Należy być świadomym tego, co się mówi. Słowo ma wielki wpływ na
 
 W tym punkcie mówimy o~mocy słowa - najlepiej tej pozytywnej :) Uwrażliwiamy ludzi na to, że to, co mówią zmienia innych, zmienia ich samych. Można pokazać to działanie na przykładzie - wymyślić hipotetyczną sytuację pomiędzy animatorem a~uczestnikiem(ami) i~zapytać jak by się czuli, po jakiejś wypowiedzi animatora (w czasie spotkania, poza nim - do wyboru). Dla kontrastu można przedstawić dwa sposoby przekazania jakiejś informacji. Zależy od wyobraźni i~inwencji :)
 
-=========================================
 Słowa, które niszczą
-=========================================
+====================
 
 * Słowo-niszczyciel? Uważacie, że istnieją takie słowa? Czy mogą one niszczyć? Jakie to słowa?
 
@@ -99,9 +91,8 @@ Wypowiedzi które obrażają, poniżają, obniżają poczucie czyjejś wartości
 
 Można tutaj przywołać jakieś przykłady, odnieść się do doświadczenia uczestników. Podkreślamy na tych przykładach moc słowa (w nawiązaniu do pkt poprzedniego), ale jednocześnie też wspominamy, że tak samo jak słowem można kogoś zranić, tak można też pocieszyć, naprawić coś.
 
-=========================================
 Oddzielanie słów od siebie
-=========================================
+==========================
 
 * Słów jest tak wiele, jednak czy potrafimy je przesiać? Oddzielić od siebie te, które niosą ze sobą jakąś wartość od tych, które jej nie posiadają?
 
@@ -109,9 +100,8 @@ Możliwe, że nie zawsze się na tym skupiamy, nie przykładamy do tego wagi. Je
 
 Dobrym pomysłem byłaby próba pogrupowania tych haseł, które już wcześniej w~czasie spotkania padły, zapisywać je sobie na bieżąco z~boku na kartce, a~następnie wymienić i~razem z~grupą określić do jakiej kategorii byśmy je zaliczyli i~dlaczego.
 
-=========================================
 Konkretny podział słów + Zastosowania
-=========================================
+=====================================
 
 * Jak więc możemy podzielić słowa?
 

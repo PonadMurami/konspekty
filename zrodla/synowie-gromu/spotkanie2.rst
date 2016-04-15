@@ -1,18 +1,15 @@
-*******************************************
 Spotkanie 2. - Sympatycy czy chrześcijanie?
 *******************************************
 
-=====================================
 Cel Spotkania
-=====================================
+=============
 
 1. Na tym spotkaniu kluczowym jest podkreślenie kwestii **wierności**, tego, że dobre owoce przynosi tylko wytrwałe i~wierne zaangażowanie.
 2. Uczestnicy powinni wyjść z~przeświadczeniem, że nie da się być chrześcijaninem na pół gwizdka. Albo nim jesteś, albo nie.
 3. Spotkanie podprowadza pod **modlitwę wieczorną** i~od niego zależy jak uczestnicy ją przeżyją.
 
-==================================
 Wprowadzenie dla animatora
-==================================
+==========================
 
 Pewnie nie będzie to odkrycie, ale w~tym spotkaniu kluczowym momentem ma być świadectwo animatora. Życie rodzi się z~życia, więc jeśli uczestnicy nie zobaczą przykładu kogoś, kto traktuje chrześcijaństwo na poważnie i~całkowicie się mu poświęca nie przekonają ich długie fragmenty z~Pisma Świętego czy innych mądrych ksiąg.
 
@@ -20,23 +17,20 @@ Pewnie nie będzie to odkrycie, ale w~tym spotkaniu kluczowym momentem ma być �
 
     -- ks. Franciszek Blachnicki
 
-==================================
 Modlitwa początkowa
-==================================
+===================
 
 .. note:: ~5 minut
 
 Modlitwa do Ducha Świętego o~pomoc w~dochowaniu wierności Bogu.
 
-==================================
 Wprowadzenie do spotkania
-==================================
+=========================
 
 Jesteśmy po konferencji i~homilii, gdzie usłyszeliśmy, że wiara nie jest kwestią wychowania, że jest naszą decyzją, w~której trzeba trwać i~o którą trzeba walczyć. Co to jednak znaczy? W~czym jest sens naszego “wierzenia” i~jak dbać o~ten dar, jakim jest wiara?
 
-==========================================
 Pasje
-==========================================
+=====
 
 .. note:: ~30 minut
 
@@ -98,9 +92,8 @@ Pytania:
 
 * Jak się zachowała w~tej sytuacji?
 
-================================================
 W czym jest problem?
-================================================
+====================
 
 .. note:: ~10 minut
 
@@ -120,9 +113,8 @@ Proponuję zapisać to zdanie na dużej kartce i~poprosić uczestników o~wypowi
 
 * Czy masz podobne doświadczenia? Jakie?
 
-==========================================
 Co chcę zmienić? Kim chcę być?
-==========================================
+==============================
 
 .. note:: ~5 minut
 
@@ -138,9 +130,8 @@ Zastanówmy się (bez dzielenia się):
 
 * Czy widzę więcej takich sytuacji w~swoim życiu?
 
-===============================================
 Wierność
-===============================================
+========
 
 .. note:: ~10 minut
 
@@ -170,9 +161,8 @@ Sam Bóg sam mówi, że wybór jest tylko pomiędzy dobrem, a~złem, że nie ma 
 
 .. note:: Można dodać jeszcze Mt 5,37: Niech wasza mowa będzie: Tak, tak; nie, nie. A~co nadto jest, od Złego pochodzi.
 
-==========================================
 Sympatycy czy chrześcijanie?
-==========================================
+============================
 
 .. note:: ~20 minut
 
@@ -204,9 +194,8 @@ Młodzieniec nie potrafił opowiedzieć się po żadnej ze stron. jest dobry, za
 Nie można być “wierzącym-niepraktykującym” “trochę chrześcijaninem” albo “katolikiem, ale bez przesady”. Albo jestem chrześcijaninem, albo nie. Nie możemy być “sympatykami”, którzy wiarę traktują luźno i~niezobowiązująco. Możliwe cele są tylko dwa: 0% lub 100%.
 (Oczywiście nie jesteśmy idealni i~w~danym momencie naszego życia może być nas stać tylko na 75%, ale naszym celem zawsze powinno być 100%. Nie możemy ustawić sobie celu na 60% i~zastanawiać się dlaczego idzie źle, jest szaro i~nijako).
 
-==========================================
 Tylko na całego
-==========================================
+===============
 
 .. note:: ~5 minut
 
@@ -238,9 +227,8 @@ Treść kartek:
 .. image:: kartka.*
    :align: center
 
-==========================================
 Zastosowanie
-==========================================
+============
 
 .. note:: ~1 minuta
 
@@ -248,10 +236,8 @@ Zastosowanie
 
 * Wypiszę w~notatniku rzeczy, które w~życiu robię na 100% i~te, w~które nie chcę lub nie potrafię zaangażować się w~pełni.
 
-
-==========================================
 Modlitwa na zakończenie spotkania
-==========================================
+=================================
 
 .. note:: ~4 minuty
 

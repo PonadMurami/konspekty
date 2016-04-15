@@ -1,16 +1,13 @@
-*****************************************************************
 Spotkanie 3. - Narodziny Animatora
-*****************************************************************
+**********************************
 
-==================================
 Cel Spotkania
-==================================
+=============
 
 Uświadomienie sobie, jak ważną rolę każdy z~nas ma do odegrania w~świecie i~jak wielka odpowiedzialność na nas spoczywa. To my jesteśmy tymi, którzy zapaleni mają za zadanie iść w~świat i~zapalać innych. Konsekwencją tego (ale nie celem nadrzędnym spotkania) jest zaangażowanie się w~organizację rekolekcji wiosennych.
 
-==================================
 Wprowadzenie dla animatora
-==================================
+==========================
 
 Spotkanie ma charakter podsumowujący. Nie powinny pojawiać się w~nim nowe treści, lecz powinno ono być syntezą wszystkiego, co na rekolekcjach zostało przekazane. Bardzo ważne jest w~nim świadectwo animatora o~jego własnej drodze do animatorstwa, o~ludziach, którzy mu zaufali po to, by tym zaufaniem mógł obdarzać innych.
 
@@ -20,15 +17,13 @@ Materiały potrzebne do przeprowadzenia spotkania:
 2. pocięte kartki z~wypisanymi 20 wartościami (1 "komplet" na grupę)
 3. tekst modlitwy św. Franciszka dla każdego uczestnika
 
-====================================
 Modlitwa
-====================================
+========
 
 Spontaniczna do Ducha Świętego o~rozpalenie w~nas pragnienia i~gorliwości do podejmowania posługi.
 
-=========================================
 Wprowadzenie do spotkania
-=========================================
+=========================
 
 Czas rekolekcji powoli dobiega końca. Jesteśmy przekonani o~tym, że nikt nie znalazł się w~tym miejscu przez przypadek. Chcemy więc odpowiedzieć sobie na kilka pytań podsumowujących ten czas.
 
@@ -80,9 +75,8 @@ Gdy wszyscy to zrobią, animator kładzie przed uczestnikami plik kartek z~wypis
 
 Następnie należy wskazać na karteczkę ze słowem "czas" wychodząc od tego, że czas jest wartością uniwersalną - jest dany każdemu człowiekowi.
 
-=========================================
 Czas jest darem
-=========================================
+===============
 
 * Jaką wartość ma dla Was czas?
 
@@ -157,9 +151,8 @@ Często tym, co determinuje nasze działanie w~życiu (lub jego brak) jest lęk.
 
 Kiedy robimy dla świata coś ważnego, to zawsze jest w~to wpisane ryzyko mniejszej lub większej porażki - zawsze coś nie wyjdzie (podczas kręcenia filmiku z~ciastem nie wyszło mnóstwo rzeczy, o~czym mogą zaświadczyć ci, którzy brali w~tym udział). Ważne, by nasze lęki nie zahamowały naszego działania. Bo to Bóg jest tym, który sobie z~nimi poradzi.
 
-=========================================
 Walka dobra ze złem toczy się tu i~teraz
-=========================================
+========================================
 
 * Kiedy słyszymy o~walce dobra ze złem, jakie obrazy mamy przed oczami?
 
@@ -179,9 +172,8 @@ Przeczytajmy fragment konstytucji duszpasterskiej "Gaudium et spes" - jednego z~
 
 Walka dobra ze złem to nie tylko wielkie wydarzenia pełne "efektów specjalnych". To nie coś, co nas nie dotyczy, z~czym my nie musimy sobie radzić, bo przecież w~naszym życiu "nie jest tak źle". Od tego, jak przez to życie przejdziemy zależy to, jak świat będzie funkcjonował tu i~teraz i~to, czy w~przyszłości osiągniemy życie, czy śmierć.
 
-============================================
 Podsumowanie: moje życie jest uczestnictwem
-============================================
+===========================================
 
 * Skoro idąc przez życie jestem odpowiedzialny również za życie innych, jak mogę się tej odpowiedzialności podjąć?
 
@@ -211,15 +203,13 @@ Dokładnie do tego samego wzywa nas Jezus. On chce czynić w~nas, ale i~przez na
 
 **Do tego chcemy Was teraz zaprosić. Skoro w~czasie tego spotkania potrafiliśmy wymienić różne projekty, które wymagają od nas poświęcenia 2-3h raz na pół roku, to wyobraźmy sobie ile fantastycznych rzeczy powstanie, jeśli ponad 60 osób uczestniczących w~tych rekolekcjach rzeczywiście ten czas i~energię poświęci. Na przełomie lutego i~marca organizujemy rekolekcje, na krórych mnóstwo młodych ludzi spotka Jezusa. Potrzebujemy Waszego czasu i~Waszej energii. Prosimy Was o~pomoc z~pełną świadomością tego, że to Wasz czas. Chcemy iść z~Wami ramię w~ramię i~wspólnie robić wielkie i~dobre rzeczy.**
 
-============================================
 Zastosowanie
-============================================
+============
 
 Zastosowaniem z~tego spotkania będzie konkretne zaangażowanie   się w~przygotowanie rekolekcji wiosennych. Każdy może to uczynić oczywiście w~wolności. Nie jest tak, że rekolekcje pozostaną czasem straconym bez zaangażowanie się w~wiosnę. Chcemy jednak dać uczestnikom wyraźny sygnał, że w~nich wierzymy, że na nich liczymy i~jesteśmy przekonani że idąc ramię w~ramię możemy dużo zdziałać.
 
-============================================
 Modlitwa
-============================================
+========
 
 Na zakończenie pomódlmy się modlitwą św. Franciszka z~Asyżu prosząc o~to, byśmy zawsze - bez względu na to, co robimy byli tymi, którzy "posiadają siebie w~dawaniu siebie".
 

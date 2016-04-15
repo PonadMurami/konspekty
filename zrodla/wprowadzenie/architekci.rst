@@ -1,6 +1,5 @@
-===================================================================
 Okiem diakonii architektów
-===================================================================
+==========================
 
 * Co to jest przebieg myśli?
 * Pomysł na podzielenie na moduły, które mają "wejście" i~"wyjście"
