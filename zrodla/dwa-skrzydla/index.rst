@@ -18,6 +18,5 @@ Opis rekolekcji:
 
 .. toctree::
    spotkanie1.rst
-   dzielenie-sie-ewangelia.rst
    spotkanie2.rst
    spotkanie3.rst
