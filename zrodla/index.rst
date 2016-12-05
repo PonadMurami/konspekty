@@ -30,3 +30,4 @@ Spis Treści
    poczekalnia/index
    synowie-gromu/index
    gora-blogoslawienstw/index
+   dwa-skrzydla/index
