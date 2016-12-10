@@ -1,6 +1,31 @@
 Spotkanie 2. - Dlaczego pytania są ważne?
 *****************************************
 
+Dzielenie się Ewangelią
+=======================
+
+Fragment:
+
+    Nie mów: «Pan sprawił, że zgrzeszyłem», czego On nienawidzi, tego On nie będzie czynił. Nie mów: «On mnie w~błąd wprowadził», albowiem On nie potrzebuje grzesznika. Pan nienawidzi wszystkiego, co wstrętne, i~nie pozwala, by ci, którzy się Go boją, mieli z~tym styczność. On na początku stworzył człowieka i~zostawił go własnej mocy rozstrzygania. Jeżeli zechcesz, zachowasz przykazania: a~dochować wierności jest [Jego] upodobaniem. Położył przed tobą ogień i~wodę, co zechcesz, po to wyciągniesz rękę. Przed ludźmi życie i~śmierć, co ci się podoba, to będzie ci dane. Ponieważ wielka jest mądrość Pana, potężny jest władzą i~widzi wszystko. Oczy Jego patrzą na bojących się Go - On sam poznaje każdy czyn człowieka. Nikomu On nie przykazał być bezbożnym i~nikomu nie zezwolił grzeszyć.
+
+    -- Syr 15,11-20
+
+Pytania z~Namiotu Spotkania:
+
+* Przykłady ważnych decyzji z~mojego życia (jakie były w~ostatnim czasi, co mnie jeszcze czeka). Jakie były ich konsekwencje?
+
+* Co wpływa na moje decyzje? Czyich rad słucham, a~czyje od razu odrzucam?
+
+* Czy nie boję się decyzji?
+
+Dodatkowe na dzielenie:
+
+* Jakie decyzje lubisz podejmować? Które są łatwe i~przyjemne, a~które trudne?
+
+* **Dlaczego** tak postępuję? - czy robię to świadomie czy pozwalam, żeby “decydowało się samo”? (jeśli ktokolwiek lub cokolwiek decyduje za mnie, to życie ucieka mi przez palce, staję się biernym obserwatorem)
+
+* Jakie wyzwania spotykają mnie przy podejmowaniu decyzji?
+
 Cel spotkania i~wprowadzenie dla animatora
 ==========================================
 
@@ -305,7 +330,7 @@ Po co księża noszą koloratkę? Ba! czemu chodzą w~kieckach? :|
     Czym obrączka dla małżonków (pokazuje związek, odstrasza osoby skłonne do szukania partnera życiowego) tym koloratka dla księży. Jeśli chodzi zaś o~chodzenie w~“kiecce” (w obszarze kościoła katolickiego nazywanej zasadniczo sutanną lub w~wypadku zakonnika habitem), to mamy się podobnie jak instytucja sądownicze. Strój uzewnętrznia naszą wewnętrzną tożsamość: metalowcy chodzą w~skórach (przepraszam, jeśli jestem nieprecyzyjny w~przypisywaniu subkultur), skini na czarno i~w glanach. Czasem związany jest z~pełnionym zadaniem, czy funkcją (np. mundury żołnierzy, czy policjantów). W~jednych formacjach podlega stałej ewolucji, w~innych zatrzymuje się w~jakimś momencie (por. gwardziści pilnujący pałacu królewskiego w~Londynie). Nie znam pełnej historii sutanny. Spodziewam się, że w~którymś etapie dziejów strój ten nawiązywał wprost do bieżącej mody. Potem jego rozwój się zatrzymał i~dziś mocno odróżnia duchownych od innych osób (por. togi i~peruki noszone w~brytyjskich sądach). Podobnie jak koloratka jest czytelnym znakiem, iż mamy do czynienia z~osobą duchowną - nie nadaje się na kandydata na męża, służy pomocą w~sprawach duchowych.
 
 Co oznacza “amen”? Czemu nie przetłumaczyli tego na polski?
-    z~hebr. אמן amen – „niech się stanie”, „wierność”. Przyjęło się bardzo mocno i~tak już zostało. Fajnie jest też mieć jakieś słowo wspólne mimo mnogości języków, prawda? Buduje to jedność pomiędzy nami. A~dlaczego nie przetłumaczono na polski takich słów jak: fizyka, filozofia, muzyka, kalkulator, komputer, klaun, parasol, studia, nie wspominając o~słowach “młodszych” takich jak czat czy pen-drive? Owszem były, takie próby w~XVIII wieku, ale “nie pykło” bo sprowadzały się mniej więcej do tego, że idąc ich tropem dziś mówilibyśmy “maszyna licząca”, zamiast “kalkulator, albo “mózg elektronowy” zamiast komputer :D 
+    z~hebr. amen – „niech się stanie”, „wierność”. Przyjęło się bardzo mocno i~tak już zostało. Fajnie jest też mieć jakieś słowo wspólne mimo mnogości języków, prawda? Buduje to jedność pomiędzy nami. A~dlaczego nie przetłumaczono na polski takich słów jak: fizyka, filozofia, muzyka, kalkulator, komputer, klaun, parasol, studia, nie wspominając o~słowach “młodszych” takich jak czat czy pen-drive? Owszem były, takie próby w~XVIII wieku, ale “nie pykło” bo sprowadzały się mniej więcej do tego, że idąc ich tropem dziś mówilibyśmy “maszyna licząca”, zamiast “kalkulator, albo “mózg elektronowy” zamiast komputer :D
 
 Jaki sens ma powiedzenie 50 razy w~30 minut tej samej modlitwy?
     Powiedzenie ma mały sens; tylko taki, że ćwiczy się dykcję. Za słowami idą jednak intencje i~medytacja. Różaniec pozwala skoncentrować się na jednej myśli i~szukać w~niej odpowiedzi - ma charakter, rzec by można, medytacyjny. Ale różaniec to nie tylko klepanie “zdrowasiek” - każda dziesiątka to inna Tajemnica opisująca życie Chrystusa - bo wbrew pozorom ta modlitwa jest mocno chrystocentryczna czego dowodem jest “Jezus” w~środku  każdego “Zdrowaś Maryjo”. Jednak tu to życie rozważamy z~perspektywy Maryi, która tak jak my, była zwykłym człowiekiem, który wszystko musiał przyjąć przez wiarę.
