@@ -91,7 +91,7 @@ Przeczytajmy:
 
 * Jak rozumiesz słowa “Byłeś wierny w~rzeczach niewielu, nad wieloma cię postawię”?
 
-Wniosek: mamy działać a~nie wegetować! Bóg nie chce od nas postawy “Jakigoś mie Panie Boże stworzōł takigo mie mosz”!
+Wniosek: mamy działać a~nie wegetować! Bóg nie chce od nas postawy “Jakigoś mie Panie Boże stworzoł takigo mie mosz”!
 
 Podobny fragment: 
 
