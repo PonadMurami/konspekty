@@ -17,6 +17,6 @@ Opis rekolekcji:
     .. rubric:: Spis konspektów spotkań w~grupach
 
 .. toctree::
-   spotkanie1.rst
-   spotkanie2.rst
-   spotkanie3.rst
+   perspektywa-w-codziennosci.rst
+   bardziej-byc-niz-miec.rst
+   byc-sluga-boga-i-ludzi.rst

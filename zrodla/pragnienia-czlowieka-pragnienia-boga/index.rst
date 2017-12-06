@@ -17,6 +17,6 @@ Opis rekolekcji:
     .. rubric:: Spis konspektów spotkań w~grupach
 
 .. toctree::
-   spotkanie1.rst
-   spotkanie2.rst
-   spotkanie3.rst
+   niespokojne-jest-serce-nasze.rst
+   stworzyles-nas-bowiem-jako-skierowanych-ku-tobie-panie.rst
+   niespokojne-jest-serce-nasze-dopoki-nie-spocznie-w-panu.rst

@@ -17,5 +17,5 @@ Opis rekolekcji:
     .. rubric:: Spis konspektów spotkań w~grupach
 
 .. toctree::
-   spotkanie1.rst
-   spotkanie2.rst
+   jakie-decyzje-podejmujemy.rst
+   etapy-podejmowania-decyzji-czym-sie-kieruje.rst

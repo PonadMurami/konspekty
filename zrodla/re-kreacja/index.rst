@@ -17,7 +17,7 @@ Opis rekolekcji:
     .. rubric:: Spis konspektów spotkań w~grupach
 
 .. toctree::
-   spotkanie1.rst
-   spotkanie2.rst
-   spotkanie3.rst
-   spotkanie4.rst
+   wolnosc.rst
+   tozsamosc.rst
+   przejawy-nowej-kultury-w-zyciu-chrzescijanskim.rst
+   maski.rst

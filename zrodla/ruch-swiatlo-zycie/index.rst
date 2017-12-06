@@ -17,6 +17,6 @@ Opis rekolekcji:
     .. rubric:: Spis konspektów spotkań w~grupach
 
 .. toctree::
-   spotkanie1.rst
-   spotkanie2.rst
-   spotkanie3.rst
+   jestesmy-oaza.rst
+   jestem-oazowiczem-co-to-znaczy.rst
+   jestem-oazowiczem-co-z-tego-wynika.rst

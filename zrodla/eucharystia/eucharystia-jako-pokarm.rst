@@ -46,14 +46,14 @@ Pan Bóg troszczy się także o~nasze życie codzienne, o~nasz pokarm doczesny (
     | Człowiek chleb mocarzy spożywał - żywności zesłał im do syta.
 
     -- Ps 78,18-25
-    
+
 Zapytajmy:
 
 * Dlaczego Bóg zsyła Izraelitom pokarm?
 
 * Jaka jest reakcja Izraelitów na to wydarzenie?
 
-* Jak zachowują się wobec Boga po tym wydarzeniu? Czy ich postępowanie zmienia się? 
+* Jak zachowują się wobec Boga po tym wydarzeniu? Czy ich postępowanie zmienia się?
 
 * Co znaczy określenie "chleb mocarzy"? Jak je rozumiesz?
 
@@ -77,7 +77,7 @@ Przeczytajmy:
     | chwałę, jaką Jednorodzony otrzymuje od Ojca, pełen łaski i~prawdy.
 
     -- J 1,10-14
-    
+
 W oparciu o~powyższy fragment oraz Namiot Spotkania porozmawiajmy o~Eucharystii, o~Chlebie jaki możemy dziś spożywać. Niech uczestnicy podzielą się swoimi przemyśleniami z~Namiotu Spotkania.
 
 * Jakie są analogie pomiędzy naszym życiem, a~wędrówką Izraelitów? Zwróćmy uwagę, że manna była odpowiedzią Boga na szemranie ludzi. Scena z~Namiotu Spotkania odbywa się po rozmnożeniu chleba, kiedy Jezus wyrzuca ludziom, że idą za nim tylko dlatego, że najedli się do syta, natomiast nie troszczą się o~życie wieczne. Jaka następuje tutaj różnica pomiędzy Starym Testamentem a~Nowym? Zastanówmy się jak jest w~naszym życiu – czy przystępujemy do komunii tylko dlatego, żeby się najeść do syta?
@@ -97,26 +97,26 @@ Bóg pragnął pozostać między nami, nie chciał zostawić nas sierotami - "A~
 
 Jezus pragnie pozostać z~nami, gdyż jest to przejaw Jego miłości do nas. On tak nas umiłował, że pragnie, abyśmy mogli być z~nim jedno, abyśmy mogli już tu na ziemi dostąpić, chociaż częściowo, tego, co nas czeka w~niebie. Chrześcijanin to człowiek wypatrujący powtórnego przyjścia swojego Zbawiciela, człowiek wpatrzony w~niebo. Aby ten czas oczekiwania był bardziej znośny dla człowieka, Jezus zostawił nam swoje Ciało, abyśmy potrafili czekać.
 
-* Czy współczesny człowiek pragnie zjednoczenia z~Bogiem? Czy jest to także nasze największe pragnienie? 
+* Czy współczesny człowiek pragnie zjednoczenia z~Bogiem? Czy jest to także nasze największe pragnienie?
 
-Nie może być Eucharystia źródłem i~szczytem życia chrześcijanina, jego najważniejszym momentem, jeśli nie pragnie on przede wszystkim zjednoczenia ze swoim Zbawcą, jeśli nie będzie to jego najważniejszym celem. Stawiamy sobie tutaj pytanie o~to, czy Bóg jest dla mnie najważniejszy. Jeśli popatrzymy na tą sytuację od strony Boga dostrzeżemy, że dla Niego nie ma nic ważniejszego jak zjednoczyć się ze swoim ludem, ze swoim stworzeniem. On ogołocił samego siebie, aby móc być z~nami! 
+Nie może być Eucharystia źródłem i~szczytem życia chrześcijanina, jego najważniejszym momentem, jeśli nie pragnie on przede wszystkim zjednoczenia ze swoim Zbawcą, jeśli nie będzie to jego najważniejszym celem. Stawiamy sobie tutaj pytanie o~to, czy Bóg jest dla mnie najważniejszy. Jeśli popatrzymy na tą sytuację od strony Boga dostrzeżemy, że dla Niego nie ma nic ważniejszego jak zjednoczyć się ze swoim ludem, ze swoim stworzeniem. On ogołocił samego siebie, aby móc być z~nami!
 
     W~Eucharystii, w~odróżnieniu od każdego innego sakramentu, tajemnica [komunii] jest tak doskonała, iż prowadzi do szczytu wszelkich dóbr: to tu znajduje kres wszelkie pragnienie, ponieważ tu otrzymujemy Boga i~Bóg wchodzi w~doskonałe zjednoczenie z~nami.
-    
+
     -- Jan Paweł II
-    
+
 **To właśnie znaczy, że Eucharystia jest szczytem życia chrześcijanina, ponieważ w~niej dokonuje się największe pragnienie chrześcijanina: jednoczy się z~Bogiem.**
 
 Podsumowanie
 ============
 
     Posłuchajcie o~małej dziewczynce, którą znalazłam na jednej z~ulic Kalkuty. Miała może sześć lat, a~po jej twarze poznałam, że jest głodna i~nie jadła od kilku dni. Dałam jej kromkę chleba, a~ona zaczęła ją jeść, powoli, po jednym okruszku. Powiedziałam: Jedz chleb, nie bój się, jedz. Dziecko powiedziało: Boję się, bo jak chleb się skończy, znowu będę głodna
-    
+
     -- Matka Teresa z~Kalkuty
-    
+
 Człowiek nie może żyć bez codziennego pokarmu, chrześcijanin nie może żyć bez Ciała i~Krwi Chrystusa. Spożywając je już nie my żyjemy, ale żyje w~nas Chrystus.
 
-* Czy w~nas jest także obawa, że jak chleb się skończy, to znów będziemy głodni? 
+* Czy w~nas jest także obawa, że jak chleb się skończy, to znów będziemy głodni?
 
 * Czy mieliśmy taki okres w~naszym życiu, kiedy brakowało nam tego Pokarmu? Jak czujemy się, kiedy nie możemy przyjąć Jezusa do naszego serca?
 

@@ -17,6 +17,6 @@ Opis rekolekcji:
     .. rubric:: Spis konspektów spotkań w~grupach
 
 .. toctree::
-   spotkanie1.rst
-   spotkanie2.rst
-   spotkanie3.rst
+   wspolnota-fenomen-indywidualnosci-czy-konformizmu.rst
+   czym-jest-spotkanie.rst
+   wspolnota-jest-decyzja.rst

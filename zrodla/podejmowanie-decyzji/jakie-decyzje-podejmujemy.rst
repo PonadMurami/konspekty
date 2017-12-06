@@ -83,7 +83,7 @@ Decyzje trudne nie są niemożliwe istnieje wiele sposobów, które je ułatwia,
    -- Jerzy Liebert
 
 Ankieta - potrzebna do następnego spotkania
-*******************************************
+===========================================
 
 Zaznacz tylko jedną odpowiedź przy każdym pytaniu. Odpowiedzi zapisz zarówno na karcie pytań, jak i~na karcie odpowiedzi.
 

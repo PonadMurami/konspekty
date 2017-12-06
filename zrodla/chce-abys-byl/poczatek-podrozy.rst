@@ -13,7 +13,7 @@ Zaopiekuj się swoją grupą, bądź dla nich ojcem, matką i~przewodnikiem na t
 Modlitwa i~zapoznanie z~grupą
 ===============================
 
-Celem tego punktu jest zapoznanie się i~stworzenie „małej wspólnoty”. Rekolekcje są zbyt krótkie, żeby długo się integrować, więc trzeba wykorzystać każdą chwilę. Można podkreślić, że w~grupie można czuć się swobodnie, że treść dzielenia nie wychodzi na zewnątrz. 
+Celem tego punktu jest zapoznanie się i~stworzenie „małej wspólnoty”. Rekolekcje są zbyt krótkie, żeby długo się integrować, więc trzeba wykorzystać każdą chwilę. Można podkreślić, że w~grupie można czuć się swobodnie, że treść dzielenia nie wychodzi na zewnątrz.
 
 * Modlitwa do Ducha Świętego o~owocne przeżycie rekolekcji (forma dowolna – dostosowana do grupy);
 
@@ -43,7 +43,7 @@ Wprowadzenie do Księgi Rodzaju
 .. warning:: jeśli jest taka potrzeba w~grupie, to można tutaj krótko wprowadzić do charakteru Księgi Rodzaju (nie należy wszystkiego rozumieć dosłownie, Pismo Święte to księga wiary, a~nie podręcznik do historii czy biologii).
 
 
-Każdy z~nas na pewno słyszał o~Abrahamie. Jego historia opisana jest w~Księdze Rodzaju, w~rozdziałach od 12 do 25. 
+Każdy z~nas na pewno słyszał o~Abrahamie. Jego historia opisana jest w~Księdze Rodzaju, w~rozdziałach od 12 do 25.
 
 **Burza mozgów: co wiemy o~Abrahamie?**
 
@@ -53,10 +53,10 @@ Abram wychodzi w~podróż w~nieznane – miał ułożone życie, dom, żonę, bo
 
 Przeczytajmy fragment chwilę przed początkiem naszej historii:
 
-    Terach, wziąwszy z~sobą swego syna Abrama, Lota - syna Harana, czyli swego wnuka, i~Saraj, swą synową, żonę Abrama, wyruszył z~nimi z~Ur chaldejskiego, aby się udać do kraju Kanaan. Gdy jednak przyszli do Charanu, osiedlili się tam. Terach doczekał dwustu i~pięciu lat życia i~zmarł w~Charanie. 
-    
+    Terach, wziąwszy z~sobą swego syna Abrama, Lota - syna Harana, czyli swego wnuka, i~Saraj, swą synową, żonę Abrama, wyruszył z~nimi z~Ur chaldejskiego, aby się udać do kraju Kanaan. Gdy jednak przyszli do Charanu, osiedlili się tam. Terach doczekał dwustu i~pięciu lat życia i~zmarł w~Charanie.
+
     -- 1 Kor 9,1
-    
+
 Kannan to biblijna „Ziemia Obiecana”. Ojciec Abrama też chciał tam dotrzeć, ale nie udało mu się, ponieważ po dojściu do Charanu uznał, że tam jest „wystarczająco dobrze”. Zadowolił się półśrodkiem, ale w~Abramie nadal pozostała chęć dotarcia do pierwotnego celu podróży, marzył o~tym jeszcze długo później. Boże powołanie nie bierze się znikąd, zawsze opiera się na jakimś pragnieniu, które jest w~nas już od dawna, ale może nie zawsze zdajemy sobie z~tego sprawę.
 
 Mimo, że Abram żył około 3800 lat temu, to jest nam bliższy niż się wydaje. Chodzimy po tej samej ziemi, nad głową mamy te same gwiazdy, a~w sercu te same marzenia, obawy, nadzieje.
@@ -64,7 +64,7 @@ Mimo, że Abram żył około 3800 lat temu, to jest nam bliższy niż się wydaj
 Wiara jest przygodą
 ===================
 
-Przeczytajmy: 
+Przeczytajmy:
 
     Pan rzekł do Abrama: «Wyjdź z~twojej ziemi rodzinnej i~z domu twego ojca do kraju, który ci ukażę. Uczynię bowiem z~ciebie wielki naród, będę ci błogosławił i~twoje imię rozsławię: staniesz się błogosławieństwem. Będę błogosławił tym, którzy ciebie błogosławić będą, a~tym, którzy tobie będą złorzeczyli, i~ja będę złorzeczył. Przez ciebie będą otrzymywały błogosławieństwo ludy całej ziemi». Abram udał się w~drogę, jak mu Pan rozkazał, a~z nim poszedł i~Lot. Abram miał siedemdziesiąt pięć lat, gdy wyszedł z~Charanu. I~zabrał Abram z~sobą swoją żonę Saraj, swego bratanka Lota i~cały dobytek, jaki obaj posiadali, oraz służbę, którą nabyli w~Charanie, i~wyruszyli, aby się udać do Kanaanu. Gdy zaś przybyli do Kanaanu, Abram przeszedł przez ten kraj aż do pewnej miejscowości koło Sychem, do dębu More.
 
@@ -97,7 +97,7 @@ Podejmujemy w~życiu wiele decyzji z~różnymi konsekwencjami. Z~niektórych jes
 
 Abraham podjął decyzję o~wyruszeniu do Kanaanu, ale okazało się, że w~jego wymarzonej ziemi obiecanej panuje głód, że wcale nie jest tam tak pięknie i~był zmuszony do dalszej wędrówki:
 
-    Zwinąwszy namioty, Abram wędrował z~miejsca na miejsce w~stronę Negebu. Kiedy zaś nastał głód w~owym kraju, Abram powędrował do Egiptu, aby tam przez pewien czas pozostać; był bowiem ciężki głód w~Kanaanie. 
+    Zwinąwszy namioty, Abram wędrował z~miejsca na miejsce w~stronę Negebu. Kiedy zaś nastał głód w~owym kraju, Abram powędrował do Egiptu, aby tam przez pewien czas pozostać; był bowiem ciężki głód w~Kanaanie.
 
     -- Rdz 12,9-10
 
@@ -111,4 +111,4 @@ Każdy z~nas zrobił już pierwszy krok przyjeżdżając na te rekolekcje. To zn
 
 Następnym punktem w~planie jest modlitwa wieczorna, na której chcemy zastanowić się nad wędrówką naszego życia. Nad tym, co już za nami, co już przeszliśmy i~za co możemy Bogu podziękować, ale także nad tym, co dopiero nas czeka, gdzie posyła nas Bóg i~w jaki sposób możemy odpowiedzieć na jego wezwanie.
 
-**Zastosowanie**: Zastanowię się dzisiaj nad tym czy Bóg chce abym gdzieś teraz wyruszył, podjął jakąś ważną decyzję? Z~czym przyjeżdżam na te rekolekcje? Co zatrzymuje mnie w~moim Charanie? Ofiaruję to dzisiaj Bogu na modlitwie wieczornej, poproszę Go o~dobre rozeznanie i~pomodlę się za moją małą grupę.
+**Zastosowanie**: Zastanowię się dzisiaj nad tym czy Bóg chce abym gdzieś teraz wyruszył, podjął jakąś ważną decyzję? Z~czym przyjeżdżam na te rekolekcje? Co zatrzymuje mnie w~moim Charanie? Ofiaruję to dzisiaj Bogu na modlitwie wieczornej, poproszę Go o~dobre rozeznanie i~pomodlę się za moją małą grupę.

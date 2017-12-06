@@ -31,7 +31,7 @@ Cel spotkania i~wprowadzenie dla animatora
 
 To spotkanie grupowe jest umiejscowione w~środku rekolekcji. To moment gdy powinniśmy mieć już zawiązaną wspólnotę i~być gotowi do wypływania na głębie. Będzie trwało ponad 1,5 godziny. Wykorzystaj ten czas by zbudować przestrzeń osobistego wejścia w~temat każdego z~uczestników Twojej grupy. Zapamiętaj co poszło gładko i~“chwyciło”, a~co było ciężkie i~przekaż to moderatorce oraz diakonii duchowości w~dowolnej formie jeszcze przed dzisiejszym wieczorem.
 
-Konspekt ma momenty trudniejsze intelektualnie (teksty z~Księgi Kapłańskiej czy teksty z~IIw). Nie chciałbym, aby to spotkanie grupowe było jakąś formą warsztatów aktywizujących. Walczymy o~atmosferę swobodnej rozmowy i~wymiany myśli. **Potrzebujemy koniecznie takiego momentu rekolekcji gdzie to uczestnicy mogą mówić, a~nie tylko nas słuchać**. Z~tego powodu w~konspekcie znajduje się ponad 25 pytań dzieleniowych. Nie zadawaj ich wszystkich (100 minut / 25 pytań / 6 osób w~grupie = 40s na odpowiedź gdyby w~ogóle nic innego nie robić), mają Ci pomóc kształtować spotkanie po swojemu. 
+Konspekt ma momenty trudniejsze intelektualnie (teksty z~Księgi Kapłańskiej czy teksty z~IIw). Nie chciałbym, aby to spotkanie grupowe było jakąś formą warsztatów aktywizujących. Walczymy o~atmosferę swobodnej rozmowy i~wymiany myśli. **Potrzebujemy koniecznie takiego momentu rekolekcji gdzie to uczestnicy mogą mówić, a~nie tylko nas słuchać**. Z~tego powodu w~konspekcie znajduje się ponad 25 pytań dzieleniowych. Nie zadawaj ich wszystkich (100 minut / 25 pytań / 6 osób w~grupie = 40s na odpowiedź gdyby w~ogóle nic innego nie robić), mają Ci pomóc kształtować spotkanie po swojemu.
 
 * stworzenie przestrzeni w~której uczestnicy mogą powiedzieć co sami myślą
 
@@ -63,34 +63,34 @@ Wybór szczery i~konsekwentny
 
 Z czym kojarzy Wam się Stary Testament i~Prawo Żydowskie? Być może z~licznymi szczegółowymi przepisami, które nie są dla nas chrześcijan obecnie jakość szczególnie interesujące :). Spróbujmy otworzyć początek Księgi Kapłańskiej w~której właśnie znajdują się takie przepisy. Nie będziemy jej czytać od deski do deski, ale wybierzmy z~niej kilka zapisów:
 
-    A~jeżeli kto chce złożyć w~darze ptaka jako całopalenie dla Pana, niech złoży w~darze synogarlicę lub młodego gołębia. 
-    
+    A~jeżeli kto chce złożyć w~darze ptaka jako całopalenie dla Pana, niech złoży w~darze synogarlicę lub młodego gołębia.
+
     -- Kpł 1,14a
 
 
-    Jeżeli chce złożyć na ofiarę całopalną dar z~bydła, niech weźmie samca bez skazy i~przyprowadzi go przed wejście do Namiotu Spotkania, aby Pan przyjął go łaskawie. 
-    
+    Jeżeli chce złożyć na ofiarę całopalną dar z~bydła, niech weźmie samca bez skazy i~przyprowadzi go przed wejście do Namiotu Spotkania, aby Pan przyjął go łaskawie.
+
     -- Kpł 1,3a
 
 
     Jeżeli kto chce złożyć w~darze dla Pana ofiarę pokarmową, niech złoży w~darze najczystszą mąkę.
-    
+
     -- Kpł 2,1a
 
-    Jeżeli kto chce złożyć dar z~większego bydła jako ofiarę biesiadną, niech złoży zwierzę bez skazy, samca lub samicę przed Panem. 
-    
+    Jeżeli kto chce złożyć dar z~większego bydła jako ofiarę biesiadną, niech złoży zwierzę bez skazy, samca lub samicę przed Panem.
+
     -- Kpł 3,1
 
     Jeżeli zaś kto chce złożyć na ofiarę całopalną dar z~trzody, z~baranków lub koziołków, niech weźmie samca bez skazy.
-    
+
     -- Kpł 1,10
 
     Jeżeli chcesz złożyć w~darze jako ofiarę pokarmową ciasto pieczone w~piecu, będą to placki przaśne z~najczystszej mąki zaprawionej oliwą albo przaśne podpłomyki, pomazane oliwą.
-    
+
     -- Kpł 2,4
 
     Jeżeli chcesz złożyć jako dar spalany dla Pana ofiarę pokarmową z~pierwocin, to będą nią kłosy prażone na ogniu albo kasza z~nowego zboża.
-    
+
     -- Kpł 2,14
 
 * Co jest wspólną cechą tych przepisów? (Jeżeli chcesz…)
@@ -109,7 +109,7 @@ Ten schemat “jeśli chcesz” rzuca się w~oczy, ale nie jest to jedyna cecha 
 
 .. note:: Jak idę do restauracji spodziewam się otrzymania potrawy z~najlepszych składników przygotowanych przy wykorzystaniu wszystkich zdolności kucharza. Co to oznacza dla Ciebie animatorze? Powiedz o~tym krótkie świadectwo czym jest bycie “uczciwym” wobec Boga. Czym jest uczciwa modlitwa?
 
-Bóg nie zmusza Cię do kontaktu z~nim. Wymaga natomiast, aby jeżeli już się na ten kontakt decydujesz to abyś traktował to serio i~nie “po macoszemu”. To jest uczciwe. Nikt z~nas nie chciałby mieć przyjaciela na 50%, czy ukochanej osoby, która jest wierna tylko w~każdy poniedziałek i~wtorek. Porozmawiajmy o~wierze, która będzie gorąca, a~nie letnia. 
+Bóg nie zmusza Cię do kontaktu z~nim. Wymaga natomiast, aby jeżeli już się na ten kontakt decydujesz to abyś traktował to serio i~nie “po macoszemu”. To jest uczciwe. Nikt z~nas nie chciałby mieć przyjaciela na 50%, czy ukochanej osoby, która jest wierna tylko w~każdy poniedziałek i~wtorek. Porozmawiajmy o~wierze, która będzie gorąca, a~nie letnia.
 
 O co (nie) chodzi w~tej wierze?
 ===============================
@@ -126,7 +126,7 @@ O co (nie) chodzi w~tej wierze?
 
 * Co w~wierze przychodzi Ci łatwo i~jest “oczywiste”? (że Bóg Cię kocha? że Bóg stworzył świat? że Jezus zmartwychwstał?)
 
-* Co w~wierze sprawia Ci jakieś trudności? 
+* Co w~wierze sprawia Ci jakieś trudności?
 
 Ta obserwacja 13 latka to zatrzymanie się na rzeczach zewnętrznych (Nie chcemy powiedzieć przez to, że są one nieistotne i~możemy je odrzucać). Opisuje to co się widzi na pierwszy rzut oka. Warto sobie otwarcie powiedzieć, że wielu z~nas na wiarę tak patrzyło. Ciężko nazwać taką wiarę “wiarą na maksa”, o~której mówiliśmy po przeczytaniu Księgi Kapłańskiej.
 
@@ -139,13 +139,13 @@ Przeczytajmy inny tekst pewnego obserwatora sprzed 1800 lat:
 
 * Czy chciałbyś/chciałabyś mieć taką siłę, aby ktoś o~Tobie tak napisał?
 
-* Czy widzisz w~wierze coś więcej niż tylko zewnętrzne gesty? Co to jest? 
+* Czy widzisz w~wierze coś więcej niż tylko zewnętrzne gesty? Co to jest?
 
 * Dlaczego obecnie łatwiej nam spotkać się z~wersją z~pierwszego opowiadania a~nie tego drugiego? (uważać, aby nie przerodziło się w~dyskusje poprzedzającą Sobór Watykański III :P)
 
 * Dlaczego oni żyli tak jak żyli? (pytanie niedzieleniowe służące do wyjścia z~podsumowaniem)
 
-Wiara to zawsze tajemnica serc wierzących. Wiemy na pewno, że pierwsi chrześcijanie brali wiarę bardzo na serio (groziła im śmierć za jej wyznawanie). Wiemy też, że zadawali bardzo wiele pytań i~dociekali. Jesteśmy pewni, że taka wiara jest możliwa także teraz. Nie mamy wątpliwości jednak, że “nie zrobi się to samo”. 
+Wiara to zawsze tajemnica serc wierzących. Wiemy na pewno, że pierwsi chrześcijanie brali wiarę bardzo na serio (groziła im śmierć za jej wyznawanie). Wiemy też, że zadawali bardzo wiele pytań i~dociekali. Jesteśmy pewni, że taka wiara jest możliwa także teraz. Nie mamy wątpliwości jednak, że “nie zrobi się to samo”.
 
 .. note:: od 325r. do 787r. odbyło się 7 soborów powszechnych. Czyli średnio co 66 lat.
 
@@ -157,9 +157,9 @@ Wiara jako szukanie prawdy - “duże dzwony”
 .. note:: Szukanie prawdy fundamentalnej nie jest kluczem naszych rekolekcji (wbrew pozorom). Takie wielkie pytania często mogą onieśmielać i~w praktyce nie będą pomocne, a~nawet poprzez prostotę sprowadzenia ich do groteski mogą przeszkodzić. Zdecydowanie ważniejszy będzie punkt kolejny. (patrz: wprowadzenie do niego)
 
 Przeczytajmy:
-    
+
     Unikamy postępowania ukrywającego sprawy hańbiące, nie uciekamy się do żadnych podstępów ani nie fałszujemy słowa Bożego, lecz okazywaniem prawdy przedstawiamy siebie samych w~obliczu Boga osądowi sumienia każdego człowieka. A~jeśli nawet Ewangelia nasza jest ukryta, to tylko dla tych, którzy idą na zatracenie, dla niewiernych, których umysły zaślepił bóg tego świata, aby nie olśnił ich blask Ewangelii chwały Chrystusa, który jest obrazem Boga. Nie głosimy bowiem siebie samych, lecz Chrystusa Jezusa jako Pana, a~nas - jako sługi wasze przez Jezusa.
-    
+
     --  2 Kor 4,2-5
 
 * Jaką troskę wyraża św. Paweł w~tym fragmencie? (by Prawda nie została naruszona, by osoby przekazujące wiarę nie zmodyfikowały Prawdy)
@@ -216,7 +216,7 @@ Rozmawialiśmy o~tzw. “Wielkich pytaniach”. Są one potrzebne, ale… czasam
 Przeczytajmy:
 
     Fides querens intellectum” (wiara szuka zrozumienia)
-    
+
     św. Anzelm z~Canterbury
 
 * Jak rozumiesz zdanie św. Anzelma?
@@ -239,7 +239,7 @@ Animator wyciąga kartki z~zapisanymi pytaniami z~poniższej listy i~rozkłada n
 
 #. Skąd wiemy, że Jezus się urodził 25 grudnia?
 
-#. Dlaczego klęczymy na większości modlitw? W~czym ta postawa jest lepsza od siedzenia? 
+#. Dlaczego klęczymy na większości modlitw? W~czym ta postawa jest lepsza od siedzenia?
 
 #. Po co robić rachunek sumienia skoro Jezus i~tak wie co robiliśmy?
 
@@ -277,7 +277,7 @@ Animator prosi uczestników o~wybranie kolejno kart. Czytamy wspólnie kartę, a
 
 * Kto zna odpowiedź? Kto chce spróbować na intuicje wymyślić odpowiedź?
 
-Nie ma złych pytań. Warto pytania sobie stawiać nawet o~te najmniejsze sprawy! Możemy być takimi “dociekaczami w~sprawach wiary” :). Tego wymaga odpowiedzialność, aby poznać i~zrozumieć to co się wybrało. **W wierze jest całe mnóstwo detali, które będą dla nas czystą formą bez treści jeśli nie zadamy sobie pytania i~nie poszukamy odpowiedzi o~ich sens**. Wyobraźcie sobie, że macie znajomego spoza Polski, którego ktoś nauczył, że gdy Was widzi to ma mówić: “To dla mnie zaszczyt, że się spotykamy” i~ten wasz znajomy nauczył się wymawiać to zdanie, ale totalnie nie wie co ono znaczy. Jakie miałoby dla Was znaczenie to co mówi? Pewno niewielkie. 
+Nie ma złych pytań. Warto pytania sobie stawiać nawet o~te najmniejsze sprawy! Możemy być takimi “dociekaczami w~sprawach wiary” :). Tego wymaga odpowiedzialność, aby poznać i~zrozumieć to co się wybrało. **W wierze jest całe mnóstwo detali, które będą dla nas czystą formą bez treści jeśli nie zadamy sobie pytania i~nie poszukamy odpowiedzi o~ich sens**. Wyobraźcie sobie, że macie znajomego spoza Polski, którego ktoś nauczył, że gdy Was widzi to ma mówić: “To dla mnie zaszczyt, że się spotykamy” i~ten wasz znajomy nauczył się wymawiać to zdanie, ale totalnie nie wie co ono znaczy. Jakie miałoby dla Was znaczenie to co mówi? Pewno niewielkie.
 
 * Które pytanie z~omówionych najbardziej Ci się podobało? Dlaczego?
 
@@ -289,9 +289,9 @@ Jako pomoc w~odpowiedzi na pytania gdyby uczestnicy dociekali udostępniamy "śc
 
 Dlaczego w~składamy ręce razem a~nie trzymamy się za kolana?
     Taki sposób składania dłoni na modlitwie zaczął się rozpowszechniać od XIII wieku. Zwyczaj ten praktykowany był w~liturgii i~w modlitwach prywatnych. Gest ten wywodzi się z~germańskiej formy oddawania czci, zgodnie z~którą wasal z~tak złożonymi rękami przystępował do swego lennika i~otrzymywał od niego zewnętrzny znak nadania lenna. W~zamian za lenno wasal zobowiązywał się służyć wiernie seniorowi.
- 
+
 Czym się różni woda święcona od ustronianki?
-    Chemicznie niczym. Może być święcona woda z~ustronianki! Popatrzmy na modlitwę wypowiadaną w~czasie błogosławieństwa wody: “Wszechmogący, wieczny Boże, Ty chcesz, aby przez wodę, która podtrzymuje życie i~służy do oczyszczenia, także nasze dusze zostały oczyszczone i~otrzymały zadatek życia wiecznego, prosimy Cię, pobłogosław tę wodę, którą będziemy pokropieni w~dniu Twoim, Panie. Odnów w~nas źródło swojej łaski i~broń od wszelkiego zła nasze dusze i~ciała, abyśmy mogli zbliżyć się do Ciebie z~czystym sercem i~otrzymać Twoje zbawienie. Przez Chrystusa, Pana naszego. Amen.” Woda święcona “przenosi” tą modlitwę na osoby, które jej używają. 
+    Chemicznie niczym. Może być święcona woda z~ustronianki! Popatrzmy na modlitwę wypowiadaną w~czasie błogosławieństwa wody: “Wszechmogący, wieczny Boże, Ty chcesz, aby przez wodę, która podtrzymuje życie i~służy do oczyszczenia, także nasze dusze zostały oczyszczone i~otrzymały zadatek życia wiecznego, prosimy Cię, pobłogosław tę wodę, którą będziemy pokropieni w~dniu Twoim, Panie. Odnów w~nas źródło swojej łaski i~broń od wszelkiego zła nasze dusze i~ciała, abyśmy mogli zbliżyć się do Ciebie z~czystym sercem i~otrzymać Twoje zbawienie. Przez Chrystusa, Pana naszego. Amen.” Woda święcona “przenosi” tą modlitwę na osoby, które jej używają.
 
 Czy to w~jakich dżinsach idę do kościoła ma dla Boga takie znaczenie?
     Zapytaj go. Serio. Dla Boga jest ważne, abyśmy wyróżniali czas świąteczny od powszedniego, bo On sam to zrobił (Stworzenie Świata) i~nam nakazał (dekalog). W~naszej kulturze wyróżniamy to także poprzez ubiór. Dla Boga najważniejsze jest to, co masz w~sercu. Czasami jednak to co na zewnątrz może pomagać nam w~tym, co w~środku nas. Kojarzysz sytuacje, że gdy ubierzesz się w~garnitur/piękną sukienkę to od razu czujesz się także na duchu radośniej? To mechanizm psychologiczny, który znamy i~możemy wykorzystać do słusznej sprawy.
@@ -302,7 +302,7 @@ Czy mam być dobry dlatego, że Bóg tak każe? czy może Bóg nakazuje dobro, d
 Skąd wiemy, że Jezus się urodził 25 grudnia?
     Nie wiemy. To data symboliczna. Przesilenie zimowe jest 21-22 grudnia. Intuicją chrześcijan było umiejscowienie świętowania narodzin Zbawiciela w~momencie gdy widzimy, że dni są coraz dłuższe i~jasność zwycięża z~mrokiem.
 
-Dlaczego klęczymy na większości modlitw? W~czym ta postawa jest lepsza od siedzenia? 
+Dlaczego klęczymy na większości modlitw? W~czym ta postawa jest lepsza od siedzenia?
     Nie jest lepsza. To kwestia konwencji, kultury oraz naszej natury. Klęczenie to wyraz w~naszej kulturze ogromnego oddania szacunku i~postawy miłości (jak oczekujecie, że będą wyglądały oświadczyny? Bez klęknięcia?). Kościół zachodni lubi tę postawę, bo uznał, że jest mu bliska. Jeżeli Ty wolisz modlić się na stojąco nie ma problemu. Postawa ta rozpowszechniła się w~Kościele wraz z~narastającym rygoryzmem - przekonaniem o~tym jak wielkimi jesteśmy grzesznikami, jak bardzo niegodni spotkania z~Bogiem. Wraz z~pogłębianiem się w~Kościele świadomości Bożej miłości i~miłosierdzia, które jest większe od naszego grzechu, a~przejawia się w~tym, że Bóg sam wszedł między niegodnych spotkania z~nim grzeszników, przybywa modlitwy uwielbienia, a~do niej bardziej pasuje dynamiczna postawa stojąca. Postawa siedząca sprzyja zasłuchaniu, dlatego w~takiej postawie modlimy się brewiarzem.
 
 Po co robić rachunek sumienia, skoro Jezus i~tak wie co robiliśmy?
@@ -318,10 +318,10 @@ Czemu mamy chleb eucharystyczny, a~nie coś innego, np. popcorn?
     Chleb jest powszedni i~prosty. Każdy go potrzebuje i~ma do niego dostęp. Bóg jest właśnie taki: chce być w~codzienności pod każdym domem, a~nie tylko w~pałacach. Tak wybrał. Ten znak był bardzo wyrazisty dla ludzi z~tego kręgu kulturowego (nawiązanie do Paschy Żyydowskiej). W~Polsce ten aspekt kulturowy mamy wspólny. Chleb jest dla nas tym samym.
 
 Skąd wiara wie tak dużo co się dzieje po śmierci z~człowiekiem?
-    Powiedział nam to Duch Święty, a~my słuchamy go intensywnie od 2000 lat. To wystarczająco długi czas, aby popytać go o~różne tematy. Poza tym nasz założyciel umarł i~wrócił do nas. Apostołowie na pewno pytali go “jak tam było”. 
+    Powiedział nam to Duch Święty, a~my słuchamy go intensywnie od 2000 lat. To wystarczająco długi czas, aby popytać go o~różne tematy. Poza tym nasz założyciel umarł i~wrócił do nas. Apostołowie na pewno pytali go “jak tam było”.
 
 Po co robimy znak krzyża wodą święconą wchodząc do kościoła?
-    Woda święcona w~kościele przede wszystkim nawiązuje do wody chrztu. Czyniony nią Znak krzyża jest przypomnieniem sobie, a~zarazem ponowieniem przymierza zawartego na chrzcie z~Chrystusem. Wyznaniem wiary, która jest warunkiem owocnego przeżywania Eucharysti, na która idziemy, czy zanoszonej do Boga modlitwy. Także, by przypomnieć sobie, że wchodzimy do miejsca świętego. Symbolicznie obmyć to, co nie święte i~być gotowym na spotkanie z~Jezusem. 
+    Woda święcona w~kościele przede wszystkim nawiązuje do wody chrztu. Czyniony nią Znak krzyża jest przypomnieniem sobie, a~zarazem ponowieniem przymierza zawartego na chrzcie z~Chrystusem. Wyznaniem wiary, która jest warunkiem owocnego przeżywania Eucharysti, na która idziemy, czy zanoszonej do Boga modlitwy. Także, by przypomnieć sobie, że wchodzimy do miejsca świętego. Symbolicznie obmyć to, co nie święte i~być gotowym na spotkanie z~Jezusem.
 
 Dlaczego na ołtarzu daje się świece, skoro nie jest potrzebne ich światło?
     Światło świecy symbolizuje czuwanie, obecność, a~przede wszystkim zmartwychwstałego Chrystusa, który jest “światłością świata”. Nie będziemy też ukrywać, że jest to po prostu tradycja, która została nam z~czasów gdy elektryczności jeszcze nie ujarzmiliśmy jako ludzkość. Lubimy te świece, pomagają nam. Świeca sama się spala by dawać innym światło i~ciepło - odnajdujemy w~tym ważną prawdę o~powołaniu każdego z~nas.
@@ -350,26 +350,26 @@ Po co Bogu nasze zdobne świątynie, skoro w~niebie ma pewnie nieskończenie ła
 Wiara jest procesem
 ===================
 
-Droga wiary wiedzie przez wiele pytań. Ile ich trzeba zadać? Kiedy będzie “wystarczająco dobrze”? 
+Droga wiary wiedzie przez wiele pytań. Ile ich trzeba zadać? Kiedy będzie “wystarczająco dobrze”?
 
-Przeczytajmy: 
+Przeczytajmy:
 
-    | Mądrość jest wspaniała i~niewiędnąca: 
-    | ci łatwo ją dostrzegą, którzy ją miłują, 
-    | i~ci ją znajdą, którzy jej szukają, 
-    | uprzedza bowiem tych, co jej pragną, wpierw dając się im poznać. 
-    | Kto dla niej wstanie o~świcie, ten się nie natrudzi, 
-    | znajdzie ją bowiem siedzącą u~drzwi swoich. 
-    | O~niej rozmyślać - to szczyt roztropności, 
-    | a~kto z~jej powodu nie śpi, wnet się trosk pozbędzie: 
-    | sama bowiem obchodzi i~szuka tych, co są jej godni, 
-    | objawia się im łaskawie na drogach 
-    | i~wychodzi naprzeciw wszystkim ich zamysłom. 
-    | Początkiem jej najprawdziwszym - pragnienie nauki, 
-    | a~staranie o~naukę - to miłość, 
-    | miłość zaś - to przestrzeganie jej praw, 
-    | a~poszanowanie praw to rękojmia nieśmiertelności, 
-    | a~nieśmiertelność przybliża do Boga. 
+    | Mądrość jest wspaniała i~niewiędnąca:
+    | ci łatwo ją dostrzegą, którzy ją miłują,
+    | i~ci ją znajdą, którzy jej szukają,
+    | uprzedza bowiem tych, co jej pragną, wpierw dając się im poznać.
+    | Kto dla niej wstanie o~świcie, ten się nie natrudzi,
+    | znajdzie ją bowiem siedzącą u~drzwi swoich.
+    | O~niej rozmyślać - to szczyt roztropności,
+    | a~kto z~jej powodu nie śpi, wnet się trosk pozbędzie:
+    | sama bowiem obchodzi i~szuka tych, co są jej godni,
+    | objawia się im łaskawie na drogach
+    | i~wychodzi naprzeciw wszystkim ich zamysłom.
+    | Początkiem jej najprawdziwszym - pragnienie nauki,
+    | a~staranie o~naukę - to miłość,
+    | miłość zaś - to przestrzeganie jej praw,
+    | a~poszanowanie praw to rękojmia nieśmiertelności,
+    | a~nieśmiertelność przybliża do Boga.
     | Tak więc pragnienie Mądrości wiedzie do królestwa.
 
     -- Mdr 6,12-20
@@ -383,7 +383,7 @@ Przeczytajmy:
 Przeczytajmy zdanie starożytne chrześcijańskiego myśliciela:
 
     “Non nascuntur sed fiunt Christiani!” (“Nie rodzimy się, lecz stajemy chrześcijanami!”)
-    
+
     Tertulian
 
 * Jak rozumiesz to zdanie?
@@ -392,27 +392,27 @@ Przeczytajmy zdanie starożytne chrześcijańskiego myśliciela:
 
 Stajemy się cały czas i~będziemy stawać chrześcijanami. Wiara to proces. Wymaga świadomego wysiłku i~obrania kierunku (decyzji). O~wszystkim tym mówiliśmy od wczoraj by teraz w~pełni świadomie móc na to spojrzeć. Ten proces zaczyna się jak każdy: od pierwszego kroku. Wiara będzie przed nami otwierała swoje tajemnice.
 
-Gdy wiarę się poznaje to rozbija się pewne fałszywe wyobrażenia. Podobnie jak w~przypadku odsłaniania kart dzisiaj na spotkaniu. Prawda wyzwala, bo pozwala rozumieć i~wierzyć, a~nie tylko “ślepo podążać”. 
+Gdy wiarę się poznaje to rozbija się pewne fałszywe wyobrażenia. Podobnie jak w~przypadku odsłaniania kart dzisiaj na spotkaniu. Prawda wyzwala, bo pozwala rozumieć i~wierzyć, a~nie tylko “ślepo podążać”.
 
 Przeczytajmy:
 
     Gdy ktoś twierdzi, że jest niewierzący, pytam go: jak wygląda ten Bóg, w~którego nie wierzysz? A~gdy ten ktoś opisze Boga, w~którego nie wierzy, często muszę mu z~ulgą pogratulować: Bóg zapłać, że w~takiego Boga nie wierzysz. W~takiego Boga nie wierzę i~ja
-    
+
     ks. Tomáš Halík
 
 * Jak do tej pory zmieniło się Twoje patrzenie na wiarę i~Boga?
 
-* Czy jesteś otwarty na to, aby coś się jeszcze zmieniło? 
+* Czy jesteś otwarty na to, aby coś się jeszcze zmieniło?
 
 * Jaki może być Twój pierwszy krok w~tym kierunku?
 
-Pierwszym krokiem może być wybranie jednego pytania i~powiedzenie go Bogu dzisiaj na modlitwie wieczornej. Wiele osób koncentruje się na tym, aby od Boga koniecznie usłyszeć jakąś odpowiedź. To zrozumiałe. Mamy nadzieję, że po dzisiejszym spotkaniu zanim zaczniemy od Boga oczekiwać odpowiadania nam na różne tematy kilka minut zastanowimy się jakie pytanie mu chcemy zadać i~dlaczego. 
+Pierwszym krokiem może być wybranie jednego pytania i~powiedzenie go Bogu dzisiaj na modlitwie wieczornej. Wiele osób koncentruje się na tym, aby od Boga koniecznie usłyszeć jakąś odpowiedź. To zrozumiałe. Mamy nadzieję, że po dzisiejszym spotkaniu zanim zaczniemy od Boga oczekiwać odpowiadania nam na różne tematy kilka minut zastanowimy się jakie pytanie mu chcemy zadać i~dlaczego.
 
 Zastosowanie i~modlitwa
 =======================
 
-Porozmawiać z~jedną osobą z~rekolekcji na temat pytania związanego z~wiarą, które sobie stawiacie. Może to być kolega lub koleżanka może być animator lub ksiądz. Nie chodzi o~to, aby druga osoba Wam na to pytanie śpiewająco odpowiedziała tylko o~samo podzielenie się tym. 
+Porozmawiać z~jedną osobą z~rekolekcji na temat pytania związanego z~wiarą, które sobie stawiacie. Może to być kolega lub koleżanka może być animator lub ksiądz. Nie chodzi o~to, aby druga osoba Wam na to pytanie śpiewająco odpowiedziała tylko o~samo podzielenie się tym.
 
-Dla osób przygotowujących się do bierzmowania polecam dodatkowo takie pytanie: 
+Dla osób przygotowujących się do bierzmowania polecam dodatkowo takie pytanie:
 
 * Czym ja po bierzmowaniu będę się różnił od siebie przed bierzmowaniem?

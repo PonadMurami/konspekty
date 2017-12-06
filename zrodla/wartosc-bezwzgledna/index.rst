@@ -17,6 +17,6 @@ Opis rekolekcji:
     .. rubric:: Spis konspektów spotkań w~grupach
 
 .. toctree::
-   spotkanie1.rst
-   spotkanie2.rst
-   spotkanie3.rst
+   odkrycie-wartosci-czlowieka.rst
+   walka-o-wartosc.rst
+   narodziny-animatora.rst

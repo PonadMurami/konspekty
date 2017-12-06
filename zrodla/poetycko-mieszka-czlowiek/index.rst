@@ -17,6 +17,6 @@ Opis rekolekcji:
     .. rubric:: Spis konspektów spotkań w~grupach
 
 .. toctree::
-   spotkanie1.rst
-   spotkanie2.rst
-   spotkanie3.rst
+   miasto-mego-serca.rst
+   zycie-ktore-jest-pomimo-wspanialych-marzen.rst
+   codziennosc-i-pasja-dwa-filary-jednego-mieszkania.rst

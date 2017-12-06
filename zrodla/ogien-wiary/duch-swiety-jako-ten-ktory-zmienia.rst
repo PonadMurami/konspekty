@@ -35,9 +35,9 @@ Wyjaśnienie teoretyczne:
 
 Podział uczestników na pary, przydzielenie każdej parze po 2 kondakiony i~ikosy do analizy, wyjaśnienie zasad analizy tekstu metodą Västerås
 
-.. note:: W~niektórych grupach animator może rozeznać czy nie lepiej pracować indywidualnie. Wtedy odpowiedni rozdziela teksty grupie. Metoda Västerås polega na notowaniu swojej relacji wobec czytanego fragmentu za pomocą trzech znaków: **pytajnika (?), wykrzyknika (!) i~strzałki (<-)**. 
+.. note:: W~niektórych grupach animator może rozeznać czy nie lepiej pracować indywidualnie. Wtedy odpowiedni rozdziela teksty grupie. Metoda Västerås polega na notowaniu swojej relacji wobec czytanego fragmentu za pomocą trzech znaków: **pytajnika (?), wykrzyknika (!) i~strzałki (<-)**.
 
-1. Zrób na marginesie **pytajnik**, jeżeli czegoś nie rozumiesz lub jeżeli coś prowokuje Cię do postawienai sobie pytania 
+1. Zrób na marginesie **pytajnik**, jeżeli czegoś nie rozumiesz lub jeżeli coś prowokuje Cię do postawienai sobie pytania
 
 2. **wykrzyknik**, jeżeli dane miejsce przynosi ci szczególne oświecenie (odkryłeś w~nim nową dla siebie prawdę, której sobie dotychczas nie uświadamiałeś lub uświadamiałeś ją sobie mgliście, albo też odkryłeś ją na nowo i~uważasz ją za istotną);
 

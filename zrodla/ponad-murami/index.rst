@@ -18,6 +18,6 @@ Opis rekolekcji:
     .. rubric:: Spis konspektów spotkań w~grupach
 
 .. toctree::
-   spotkanie1.rst
-   spotkanie2.rst
-   spotkanie3.rst
+   pragnienie-zycia.rst
+   zobaczyc-horyzont.rst
+   wyruszyc-w-droge-ktora-jest-celem.rst

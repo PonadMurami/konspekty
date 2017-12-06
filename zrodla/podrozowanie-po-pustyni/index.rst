@@ -17,6 +17,6 @@ Opis rekolekcji:
     .. rubric:: Spis konspektów spotkań w~grupach
 
 .. toctree::
-   spotkanie1.rst
-   spotkanie2.rst
-   spotkanie3.rst
+   wyjscie-na-pustynie.rst
+   pustynia-nas-ksztaltuje.rst
+   konsekwencje-wyborow.rst

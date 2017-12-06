@@ -17,6 +17,6 @@ Opis rekolekcji:
     .. rubric:: Spis konspektów spotkań w~grupach
 
 .. toctree::
-   spotkanie1.rst
-   spotkanie2.rst
-   spotkanie3.rst
+   choc-goni-nas-czas.rst
+   czekanie-ktore-jest-odwaga.rst
+   ja-przekazuje-wam-krolestwo.rst

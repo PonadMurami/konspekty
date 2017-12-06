@@ -17,6 +17,6 @@ Opis rekolekcji:
     .. rubric:: Spis konspektów spotkań w~grupach
 
 .. toctree::
-   spotkanie1.rst
-   spotkanie2.rst
-   spotkanie3.rst
+   eucharystia-jako-spotkanie-z-czlowiekiem-i-bogiem.rst
+   eucharystia-jako-pokarm.rst
+   eucharystia-jako-zjednoczenie-z-ludzmi-i-bogiem.rst

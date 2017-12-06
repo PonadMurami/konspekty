@@ -35,10 +35,10 @@ Celem tego punktu jest zapoznanie się, stworzenie wewnętrznej wspólnoty. Wart
 
 * Kiedy czujesz się wolny?
 
-Wprowadzenie-definiowanie wolności 
+Wprowadzenie-definiowanie wolności
 ==================================
 
-Tutaj przechodzimy już do treści właściwej spotkania. Proponujemy luźną burzę mózgów nad samą definicją wolności, którą potem będziemy konfrontować z~rzeczywistością. Konstytucja soborowa (Gaudium et spes (z łac. Radość i~Nadzieja) – Konstytucja duszpasterska o~Kościele w~świecie współczesnym ogłoszona przez papieża Pawła VI 7 grudnia 1965. (KDK17)) wolność rozumie jako: brak zewnętrznego przymusu i~wewnętrzną niezależność wobec zła. Łączy w~taki sposób dwie koncepcje wolności: wyboru i~autonomii działania. 
+Tutaj przechodzimy już do treści właściwej spotkania. Proponujemy luźną burzę mózgów nad samą definicją wolności, którą potem będziemy konfrontować z~rzeczywistością. Konstytucja soborowa (Gaudium et spes (z łac. Radość i~Nadzieja) – Konstytucja duszpasterska o~Kościele w~świecie współczesnym ogłoszona przez papieża Pawła VI 7 grudnia 1965. (KDK17)) wolność rozumie jako: brak zewnętrznego przymusu i~wewnętrzną niezależność wobec zła. Łączy w~taki sposób dwie koncepcje wolności: wyboru i~autonomii działania.
 
 Burza mózgów: Czym jest wolność, z~jakimi obrazami Ci się kojarzy? W~jakich sferach mojego życia występuje? (Skojarzenia można wypisać na kartce w~postaci “słoneczka” ze słowem “wolność” w~centrum. Np. brak zew. przymusu, wewnętrzna niezależność od zła, wolny wybór dobra, wolność w~prawie, wolność od grzechu, wolność słowa, nie idę pod wpływem ślepego popędu, wolność od śmierci)
 
@@ -51,33 +51,33 @@ Przeczytajmy:
 **Wolność w~poznaniu Boga:**
 
     Czyż nie jestem wolny? Czy nie jestem apostołem? Czyż nie widziałem Jezusa, Pana naszego Czyż nie jesteście moim dziełem w~Chrystusie?
-    
+
     -- 1 Kor 9,1
-    
+
     Pan zaś jest Duchem, a~gdzie jest Duch Pański - tam wolność.
-    
+
     -- 2 Kor 3,17
-    
+
 **Wolność od grzechu:**
-    
-    a~uwolnieni od grzechu oddaliście się w~niewolę sprawiedliwości. 
-    
+
+    a~uwolnieni od grzechu oddaliście się w~niewolę sprawiedliwości.
+
     -- Rz 6,18
-    
-    On uwolnił nas spod władzy ciemności i~przeniósł do królestwa swego umiłowanego Syna, w~którym mamy odkupienie - odpuszczenie grzechów. 
-    
+
+    On uwolnił nas spod władzy ciemności i~przeniósł do królestwa swego umiłowanego Syna, w~którym mamy odkupienie - odpuszczenie grzechów.
+
     -- 1 Kol 1,13-14
-    
+
 **Wolność od śmierci:**
 
-    Stworzenie bowiem zostało poddane marności - nie z~własnej chęci, ale ze względu na Tego, który je poddał - w~nadziei, że również i~ono zostanie wyzwolone z~niewoli zepsucia, by uczestniczyć w~wolności i~chwale dzieci Bożych. 
-    
+    Stworzenie bowiem zostało poddane marności - nie z~własnej chęci, ale ze względu na Tego, który je poddał - w~nadziei, że również i~ono zostanie wyzwolone z~niewoli zepsucia, by uczestniczyć w~wolności i~chwale dzieci Bożych.
+
     -- Rz 8,20-21
-    
-    Teraz jednak dla tych, którzy są w~Chrystusie Jezusie, nie ma już potępienia. Albowiem prawo Ducha, który daje życie w~Chrystusie Jezusie, wyzwoliło cię spod prawa grzechu i~śmierci. Co bowiem było niemożliwe dla Prawa, ponieważ ciało czyniło je bezsilnym, [tego dokonał Bóg]. On to zesłał Syna swego w~ciele podobnym do ciała grzesznego i~dla [usunięcia] grzechu wydał w~tym ciele wyrok potępiający grzech, aby to, co nakazuje Prawo, wypełniło się w~nas, o~ile postępujemy nie według ciała, ale według Ducha. 
-    
+
+    Teraz jednak dla tych, którzy są w~Chrystusie Jezusie, nie ma już potępienia. Albowiem prawo Ducha, który daje życie w~Chrystusie Jezusie, wyzwoliło cię spod prawa grzechu i~śmierci. Co bowiem było niemożliwe dla Prawa, ponieważ ciało czyniło je bezsilnym, [tego dokonał Bóg]. On to zesłał Syna swego w~ciele podobnym do ciała grzesznego i~dla [usunięcia] grzechu wydał w~tym ciele wyrok potępiający grzech, aby to, co nakazuje Prawo, wypełniło się w~nas, o~ile postępujemy nie według ciała, ale według Ducha.
+
     -- Rz 8,1-4
-    
+
 Zapytajmy:
 
 * Czy da się żyć bez wolności? Dlaczego tak, dlaczego nie?
@@ -88,11 +88,11 @@ Zapytajmy:
 
 * Jak reagujesz, gdy ktoś Twoją wolność zabiera/ogranicza?
 
-* Jaka jest Twoja motywacja do zrobienia czegoś, gdy sam na to się decydujesz, a~jaka, gdy zostaje Ci to narzucone? (Np. wybór szkoły gimnazjalnej raczej nie był tylko moim wyborem, ale już wybór zajęć dodatkowych/organizacji/studiów tak (chociaż nie zawsze)) 
+* Jaka jest Twoja motywacja do zrobienia czegoś, gdy sam na to się decydujesz, a~jaka, gdy zostaje Ci to narzucone? (Np. wybór szkoły gimnazjalnej raczej nie był tylko moim wyborem, ale już wybór zajęć dodatkowych/organizacji/studiów tak (chociaż nie zawsze))
 
 * Jaki mam stosunek do tych wyborów? Które dają mi więcej satysfakcji i~spełnienia?
 
-* Jaką wartość mają czyny wykonywane z~przymusu? Jakie mają efekty? 
+* Jaką wartość mają czyny wykonywane z~przymusu? Jakie mają efekty?
 
 * Można skonfrontować te same sytuacje, pod wpływem przymusu/w nieszczerości i~w wolności:
 
@@ -108,7 +108,7 @@ Zapytajmy:
 
 * Czy wolność ma jakieś ograniczenia?
 
-Ostatnim pytaniem przechodzimy do następnego punktu spotkania. 
+Ostatnim pytaniem przechodzimy do następnego punktu spotkania.
 
 Złudzenie wolności
 ==================
@@ -148,7 +148,7 @@ Przeczytajmy:
 Przeczytajmy:
 
     Wszystko mi wolno, ale nie wszystko przynosi korzyść. Wszystko mi wolno, ale ja niczemu nie oddam się w~niewolę.
-    
+
     -- 1 Kor 6, 12
 
 * Jak mogłoby brzmieć to zdanie w~inny sposób?Jak rozumiem te słowa?
@@ -161,7 +161,7 @@ Podsumowanie i~zastosowanie
 
 Dochodzimy do wniosku, że każdy z~nas jest w~jakiś sposób wrażliwy na punkcie wolności. Jej wymagania wcale nie są łatwe. Trzeba wrażliwości, wyczucia, słuchania Boga, aby móc odróżnić co tak naprawdę prowadzi mnie do Pełni Wolności.
 
-W ramach wprowadzenia do modlitwy wieczornej, pięknie by było powiedzieć w~tym miejscu świadectwo na temat wolności, którą daje mi Chrystus. 
+W ramach wprowadzenia do modlitwy wieczornej, pięknie by było powiedzieć w~tym miejscu świadectwo na temat wolności, którą daje mi Chrystus.
 
 Wybiorę taką przestrzeń w~moim życiu, gdzie brakuje mi wolności i~za chwilę na modlitwie wieczornej spróbuję powierzyć ją Bogu.
 

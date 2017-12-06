@@ -33,7 +33,7 @@ Animator w~odpowiednim (wcześniej wybranym) miejscu rozciąga na ziemi sznurek 
 
 .. image:: arrow.*
    :align: center
-   
+
 *Odczytujemy kolejno elementy "Oazowe" (z kartki) a~uczestnicy stają "na osi". Następnie każdy odpowiada dlaczego akurat wybrał to miejsce. W~czasie wypowiadania pozostali mogą zmieniać swoje miejsce.*
 
 Refleksja nad jakością własnego przeżywania Ruchu
@@ -45,7 +45,7 @@ Czasami tak po prostu jest. Ważne, aby rozróżniać rzeczy które są "fakulta
 
 Hipoteza:
     *"Dużo gorzej gdybyśmy zamiast przyznawania się przed sobą do tego ze coś jest "na minusie" wyrzucali te rzeczy z~świadomości starając się łudzić, że wszystko jest na plus"*
-    
+
 * Czy zgadzacie się z~tym zdaniem. Czy możemy wypisać "listę konsekwencji" takiego "wyrzucania"?
 
 Tworzymy wspólnie na jakiejś kartce listę. Oto przykładowe rzeczy które mogą się na niej znaleźć:

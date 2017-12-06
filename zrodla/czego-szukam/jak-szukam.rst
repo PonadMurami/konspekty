@@ -131,26 +131,26 @@ Bycie "nieustannie otwartym" na zaskakiwanie to bycie człowiekiem wiary. To zas
 
 Przeczytajmy:
 
-   | Gdybym mówił językami ludzi i~aniołów, 
+   | Gdybym mówił językami ludzi i~aniołów,
    | a~miłości bym nie miał,
-   | stałbym się jak miedź brzęcząca 
+   | stałbym się jak miedź brzęcząca
    | albo cymbał brzmiący.
-   | Gdybym też miał dar prorokowania 
+   | Gdybym też miał dar prorokowania
    | i~znał wszystkie tajemnice,
    | i~posiadał wszelką wiedzę,
-   | i~wszelką [możliwą] wiarę, 
-   | tak iżbym góry przenosił. 
+   | i~wszelką [możliwą] wiarę,
+   | tak iżbym góry przenosił.
    | a~miłości bym nie miał, byłbym niczym.
-   | I~gdybym rozdał na jałmużnę całą majętność moją, 
+   | I~gdybym rozdał na jałmużnę całą majętność moją,
    | a~ciało wystawił na spalenie,
    | lecz miłości bym nie miał, nic bym nie zyskał.
    | Miłość cierpliwa jest, łaskawa jest.
-   | Miłość nie zazdrości, nie szuka poklasku, 
+   | Miłość nie zazdrości, nie szuka poklasku,
    | nie unosi się pychą;
    | nie dopuszcza się bezwstydu, nie szuka swego,
    | nie unosi się gniewem, nie pamięta złego;
-   | nie cieszy się z~niesprawiedliwości, 
-   | lecz współweseli się z~prawdą. 
+   | nie cieszy się z~niesprawiedliwości,
+   | lecz współweseli się z~prawdą.
    | Wszystko znosi, wszystkiemu wierzy,
    | we wszystkim pokłada nadzieję,
    | wszystko przetrzyma.
@@ -162,9 +162,9 @@ Przeczytajmy:
    | **po części prorokujemy.**
    | **Gdy zaś przyjdzie to, co jest doskonałe,**
    | **zniknie to, co jest tylko częściowe.**
-   | Gdy byłem dzieckiem, mówiłem jak dziecko, 
+   | Gdy byłem dzieckiem, mówiłem jak dziecko,
    | czułem jak dziecko, myślałem jak dziecko.
-   | Kiedy zaś stałem się mężem, 
+   | Kiedy zaś stałem się mężem,
    | wyzbyłem się tego, co dziecięce.
    | **Teraz widzimy jakby w~zwierciadle, niejasno;**
    | **wtedy zaś [zobaczymy] twarzą w~twarz:**

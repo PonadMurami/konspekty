@@ -14,7 +14,7 @@ Wprowadzenie
 
 Abram zdecydował się na opuszczenie swojej krainy i~wędrówkę. Czasami sprowadzamy wybór do jednego, krótkiego aktu - jakby życie było matematyką czy programem komputerowym w~którym rzeczy się nie zmieniają. Św. Augustyn powie jednak, że „Raz wybrawszy, ciągle wybierać muszę”. Życie jest serią wyborów, a~każdy z~wyborów będzie rodził kolejne. Nie inaczej jest z~Abramem. Staje wraz z~Lotem przed wyborem czy iść razem czy się rozdzielić. Gdy wybierają, że pójdą osobno to trzeba wybrać kto gdzie pójdzie…
 
-Przeczytajmy: 
+Przeczytajmy:
 
     Wszak cały ten kraj stoi przed tobą otworem. Odłącz się ode mnie! Jeżeli pójdziesz w~lewo, ja pójdę w~prawo, a~jeżeli ty pójdziesz w~prawo, ja - w~lewo.
 
@@ -22,7 +22,7 @@ Przeczytajmy:
 
 * W~jakich sprawach doświadczasz mocno bliskości Boga? Jak na to reagujesz?
 
-* Wierzysz w~to, że Bóg błogosławi Twoim decyzjom? 
+* Wierzysz w~to, że Bóg błogosławi Twoim decyzjom?
 
 Omawialiśmy ten fragment w~czasie konferencji. Taka pewność i~zaufanie do Boga budzi podziw. Z~drugiej strony nie zawsze tak tego doświadczamy. Wiara ma w~sobie radość z~bliskości ale też i~doświadczenie trudności i~milczenia Boga.
 
@@ -57,7 +57,7 @@ Przeczytajmy:
 
 Ciemna dolina może być częścią drogi Pana. Co więcej może to być właściwa ścieżka. Odruchowo często gdy jej doświadczamy przypisujemy to czyjejś winie (naszej - bo za mało się modlimy, szatana - bo chce nas zaatakować). Oczywiście tak też może być. Ciemna dolina może być jednak po prostu ciemną doliną - miejscem mniej pogodnym przez które chcemy przejść. Ważne, że z~naszym Pasterzem.
 
-Przeczytajmy: 
+Przeczytajmy:
 
     Szukajcie Pana, gdy się pozwala znaleźć, wzywajcie Go, dopóki jest blisko!
 
@@ -83,7 +83,7 @@ Można by rację drugą i~trzecią uprościć: Bóg swoim milczeniem też chce n
 
 * Która z~trzech racji św. Ignacego wydaje się mieć miejsce w~Twoim życiu najczęściej, a~która najrzadziej? Dlaczego?
 
-* Czy umiesz określić w~jakim stanie jesteś teraz? 
+* Czy umiesz określić w~jakim stanie jesteś teraz?
 
 * Na podstawie czego oceniasz na jakim jesteś etapie?
 
@@ -95,7 +95,7 @@ Wołanie pragnienia
 
 Abram stojący na rozstaju dróg przekonany o~błogosławieństwie Boga idącym za nim zdecydowanie doświadcza pocieszenia. Czy jest w~nim też strapienie?
 
-Przeczytajmy: 
+Przeczytajmy:
 
     Po tych wydarzeniach Pan tak powiedział do Abrama podczas widzenia: «Nie obawiaj się, Abramie, bo Ja jestem twoim obrońcą; nagroda twoja będzie sowita». Abram rzekł: «O Panie, mój Boże, na cóż mi ona, skoro zbliżam się do kresu mego życia, nie mając potomka; przyszłym zaś spadkobiercą mojej majętności jest Damasceńczyk Eliezer». I~mówił: «Ponieważ nie dałeś mi potomka, ten właśnie zrodzony u~mnie sługa mój, zostanie moim spadkobiercą».
 
@@ -111,13 +111,13 @@ Abram czuje się z~Bogiem tak blisko, że “pozwala sobie” na wyrażanie swoi
 
 .. note:: Do wiadomości: Podobną myśl będziemy rozważać jutro, ale w~innej odsłonie - pozytywnej. Bycie “za pan brat” z~Bogiem to nie tylko umiejętność złoszczenia się na niego, ale to też śmiech Sary na Jego słowa.
 
-* Czym jest dla Abrama pragnienie posiadania potomka? 
+* Czym jest dla Abrama pragnienie posiadania potomka?
 
 * Czym jest proponowane przez Abrama przekazanie spadku słudze?
 
 Przekazanie spadku słudze to wyraz braku wiary w~to, że będzie mieć syna. Abram chce podjąć decyzję, chce wiedzieć na czym stoi, porządkować sobie rzeczywistość wokół siebie. Abram mówi Bogu: zaczynam układać swoje życie tak, że zakładam, że tego pragnienia serca nie zaspokoje.
 
-Przeczytajmy: 
+Przeczytajmy:
 
     Pan rzekł do Abrama: Wyjdź z~twojej ziemi rodzinnej i~z domu twego ojca do kraju, który ci ukażę. Uczynię bowiem z~ciebie wielki naród, będę ci błogosławił i~twoje imię rozsławię: staniesz się błogosławieństwem.
 
@@ -139,8 +139,8 @@ Moje pragnienia
 
 Przeczytajmy:
 
-    "Stworzyłeś nas bowiem dla siebie i~niespokojne jest nasze serce, dopóki nie spocznie w~Tobie" 
-    
+    "Stworzyłeś nas bowiem dla siebie i~niespokojne jest nasze serce, dopóki nie spocznie w~Tobie"
+
     -- św. Augustyn
 
 * Jaką praktyczną wskazówkę możesz wyciągnąć z~tego zdania dla siebie tu i~teraz?
@@ -159,7 +159,7 @@ Wędrówka tworzy przestrzeń, aby znaleźć odpowiedź na pytanie co dla mnie j
 
 * Jak często Ty kogoś pytasz o~jego pragnienia?
 
-Przeczytajmy: 
+Przeczytajmy:
 
     Wtedy podeszła do Niego matka synów Zebedeusza ze swoimi synami i~oddając Mu pokłon, o~coś Go prosiła. On ją zapytał: «Czego pragniesz?» Rzekła Mu: «Powiedz, żeby ci dwaj moi synowie zasiedli w~Twoim królestwie jeden po prawej, a~drugi po lewej Twej stronie».
 
@@ -171,7 +171,7 @@ Przeczytajmy:
 
 Matka pytała o~rzeczy mało istotne. Jezus widzi, że tak naprawdę to nie o~to jej chodzi i~zadaje pytanie prosto z~mostu.
 
-* Czym się różni “zachcianka” od pragnienia? 
+* Czym się różni “zachcianka” od pragnienia?
 
 * Jak radzisz sobie z~rozróżnianiem swoich pragnień od zachcianek?
 
@@ -193,7 +193,7 @@ Twoje pragnienia są ważne. Są ważne dla Boga, są ważne dla Kościoła, pow
 
 .. note:: Animatorze to miejsce gdzie czekamy na Twoje świadectwo np. o~tym, że Kościół nie narzuca Ci w~jaki sposób w~nim posługujesz, ale słucha Twoich pragnień i~pozwala Ci rozeznawać zgodnie z~nimi oraz Twoimi talentami.
 
-Zróbmy razem proste ćwiczenie indywidualnie. Weźmy kartkę i~podzielmy na 4 obszary: Bóg, Kościół, bliscy, ja sam. Wypiszmy własne pragnienia które są związane z~każdym z~tych obszarów. Postarajmy się, aby wszędzie było co najmniej jedno. Obiecuję, że nie będziemy się dzielili tym co napisaliśmy. 
+Zróbmy razem proste ćwiczenie indywidualnie. Weźmy kartkę i~podzielmy na 4 obszary: Bóg, Kościół, bliscy, ja sam. Wypiszmy własne pragnienia które są związane z~każdym z~tych obszarów. Postarajmy się, aby wszędzie było co najmniej jedno. Obiecuję, że nie będziemy się dzielili tym co napisaliśmy.
 
 * Czy udało Ci się wpisać pragnienie do każdego z~pól?
 
@@ -208,7 +208,7 @@ Zróbmy razem proste ćwiczenie indywidualnie. Weźmy kartkę i~podzielmy na 4 o
 Obietnica - nasza reakcja
 =========================
 
-Przeczytajmy: 
+Przeczytajmy:
 
      Ale oto usłyszał słowa: «Nie on będzie twoim spadkobiercą, lecz ten po tobie dziedziczyć będzie, który od ciebie będzie pochodził». I~poleciwszy Abramowi wyjść z~namiotu, rzekł: «Spójrz na niebo i~policz gwiazdy, jeśli zdołasz to uczynić»; potem dodał: «Tak liczne będzie twoje potomstwo». Abram uwierzył i~Pan poczytał mu to za zasługę. Potem zaś rzekł do niego: «Ja jestem Pan, który ciebie wywiodłem z~Ur chaldejskiego, aby ci dać ten oto kraj na własność». A~na to Abram: «O Panie, mój Boże, jak będę mógł się upewnić, że otrzymam go na własność?»
 
@@ -229,7 +229,7 @@ Zastosowanie
 
 Dla wielu z~nas taka postawa stawiania Bogu pytań konkretnych, życiowych, pragmatycznych jest ciągle w~sferze jakiegoś “przełamywania się do nich”.  Może to tylko Abram, który jest “chłopem z~krwi i~kości” miał takie podejście, ale inne postacie biblijne już takiej odwagi nie miały?
 
-Przeczytajmy: 
+Przeczytajmy:
 
     Lecz anioł rzekł do Niej: «Nie bój się, Maryjo, znalazłaś bowiem łaskę u~Boga. Oto poczniesz i~porodzisz Syna, któremu nadasz imię Jezus. Będzie On wielki i~będzie nazwany Synem Najwyższego, a~Pan Bóg da Mu tron Jego praojca, Dawida. Będzie panował nad domem Jakuba na wieki, a~Jego panowaniu nie będzie końca». Na to Maryja rzekła do anioła: «**Jakże się to stanie, skoro nie znam męża**?» Anioł Jej odpowiedział: «Duch Święty zstąpi na Ciebie i~moc Najwyższego osłoni Cię. Dlatego też Święte, które się narodzi, będzie nazwane Synem Bożym.
 
@@ -243,7 +243,7 @@ Dwa zastosowania:
 
 * Nazwij jeden moment w~swoim życiu gdzie tego pytania zabrakło
 
-.. note:: Animatorze przygotuj się do tego, aby w~tym miejscu powiedzieć świadectwo o~tym. Może masz doświadczenie w~swoim życiu momentów w~którym szedłeś w~wierze “siłą bezwładności”. Autor tego konspektu kilka tygodni pytał Boga o~to czy ma przyjąć bycie ojcem chrzestnym i~nie słyszał odpowiedzi. Wszystko się zmieniło gdy zapytał Boga: “zakładając, że się zgodzę - jak mi pomożesz, aby to było na Twoją chwałę?”. 
+.. note:: Animatorze przygotuj się do tego, aby w~tym miejscu powiedzieć świadectwo o~tym. Może masz doświadczenie w~swoim życiu momentów w~którym szedłeś w~wierze “siłą bezwładności”. Autor tego konspektu kilka tygodni pytał Boga o~to czy ma przyjąć bycie ojcem chrzestnym i~nie słyszał odpowiedzi. Wszystko się zmieniło gdy zapytał Boga: “zakładając, że się zgodzę - jak mi pomożesz, aby to było na Twoją chwałę?”.
 
 Podsumowanie i~zastosowanie
 ===========================

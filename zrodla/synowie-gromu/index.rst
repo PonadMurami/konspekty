@@ -18,6 +18,6 @@ Opis rekolekcji:
 
 .. toctree::
    dokument-programowy.rst
-   spotkanie1.rst
-   spotkanie2.rst
-   spotkanie3.rst
+   tesknota-za-idealem.rst
+   sympatycy-czy-chrzescijanie.rst
+   jestem-christianoi.rst

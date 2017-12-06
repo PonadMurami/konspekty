@@ -82,7 +82,7 @@ Przeczytajmy:
     Podobnie też [jest] jak z~pewnym człowiekiem, który mając się udać w~podróż, przywołał swoje sługi i~przekazał im swój majątek. Jednemu dał pięć talentów, drugiemu dwa, trzeciemu jeden, każdemu według jego zdolności, i~odjechał. Zaraz ten, który otrzymał pięć talentów, poszedł, puścił je w~obrót i~zyskał drugie pięć. Tak samo i~ten, który dwa otrzymał; on również zyskał drugie dwa. Ten zaś, który otrzymał jeden, poszedł i~rozkopawszy ziemię, ukrył pieniądze swego pana. Po dłuższym czasie powrócił pan owych sług i~zaczął rozliczać się z~nimi. Wówczas przyszedł ten, który otrzymał pięć talentów. Przyniósł drugie pięć i~rzekł: "Panie, przekazałeś mi pięć talentów, oto drugie pięć talentów zyskałem". Rzekł mu pan: "Dobrze, sługo dobry i~wierny! Byłeś wierny w~rzeczach niewielu, nad wieloma cię postawię: wejdź do radości twego pana!" Przyszedł również i~ten, który otrzymał dwa talenty, mówiąc: "Panie, przekazałeś mi dwa talenty, oto drugie dwa talenty zyskałem". Rzekł mu pan: "Dobrze, sługo dobry i~wierny! Byłeś wierny w~rzeczach niewielu, nad wieloma cię postawię: wejdź do radości twego pana!" Przyszedł i~ten, który otrzymał jeden talent, i~rzekł: "Panie, wiedziałem, żeś jest człowiek twardy: chcesz żąć tam, gdzie nie posiałeś, i~zbierać tam, gdzieś nie rozsypał. Bojąc się więc, poszedłem i~ukryłem twój talent w~ziemi. Oto masz swoją własność!" Odrzekł mu pan jego: "Sługo zły i~gnuśny! Wiedziałeś, że chcę żąć tam, gdzie nie posiałem, i~zbierać tam, gdziem nie rozsypał. Powinieneś więc był oddać moje pieniądze bankierom, a~ja po powrocie byłbym z~zyskiem odebrał swoją własność. Dlatego odbierzcie mu ten talent, a~dajcie temu, który ma dziesięć talentów. Każdemu bowiem, kto ma, będzie dodane, tak że nadmiar mieć będzie. Temu zaś, kto nie ma, zabiorą nawet to, co ma. A~sługę nieużytecznego wyrzućcie na zewnątrz - w~ciemności! Tam będzie płacz i~zgrzytanie zębów".
 
     -- Mt 25,14-30
-    
+
 * Ile to jest 1 talent? Co nam to mówi o~naszej wartości w~oczach Boga? (Jeśli to my jesteśmy sługami, a~on Panem?)
 
 .. note:: 1 talent = 6000 drachm; Generalnie kupa szmalu, bo drachma to rzymska moneta z~3,85g srebra, równowartość greckiego denara, który był dziennym wynagrodzeniem robotnika. Czyli 1 talent to 23,1kg czystego srebra, albo jak kto woli - równowartość 6000 dniówek!.
@@ -93,7 +93,7 @@ Przeczytajmy:
 
 Wniosek: mamy działać a~nie wegetować! Bóg nie chce od nas postawy “Jakigoś mie Panie Boże stworzoł takigo mie mosz”!
 
-Podobny fragment: 
+Podobny fragment:
 
     Potem usiadł naprzeciw skarbony i~przypatrywał się, jak tłum wrzucał drobne pieniądze do skarbony. Wielu bogatych wrzucało wiele. Przyszła też jedna uboga wdowa i~wrzuciła dwa pieniążki, czyli jeden grosz. Wtedy przywołał swoich uczniów i~rzekł do nich: «Zaprawdę, powiadam wam: Ta uboga wdowa wrzuciła najwięcej ze wszystkich, którzy kładli do skarbony. Wszyscy bowiem wrzucali z~tego, co im zbywało; ona zaś ze swego niedostatku wrzuciła wszystko, co miała, całe swe utrzymanie».
 
@@ -101,7 +101,7 @@ Podobny fragment:
 
 * Ok, no to teraz ile to jest ten grosz?
 
-.. note:: dosł. 2 leptony, czyli 1 kwadrans, tj. moneta o~równowartości 1/64 denara - czyli 1/64 dniówki robotniczej (a zauważmy, że była wdową, a~nie pracującym robotnikiem!) 
+.. note:: dosł. 2 leptony, czyli 1 kwadrans, tj. moneta o~równowartości 1/64 denara - czyli 1/64 dniówki robotniczej (a zauważmy, że była wdową, a~nie pracującym robotnikiem!)
 
 * Dlaczego Jezus pochwala ofiarę wrzuconą przez wdowę? Przecież nic nie wniosła!
 
@@ -121,12 +121,12 @@ Przykłady z~życia:
 
 Chodzi o~to żeby pokazać, że ważniejszy jest indywidualny wysiłek i~to jak wykorzystuje się swoje możliwości, niż to jaki obiektywnie osiąga się sukces… (a wiadomo, że komu więcej dano, od tego więcej wymagać się będzie!)
 
-.. warning:: Oznacza to również, że Twoja wiara, nawet jeśli wydaje Ci się strasznie mała - dla Boga już znaczy wiele! Warto zachowywać pewien dystans (albo jeśli ktoś woli: ograniczone zaufanie) wobec własnego osądu. To że ja uważam, że moje życie jest mało interesujące, albo w~ogóle nieudane, nie oznacza, że tak jest w~istocie - na sądzie ostatecznym mogę być bardzo zaskoczony gdy zobaczę jaki był mój wpływ na życie wielu ludzi. Bóg widzi bez zasłon. To samo dotyczy wiary w~moim życiu. Może mi się np. wydawać, że moja modlitwa "nie wyszła" i~jest niewiele warta, a~tymczasem w~niebie jest wielkie weselicho, że w~końcu przekroczyłem ważny etap i~przestałem "jechać na emocjach". 
+.. warning:: Oznacza to również, że Twoja wiara, nawet jeśli wydaje Ci się strasznie mała - dla Boga już znaczy wiele! Warto zachowywać pewien dystans (albo jeśli ktoś woli: ograniczone zaufanie) wobec własnego osądu. To że ja uważam, że moje życie jest mało interesujące, albo w~ogóle nieudane, nie oznacza, że tak jest w~istocie - na sądzie ostatecznym mogę być bardzo zaskoczony gdy zobaczę jaki był mój wpływ na życie wielu ludzi. Bóg widzi bez zasłon. To samo dotyczy wiary w~moim życiu. Może mi się np. wydawać, że moja modlitwa "nie wyszła" i~jest niewiele warta, a~tymczasem w~niebie jest wielkie weselicho, że w~końcu przekroczyłem ważny etap i~przestałem "jechać na emocjach".
 
-Jak mawiał br. Roger z~Taizé: 
+Jak mawiał br. Roger z~Taizé:
 
     “W chwilach modlitwy być może nie odczuwamy natychmiastowego efektu. Ale Bóg daje nam Ducha Świętego i~Boże życie w~nas może kiełkować, wzrastać i~inspirować nasze myśli i~działania.”
-    
+
     -- brat Roget z~Taizé
 
 Skoro już o~kiełkowaniu mowa, możemy przeczytać:
@@ -165,19 +165,19 @@ Chodzi o~to, że najważniejszy nie jest podział na ludzi, którzy wierzą w~Bo
 
 .. note:: punkt opcjonalny
 
-Przeczytajmy: 
+Przeczytajmy:
 
     Wy jesteście solą dla ziemi. Lecz jeśli sól utraci swój smak, czymże ją posolić? Na nic się już nie przyda, chyba na wyrzucenie i~podeptanie przez ludzi. Wy jesteście światłem świata. Nie może się ukryć miasto położone na górze. Nie zapala się też światła i~nie stawia pod korcem ale na świeczniku, aby świeciło wszystkim, którzy są w~domu. Tak niech świeci wasze światło przed ludźmi, aby widzieli wasze dobre uczynki i~chwalili Ojca waszego, który jest w~niebie.
 
     -- Mt 5,13-16
-    
+
 * Jakie zadanie stoi przed uczniami Chrystusa (a więc i~przed nami, jeśli decydujemy by iść za nim)?
 
 * Co to dla mnie konkretnie znaczy?
 
 .. note:: jeśli Ci to pomoże, możesz posłużyć się interpretacją w~podobnym stylu: "Zamknijmy oczy. Wyobraźmy sobie, że jesteśmy w~jaskini - nie ma żadnego źródła światła. Naszą decyzją jest zapalenie latarki, żeby móc iść dalej. Jednak gdy będziemy ją przykrywać jakimś materiałem albo ręką - mała część światła oświetli drogę i~ciężko będzie podjąć jakieś działania. Wiara jest zapaleniem naszej pochodni w~świecie. Gdy jednak będziemy ją przysłaniać, decyzja staje się mdłą, bezwartościową - niewiele wniesie. Gdy jednak otworzymy się w~całości i~damy jej działać - wszystko dookoła rozświetli się, a~my możemy kroczyć drogą dalej zapalając innych. Bo czy dwie, trzy latarki w~jaskini nie oświetlą drogi lepiej niż jedna?"
 
-* Czy potrafię dzielić się swoimi przemyśleniami z~innymi (wnioskami i~odkryciami, jak i~pytaniami czy wątpliwościami? 
+* Czy potrafię dzielić się swoimi przemyśleniami z~innymi (wnioskami i~odkryciami, jak i~pytaniami czy wątpliwościami?
 
 “Łaska bazuje na naturze” - indywidualizm każdej drogi wiary
 ============================================================
@@ -207,10 +207,10 @@ Samarytanka - zagmatwane sprawy rodzinne…
 
 św. Hildegarda z~Bingen - nietypowa-typowa zakonnica z~XIIw.
     W~życiu Hildegardy współpracę wiary z~rozumem widać było na każdym kroku. Choć od najmłodszych lat miewała wizje, to jednak niczego z~mnóstwa rzeczy, którymi się zajmowała, nie czyniła bez opierania się na gruntownym wykształceniu jakie zdobyła w~zakonie. Owszem, jej powołanie przez Boga, było aż nader typowe dla jej epoki - zgodnie z~obyczajem dziesiąte dziecko w~rodzinie przeznaczone było do życia zakonnego. Jednak w~tym przypadku decyzja rodziców “odpowiadała pragnieniom Hildegardy”, która w~późniejszym czasie świadomie złożyła śluby wieczyste, a~po latach została przełożoną wspólnoty. Jednak najciekawsze w~życiu św. Hildegardy jest to, jak swoje powołanie realizowała. Parę lat temu, kiedy to słowo było jeszcze modne, moglibyśmy o~niej powiedzieć “hardkor”! Zupełnie nie przejmowała się panującymi w~jej czasach uprzedzeniami wobec kobiet, określanych wręcz jako “nieudana kopia mężczyzny, chciwa, zła, podporządkowana swoim namiętnościom i~żołądkowi, o~wątłym intelekcie, skażonej naturze i~większej skłonności do grzechu”! Otóż Hildegarda była dla swoich współczesnych żywym zaprzeczeniem takich stereotypów: komponowała, pisała zarówno poezję jak i~traktaty teologiczne, projektowała stroje, zakładała nowe klasztory i~wznosiła świątynie,  zajmowała się medycyną i~zielarstwem; odbyła 4 podróże duszpasterskie, głosiła publiczne kazania nawołując do zmiany życia zarówno prosty lud jak i~duchowieństwo (!); brała czynny udział w~reformie Kościoła, a~gdy trzeba było, pisała listy z~ochrzanem nawet do cesarza!
-    
+
 “lista otwartych inspiracji”
     miejsce na własne pomysły (gdyby animator chciał dopowiedzieć z~głowy jeszcze parę przykładów, bo np. lubi mówić - byle nie za długo! - i~zna fajnych świętych): Edyta Stein, Pier Giorgio Frassatti, Nikodem, Maria Magdalena
-    
+
 Po zapoznaniu się z~opisami, przyjrzyjmy się pokrótce każdej z~tych historii:
 
 * Co ci ludzie mają ze sobą wspólnego? Co ich różni?
@@ -219,14 +219,14 @@ Po zapoznaniu się z~opisami, przyjrzyjmy się pokrótce każdej z~tych historii
 
 * Czy któraś z~tych historii mnie szokuje? (np. Jakub bijący się z~Bogiem, albo Jonasz, który otwarcie mówi Bogu “Nie pójdę!”, a~po skończonej misji wypomina Bogu, że dał Niniwie szansę na nawrócenie, zamiast ją zrównać z~ziemią)
 
-* Jakie ten barwny “katalog” wzbudza we mnie odczucia, refleksje? Jak daje mi do myślenia w~kontekście mojej własnej wiary? 
+* Jakie ten barwny “katalog” wzbudza we mnie odczucia, refleksje? Jak daje mi do myślenia w~kontekście mojej własnej wiary?
 
 Co jest ważne w~powyższym katalogu? Każdego z~nich Bóg powołał tak, żeby to pasowało do jego charakteru, ale też każdy z~nich realizował swoją “misję” na swój własny sposób i~**nie można powiedzieć, że któryś z~tych sposobów był lepszy, a~któryś gorszy!**
 
 Przestrzenie mojego życia, potrzeby świata
 ==========================================
 
-Spróbujmy uzupełnić prostą tabelkę - każdy uczestnik uzupełnia dla siebie. 
+Spróbujmy uzupełnić prostą tabelkę - każdy uczestnik uzupełnia dla siebie.
 
 +----------------------------------+--------------+------------------+------------------+--------------+
 | na co poświęcam najwięcej czasu: | w~ciągu dnia | w~ciągu tygodnia | w~ciągu miesiąca | w~ciągu roku |
@@ -240,7 +240,7 @@ Spróbujmy uzupełnić prostą tabelkę - każdy uczestnik uzupełnia dla siebie
 
 Dajmy sobie ok. 7 minut na oszacowanie jakie są główne przestrzenie naszego życia. Nie musi to być mega dokładnie! Nawet nie musimy układać “od najmniejszej do największej” - wystarczy mniej więcej wybrać po 3 sprawy/środowiska/miejsca, którym poświęcamy najwięcej czasu w~ciągu dnia/tygodnia/miesiąca/roku.
 
-Możemy w~pewnym uproszczeniu powiedzieć, że wskazaliśmy w~ten sposób główne przestrzenie naszego życia, naszego funkcjonowania w~świecie. 
+Możemy w~pewnym uproszczeniu powiedzieć, że wskazaliśmy w~ten sposób główne przestrzenie naszego życia, naszego funkcjonowania w~świecie.
 
 .. warning:: Może się zdarzyć tak, że czegoś co jest dla nas ważne jednak tu nie wypisaliśmy, bo pomimo, że jest dla nas czymś bardzo istotnym, to jednak nie poświęcamy temu aż tyle czasu - choćby dlatego, że np. dana czynność nie jest zbyt czasochłonna. Można o~tym wspomnieć, żeby takie “przestrzenie” też nam nie umknęły.
 
@@ -253,7 +253,7 @@ Przyjrzyjmy się tym przestrzeniom naszego życia, zaangażowania, wykorzystania
 * Jakie pytania odnośnie tych przestrzeni stawia mi wiara? Czy coś z~tego co wypisałem, można by jakoś pozytywnie wykorzystać, aby wyciągnąć z~tego jeszcze większe dobro? Czy coś z~tego kłóci się w~jakiś sposób z~moją wiarą?
 
 (Nie naciskajmy oczywiście na zbyt osobiste tematy, jeśli ktoś nie chce mówić. Nie chodzi naturalnie o~publiczny rachunek sumienia. Ale jakiś konkret musi być!)
- 
+
 **Opcjonalnie (raczej dla grupach starszych)**
 
 Spróbujmy jeszcze spojrzeć na nasze życie w~szerszym kontekście wydarzeń i~problemów otaczającego nas świata:

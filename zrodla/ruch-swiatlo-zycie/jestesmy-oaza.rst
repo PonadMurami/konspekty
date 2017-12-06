@@ -27,7 +27,7 @@ Należy zwrócić uwagę na wyjątkowość faktu, że się **spotykamy**.
     Niewątpliwie zdecydowana większość tego, co dziś między ludźmi nazywa się rozmową, należałoby trafniej, w~dokładnym sensie tego słowa, określić jako gadanina. Na ogół ludzie nie mówią naprawdę do siebie; każdy, chociaż zwrócony do drugiego, mówi w~rzeczywistości do fikcyjnej instancji, której istnienie wyczerpuje się w~wysłuchaniu go.
 
     -- Marin Buber
-    
+
 Zapytajmy:
 
 * Ile mamy doświadczeń takiego prawdziwego spotkania się z~człowiekiem?
@@ -35,7 +35,7 @@ Zapytajmy:
 Można poddać "krytycznemu spojrzeniu" nasze kontakty – na ile w~nich jest otwarcia się na siebie. Jedną z~podstawowych rzeczy która w~Oazie pociąga (mniej lub bardziej świadomie) jest to, że tutaj się naprawdę rozmawia, a~nie dyskutuje zza baszt swojego JA.
 
 * Czy jako "weterani" Oazowi patrzymy w~ogóle z~wdzięcznością na wspólnotę?
- 
+
 * Czy doceniamy to coś naprawdę niezwykłego, że drugi człowiek chce ze mną rozmawiać o~czymś więcej niż cenach nowych abonamentów telefonów komórkowych?
 
 Co już zawdzięczamy wspólnocie
@@ -68,9 +68,9 @@ Podsumowanie
 Bez cienia ironii:
 
     Trzymajmy się niewzruszenie nadziei, którą wyznajemy, bo godny jest zaufania Ten, który dał obietnicę. Troszczmy się o~siebie wzajemnie, by się zachęcać do miłości i~do dobrych uczynków. Nie opuszczajmy naszych wspólnych zebrań, jak się to stało zwyczajem niektórych, ale zachęcajmy się nawzajem, i~to tym bardziej, im wyraźniej widzicie, że zbliża się dzień
-    
+
     -- Hbr 10,23-25
-    
+
 "Bez" konspektu potrafiliśmy siebie głęboko ubogacić. Wspólnota to olbrzymia wartość jeżeli podchodzimy do niej świadomie (odpowiadamy "dla drugiego" a~nie po to aby chwalić się przed drugim). Jest to też rzecz trudna – bo zależy od nas samych....
 
 I to właśnie dlatego z~radością wołamy "Jesteśmy Oazą!".

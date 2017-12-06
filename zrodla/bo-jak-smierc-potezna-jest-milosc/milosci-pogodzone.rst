@@ -52,7 +52,7 @@ Miłość w~Pnp nie jest przeciwstawieniem miłości zmysłowej, ludzkiej z~mił
 Jako syntezę tego punktu można przeczytać komentarz G Ravasiego:
 
    Miłość w~Pnp jest mieszanką eros i~agape w~pełni spotkania między dwiema osobami. Miłość jest egzaltacją i~ekscytującym doświadczeniem piękna, estetyczności, uroku – fizycznego i~duchowego. [...] Potwierdzają to liczne symbole, metafory, obrazy szczęścia, tak charakterystyczne dla Pnp. Co więcej na końcu wszystkie te porównania głoszą całkowitą wyjątkowość, nieporównywalność miłości. [...]
-   
+
    Dynamika miłości w~ujęciu Pnp, jest jednocześnie posiadaniem i~wolnością. Niepokój, nieobecność i~poszukiwanie, które tu i~tam pojawiają się w~Pnp, poświadczają, że miłość jest tożsamością i~zarazem autonomią, jest posiadaniem i~darem. Ukazuje się w~ten sposób «cecha niemożliwości zawłaszczenia i~i wejścia w~posiadanie jednej osoby przez drugą. Osoba jest kimś, kto przerasta wszelkie miary zawłaszczenia i~panowania, posiadanie i~spełnienia» (Jan Paweł II, 6 VI 1984). Wolny dar jednej osoby dla drugiej przekracza tę niemożliwość.
 
 To właśnie wyrażają słowa oblubienicy, składa ona dar z~siebie, podobnie jak uczynił to jej ukochany. To samo wyrazi św. Paweł pisząc: *"teraz nie żyję już ja, ale żyje we mnie Chrystus".*

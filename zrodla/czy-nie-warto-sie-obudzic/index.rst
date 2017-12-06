@@ -17,7 +17,7 @@ Opis rekolekcji:
     .. rubric:: Spis konspektów spotkań w~grupach
 
 .. toctree::
-   spotkanie1.rst
-   spotkanie2.rst
-   spotkanie3.rst
-   spotkanie4.rst
+   moje-dzis-wielkie-dzis.rst
+   jezeli-chcemy-dojsc-do-celu-to-dojdziemy.rst
+   tobie-adamie-rozkazuje-zbudz-sie-ktory-spisz.rst
+   quo-vadis.rst
