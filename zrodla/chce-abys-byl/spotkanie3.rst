@@ -184,4 +184,4 @@ Wymyślić i~spisać jedną rzecz, którą chcę zmienić/której chciałbym do�
 Modlitwa
 ========
 
-Modlitwa uwielbienia z prośbą o obfite owoce rekolekcji. Można wykorzystać psalm 103.
+Modlitwa uwielbienia z~prośbą o~obfite owoce rekolekcji. Można wykorzystać psalm 103.
