@@ -56,8 +56,6 @@ Nie ważne ile mamy lat, ile z~Bogiem przeszliśmy i~na ile Go poznaliśmy. Moż
 
 **Temperament w~wierze**
 
-.. note:: Na końcu konspektu znajdują się ciekawe artykuły na temat temperamentów. Naprawdę warto przeczytać wcześniej
-
 Mówiliśmy o~tożsamości, pragnieniach, szukaniu siebie. Na to wszystko duży wpływ ma temperament, który jednocześnie kształtuje nasz charakter. Zobaczmy jaka jest rola temperamentu w~wierze.
 
 * Jaki jest mój charakter? Co lubię, jakie są moje cechy itd.?
@@ -182,3 +180,8 @@ Zastosowanie
 ============
 
 Wymyślić i~spisać jedną rzecz, którą chcę zmienić/której chciałbym doświadczyć w~najbliższym tygodniu po rekolekcjach.
+
+Modlitwa
+========
+
+Modlitwa uwielbienia z prośbą o obfite owoce rekolekcji. Można wykorzystać psalm 103.
