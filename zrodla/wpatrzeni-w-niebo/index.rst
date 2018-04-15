@@ -4,7 +4,7 @@ Wpatrzeni w~niebo
 Czas powstania konspektów:
     Wiosna 2018 roku
 Miejsce pierwszych rekolekcji:
-    Brenna, archidiecezja katowicka
+    Brenna, diecezja bielsko-żywiecka
 Miejsce powstania konspektów:
     Diecezja gliwicka
 Grupa docelowa:

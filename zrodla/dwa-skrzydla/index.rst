@@ -4,7 +4,7 @@ Dwa Skrzydła
 Czas powstania konspektów:
     Jesień 2016 roku
 Miejsce pierwszych rekolekcji:
-    Brenna, archidiecezja katowicka
+    Brenna, diecezja bielsko-żywiecka
 Miejsce powstania konspektów:
     Diecezja gliwicka
 Grupa docelowa:
