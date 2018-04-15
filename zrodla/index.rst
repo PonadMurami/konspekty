@@ -32,3 +32,4 @@ Spis Treści
    gora-blogoslawienstw/index
    dwa-skrzydla/index
    chce-abys-byl/index
+   wpatrzeni-w-niebo/index
