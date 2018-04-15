@@ -99,102 +99,102 @@ Rybak papieżem
 
 Przeczytajmy:
 
-    Pewnego razu - gdy tłum cisnął się do Niego aby słuchać słowa Bożego, a On stał nad jeziorem Genezaret - zobaczył dwie łodzie, stojące przy brzegu; rybacy zaś wyszli z nich i płukali sieci. Wszedłszy do jednej łodzi, która należała do Szymona, poprosił go, żeby nieco odbił od brzegu. Potem usiadł i z łodzi nauczał tłumy. Gdy przestał mówić, rzekł do Szymona: «Wypłyń na głębię i zarzućcie sieci na połów!». A Szymon odpowiedział: «Mistrzu, całą noc pracowaliśmy i niceśmy nie ułowili. Lecz na Twoje słowo zarzucę sieci». Skoro to uczynili, zagarnęli tak wielkie mnóstwo ryb, że sieci ich zaczynały się rwać. Skinęli więc na wspólników w drugiej łodzi, żeby im przyszli z pomocą. Ci podpłynęli; i napełnili obie łodzie, tak że się prawie zanurzały. Widząc to Szymon Piotr przypadł Jezusowi do kolan i rzekł: «Odejdź ode mnie, Panie, bo jestem człowiek grzeszny». I jego bowiem, i wszystkich jego towarzyszy w zdumienie wprawił połów ryb, jakiego dokonali; jak również Jakuba i Jana, synów Zebedeusza, którzy byli wspólnikami Szymona. Lecz Jezus rzekł do Szymona: «Nie bój się, odtąd ludzi będziesz łowił». I przyciągnąwszy łodzie do brzegu, zostawili wszystko i poszli za Nim.
+    Pewnego razu - gdy tłum cisnął się do Niego aby słuchać słowa Bożego, a~On stał nad jeziorem Genezaret - zobaczył dwie łodzie, stojące przy brzegu; rybacy zaś wyszli z~nich i~płukali sieci. Wszedłszy do jednej łodzi, która należała do Szymona, poprosił go, żeby nieco odbił od brzegu. Potem usiadł i~z łodzi nauczał tłumy. Gdy przestał mówić, rzekł do Szymona: «Wypłyń na głębię i~zarzućcie sieci na połów!». A~Szymon odpowiedział: «Mistrzu, całą noc pracowaliśmy i~niceśmy nie ułowili. Lecz na Twoje słowo zarzucę sieci». Skoro to uczynili, zagarnęli tak wielkie mnóstwo ryb, że sieci ich zaczynały się rwać. Skinęli więc na wspólników w~drugiej łodzi, żeby im przyszli z~pomocą. Ci podpłynęli; i~napełnili obie łodzie, tak że się prawie zanurzały. Widząc to Szymon Piotr przypadł Jezusowi do kolan i~rzekł: «Odejdź ode mnie, Panie, bo jestem człowiek grzeszny». I~jego bowiem, i~wszystkich jego towarzyszy w~zdumienie wprawił połów ryb, jakiego dokonali; jak również Jakuba i~Jana, synów Zebedeusza, którzy byli wspólnikami Szymona. Lecz Jezus rzekł do Szymona: «Nie bój się, odtąd ludzi będziesz łowił». I~przyciągnąwszy łodzie do brzegu, zostawili wszystko i~poszli za Nim.
 
 
    -- Łk 5,1-11
 
 
-Spróbujmy wspólnie zarysować w wyobraźni opisaną scenę.
+Spróbujmy wspólnie zarysować w~wyobraźni opisaną scenę.
 
-* W jakich okolicznościach Szymon spotyka Jezusa?
+* W~jakich okolicznościach Szymon spotyka Jezusa?
 
-Zauważmy: nie w świątyni! ale w swoim miejscu pracy, w samym środku swojej codzienności - właśnie tam przychodzi do niego Jezus!
+Zauważmy: nie w~świątyni! ale w~swoim miejscu pracy, w~samym środku swojej codzienności - właśnie tam przychodzi do niego Jezus!
 
-* Co jest nietypowego/dziwnego w zachowaniu Jezusa?
+* Co jest nietypowego/dziwnego w~zachowaniu Jezusa?
 
-* W jaki sposób Jezus “podbija do Szymona”?
+* W~jaki sposób Jezus “podbija do Szymona”?
 
-Koleś razem ze wspólnikami płucze sieci, jest zajęty robotą. Ni stąd, ni zowąd przychodzi do niego rabbi, włazi mu do łodzi i jeszcze prosi żeby odbił od brzegu.
+Koleś razem ze wspólnikami płucze sieci, jest zajęty robotą. Ni stąd, ni zowąd przychodzi do niego rabbi, włazi mu do łodzi i~jeszcze prosi żeby odbił od brzegu.
 
 * Jak mógł zareagować Piotr?
 
 Piotr mógł przecież odmówić. Powiedzieć, że jest zajęty/zmęczony/cokolwiek. Albo chociaż zażyczyć sobie zapłaty za “wynajęcie łodzi”.
 
-* Jak mogli się poczuć prości rybacy, kiedy ten debiutujący nauczyciel z synagogi, nagle pojawia się pośród nich, kiedy zajęci są w najlepsze swoim rzemiosłem?
+* Jak mogli się poczuć prości rybacy, kiedy ten debiutujący nauczyciel z~synagogi, nagle pojawia się pośród nich, kiedy zajęci są w~najlepsze swoim rzemiosłem?
 
-.. Note:: Dla animatora: Pomocne może być uzmysłowienie sobie, że rybacy wówczas łowili w nocy. Więc w momencie gdy Jezus prosi Szymona by odbił od brzegu, są prawdopodobnie po ciężkiej nocce, w dodatku nic nie złowili. Teraz myją i reperują sieci co jest pracą żmudną i bardzo ważną dla ich “biznesu”. Warto również mieć na względzie, że Jezus najprawdopodobniej nie był na tym etapie całkowicie obcy Szymonowi i jego towarzyszom. Trochę już nauczał w okolicy, więc conajmniej o nim słyszeli.
+.. Note:: Dla animatora: Pomocne może być uzmysłowienie sobie, że rybacy wówczas łowili w~nocy. Więc w~momencie gdy Jezus prosi Szymona by odbił od brzegu, są prawdopodobnie po ciężkiej nocce, w~dodatku nic nie złowili. Teraz myją i~reperują sieci co jest pracą żmudną i~bardzo ważną dla ich “biznesu”. Warto również mieć na względzie, że Jezus najprawdopodobniej nie był na tym etapie całkowicie obcy Szymonowi i~jego towarzyszom. Trochę już nauczał w~okolicy, więc conajmniej o~nim słyszeli.
 
-Jezus za okazaną mu pomoc, jak i zaufanie odpłaca się połowem obfitym ponad miarę, mimo wszelkich logicznych przesłanek sztuki rybackiej. Nie wiemy nawet o czym dokładnie nauczał z łodzi, ale najwyraźniej “mądrze prawił”, skoro zaintrygował Piotra na tyle, że ten zdecydował się zaryzykować i zarzucić sieci wbrew wszelkiej logice.
+Jezus za okazaną mu pomoc, jak i~zaufanie odpłaca się połowem obfitym ponad miarę, mimo wszelkich logicznych przesłanek sztuki rybackiej. Nie wiemy nawet o~czym dokładnie nauczał z~łodzi, ale najwyraźniej “mądrze prawił”, skoro zaintrygował Piotra na tyle, że ten zdecydował się zaryzykować i~zarzucić sieci wbrew wszelkiej logice.
 
-.. Note:: Całą noc nic nie złowili, w dodatku mają już częściowo umyte sieci, prawdopodobnie teraz wszyscy chcą iść się zdrzemnąć, żeby wieczorem spróbować na nowo coś ułowić, w końcu od tego zależy ich byt doczesny...
+.. Note:: Całą noc nic nie złowili, w~dodatku mają już częściowo umyte sieci, prawdopodobnie teraz wszyscy chcą iść się zdrzemnąć, żeby wieczorem spróbować na nowo coś ułowić, w~końcu od tego zależy ich byt doczesny...
 
-No właśnie, Szymon podejmuje spore ryzyko i zarzuca sieci tak jak radzi mu Jezus:
+No właśnie, Szymon podejmuje spore ryzyko i~zarzuca sieci tak jak radzi mu Jezus:
 
 * Jak rozumiemy tę sytuację?
 
-* Co nas zaskakuje w zachowaniu Piotra?
+* Co nas zaskakuje w~zachowaniu Piotra?
 
-Swoją drogą, możliwe nawet, że na początku Piotr potraktował to na zasadzie: “dobra, ten koleś ciekawie gada. Skoro taki mądry to zarzućmy te sieci - mimo, że przed chwilą żeśmy je umyli!. Zobaczymy czy z tej gadki coś wyniknie...”. Inna sprawa, na którą możemy zwrócić uwagę, to to, że Piotr na kartach Ewangelii często działa pod wpływem impulsu. I tu mogło być podobnie.
+Swoją drogą, możliwe nawet, że na początku Piotr potraktował to na zasadzie: “dobra, ten koleś ciekawie gada. Skoro taki mądry to zarzućmy te sieci - mimo, że przed chwilą żeśmy je umyli!. Zobaczymy czy z~tej gadki coś wyniknie...”. Inna sprawa, na którą możemy zwrócić uwagę, to to, że Piotr na kartach Ewangelii często działa pod wpływem impulsu. I~tu mogło być podobnie.
 
-* O czym świadczą słowa Szymona, zaskoczonego obfitym połowem?
+* O~czym świadczą słowa Szymona, zaskoczonego obfitym połowem?
 
-Zwątpił w siebie? Wystraszył się tego “niesamowitego mistrza”? Niepewność, strach wobec wyzwania; przed własną słabością przed popełnieniem błędu (“... bo jestem człowiek grzeszny”)! Przemiana wewnętrzna w odniesieniu do Jezusa! - wcześniej zwracał się do niego “mistrzu/nauczycielu”, jak do każdego rabina, teraz mówi “Panie”!
+Zwątpił w~siebie? Wystraszył się tego “niesamowitego mistrza”? Niepewność, strach wobec wyzwania; przed własną słabością przed popełnieniem błędu (“... bo jestem człowiek grzeszny”)! Przemiana wewnętrzna w~odniesieniu do Jezusa! - wcześniej zwracał się do niego “mistrzu/nauczycielu”, jak do każdego rabina, teraz mówi “Panie”!
 
-* Co odpowiada na to Jezus? O czym to świadczy?
+* Co odpowiada na to Jezus? O~czym to świadczy?
 
-* Jaki mogło to mieć wpływ na Szymona Piotra? Co to spotkanie zmienia w życiu Szymona Piotra oraz jego towarzyszy?
+* Jaki mogło to mieć wpływ na Szymona Piotra? Co to spotkanie zmienia w~życiu Szymona Piotra oraz jego towarzyszy?
 
-“Zostawili wszystko i poszli za Nim.”, a więc podejmują pewną drogę, ruszają w nieznane za tym przedziwnym mistrzem
+“Zostawili wszystko i~poszli za Nim.”, a~więc podejmują pewną drogę, ruszają w~nieznane za tym przedziwnym mistrzem
 
 * Kim jest Szymon po tym spotkaniu?
 
-“Nie bój się, odtąd ludzi będziesz łowił.” Dalej będzie łowił, tylko ambitniej! Nie przestaje nagle być narwanym rybakiem z Galilei, dalej będzie sobą, ale z biegiem czasu Jezus będzie go kształtował, “urabiał” jego charakter, tak aby zrozumiał do głębi nauczanie Mistrza i żeby w nalepszy możliwy sposób służył braciom! Szymon nie traci siebie, nadal pozostaje sobą. Zyskuje jednak bardzo wiele, bo może już patrzeć na siebie nie tylko własnymi oczami (“odejdź, bo jestem grzesznikiem”), ale również otwiera się przed nim możliwość poznania siebie takim, jakiego widzi go Bóg (“będziesz łowił ludzi”).
+“Nie bój się, odtąd ludzi będziesz łowił.” Dalej będzie łowił, tylko ambitniej! Nie przestaje nagle być narwanym rybakiem z~Galilei, dalej będzie sobą, ale z~biegiem czasu Jezus będzie go kształtował, “urabiał” jego charakter, tak aby zrozumiał do głębi nauczanie Mistrza i~żeby w~nalepszy możliwy sposób służył braciom! Szymon nie traci siebie, nadal pozostaje sobą. Zyskuje jednak bardzo wiele, bo może już patrzeć na siebie nie tylko własnymi oczami (“odejdź, bo jestem grzesznikiem”), ale również otwiera się przed nim możliwość poznania siebie takim, jakiego widzi go Bóg (“będziesz łowił ludzi”).
 
-* Jakie podobne momenty mógłbym wskazać w swoim życiu?
+* Jakie podobne momenty mógłbym wskazać w~swoim życiu?
 
-* Szymon w pewnym sensie dostaje wyzwanie, które zmienia go, ale ostatecznie nie sprawia, że jest zagubiony. Co temu sprzyja? Dzięki czemu tak się dzieje?
+* Szymon w~pewnym sensie dostaje wyzwanie, które zmienia go, ale ostatecznie nie sprawia, że jest zagubiony. Co temu sprzyja? Dzięki czemu tak się dzieje?
 
-Wydaje się, że spore znaczenie w tej scenie ma fakt, że Jezus przychodzi do Piotra podczas połowu ryb. Nie wyskakuje nagle z obłoku i nie mówi do rybaka: “Hej, ty! Zostaw te ryby i stań na czele wspólnoty Kościoła. Dostaniesz pierścień i szatę, będziesz chodził po świecie i nauczał” - takie wezwanie raczej by go nie porwało…
+Wydaje się, że spore znaczenie w~tej scenie ma fakt, że Jezus przychodzi do Piotra podczas połowu ryb. Nie wyskakuje nagle z~obłoku i~nie mówi do rybaka: “Hej, ty! Zostaw te ryby i~stań na czele wspólnoty Kościoła. Dostaniesz pierścień i~szatę, będziesz chodził po świecie i~nauczał” - takie wezwanie raczej by go nie porwało…
 
-Jezus używa języka zrozumiałego dla Szymona. Nie mówi o “przemawianiu do ludzi”, o “nawracaniu”, nauczaniu - nic z tych rzeczy. Jezus mówi: “będziesz łowił”. Cały czas relacja Piotra z Jezusem jest budowana w sposób spójny i kompatybilny z tym kim i jaki jest Piotr.
+Jezus używa języka zrozumiałego dla Szymona. Nie mówi o~“przemawianiu do ludzi”, o~“nawracaniu”, nauczaniu - nic z~tych rzeczy. Jezus mówi: “będziesz łowił”. Cały czas relacja Piotra z~Jezusem jest budowana w~sposób spójny i~kompatybilny z~tym kim i~jaki jest Piotr.
 
-Bóg przychodzi do człowieka w samym sercu naszej codzienności - tam gdzie jesteśmy, do takich jacy jesteśmy. Dlatego nie powinniśmy dzielić naszego życia na świeckie i duchowe. Z jednej strony wszędzie jesteśmy sobą: we wszystkim co robimy na co dzień ale i w Kościele! Z drugiej strony, pokusa podziału swojego życia na: “Ja kościółkowy” i “Ja światowy” stanowi przeszkodę w rozwoju wiary. Wszyscy chyba takiej pokusy doświadczamy, tymczasem Boga interesuje nie tylko to co “duchowe”! On chce naszego rozwoju - tzn. zintegrowanego i całościowego.
+Bóg przychodzi do człowieka w~samym sercu naszej codzienności - tam gdzie jesteśmy, do takich jacy jesteśmy. Dlatego nie powinniśmy dzielić naszego życia na świeckie i~duchowe. Z~jednej strony wszędzie jesteśmy sobą: we wszystkim co robimy na co dzień ale i~w Kościele! Z~drugiej strony, pokusa podziału swojego życia na: “Ja kościółkowy” i~“Ja światowy” stanowi przeszkodę w~rozwoju wiary. Wszyscy chyba takiej pokusy doświadczamy, tymczasem Boga interesuje nie tylko to co “duchowe”! On chce naszego rozwoju - tzn. zintegrowanego i~całościowego.
 
-Można nawet w tym miejscu przywołać słowa średniowiecznego mistyka Kościoła:
+Można nawet w~tym miejscu przywołać słowa średniowiecznego mistyka Kościoła:
 
-    Jeżeli przy pracy mniej masz Boga w sobie niż w kościele, to nie masz Go prawdziwie.
+    Jeżeli przy pracy mniej masz Boga w~sobie niż w~kościele, to nie masz Go prawdziwie.
     -- Mistrz Eckhart
 
-Co więcej, Bóg wchodząc w naszą codzienność, przemienia ją, nadaje jej głębszego wymiaru. Jezus nie tylko przychodzi do nas tam gdzie jesteśmy, do takich jacy jesteśmy, ale też przemienia nas i poszerza naszą codzienność o perspektywę wieczności, włącza moje “pięć minut” w swój uniwersalny plan zbawienia!
+Co więcej, Bóg wchodząc w~naszą codzienność, przemienia ją, nadaje jej głębszego wymiaru. Jezus nie tylko przychodzi do nas tam gdzie jesteśmy, do takich jacy jesteśmy, ale też przemienia nas i~poszerza naszą codzienność o~perspektywę wieczności, włącza moje “pięć minut” w~swój uniwersalny plan zbawienia!
 
-Ważne: Spróbujmy teraz odnieść do swojego życia to co wynieśliśmy z opowieści o spotkaniu Piotra z Jezusem:
+Ważne: Spróbujmy teraz odnieść do swojego życia to co wynieśliśmy z~opowieści o~spotkaniu Piotra z~Jezusem:
 
 **Świeckie → duchowe**
 
 Do Szymona Jezus powiedział “Będziesz łowił”.
 
-* Co mógłby, analogicznie, powiedzieć do mnie gdyby przyszedł do mnie w środku dnia, tak jak wtedy do Szymona?
+* Co mógłby, analogicznie, powiedzieć do mnie gdyby przyszedł do mnie w~środku dnia, tak jak wtedy do Szymona?
 
 “Będziesz tłumaczył”?, “Będziesz grał”?, “Będziesz kodował”?, “Będziesz szył?”, “Będziesz gotował”?, itp. itd.
 
-* W jaki sposób w tym co robię mogę odnajdywać i pogłębiać swoją więź z Bogiem?
+* W~jaki sposób w~tym co robię mogę odnajdywać i~pogłębiać swoją więź z~Bogiem?
 
-* Jak postrzegam swoją szkołę/zawód/studia? W jaki sposób są one dla mnie okazją do służby na rzecz Królestwa Bożego? (Zarówno teraz jak i w dalszej perspektywie)
+* Jak postrzegam swoją szkołę/zawód/studia? W~jaki sposób są one dla mnie okazją do służby na rzecz Królestwa Bożego? (Zarówno teraz jak i~w dalszej perspektywie)
 
 **Duchowe → świeckie**
 
-* Jak wygląda moja modlitwa? Na ile uwzględniam w niej również moje “przyziemne sprawy”?
+* Jak wygląda moja modlitwa? Na ile uwzględniam w~niej również moje “przyziemne sprawy”?
 
-* Czy powierzam Chrystusowi to że: “tak mnie wkurza ten szef”, “w ogóle nie mam pomysłu na ten projekt”, “tak mi się podoba tamta dziewczyna”, “taki czelendż mamy na ten miesiąc”, “w ogóle nie rozumiem tych moich rodziców”, “nie rozumiem matmy”, “klient mnie oszukał”, “zrobiłem świetne tłumaczenie”, “dostałem 5 z biologii”, “jestem w d… z magisterką!”, “całą noc pracowaliśmy i niceśmy nie ułowili…” ?
+* Czy powierzam Chrystusowi to że: “tak mnie wkurza ten szef”, “w ogóle nie mam pomysłu na ten projekt”, “tak mi się podoba tamta dziewczyna”, “taki czelendż mamy na ten miesiąc”, “w ogóle nie rozumiem tych moich rodziców”, “nie rozumiem matmy”, “klient mnie oszukał”, “zrobiłem świetne tłumaczenie”, “dostałem 5 z~biologii”, “jestem w~d… z~magisterką!”, “całą noc pracowaliśmy i~niceśmy nie ułowili…” ?
 
-Podsumowanie i zastosowanie
+Podsumowanie i~zastosowanie
 ===========================
 
-Zastosowanie z tego spotkania chcemy wziąć ze sobą na modlitwę wieczorną. Zapiszmy w notatniku krótką modlitwę:
+Zastosowanie z~tego spotkania chcemy wziąć ze sobą na modlitwę wieczorną. Zapiszmy w~notatniku krótką modlitwę:
 
-    "Panie Boże daj mi usłyszeć Twój głos skierowany do mnie szczególnie w przestrzeni ..........., w której wiem, że też chcesz być ze mną"
+    "Panie Boże daj mi usłyszeć Twój głos skierowany do mnie szczególnie w~przestrzeni ..........., w~której wiem, że też chcesz być ze mną"
 
-Wykropkowaną lukę uzupełnijmy na modlitwie wieczornej, wpisując w nią tą przestrzeń, którą odnajdujemy jako swoją, i w której tak jak w łodzi rybackiej Szymona, chce być obecny Bóg.
+Wykropkowaną lukę uzupełnijmy na modlitwie wieczornej, wpisując w~nią tą przestrzeń, którą odnajdujemy jako swoją, i~w której tak jak w~łodzi rybackiej Szymona, chce być obecny Bóg.
 
-Na zakończenie pomódlmy  się za siebie nawzajem, powierzając jedni drugich Bogu na cały czas tych rekolekcji. Pięknym i wymownym gestem jest np. położenie ręki na ramieniu osoby po mojej prawej stronie podczas takiej modlitwy.
+Na zakończenie pomódlmy  się za siebie nawzajem, powierzając jedni drugich Bogu na cały czas tych rekolekcji. Pięknym i~wymownym gestem jest np. położenie ręki na ramieniu osoby po mojej prawej stronie podczas takiej modlitwy.
