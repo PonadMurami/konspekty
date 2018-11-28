@@ -1,4 +1,4 @@
-Spotkanie 3. - “Bądźcie więc wy doskonali, jak doskonały jest Ojciec wasz niebieski”
+Spotkanie 3. - “Rozwój w~mocy Ducha Świętego”
 ************************************************************************************
 
 Cel spotkania + wprowadzenie dla animatora
