@@ -179,10 +179,10 @@ Chcielibyśmy się tym zmianom w~tym momencie przypatrzeć. W~załącznikach zna
 
 +------------+------------+-------------+------------+
 | Ojciec     | Przyjaciel | Król        | Misjonarz  |
-+------------+------------+-------------+------------+
++============+============+=============+============+
 | Opiekun    | Znajomy    | Sędzia      | Zbawca     |
 +------------+------------+-------------+------------+
-|            |            |             |            |
+| …………       | …………       | ……………       | …………       |
 +------------+------------+-------------+------------+
 
 * Dlaczego w~moim życiu nastąpiły takie zmiany?
@@ -287,7 +287,7 @@ Według określenia, jakie podaje Katechizm Kościoła Katolickiego, “Kośció
 
 Ale! Kościół to nie tylko instytucja, budynek, lud. Kościół - to ja. A~ja co tydzień wypowiadam, że w~ten mój Kościół wierzę. Ale co to dla mnie znaczy? Zastanawiałem się kiedyś nad tymi słowami? W~ramach zastosowania proponujemy do rozważania fragment Credo. Słowo po słowie. Można zapisać w~notatniku i~dodać pytanie: Jak Królestwo może się urzeczywistniać w~Kościele?
 
-| "Wierzę w~
+| "Wierzę w
 | jeden,
 | Święty,
 | powszechny
