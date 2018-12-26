@@ -106,6 +106,7 @@ Mamy jednak taką naturę, że czasami mówimy/myślimy, że na coś czekamy, al
 * Załóżmy, że możesz zadać dwa pytania na które otrzymujesz pełną i~wyczerpująca odpowiedź na dowolny temat - jakie pytania zadajesz? Dlaczego?
 
 .. note:: Pytanie nie jest trywialne. Pierwszą myślą moją było pytanie: “jak kochać prawdziwie?” - chwilę później było mi bardzo głupio, bo spojrzałem na ponad 1000 stronicową odpowiedź, która leży teraz na moim biurku w~chwili pisania tego konspektu i~do której często zerkam.
+
 Uważajcie, aby ten fragment spotkania nie stał się grą w~“policję i~złodziei” - nie chcemy “chwycić” uczestników na niczym. Proponuje z~tego powodu, aby animator zaczął wyjątkowo jako pierwszy dzielić się swoją odpowiedzią. Dodatkowe założenie dla dociekliwych: zakładając, że odpowiedź będzie tak dostosowana i~przekazana, że ją w~100% zrozumiecie.
 
 Wybory w~naszym życiu są czymś bardzo ważnym, ale czy nie paraliżują nas one? Czy nie mamy tak, że boimy się zdecydować z~powodu tego, że wyszukujemy tyle pytań, że wątpliwości biorą górę nad wszystkim?
@@ -168,7 +169,7 @@ Popatrzcie co robi Kościół (animator wyciąga przygotowane kartki):
 
 #. Adwent to **oczekiwanie** na Boże Narodzenie
 
-#. Ze współżyciem mamy **czeka**ć aż do ślubu
+#. Ze współżyciem mamy **czekać** aż do ślubu
 
 #. Żyjąc tutaj na Ziemi **czekamy** na ponowne przyjście Jezusa
 
