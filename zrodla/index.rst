@@ -34,3 +34,4 @@ Spis Treści
    chce-abys-byl/index
    wpatrzeni-w-niebo/index
    rownowaga/index
+   7slow/index

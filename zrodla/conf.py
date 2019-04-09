@@ -53,7 +53,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Konspekty spotkań grupowych'
-copyright = u'2018, Diakonia Ponad Murami'
+copyright = u'2019, Diakonia Ponad Murami'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -70,7 +70,7 @@ language = 'pl'
 
 # There are two options for replacing |today|: either, you set today to some
 # non-false value, then it is used:
-today = u'Grudzień 2018'
+today = u'Kwiecień 2019'
 # Else, today_fmt is used as the format for a strftime call.
 #today_fmt = '%m-%d-%Y'
 
