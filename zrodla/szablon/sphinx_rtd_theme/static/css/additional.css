@@ -9,6 +9,7 @@
 	height: 33%;
 	max-width: 100px;
 	margin: auto;
+    border-radius: 0;
 }
 
 .section > blockquote {
