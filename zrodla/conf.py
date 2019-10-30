@@ -130,7 +130,7 @@ html_short_title = u'Książka'
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-html_logo = 'static/foska.svg'
+html_logo = 'static/logo.svg'
 
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
@@ -210,7 +210,7 @@ latex_documents = [
 
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
-latex_logo = 'static/foska.png'
+latex_logo = 'static/logo.png'
 
 # For "manual" documents, if this is true, then toplevel headings are parts,
 # not chapters.
