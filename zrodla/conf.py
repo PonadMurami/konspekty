@@ -73,7 +73,7 @@ release = 'testowe'
 
 # There are two options for replacing |today|: either, you set today to some
 # non-false value, then it is used:
-today = u'Kwiecień 2019'
+today = u'Grudzień 2019'
 # Else, today_fmt is used as the format for a strftime call.
 #today_fmt = '%m-%d-%Y'
 

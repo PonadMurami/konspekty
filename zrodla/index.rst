@@ -35,3 +35,4 @@ Spis Treści
    wpatrzeni-w-niebo/index
    rownowaga/index
    7slow/index
+   oczekiwany/index
