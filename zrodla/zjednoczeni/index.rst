@@ -10,7 +10,7 @@ Miejsce powstania konspektów:
 Grupa docelowa:
     Rekolekcje otwarte dla ludzi od 14 roku życia
 Opis rekolekcji:
-    BRAK
+    Rekolekcje online zorganizowane w~czasie ograniczeń spotkań publicznych w~związku z~pandemią covid-19.
 
 .. only:: html
 
