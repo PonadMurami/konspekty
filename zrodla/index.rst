@@ -36,3 +36,4 @@ Spis Treści
    rownowaga/index
    7slow/index
    oczekiwany/index
+   zjednoczeni/index
