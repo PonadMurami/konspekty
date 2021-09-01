@@ -2,7 +2,7 @@ Anthrakia
 #########
 
 Czas powstania konspektów:
-    Wiosna 2019 roku
+    Lato 2021 roku
 Miejsce pierwszych rekolekcji:
     Racibórz-Miedonia, diecezja gliwicka
 Miejsce powstania konspektów:
