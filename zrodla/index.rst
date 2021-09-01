@@ -37,3 +37,4 @@ Spis Treści
    7slow/index
    oczekiwany/index
    zjednoczeni/index
+   anthrakia/index

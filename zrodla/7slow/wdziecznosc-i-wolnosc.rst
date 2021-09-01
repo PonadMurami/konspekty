@@ -48,9 +48,9 @@ Dar ofiarny to symbol, którego znaczenie zależy od wewnętrznej postawy ofiaru
 
 Echo tego pra-kultu znajdujemy także w~Biblii:
 
-Abel był pasterzem trzód, a~Kain uprawiał rolę. Gdy po niejakim czasie Kain składał dla Pana w~ofierze płody roli, zaś Abel składał również pierwociny ze swej trzody i~z ich tłuszczu, Pan wejrzał na Abla i~na jego ofiarę; na Kaina zaś i~na jego ofiarę nie chciał patrzeć. Smuciło to Kaina bardzo i~chodził z~ponurą twarzą.
+    Abel był pasterzem trzód, a~Kain uprawiał rolę. Gdy po niejakim czasie Kain składał dla Pana w~ofierze płody roli, zaś Abel składał również pierwociny ze swej trzody i~z ich tłuszczu, Pan wejrzał na Abla i~na jego ofiarę; na Kaina zaś i~na jego ofiarę nie chciał patrzeć. Smuciło to Kaina bardzo i~chodził z~ponurą twarzą.
 
-    -- Rdz 4,2-5
+        -- Rdz 4,2-5
 
 W Księdze Kapłańskiej wyodrębniono 5 rodzajów ofiar. Spróbujmy się im przyjrzeć.
 

@@ -126,7 +126,7 @@ W ciszy człowiek wyraża swoją niemoc mówienia i~działania, a~otwiera się n
 - W~jakich momentach doświadczam ciszy w~swoim życiu?
 - Co dzieje się w~moim sercu/głowie kiedy zapada cisza?
 
-**SŁOWA	**
+**SŁOWA**
 
 Trwanie w~ciszy rodzi pragnienie Słowa. Jest to postawa słuchaczy Jezusa w~synagodze w~Nazarecie: „Zwinąwszy księgę oddał słudze i~usiadł; a~oczy wszystkich w~synagodze były w~Nim utkwione” (Łk 4, 20).
 

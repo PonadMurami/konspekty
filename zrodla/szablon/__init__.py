@@ -1,25 +1,28 @@
 import sphinx.writers.html
 import sphinx.writers.latex
-from sphinx.util.smartypants import educate_quotes_latex
+from sphinx.util.smartypants import educateQuotes
+from docutils.nodes import Element, Node, Text
 
-BaseTranslatorHtml = sphinx.writers.html.SmartyPantsHTMLTranslator
+BaseTranslatorHtml = sphinx.writers.html.HTMLTranslator
 BaseTranslatorLatex = sphinx.writers.latex.LaTeXTranslator
 
 class CustomHTMLTranslator(BaseTranslatorHtml):
 
-    def bulk_text_processor(self, text):
-        if '~' in text:
-            text = text.replace('~', '&nbsp;')
-        return BaseTranslatorHtml.bulk_text_processor(self, text)
+    def visit_Text(self, text):
+        str_text = self.encode(text.astext())
+        if '~' in str_text:
+            self.body.append(str_text.replace('~', '&nbsp;'))
+        else:
+            return BaseTranslatorHtml.visit_Text(self, text)
 
 class CustomLatexTranslator(BaseTranslatorLatex):
 
     def visit_Text(self, node):
         text = self.encode(node.astext())
+
         if '\\textasciitilde{}' in text:
             text = text.replace('\\textasciitilde{}', '~')
-        if not self.no_contractions:
-            text = educate_quotes_latex(text)
+
         self.body.append(text)
 
     def visit_attribution(self, node):
@@ -27,4 +30,5 @@ class CustomLatexTranslator(BaseTranslatorLatex):
         self.body.append(' --- ')
 
 def setup(app):
-    sphinx.writers.latex.LaTeXTranslator = CustomLatexTranslator;
+    app.set_translator('html', CustomHTMLTranslator)
+    app.set_translator('latex', CustomLatexTranslator)

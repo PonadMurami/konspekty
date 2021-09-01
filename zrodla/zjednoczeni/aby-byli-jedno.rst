@@ -9,7 +9,7 @@ Na spotkaniu chcemy pochylić się nad obrazami Kościoła w~Piśmie Świętym. 
 Cele spotkania:
 
 - poznanie biblijnych obrazów Kościoła
- -dzielenie - jaki obraz Kościoła noszę w~sercu?
+- dzielenie - jaki obraz Kościoła noszę w~sercu?
 - wspólna modlitwa
 - przeżywanie swojej indywidualności w~relacji do wspólnoty
 
