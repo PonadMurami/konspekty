@@ -21,12 +21,13 @@ module.exports = function(grunt) {
 		"ftp-deploy": {
 			build: {
 				auth: {
-					host: "aei.pl",
+					host: "ponadmurami.pl",
 					port: 21,
 					authKey: "key"
 				},
 				src: "zbudowane/html",
-				dest: "/"
+				dest: "/",
+                forceVerbose: true
 			}
 		},	
 		mkdir: {

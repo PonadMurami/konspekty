@@ -4,7 +4,7 @@ Anthrakia
 Czas powstania konspektów:
     Lato 2021 roku
 Miejsce pierwszych rekolekcji:
-    Racibórz-Miedonia, diecezja gliwicka
+    Racibórz-Miedonia, diecezja opolska
 Miejsce powstania konspektów:
     Diecezja gliwicka
 Grupa docelowa:
