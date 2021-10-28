@@ -60,6 +60,9 @@ module.exports = function(grunt) {
             makeMobi: {
                 command: "ebook-convert zbudowane/html/konspekty.epub zbudowane/html/konspekty.mobi"
             },
+            makeDocx: {
+                command: "pandoc -o ./zbudowane/html/konspekty.docx ./zbudowane/html/konspekty.epub"
+            },
 			makeHtml: {
 				command: "make html"
 			},
@@ -67,6 +70,7 @@ module.exports = function(grunt) {
 				command: [
 					"make clean", 
 					"make html", 
+                    "make singlehtml",
 					"make latexpdf", 
 					"make epub"
 				].join(" && ")
@@ -84,7 +88,7 @@ module.exports = function(grunt) {
         }
 	});	
 	
-	grunt.task.registerTask("make", ["mkdir", "replace", "shell:makeAll", "copy:main", "shell:makeMobi"]);
+	grunt.task.registerTask("make", ["mkdir", "replace", "shell:makeAll", "copy:main", "shell:makeMobi", "shell:makeDocx"]);
 	grunt.task.registerTask("deploy", ["ftp-deploy"]);
 	grunt.task.registerTask("server", ["connect"]);
 	grunt.registerTask("default", ["mkdir", "watch:html"]);

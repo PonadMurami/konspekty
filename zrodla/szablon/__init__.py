@@ -31,4 +31,6 @@ class CustomLatexTranslator(BaseTranslatorLatex):
 
 def setup(app):
     app.set_translator('html', CustomHTMLTranslator)
+    app.set_translator('epub', CustomHTMLTranslator)
+    app.set_translator('singlehtml', CustomHTMLTranslator)
     app.set_translator('latex', CustomLatexTranslator)
