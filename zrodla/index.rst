@@ -38,3 +38,4 @@ Spis Treści
    oczekiwany/index
    zjednoczeni/index
    anthrakia/index
+   na-brzegu/index
