@@ -40,3 +40,4 @@ Spis Treści
    anthrakia/index
    na-brzegu/index
    ta-sama-noc/index
+   jestesmy-z-modlitwy/index
