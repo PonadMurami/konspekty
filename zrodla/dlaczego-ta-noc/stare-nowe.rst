@@ -14,25 +14,24 @@ Za nami wieczór sederowy - szczytowy punkt rekolekcji. Chcieliśmy przez kolacj
 .. note:: Animator wyciąga na stół kartki z~zapisanymi hasłami: Stary Testament, Nowy Testament, Seder, Eucharystia, Prorocy i~Apostołowie.
 
 .. |d1| image:: seder.jpg
-   :scale: 50%
+   :scale: 33%
 .. |d2| image:: eucharystia.jpg
-   :scale: 50%
+   :scale: 33%
 .. |d3| image:: prorocy.jpg
-   :scale: 50%
+   :scale: 33%
 .. |d4| image:: apostolowie.jpg
-   :scale: 50%
+   :scale: 33%
 .. |d5| image:: stary_testament.jpg
-   :scale: 50%
+   :scale: 33%
 .. |d6| image:: nowy_testament.jpg
-   :scale: 50%
+   :scale: 33%
 
-+------+------+
-| |d1| | |d2| |
-+------+------+
-| |d3| | |d4| |
-+------+------+
-| |d5| | |d6| |
-+------+------+
++------+------+------+
+| |d1| | |d3| | |d5| |
++------+------+------+
+| |d2| | |d4| | |d6| |
++------+------+------+
+
 
 Weszliśmy w~te rekolekcje rozbudzając w~sobie uważność i~ciekawość. Spróbujmy zatem na tym spotkaniu “zbierać” to, co leży przed nami.  Pierwsza przestrzeń, którą chcemy rozpatrzyć, to Seder-Eucharystia.
 
