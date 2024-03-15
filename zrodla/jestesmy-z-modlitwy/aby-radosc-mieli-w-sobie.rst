@@ -75,6 +75,7 @@ Nie powinniśmy słowa “poznanie” rozumieć zawężająco - jedynie intelekt
 3. Bycie słowem (inkorporacja, dojrzałość)
 
 .. note:: Takie zdanie może budzić podejrzenie lub opór ze strony czytającego. Zaczynamy żyć nie my (nie tylko my), ale Słowo-Chrystus w~nas. A~Chrystus, Jezus, zawarł samego siebie w~Ewangelii.
+
 “Teraz zaś już nie ja żyję, lecz żyje we mnie Chrystus. Choć nadal prowadzę życie w~ciele, jednak obecne życie moje jest życiem wiary w~Syna Bożego, który umiłował mnie i~samego siebie wydał za mnie.” Ga 2,20
 
 Jezus mówi, że “objawił imię Boga ludziom”. Żeby pogłębić rozumienie co to dla nas znaczy powinniśmy spojrzeć na to w~kontekście w~którym znajduje się Jezus, a~jest to kontekst żydowski. Przeczytajmy:

@@ -192,7 +192,7 @@ htmlhelp_basename = 'doc'
 # -- Options for LaTeX output ---------------------------------------------
 
 f = open('szablon/latex.sty', 'r+')
-PREAMBLE = f.read();
+PREAMBLE = f.read()
 
 latex_elements = {
 	'papersize': 'a5paper',
@@ -273,7 +273,7 @@ texinfo_documents = [
 epub_title = u'Konspekty spotkań grupowych'
 epub_author = u'Diakonia Ponad Murami'
 epub_publisher = u'Diakonia Ponad Murami'
-epub_copyright = u'2022, Diakonia Ponad Murami'
+epub_copyright = u'2024, Diakonia Ponad Murami'
 
 # The basename for the epub file. It defaults to the project name.
 epub_basename = u'konspekty'
@@ -335,7 +335,3 @@ epub_exclude_files = ['search.html']
 
 # If false, no index is generated.
 #epub_use_index = True
-
-
-# Example configuration for intersphinx: refer to the Python standard library.
-intersphinx_mapping = {'http://docs.python.org/': None}

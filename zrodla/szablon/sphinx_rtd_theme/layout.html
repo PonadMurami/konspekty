@@ -34,7 +34,7 @@
 
   {% endif %}
 
-  <link rel="stylesheet" href="{{ pathto('_static/' + style, 1) }}" type="text/css" />
+  <link rel="stylesheet" href="{{ pathto('_static/' + styles[-1], 1) }}" type="text/css" />
   <link rel="stylesheet" href="{{ pathto('_static/css/additional.css', 1) }}" type="text/css" />
 
   {{ cssfile }}
@@ -72,6 +72,7 @@
 
   <script src="{{ pathto('_static/js/modernizr.min.js', 1) }}"></script>
   <script src="{{ pathto('_static/js/hyphenator.js', 1) }}"></script>
+  <script src="{{ pathto('_static/js/jquery.js', 1) }}"></script>
 
 </head>
 

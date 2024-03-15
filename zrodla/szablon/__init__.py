@@ -1,10 +1,9 @@
 import sphinx.writers.html
 import sphinx.writers.latex
-from sphinx.util.smartypants import educateQuotes
-from docutils.nodes import Element, Node, Text
 
 BaseTranslatorHtml = sphinx.writers.html.HTMLTranslator
 BaseTranslatorLatex = sphinx.writers.latex.LaTeXTranslator
+
 
 class CustomHTMLTranslator(BaseTranslatorHtml):
 
@@ -14,6 +13,7 @@ class CustomHTMLTranslator(BaseTranslatorHtml):
             self.body.append(str_text.replace('~', '&nbsp;'))
         else:
             return BaseTranslatorHtml.visit_Text(self, text)
+
 
 class CustomLatexTranslator(BaseTranslatorLatex):
 
@@ -28,6 +28,7 @@ class CustomLatexTranslator(BaseTranslatorLatex):
     def visit_attribution(self, node):
         self.body.append('\mynobreakpar\n\\begin{flushright}\n')
         self.body.append(' --- ')
+
 
 def setup(app):
     app.set_translator('html', CustomHTMLTranslator)

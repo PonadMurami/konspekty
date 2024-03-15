@@ -42,3 +42,4 @@ Spis Treści
    ta-sama-noc/index
    jestesmy-z-modlitwy/index
    dlaczego-ta-noc/index
+   drzwi-otwarte/index

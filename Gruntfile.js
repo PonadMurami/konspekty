@@ -58,7 +58,7 @@ module.exports = function(grunt) {
 		},
 		shell: {
             makeMobi: {
-                command: "ebook-convert zbudowane/html/konspekty.epub zbudowane/html/konspekty.mobi"
+                command: "/opt/calibre/ebook-convert zbudowane/html/konspekty.epub zbudowane/html/konspekty.mobi"
             },
             makeDocx: {
                 command: "pandoc -o ./zbudowane/html/konspekty.docx ./zbudowane/html/konspekty.epub"

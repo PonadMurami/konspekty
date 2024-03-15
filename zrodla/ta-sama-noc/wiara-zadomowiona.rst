@@ -145,6 +145,7 @@ W Mezuzach żydzi umieszczali modlitwę, która brzmi:
     „Niech się święci twój dom! Niech twój dom nie będzie tylko dachem, ani też twoim znakiem: niech będzie twoją świątynią!”
 
 .. note:: Mezuza – zwitek pergaminu w~pojemniku zawieszany, na zewnętrznej prawej framudze drzwi.
+
 Zgodnie z~tradycją pielęgnowaną w~wielu żydowskich domach, osoba przekraczająca drzwi wejściowe powinna dotknąć mezuzy dłonią. Praktykowane bywa także składanie pocałunku na tej dłoni, którą dotknęło się mezuzy lub całowanie palców, którymi dopiero ma się jej dotknąć.
 
 .. image:: bazylika_dom-02.jpg
