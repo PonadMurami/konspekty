@@ -1,74 +1,78 @@
 .wy-nav-side h3 {
-	color: #fff;
-	margin: 0.5em 0;
-	padding-left: 0.8em;
+    color: #fff;
+    margin: 0.5em 0;
+    padding-left: 0.8em;
 }
 
 .wy-side-nav-search img.logo {
-	width: 33%;
-	height: 33%;
-	max-width: 100px;
-	margin: auto;
+    width: 33%;
+    height: 33%;
+    max-width: 100px;
+    margin: auto;
     border-radius: 0;
 }
 
 section > blockquote {
-	font-style: italic;
-	max-width: 80%;
-	line-height: 1.5em;
-	quotes: "\201C""\201D""\2018""\2019";
-	background: #f9f9f9;
-	border-left: 10px solid #ccc;
-	padding: 8px 24px 8px 50px;
-	position: relative;
+    font-style: italic;
+    max-width: 80%;
+    line-height: 1.5em;
+    quotes: "\201C" "\201D" "\2018" "\2019";
+    background: #f9f9f9;
+    border-left: 10px solid #ccc;
+    padding: 8px 24px 8px 50px;
+    position: relative;
 }
 
 section > blockquote > div > .line-block {
-	margin-left: 0;
-	margin-bottom: 12px;
+    margin-left: 0;
+    margin-bottom: 12px;
 }
 
 .line-block {
-	margin-bottom: 24px;
+    margin-bottom: 24px;
 }
 
 section > blockquote > div > p {
-	margin-bottom: 12px;
+    margin-bottom: 12px;
 }
 
 section > blockquote:before {
-	content: "\201C"; /*Unicode for Left Double Quote*/
+    content: "\201C"; /*Unicode for Left Double Quote*/
 
-	/*Font*/
-	font-family: Georgia, serif;
-	font-size: 60px;
-	font-weight: bold;
-	color: #999;
+    /*Font*/
+    font-family: Georgia, serif;
+    font-size: 60px;
+    font-weight: bold;
+    color: #999;
 
-	/*Positioning*/
-	position: absolute;
-	left: 3px;
-	top: 27px;
+    /*Positioning*/
+    position: absolute;
+    left: 3px;
+    top: 27px;
 }
 
 .rst-content img {
-	margin: 1em 0;
+    margin: 1em 0;
 }
 
 .rst-content dl dd {
-	line-height: 24px;
+    line-height: 24px;
 }
 
 .wy-table td, .rst-content table.docutils td, .rst-content table.field-list td, .wy-table th, .rst-content table.docutils th, .rst-content table.field-list th {
-	white-space: normal;
+    white-space: normal;
+}
+
+.rst-content table td {
+    vertical-align: top !important;
 }
 
 .centered {
-	text-align: center;
+    text-align: center;
 }
 
 .admonition .line-block {
-	margin-left: 0;
+    margin-left: 0;
 }
 
 p {
@@ -80,14 +84,14 @@ blockquote p {
 }
 
 section ul li {
-	list-style: disc;
-	margin-left: 24px;
+    list-style: disc;
+    margin-left: 24px;
 }
 
 li p, th p {
-	margin-bottom: 0;
+    margin-bottom: 0;
 }
 
 ul.simple {
-	margin-bottom: 1.5em;
+    margin-bottom: 1.5em;
 }

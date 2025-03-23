@@ -9,6 +9,7 @@ RUN apt-get update && \
       npm \
       make \
       texlive-latex-extra  \
+      texlive-fonts-extra \
       latexmk  \
       texlive-lang-greek  \
       texlive-lang-polish  \
