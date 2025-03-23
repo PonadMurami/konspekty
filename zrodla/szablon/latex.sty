@@ -3,6 +3,13 @@
 \usepackage{textalpha}
 \usepackage{alphabeta}
 \usepackage{polski}
+\usepackage{newunicodechar}
+\usepackage{bbding}
+
+\newunicodechar{👉}{\HandRight}
+\newunicodechar{☑}{\boxed{\checkmark}}
+\newunicodechar{☐}{\boxed{\phantom{\checkmark}}}
+
 
 \pagenumbering{arabic}
 \pagestyle{plain}
@@ -18,4 +25,12 @@
   \mynobreakpar\noindent\rule[0.5ex]{\linewidth}{0.5pt}%
   \par\vspace{-0.5ex}%
   }}
+\makeatother
+
+\makeatletter
+\renewenvironment{sphinxfigure-in-table}[1][\linewidth]{%
+  \def\@captype{figure}%
+  \sphinxsetvskipsforfigintablecaption
+  \parbox[t]{#1}{%
+}{}}
 \makeatother

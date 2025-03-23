@@ -43,3 +43,4 @@ Spis Treści
    jestesmy-z-modlitwy/index
    dlaczego-ta-noc/index
    drzwi-otwarte/index
+   chleb-wino-miod/index
