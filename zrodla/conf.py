@@ -347,7 +347,7 @@ tags_create_badges = True
 tags_overview_title = "Tagi"
 tags_intro_text = "Tagi:"
 tags_page_title = "Tag"
-tags_page_header = "Konspekty:"
+tags_page_header = ""
 tags_output_dir = "tag"
 tags_badge_colors = {
     # Kolory badge zależne od kategorii taga (kategoria|nazwa_taga)
