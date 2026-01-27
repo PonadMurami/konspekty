@@ -3,3 +3,6 @@
 node_modules
 /.ftppass
 .idea
+.cursor
+zrodla/tag/*
+_build/*
