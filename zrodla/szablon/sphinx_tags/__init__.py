@@ -23,77 +23,8 @@ CATEGORY_SEPARATOR = "|"
 _DIR_TITLE_CACHE: Dict[str, str] = {}
 
 
-def _is_rst_adornment(line: str) -> bool:
-    s = line.strip()
-    if len(s) < 3:
-        return False
-    if len(set(s)) != 1:
-        return False
-    ch = s[0]
-    return not ch.isalnum()
-
-
-def _read_rst_title(lines: List[str]) -> str:
-    """
-    Extract the document title from an .rst file.
-
-    Supports both forms:
-      - Title + underline
-      - Overline + Title + underline
-    """
-    n = len(lines)
-    i = 0
-    while i < n:
-        s = lines[i].strip()
-        if not s:
-            i += 1
-            continue
-        if s.startswith(".."):  # directives/targets
-            i += 1
-            continue
-        if s.startswith("```{tags}") or s.startswith(".. tags::"):
-            i += 1
-            continue
-
-        # Overline form: ***** / Title / *****
-        if _is_rst_adornment(s):
-            # find next non-empty title candidate
-            j = i + 1
-            while j < n and not lines[j].strip():
-                j += 1
-            if j >= n:
-                return ""
-            title = lines[j].strip()
-            if title.startswith(".."):
-                i = j + 1
-                continue
-            # next line should be an adornment too (commonly the same char)
-            k = j + 1
-            while k < n and not lines[k].strip():
-                k += 1
-            if k < n and _is_rst_adornment(lines[k].strip()):
-                return title
-            i = j + 1
-            continue
-
-        # Underline form: Title / *****
-        j = i + 1
-        while j < n and not lines[j].strip():
-            j += 1
-        if j < n and _is_rst_adornment(lines[j].strip()):
-            return s
-
-        # Fallback: first reasonable non-directive line
-        return s
-
-    return ""
-
-
 def _read_first_title_line(lines: List[str], suffix: str) -> str:
     """Best-effort title extraction for a source document."""
-    if suffix == ".rst":
-        return _read_rst_title(lines)
-
     for line in lines:
         s = line.strip()
         if not s:

@@ -79,6 +79,11 @@ p {
     text-align: justify;
 }
 
+/* Don't justify the tags line */
+.rst-content p.tags {
+    text-align: left;
+}
+
 blockquote p {
     text-align: left;
 }

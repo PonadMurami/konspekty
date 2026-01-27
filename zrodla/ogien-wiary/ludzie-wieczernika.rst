@@ -1,6 +1,5 @@
-***************************************************************
 Spotkanie 2. - Ludzie wieczernika
-***************************************************************
+*********************************
 
 .. tags:: tresc|duch_swiety|Duch Święty, tresc|nadzieja|Nadzieja, tresc|wspolnota|Wspólnota, tresc|pragnienia|Pragnienia, tresc|modlitwa|Modlitwa, metoda|pytania_do_dzielenia|Pytania do dzielenia, typ|formacyjne|Formacyjne
 
