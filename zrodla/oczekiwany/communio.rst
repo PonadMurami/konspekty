@@ -1,6 +1,8 @@
 Spotkanie 4. - Communio
 ***********************
 
+.. tags:: tresc|eucharystia|Eucharystia, tresc|wspolnota|Wspólnota, tresc|jednosc|Jedność, tresc|kosciol|Kościół, metoda|praca_z_tekstem|Praca z~tekstem, typ|mistagogiczne|Mistagogiczne
+
 Cele spotkania + wprowadzenie dla animatora
 ===========================================
 

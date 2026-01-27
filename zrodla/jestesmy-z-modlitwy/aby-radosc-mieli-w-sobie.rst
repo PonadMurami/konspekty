@@ -1,6 +1,8 @@
 Spotkanie 3. - "Aby radość mieli w~sobie w~całej pełni"
 *******************************************************
 
+.. tags:: tresc|jednosc|Jedność, tresc|wspolnota|Wspólnota, tresc|modlitwa|Modlitwa, tresc|prawda|Prawda, metoda|praca_przestrzenna|Praca przestrzenna, metoda|praca_z_tekstem|Praca z~tekstem, typ|modlitewne|Modlitewne
+
 Wprowadzenie dla animatora
 ==========================
 

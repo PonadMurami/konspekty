@@ -1,6 +1,8 @@
 Spotkanie 4. - Duch Święty jako ten, który zmienia
 **************************************************
 
+.. tags:: tresc|duch_swiety|Duch Święty, tresc|nawrocenie|Nawrócenie, tresc|prawda|Prawda, metoda|praca_w_grupach|Praca w~grupach, metoda|praca_z_tekstem|Praca z~tekstem, typ|modlitewne|Modlitewne
+
 Potrzebne pomoce
 ================
 

@@ -1,6 +1,8 @@
 Spotkanie 1. - Jakie decyzje podejmujemy?
 *****************************************
 
+.. tags:: tresc|decyzje|Decyzje, tresc|odpowiedzialnosc|Odpowiedzialność, tresc|rozeznawanie|Rozeznawanie, metoda|praca_w_grupach|Praca w~grupach, metoda|dyskusja|Dyskusja, typ|warsztatowe|Warsztatowe
+
 Cel
 ===
 

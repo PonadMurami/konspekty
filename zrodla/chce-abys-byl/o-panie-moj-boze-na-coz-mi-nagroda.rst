@@ -1,6 +1,8 @@
 Spotkanie 2. - "O, Panie, mój Boże, na cóż mi nagroda?"
 *******************************************************
 
+.. tags:: tresc|pragnienia|Pragnienia, tresc|rozeznawanie|Rozeznawanie, tresc|wola_boza|Wola Boża, tresc|nadzieja|Nadzieja, metoda|praca_z_tekstem|Praca z~tekstem, metoda|pytania_do_dzielenia|Pytania do dzielenia, typ|formacyjne|Formacyjne
+
 Cel spotkania + wprowadzenie dla animatora
 ==========================================
 

@@ -1,6 +1,8 @@
 Spotkanie 1. - Jesteśmy Oazą!
 *****************************
 
+.. tags:: tresc|wspolnota|Wspólnota, tresc|milosc|Miłość, tresc|nadzieja|Nadzieja, metoda|pytania_do_dzielenia|Pytania do dzielenia, metoda|praca_z_tekstem|Praca z~tekstem, typ|integracyjne|Integracyjne
+
 Cel Spotkania
 =============
 

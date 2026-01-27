@@ -1,6 +1,8 @@
 Spotkanie 2. - Czekanie, które jest odwagą
 ******************************************
 
+.. tags:: tresc|czas|Czas, tresc|decyzje|Decyzje, tresc|rozeznawanie|Rozeznawanie, tresc|nadzieja|Nadzieja, tresc|poszukiwanie|Poszukiwanie, metoda|praca_z_tekstem|Praca z~tekstem, metoda|pytania_do_dzielenia|Pytania do dzielenia, typ|formacyjne|Formacyjne
+
 Cel Spotkania
 =============
 

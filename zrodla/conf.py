@@ -29,7 +29,10 @@ import os
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 
-sys.path.append(os.path.abspath('./'));
+# Prefer local "vendored" extensions from ./szablon (e.g. sphinx_tags)
+sys.path.insert(0, os.path.abspath("./szablon"))
+# Keep legacy behavior as well
+sys.path.append(os.path.abspath("./"))
 
 extensions = [
     'sphinx.ext.intersphinx',
@@ -38,6 +41,7 @@ extensions = [
     'sphinx.ext.viewcode',
     'sphinx_sitemap',
     "sphinx_tags",
+    "sphinx_design",
 	'szablon'
 ]
 
@@ -193,7 +197,7 @@ htmlhelp_basename = 'doc'
 
 # -- Options for LaTeX output ---------------------------------------------
 
-f = open('szablon/latex.sty', 'r+')
+f = open('szablon/latex.sty', 'r+', encoding='utf-8')
 PREAMBLE = f.read()
 
 latex_elements = {
@@ -337,3 +341,17 @@ epub_exclude_files = ['search.html']
 
 # If false, no index is generated.
 #epub_use_index = True
+
+tags_create_tags = True
+tags_create_badges = True
+tags_overview_title = "Tagi"
+tags_intro_text = "Tagi:"
+tags_page_title = "Tag"
+tags_page_header = "Konspekty:"
+tags_output_dir = "tag"
+tags_badge_colors = {
+    # Kolory badge zależne od kategorii taga (kategoria|nazwa_taga)
+    "tresc": "primary",
+    "metoda": "success",
+    "typ": "warning",
+}

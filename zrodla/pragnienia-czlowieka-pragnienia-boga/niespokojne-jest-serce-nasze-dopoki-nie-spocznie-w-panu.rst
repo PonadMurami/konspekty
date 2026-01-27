@@ -1,6 +1,8 @@
 Spotkanie 3. - Niespokojne jest serce nasze, dopóki nie spocznie w~Panu
 ***********************************************************************
 
+.. tags:: tresc|pragnienia|Pragnienia, tresc|wola_boza|Wola Boża, tresc|rozeznawanie|Rozeznawanie, tresc|nadzieja|Nadzieja, tresc|wspolnota|Wspólnota, metoda|praca_z_tekstem|Praca z~tekstem, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
+
 Cel Spotkania
 =============
 

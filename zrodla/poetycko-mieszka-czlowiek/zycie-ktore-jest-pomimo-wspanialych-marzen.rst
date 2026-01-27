@@ -1,6 +1,8 @@
 Spotkanie 2. - Życie, które jest pomimo wspaniałych (?) marzeń
 ***************************************************************
 
+.. tags:: tresc|czas|Czas, tresc|prawda|Prawda, tresc|dojrzalosc|Dojrzałość, tresc|decyzje|Decyzje, metoda|praca_z_tekstem|Praca z~tekstem, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
+
 Cel
 ===
 

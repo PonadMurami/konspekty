@@ -1,6 +1,8 @@
 Spotkanie 3. - Eucharystia jako zjednoczenie z~ludźmi i~Bogiem
 **************************************************************
 
+.. tags:: tresc|eucharystia|Eucharystia, tresc|jednosc|Jedność, tresc|wspolnota|Wspólnota, tresc|milosc|Miłość, metoda|praca_z_tekstem|Praca z~tekstem, typ|mistagogiczne|Mistagogiczne
+
 Wprowadzenie dla Animatora
 ==========================
 

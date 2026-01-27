@@ -2,6 +2,8 @@
 Dokument programowy
 ***************************************************************
 
+.. tags:: tresc|pragnienia|Pragnienia, tresc|decyzje|Decyzje, tresc|dojrzalosc|Dojrzałość, tresc|nawrocenie|Nawrócenie, metoda|praca_z_tekstem|Praca z~tekstem, typ|formacyjne|Formacyjne
+
 ==================================
 Wprowadzenie
 ==================================

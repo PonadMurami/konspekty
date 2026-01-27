@@ -1,6 +1,8 @@
 Spotkanie 1. - Miasto mego serca
 ********************************
 
+.. tags:: tresc|tozsamosc|Tożsamość, tresc|pragnienia|Pragnienia, tresc|dojrzalosc|Dojrzałość, metoda|praca_przestrzenna|Praca przestrzenna, metoda|praca_z_tekstem|Praca z~tekstem, typ|integracyjne|Integracyjne
+
 Cel
 ===
 

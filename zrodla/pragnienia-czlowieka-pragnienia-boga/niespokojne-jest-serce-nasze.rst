@@ -1,6 +1,8 @@
 Spotkanie 1. - Niespokojne jest serce nasze
 *******************************************
 
+.. tags:: tresc|pragnienia|Pragnienia, tresc|poszukiwanie|Poszukiwanie, metoda|praca_z_obrazem|Praca z~obrazem, metoda|praca_z_tekstem|Praca z~tekstem, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
+
 Cel Spotkania
 =============
 

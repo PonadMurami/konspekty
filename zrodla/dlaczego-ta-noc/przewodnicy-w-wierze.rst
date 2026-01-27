@@ -1,6 +1,8 @@
 Spotkanie 3. - Przewodnicy w~wierze
 ***********************************
 
+.. tags:: tresc|poslanie|Posłanie, tresc|odpowiedzialnosc|Odpowiedzialność, tresc|relacje|Relacje, tresc|slowo_boze|Słowo Boże, tresc|tradycje_zydowskie|Tradycje żydowskie, metoda|praca_z_tekstem|Praca z~tekstem, metoda|praca_z_obrazem|Praca z~obrazem, typ|mistagogiczne|Mistagogiczne
+
 Wprowadzenie dla animatora
 ==========================
 

@@ -1,6 +1,8 @@
 Spotkanie 1. - "O moi "Trzej"! O~moje wszystko!"
 ************************************************
 
+.. tags:: tresc|milosc|Miłość, tresc|duch_swiety|Duch Święty, tresc|modlitwa|Modlitwa, tresc|prawda|Prawda, tresc|duchowosc|Duchowość, metoda|praca_z_tekstem|Praca z~tekstem, typ|modlitewne|Modlitewne
+
 Wprowadzenie dla animatora
 ==========================
 

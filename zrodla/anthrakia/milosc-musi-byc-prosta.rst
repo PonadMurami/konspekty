@@ -1,6 +1,8 @@
 Spotkanie 2. - "Miłość musi być prosta"
 ***************************************
 
+.. tags:: tresc|milosc|Miłość, tresc|wspolnota|Wspólnota, tresc|sluzba|Służba, tresc|eucharystia|Eucharystia, metoda|praca_z_tekstem|Praca z~tekstem, metoda|praca_z_definicja|Praca z~definicją, typ|formacyjne|Formacyjne
+
 Wprowadzenie
 ============
 

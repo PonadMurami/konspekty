@@ -1,6 +1,8 @@
 Spotkanie 1. - Eucharystia jako spotkanie z~człowiekiem i~Bogiem
 ****************************************************************
 
+.. tags:: tresc|eucharystia|Eucharystia, tresc|wspolnota|Wspólnota, tresc|relacje|Relacje, metoda|praca_z_tekstem|Praca z~tekstem, metoda|pytania_do_dzielenia|Pytania do dzielenia, typ|mistagogiczne|Mistagogiczne
+
 Cel Spotkania
 =============
 

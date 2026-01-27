@@ -95,3 +95,23 @@ li p, th p {
 ul.simple {
     margin-bottom: 1.5em;
 }
+
+/* Tags (sphinx-tags + sphinx-design) */
+/* In PDF/LaTeX we want commas; in HTML we hide the comma separators. */
+.tags .tags-sep-badge {
+    display: none;
+}
+
+/* Keep spacing between badges when commas are hidden. */
+.tags .sd-badge {
+    margin-right: 0.35em;
+}
+
+/* Tag pages: tighter spacing between cycle caption and list */
+.rst-content .toctree-wrapper > p.caption {
+    margin-bottom: 0.2em;
+}
+.rst-content .toctree-wrapper > ul {
+    margin-top: 0.2em;
+    margin-bottom: 0.8em;
+}

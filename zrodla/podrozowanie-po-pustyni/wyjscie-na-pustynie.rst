@@ -1,6 +1,8 @@
 Spotkanie 1. - Wyjście na pustynię
 **********************************
 
+.. tags:: tresc|dojrzalosc|Dojrzałość, tresc|stary_testament|Stary Testament, tresc|wolnosc|Wolność, tresc|pragnienia|Pragnienia, metoda|praca_z_tekstem|Praca z~tekstem, metoda|dyskusja|Dyskusja, typ|biblijne|Biblijne
+
 Cel
 ===
 

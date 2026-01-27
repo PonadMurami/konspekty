@@ -1,6 +1,8 @@
 Spotkanie 3. - Pesach
 *********************
 
+.. tags:: tresc|eucharystia|Eucharystia, tresc|czas|Czas, tresc|wola_boza|Wola Boża, tresc|tradycje_zydowskie|Tradycje żydowskie, metoda|praca_z_tekstem|Praca z~tekstem, metoda|praca_z_obrazem|Praca z~obrazem, metoda|praca_w_grupach|Praca w~grupach, typ|mistagogiczne|Mistagogiczne
+
 Wprowadzenie dla animatora
 ==========================
 

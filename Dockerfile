@@ -20,7 +20,7 @@ RUN apt-get update && \
       libxkbcommon-x11-0
 
 RUN wget -nv -O- https://download.calibre-ebook.com/linux-installer.sh | sh /dev/stdin
-RUN pip install sphinx-sitemap
+RUN pip install sphinx-sitemap sphinx-design
 RUN npm install grunt &&  npm install -g grunt
 
 CMD ["/bin/bash"]

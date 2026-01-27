@@ -1,6 +1,8 @@
 Spotkanie 2. - “Niech przyjdzie do Mnie”
 ****************************************
 
+.. tags:: tresc|otwartosc|Otwartość, tresc|wolnosc|Wolność, tresc|duch_swiety|Duch Święty, tresc|relacje|Relacje, tresc|tradycje_zydowskie|Tradycje żydowskie, metoda|praca_z_tekstem|Praca z~tekstem, metoda|praca_z_obrazem|Praca z~obrazem, typ|formacyjne|Formacyjne
+
 Wprowadzenie dla animatora
 ==========================
 

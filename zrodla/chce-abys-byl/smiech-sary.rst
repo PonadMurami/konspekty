@@ -1,6 +1,8 @@
 Spotkanie 3. - Śmiech Sary
 **************************
 
+.. tags:: tresc|prawda|Prawda, tresc|nadzieja|Nadzieja, tresc|wola_boza|Wola Boża, tresc|pragnienia|Pragnienia, metoda|praca_z_tekstem|Praca z~tekstem, metoda|pytania_do_dzielenia|Pytania do dzielenia, typ|formacyjne|Formacyjne
+
 Cel spotkania - wprowadzenie dla animatora
 ==========================================
 

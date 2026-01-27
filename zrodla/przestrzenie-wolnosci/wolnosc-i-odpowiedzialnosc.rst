@@ -1,6 +1,8 @@
 Spotkanie 4. - Wolność i~odpowiedzialność
 *****************************************
 
+.. tags:: tresc|wolnosc|Wolność, tresc|odpowiedzialnosc|Odpowiedzialność, tresc|rozeznawanie|Rozeznawanie, metoda|pytania_do_dzielenia|Pytania do dzielenia, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
+
 Cel
 ===
 

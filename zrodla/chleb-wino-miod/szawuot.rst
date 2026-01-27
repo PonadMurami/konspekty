@@ -1,6 +1,8 @@
 Spotkanie 4. - Szawuot
 **********************
 
+.. tags:: tresc|poslanie|Posłanie, tresc|slowo_boze|Słowo Boże, tresc|zmartwychwstanie|Zmartwychwstanie, tresc|tradycje_zydowskie|Tradycje żydowskie, metoda|praca_z_muzyka|Praca z~muzyką, metoda|praca_w_grupach|Praca w~grupach, metoda|praca_z_tekstem|Praca z~tekstem, typ|biblijne|Biblijne
+
 Wprowadzenie dla animatora
 ==========================
 

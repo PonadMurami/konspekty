@@ -1,6 +1,8 @@
 Spotkanie 1. - “Na Brzegu Tajemnicy”
 ************************************
 
+.. tags:: tresc|modlitwa|Modlitwa, tresc|duchowosc|Duchowość, tresc|prawda|Prawda, tresc|poszukiwanie|Poszukiwanie, metoda|praca_z_obrazem|Praca z~obrazem, metoda|praca_w_grupach|Praca w~grupach, typ|warsztatowe|Warsztatowe
+
 Cel spotkania
 =============
 

@@ -1,6 +1,8 @@
 Spotkanie 4. - Prorokuj!
 ************************
 
+.. tags:: tresc|poslanie|Posłanie, tresc|kosciol|Kościół, tresc|zmartwychwstanie|Zmartwychwstanie, tresc|tradycje_zydowskie|Tradycje żydowskie, metoda|praca_z_tekstem|Praca z~tekstem, metoda|pytania_do_dzielenia|Pytania do dzielenia, typ|formacyjne|Formacyjne
+
 Wprowadzenie dla animatora
 ==========================
 

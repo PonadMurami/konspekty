@@ -1,6 +1,8 @@
 Spotkanie 1. - Pragnienie Życia
 *******************************
 
+.. tags:: tresc|pragnienia|Pragnienia, tresc|milosc|Miłość, tresc|decyzje|Decyzje, tresc|nawrocenie|Nawrócenie, metoda|praca_z_tekstem|Praca z~tekstem, metoda|praca_z_muzyka|Praca z~muzyką, metoda|pytania_do_dzielenia|Pytania do dzielenia, typ|formacyjne|Formacyjne
+
 Cel
 ===
 

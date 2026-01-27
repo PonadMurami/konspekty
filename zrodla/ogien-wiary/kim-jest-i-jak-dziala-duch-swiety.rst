@@ -1,6 +1,8 @@
 Spotkanie 3. - Kim jest i~jak działa Duch Święty?
 *************************************************
 
+.. tags:: tresc|duch_swiety|Duch Święty, tresc|prawda|Prawda, tresc|poslanie|Posłanie, tresc|stary_testament|Stary Testament, tresc|slowo_boze|Słowo Boże, metoda|praca_w_grupach|Praca w~grupach, metoda|praca_z_tekstem|Praca z~tekstem, typ|biblijne|Biblijne
+
 Wprowadzenie dla animatora
 ==========================
 

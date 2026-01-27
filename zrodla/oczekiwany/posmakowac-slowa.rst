@@ -1,6 +1,8 @@
 Spotkanie 3. - Posmakować Słowa
 *******************************
 
+.. tags:: tresc|slowo_boze|Słowo Boże, tresc|modlitwa|Modlitwa, tresc|duchowosc|Duchowość, metoda|praca_z_tekstem|Praca z~tekstem, metoda|praca_z_obrazem|Praca z~obrazem, typ|modlitewne|Modlitewne
+
 Wprowadzenie dla animatora + cele spotkania
 ===========================================
 

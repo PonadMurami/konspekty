@@ -1,6 +1,8 @@
 Spotkanie 4. - Maski
 ********************
 
+.. tags:: tresc|tozsamosc|Tożsamość, tresc|wolnosc|Wolność, tresc|prawda|Prawda, metoda|praca_plastyczna|Praca plastyczna, metoda|pytania_do_dzielenia|Pytania do dzielenia, metoda|praca_z_tekstem|Praca z~tekstem, typ|formacyjne|Formacyjne
+
 Uwagi dla animatora
 ===================
 

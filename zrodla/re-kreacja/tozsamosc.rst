@@ -1,6 +1,8 @@
 Spotkanie 2. - Tożsamość
 ************************
 
+.. tags:: tresc|tozsamosc|Tożsamość, tresc|milosc|Miłość, tresc|prawda|Prawda, metoda|praca_przestrzenna|Praca przestrzenna, metoda|praca_z_tekstem|Praca z~tekstem, metoda|mapa_mysli|Mapa myśli, typ|formacyjne|Formacyjne
+
 Potrzebne materiały
 ===================
 

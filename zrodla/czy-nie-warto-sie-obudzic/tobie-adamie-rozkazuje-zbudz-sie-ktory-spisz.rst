@@ -1,6 +1,8 @@
 Spotkanie 3. - Tobie, Adamie, rozkazuję: Zbudź się, który śpisz!
 ****************************************************************
 
+.. tags:: tresc|krzyz|Krzyż, tresc|nawrocenie|Nawrócenie, tresc|czas|Czas, metoda|praca_z_tekstem|Praca z~tekstem, metoda|pytania_do_dzielenia|Pytania do dzielenia, typ|modlitewne|Modlitewne
+
 Cel
 ===
 

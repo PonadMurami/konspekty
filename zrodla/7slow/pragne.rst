@@ -1,6 +1,8 @@
 Spotkanie 3. - "Pragnę"
 ***********************
 
+.. tags:: tresc|pragnienia|Pragnienia, tresc|eucharystia|Eucharystia, tresc|krzyz|Krzyż, metoda|praca_z_tekstem|Praca z~tekstem, metoda|pytania_do_dzielenia|Pytania do dzielenia, typ|biblijne|Biblijne
+
 Cel spotkania + wprowadzenie dla animatora
 ==========================================
 

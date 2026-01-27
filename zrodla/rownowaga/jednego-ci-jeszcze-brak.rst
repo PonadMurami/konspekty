@@ -1,6 +1,8 @@
 Spotkanie 2. - "Jednego ci jeszcze brak..."
 *******************************************
 
+.. tags:: tresc|rozeznawanie|Rozeznawanie, tresc|wolnosc|Wolność, tresc|prawda|Prawda, tresc|dojrzalosc|Dojrzałość, metoda|praca_przestrzenna|Praca przestrzenna, metoda|praca_z_tekstem|Praca z~tekstem, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
+
 Cel spotkania + wprowadzenie dla animatora
 ==========================================
 

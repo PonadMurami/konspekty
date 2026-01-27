@@ -1,6 +1,8 @@
 Spotkanie 2. - Czego szukam?
 ****************************
 
+.. tags:: tresc|poszukiwanie|Poszukiwanie, tresc|pragnienia|Pragnienia, tresc|prawda|Prawda, tresc|rozeznawanie|Rozeznawanie, metoda|pytania_do_dzielenia|Pytania do dzielenia, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
+
 Cel Spotkania
 =============
 

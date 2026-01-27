@@ -1,6 +1,8 @@
 Spotkanie 2. - "Aby znali Ciebie"
 *********************************
 
+.. tags:: tresc|modlitwa|Modlitwa, tresc|prawda|Prawda, tresc|duchowosc|Duchowość, metoda|praca_z_tekstem|Praca z~tekstem, metoda|pytania_do_dzielenia|Pytania do dzielenia, typ|modlitewne|Modlitewne
+
 Wprowadzenie dla animatora
 ==========================
 

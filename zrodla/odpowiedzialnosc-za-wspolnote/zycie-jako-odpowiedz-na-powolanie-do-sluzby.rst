@@ -1,6 +1,8 @@
 Spotkanie 1. - Życie jako odpowiedź na powołanie do służby
 **********************************************************
 
+.. tags:: tresc|powolanie|Powołanie, tresc|sluzba|Służba, tresc|odpowiedzialnosc|Odpowiedzialność, tresc|wspolnota|Wspólnota, tresc|milosc|Miłość, metoda|praca_z_tekstem|Praca z~tekstem, typ|formacyjne|Formacyjne
+
 Wprowadzenie (nie)tylko dla animatora
 =====================================
 

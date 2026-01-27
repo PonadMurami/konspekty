@@ -1,6 +1,8 @@
 Spotkanie 3. - Wiara zadomowiona
 ********************************
 
+.. tags:: tresc|kosciol|Kościół, tresc|wspolnota|Wspólnota, tresc|slowo_boze|Słowo Boże, tresc|poszukiwanie|Poszukiwanie, tresc|tradycje_zydowskie|Tradycje żydowskie, metoda|praca_z_symbolami|Praca z~symbolami, metoda|praca_z_tekstem|Praca z~tekstem, metoda|dyskusja|Dyskusja, typ|mistagogiczne|Mistagogiczne
+
 Wprowadzenie dla animatora
 ==========================
 

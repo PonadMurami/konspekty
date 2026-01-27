@@ -1,6 +1,8 @@
 Spotkanie 2. - “Aby byli jedno”
 ************************************************************************************
 
+.. tags:: tresc|jednosc|Jedność, tresc|kosciol|Kościół, tresc|milosc|Miłość, metoda|praca_z_tekstem|Praca z~tekstem, metoda|pytania_do_dzielenia|Pytania do dzielenia, typ|modlitewne|Modlitewne
+
 Cel spotkania
 =============
 
