@@ -4,7 +4,7 @@ Meeting 1. - What decisions do we make?
 .. tags:: content|decisions|Decisions, content|responsibility|Responsibility, content|discernment|Discernment, method|group-work|Group work, method|discussion|Discussion, type|workshop|Workshop
 
 Goal
-===
+====
 
 Bringing closer the meaning of "decision". Types and degree of complexity of decisions.
 
@@ -46,7 +46,7 @@ Task 2 from the second sheet (sea):
 * Swear twice, and then crumple the sheet and throw it at the animator (so that it bounces off his head, if you miss repeat the action).
 
 Discussion
-========
+==========
 
 The first choice mountains or sea comes from the tactical-material-sentimental group? If the choice concerned holidays then: how much money we have, what suits us more, time space allows us to plan holidays only in this place
 

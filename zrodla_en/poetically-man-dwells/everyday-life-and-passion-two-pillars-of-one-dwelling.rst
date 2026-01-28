@@ -125,7 +125,7 @@ Every day in every church the Eucharist is celebrated. Karl Rahner calls the Euc
 Probably one cannot call ordinary the fact that God descends to earth and comes to us in a piece of bread. But Jesus did not say: do this in remembrance of me, but differently every day. No, every day this happens the same way and this is salvific.
 
 In the smallest moments the taste of life is hidden
-==================================================
+===================================================
 
 * What do you think, can such extraordinary things - as every Eucharist is - and ordinary - as the fact that it is daily - be combined?
 

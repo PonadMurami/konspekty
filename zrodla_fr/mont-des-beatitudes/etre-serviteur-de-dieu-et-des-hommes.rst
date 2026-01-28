@@ -81,7 +81,7 @@ Que chacun des groupes choisisse ses 10 espaces en le notant sur une feuille de 
 .. note:: C'est un endroit où, en tant qu'animateurs, nous pouvons témoigner de ce « retrouver en soi l'image de Celui qui nous a appelés » dans la diaconie. C'est personnel, mais je pense indispensable.
 
 J'ai reçu donc je donne
-======================
+=======================
 
 Lisons :
 

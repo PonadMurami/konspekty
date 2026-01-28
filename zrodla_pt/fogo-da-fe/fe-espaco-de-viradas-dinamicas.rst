@@ -73,7 +73,7 @@ EXEMPLO:
 Vemos pois e apercebemo-nos de que na vida percebemos de maneira diferente os eventos importantes - isso é acompanhado tanto de indiferença, como de deceção, e séries dos chamados "altos e baixos", e de instabilidade, isto é, coisas geralmente não muito positivamente percebidas por nós, diríamos "para mudar".
 
 A história de Jesus para nós é uma história de viradas de ação
-=============================================================
+==============================================================
 
 E agora, tendo em mente estes gráficos, leiamos um fragmento da SE, que também trata de um certo evento e da atitude das pessoas para com ele.
 

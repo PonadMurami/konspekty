@@ -143,7 +143,7 @@ Suena hermoso, pero no puede ser para nosotros solo teoría. Sí, es verdad que 
 Jesús quiere que nuestra relación con él sea plena en el sentido de que estaremos con "cada uno" de los Jesús - haciendo milagros, enseñando en la montaña, comiendo con los Apóstoles y yendo al Gólgota. Es el mismo Jesús. Nosotros los laicos tenemos tal aflicción que juramos amor "en la salud y en la enfermedad". Sentimos que el amor requiere esto. ¿Tenemos lo mismo hacia Jesús?
 
 Historia de la Salvación - tres perspectivas
-===========================================
+============================================
 
 Ver a Jesús máximamente "de manera plena" es el sueño de todo cristiano. Hemos hablado de intentar ver plenamente Su persona en el contexto de lo que decía y hacía. Esta es una cara de la moneda. La segunda es ver plenamente lo que hizo. Con la muerte en la Cruz Cristo unió muchos signos y anuncios.
 
@@ -183,7 +183,7 @@ Jesucristo en la Cruz une la exaltación con el sacrificio expiatorio. De esta m
 .. centered:: Cristo es la primera persona que es simultáneamente: Rey (exaltado, reina a través del servicio), Profeta (Explica la escritura con su persona) y Sacerdote (ofrece el sacrificio en el altar).
 
 Apertura a la gracia
-===================
+====================
 
 El encuentro con Cristo cambia la vida. ¿Qué cambia sin embargo así en la práctica? La Iglesia al hablar de los frutos del Sacrificio de Cristo usa la expresión "Gracia de la Cruz". Los que encontraron a Cristo y creyeron en Él viven en gracia. Puede ser esto un poco decepcionante a primera vista. La gracia es algo difícil de captar, medir. El milagro es concreto, se ve, se puede nombrar y admirar.
 

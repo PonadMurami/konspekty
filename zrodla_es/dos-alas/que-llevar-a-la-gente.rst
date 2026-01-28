@@ -164,7 +164,7 @@ Se trata de que lo más importante no es la división en personas que creen en D
 .. note:: Si quieres, también puedes usar la invocación de la oración de los fieles del Viernes Santo: Oremos por todos los que no reconocen a Dios, para que en sinceridad de corazón procedan según lo justo, y así puedan encontrar al mismo Dios. /Oración en silencio. Después de ella el sacerdote canta:/ Omnipotente, eterno Dios, Tú creaste a todas las personas, para que siempre te busquen, y encontrándote, experimenten paz; + concede bondadosamente que todos a pesar de obstáculos y peligros, perciban las señales de Tu bondad y el testimonio de buenas obras de aquellas personas que creen en Ti * y con alegría confesaron la fe en Ti, único verdadero Dios y Padre de todas las personas. Por Cristo, nuestro Señor. V. Amén.
 
 **Sal de la tierra, luz que brilla ante las personas**
-=====================================================
+======================================================
 
 .. note:: punto opcional
 

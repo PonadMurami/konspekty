@@ -124,7 +124,7 @@ Diariamente en cada iglesia se celebra la Eucaristía. Precisamente a la Eucaris
 Creo que no se puede llamar cosa ordinaria al hecho de que Dios desciende a la tierra y viene a nosotros en un trozo de pan. Pero Jesús no dijo: haced esto en conmemoración mía, pero cada día de manera diferente. No, cada día se realiza de la misma manera y eso es salvífico.
 
 En los momentos más pequeños está oculto el sabor de la vida
-===========================================================
+============================================================
 
 * ¿Qué piensan, se pueden unir tales cosas extraordinarias - como lo es cada Eucaristía - y ordinarias - como el hecho de que es diariamente?
 

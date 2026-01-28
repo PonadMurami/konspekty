@@ -107,9 +107,9 @@ Les apôtres, qui sont allés dans le monde entier connu d'eux et ont annoncé J
 
 Puisqu'ils ont pu être ainsi, nous le pouvons aussi. Ce n'est rien d'anormal si nous avons des problèmes avec la foi, le problème est que nous nous fermons à l'Auteur de Tout Mouvement.
 
-=========================================
+==================================================
 Pour que tu sois toi-même - Désir de Dieu lui-même
-=========================================
+==================================================
 
 Voyons deux attitudes :
 

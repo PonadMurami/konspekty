@@ -205,7 +205,7 @@ The horizon is a "place" where sky touches earth - a beautiful and exceptional i
 * In what way did God transform difficulties into good?
 
 Exceptional meeting
-==================
+===================
 
 Meetings are an important element of our life. It's hard for us to imagine life at all without exceptional people with whom we can meet, talk, experience good and valuable moments. Let's try now to recall one exceptional meeting that was important enough for us that it stuck deeply in our memory. Let's try using the table that's in our notebooks to recall and write down elements that were most essential for us in this meeting:
 

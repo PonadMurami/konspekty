@@ -1,5 +1,5 @@
 Rencontre 4. - "Je veux et je suis envoyé"
-***************************************
+******************************************
 
 .. tags:: contenu|mission|Mission, contenu|responsabilite|Responsabilité, contenu|amour|Amour, contenu|communaute|Communauté, methode|travail-sur-texte|Travail sur texte, methode|questions-de-partage|Questions de partage, type|formation|De formation
 

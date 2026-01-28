@@ -1,5 +1,5 @@
 Encuentro 1. - Nuestro corazón está inquieto
-******************************************
+********************************************
 
 .. tags:: contenido|deseos|Deseos, contenido|busqueda|Búsqueda, metodo|trabajo-con-imagen|Trabajo con imagen, metodo|trabajo-con-texto|Trabajo con texto, metodo|discusion|Discusión, tipo|formativo|Formativo
 
@@ -37,7 +37,7 @@ La vida extendida sobre los deseos
    :align: center
 
 Mirando más de cerca la estructura de nuestros deseos
-====================================================
+=====================================================
 
 .. note:: Probablemente nadie escriba en el ejercicio anterior simplemente "sed" como la necesidad de consumir líquidos (si es así, no pasa nada).
 
@@ -67,7 +67,7 @@ Miremos cuántos de estos deseos no pueden ser satisfechos. Cuando deseo una com
 .. note:: Aquí se puede hablar sobre los anuncios contemporáneos que nos convencen de que todavía deberíamos desear algo, para que deseemos incesantemente más... para que la economía se desarrolle.
 
 Respuesta a esta situación, que es una pregunta (!)
-==================================================
+===================================================
 
 Representar una escena, leer con división de roles o algo similar:
 

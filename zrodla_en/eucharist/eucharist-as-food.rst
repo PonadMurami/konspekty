@@ -89,7 +89,7 @@ Let's refer to thoughts from the Tent of Meeting:
 * What really is receiving Jesus, consuming His Body and Blood? It is a much greater gift than just help in temporal life as it was in the OT. Here bread means eternal life, means union with Christ (about which tomorrow, so let's not develop this thread), finally means PARTICIPATION IN THE SACRIFICE OF CHRIST, and also a pledge, a foretaste of heaven.
 
 "What is it?" = "yet the world did not know him"
-===============================================
+================================================
 
 God desired to remain among us, did not want to leave us orphans - "And the Word became flesh and dwelt among us." Let's consider for a moment why God remained with us, why he allowed us to consume himself.
 

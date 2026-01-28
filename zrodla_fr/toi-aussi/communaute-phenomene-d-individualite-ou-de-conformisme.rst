@@ -138,7 +138,7 @@ Telle est la communauté de l'Église. Elle est composée de personnes individue
 * Croyez-vous que l'Église est justement ainsi ?
 
 Résumé, application
-==================
+===================
 
 Je propose de faire ici une introduction à la prière du soir. Demander aux gens s'ils ont participé à quelque chose comme ça. Dissiper leurs doutes. Place pour le témoignage de l'animateur sur comment il vit son individualité comme partie de quelque chose de plus grand dans la prière (ce sont nos invocations individuelles qui créent la prière communautaire. C'est la prière communautaire qui nous inspire aux invocations individuelles). Invitation à essayer de lutter pour quelque chose de pareil pendant ces trois jours.
 

@@ -19,7 +19,7 @@ Introducción
 Ayer hablamos sobre qué es la libertad y cómo distinguirla del desenfreno. Es decir, sobre cómo "no exagerar" con la libertad. Hoy ya sabemos que nuestra libertad podemos entregarla a Dios, para que él la dirija. ¿Pero cómo conciliar esto? Cómo conciliar la libertad con el cumplimiento de la voluntad de Dios – cómo "no esclavizar la propia libertad".
 
 ¿Dónde hay lugar para la voluntad de Dios en mi vida?
-====================================================
+=====================================================
 
 Escribamos en una hoja las esferas de las que se compone nuestra vida – tanto las pequeñas como las "grandes". Luego ordenémoslas empezando por las que son más importantes para nosotros, terminando por las menos relevantes. (ej. Escuela, reuniones con amigos, familia, mi hobby, trabajo, vocación...)
 

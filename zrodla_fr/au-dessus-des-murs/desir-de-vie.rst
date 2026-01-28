@@ -238,7 +238,7 @@ Nous arrivons au fait que le désir nous oblige à prendre une décision - Je ve
 Hééé. Il a pour toi un plan merveilleux ! Une idée pour ta vie. Découvrons toute la richesse que porte le mot merveilleux, et qui a été tellement usé depuis longtemps. Beauté, ravissement, fascination, vie - tout cela s'y trouve. Mais tu dois prendre une décision ! **"Je veux maintenant me lever et aller de l'avant !"**
 
 J'ai bougé, et maintenant ?
-==========================
+===========================
 
 .. warning:: C'est le lieu pour un bref témoignage de l'animateur. D'un homme qui a pris de nombreuses décisions difficiles, mais aussi d'un homme que la peur a "enveloppé" plus d'une fois. Cependant, grâce à l'effort entrepris, tu es maintenant dans tel, et non autre lieu. Grâce à cet effort, tu peux montrer aux autres qu'il vaut la peine de risquer et d'agir, et pas seulement d'observer de côté ce qui se passe.
 

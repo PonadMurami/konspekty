@@ -4,7 +4,7 @@ Encuentro 4. - Shavuot
 .. tags:: contenido|mision|Misión, contenido|palabra-de-dios|Palabra de Dios, contenido|resurreccion|Resurrección, contenido|tradiciones-judias|Tradiciones judías, metodo|trabajo-con-musica|Trabajo con música, metodo|trabajo-en-grupos|Trabajo en grupos, metodo|trabajo-con-texto|Trabajo con texto, tipo|biblico|Bíblico
 
 Introducción para el animador
-==========================
+=============================
 
 Este encuentro es el último encuentro grupal de los retiros. Su objetivo principal es presentar la idea de "vista espiritual" y mostrar a los participantes que en la Iglesia no hay lugar para la división entre audiencia y artistas, que la transmisión de la fe, las reflexiones, compartir cómo actúa Dios en nosotros no está reservado para un grupo reducido de personas, sino que todos estamos llamados, como escribe san Pedro:
 
@@ -23,7 +23,7 @@ Estamos en el momento de los retiros en que los elementos comienzan a componerse
 - ¿Qué me parece en este momento como el elemento que más me ha dado?
 
 Vista espiritual
-=============
+================
 
 Durante nuestros retiros buscamos las raíces cristianas. Lo hicimos juntos, lo cual es siempre una gran aventura. Los retiros terminan hoy, por eso queremos hablar ahora sobre cierta habilidad que nos ayudará a buscar independientemente la profundidad y las raíces. Por eso comencemos con cierta experiencia.
 
@@ -282,7 +282,7 @@ El misterio cristiano no consiste en que exista un libro guardado, cuyo contenid
 Sería más fácil si "alguien" viniera y nos explicara todo, y nosotros lo "consumiéramos" y nos alegráramos de ello. Sin embargo, parece que no es esa la intención del Altísimo.
 
 No hay audiencia y artista
-========================
+==========================
 
 Leamos:
 
@@ -307,7 +307,7 @@ A veces nos parece que para dar algo a la Iglesia hay que ser alguien especial. 
 - ¿Por quién tomo yo la responsabilidad para que vea el todo, y no solo partes de la fe?
 
 Dos mares de Israel
-=================
+===================
 
 .. note:: Sacamos el mapa que muestra el curso del Jordán junto con dos mares: el Mar (lago) de Galilea y el Mar Muerto. Córtalo en tiras marcadas con líneas punteadas (el mapa debe estar preparado y cortado antes del encuentro). Luego junto con los participantes arreglad el mapa comenzando desde arriba (fuentes del Jordán) prestando atención a los puntos característicos descritos en naranja. Se trata de que los participantes vean lugares que les son familiares de varios fragmentos del Evangelio.
 

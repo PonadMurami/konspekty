@@ -1,5 +1,5 @@
 Encuentro 2. - "Oh Señor, Dios mío, ¿para qué me sirve la recompensa?"
-******************************************************************
+**********************************************************************
 
 .. tags:: contenido|deseos|Deseos, contenido|discernimiento|Discernimiento, contenido|voluntad-de-dios|Voluntad de Dios, contenido|esperanza|Esperanza, metodo|trabajo-con-texto|Trabajo con texto, metodo|preguntas-para-compartir|Preguntas para compartir, tipo|formativo|Formativo
 
@@ -206,7 +206,7 @@ Hagamos juntos un ejercicio sencillo individualmente. Tomemos una hoja y dividá
 * Si quieres - puedes compartir tu deseo con el grupo
 
 La promesa - nuestra reacción
-============================
+=============================
 
 Leamos:
 

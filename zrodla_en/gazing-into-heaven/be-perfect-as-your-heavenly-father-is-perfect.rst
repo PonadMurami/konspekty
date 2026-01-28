@@ -182,6 +182,7 @@ Let's ask:
 * What does it mean "to walk in a manner worthy of the calling"?
 
 * [It is about], so that we may no longer be children, tossed to and fro by the waves and carried about by every wind of doctrine, by human cunning, by craftiness in deceitful schemes.
+
 What do you understand by these words?
 
 * What calls for myself do I read in this?
@@ -199,6 +200,7 @@ Let's ask:
 * What is vocation according to the author of the text?
 
 * "It is also necessary that each individual adapt the way of practicing devotion to his strength, activities and duties".
+
     * What is this supposed to consist of in today's times?
 
     * What does this mean for me?

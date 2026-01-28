@@ -50,7 +50,7 @@ La prière du soir d'hier était le moment où nous avons pris la décision que 
 * Qu'avons-nous fait pour surmonter ces limitations ? Est-ce que finalement nous y sommes arrivés ?
 
 S'offrir la folie
-================
+=================
 
 Imaginons la situation suivante. À l'école / à l'université est organisé pour une occasion un concert. Des élèves y jouent. Ils ont beaucoup d'envie et d'enthousiasme, mais quelque chose ne va pas tout à fait comme il devrait et le spectacle n'est pas réussi. Très probablement, la réaction de l'environnement, de leurs camarades sera la moquerie, les railleries et la critique acerbe. Mais si on demandait à ces gens de se risquer eux-mêmes à jouer dans ce concert, peu s'y risqueraient.
 

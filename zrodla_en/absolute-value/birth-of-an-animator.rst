@@ -154,7 +154,7 @@ Often what determines our action in life (or lack thereof) is fear. We are afrai
 When we do something important for the world, there is always a risk of greater or lesser failure inscribed in it - something will always go wrong (during shooting the video with the cake a lot of things went wrong, as those who took part in it can testify). It is important that our fears do not inhibit our action. Because God is the one who will deal with them.
 
 The fight of good against evil is happening here and now
-=======================================================
+========================================================
 
 * When we hear about the fight of good against evil, what images do we have before our eyes?
 

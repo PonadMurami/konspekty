@@ -1,5 +1,5 @@
 Movimento Luz-Vida - o que significa?
-####################################
+#####################################
 
 Tempo de criação dos esquemas:
     Outono de 2006

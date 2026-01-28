@@ -38,7 +38,7 @@ Nous voulons aujourd'hui que ce texte soit pour nous une source et un outil d'un
 - Quelle phrase du passage lu me semble maintenant la plus importante pour moi ? Pourquoi ?
 
 "Père, je veux que là où je suis, ils soient eux aussi avec moi"
-===============================================================
+================================================================
 
 Nous terminons de nombreux événements religieux par un envoi. Lors de notre retraite, l'envoi a eu lieu au milieu de la retraite, le samedi soir. Pourquoi ? Parce que nous voulions pouvoir parler de l'envoi aujourd'hui - lui donner du poids, le valoriser. Peut-être que trop souvent nous échappe quelles sont les conséquences d'être envoyé.
 
@@ -85,7 +85,7 @@ L'unité veut être efficace. Le fruit ultime de l'unité doit être la reconnai
 - De quelle manière Jésus m'aide-t-il à chercher des chemins d'unité ?
 
 "Pour que l’amour dont tu m’as aimé soit en eux, et que moi aussi, je sois en eux"
-=================================================================================
+==================================================================================
 
 Habituellement, à la fin de la rencontre, nous fixons une application à réaliser dans un temps ultérieur, par exemple après notre retour de retraite. Aujourd'hui, nous voulons que les contenus dont nous avons parlé portent du fruit en nous dès maintenant. Au cours de cette retraite, nous nous sommes concentrés sur le passage qui parlait des désirs de Jésus envers les disciples, envers l'Église, envers nous. À la fin, voulant approfondir l'unité entre nous, partageons entre nous nos désirs.
 

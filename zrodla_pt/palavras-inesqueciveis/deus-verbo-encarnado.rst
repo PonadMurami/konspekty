@@ -262,7 +262,7 @@ E um fragmento do Novo Testamento:
 *   Posso dizer atualmente sobre mim que a Palavra de Cristo habita em mim?
 
 Palavras que com o tempo se revelam a nós
-========================================
+=========================================
 
 Ler a Palavra de Deus é uma aventura. De verdade. É único esse momento em que lemos a Palavra de Deus e começamos, através dos sinais criados com tinta sobre papel, a ver um sentido mais profundo. Vamos tentar experimentar isso!
 

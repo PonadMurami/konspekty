@@ -1,5 +1,5 @@
 Réunion 2. - Identité
-********************
+*********************
 
 .. tags:: contenu|identite|Identité, contenu|amour|Amour, contenu|verite|Vérité, methode|travail-spatial|Travail spatial, methode|travail-sur-texte|Travail sur texte, methode|carte-mentale|Carte mentale, type|formation|De formation
 

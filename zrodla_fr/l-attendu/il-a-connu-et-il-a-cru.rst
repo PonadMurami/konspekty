@@ -174,7 +174,7 @@ Nous pourrions être l'un des nombreux personnages de la peinture qui ne remarqu
 Dieu vient parfois de manière spectaculaire. Certains d'entre nous aiment beaucoup cela : anges, trompettes, une étoile dans le ciel. Il semble que tout l'univers nous crie alors "regarde ! Il se passe quelque chose d'important". Mais ce n'est pas la seule façon... C'est probablement une façon rare.
 
 Il a connu et il a cru
-=====================
+======================
 
 Nous basons toute la retraite sur un fragment de la 1ère lettre de Saint Jean :
 

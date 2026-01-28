@@ -1,5 +1,5 @@
 Encontro 4 - O Espírito Santo como aquele que transforma
-*******************************************************
+********************************************************
 
 .. tags:: conteudo|espirito-santo|Espírito Santo, conteudo|conversao|Conversão, conteudo|verdade|Verdade, metodo|trabalho-em-grupo|Trabalho em grupo, metodo|trabalho-com-texto|Trabalho com texto, tipo|de-oracao|De oração
 

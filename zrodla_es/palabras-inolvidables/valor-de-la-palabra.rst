@@ -128,7 +128,7 @@ Leamos:
 La palabra puede ser tanto algo curativo, positivo (bendición), como destructivo y esclavizante (hechizo, maldición). La palabra pronunciada se convierte en realidad. No podemos considerar que "hablábamos de mentira". La palabra actúa.
 
 Palabras que pierden poder
-=========================
+==========================
 
 Veamos qué fácil es a veces olvidarnos del poder de la palabra. Concentrémonos y escuchemos cierto texto:
 

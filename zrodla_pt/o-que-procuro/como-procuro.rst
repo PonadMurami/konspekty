@@ -1,5 +1,5 @@
 Encontro 3. - Como procuro?
-**************************
+***************************
 
 .. tags:: conteudo|busca|Busca, conteudo|espirito-santo|Espírito Santo, conteudo|discernimento|Discernimento, conteudo|verdade|Verdade, metodo|trabalho-com-texto|Trabalho com texto, metodo|discussao|Discussão, tipo|formativo|Formativo
 

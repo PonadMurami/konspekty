@@ -16,7 +16,7 @@ Oração
 Adaptada às possibilidades do grupo.
 
 "Os maiores valores" nos quais agora participamos
-================================================
+=================================================
 
 (O animador prepara uma folha grande.)
 

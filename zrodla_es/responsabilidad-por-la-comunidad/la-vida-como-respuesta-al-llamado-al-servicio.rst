@@ -1,5 +1,5 @@
 Reunión 1. - La vida como respuesta al llamado al servicio
-********************************************************
+**********************************************************
 
 .. tags:: contenido|vocacion|Vocación, contenido|servicio|Servicio, contenido|responsabilidad|Responsabilidad, contenido|comunidad|Comunidad, contenido|amor|Amor, metodo|trabajo-con-texto|Trabajo con texto, tipo|formativo|Formativo
 

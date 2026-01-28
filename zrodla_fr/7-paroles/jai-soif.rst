@@ -243,7 +243,7 @@ Les désirs sont quelque chose d'incroyablement personnel, distinctif de la rela
 .. note:: C'est un bon endroit pour le témoignage de l'animateur sur la Communauté de l'Église dans laquelle il reçoit du réconfort d'autres "désirants" sur le chemin vers l'unité avec Dieu.
 
 Résumé et application
-====================
+=====================
 
     "Personne n'a jamais vu Dieu ; le Fils unique, qui est dans le sein du Père, est celui qui l'a fait connaître" (Jn 1,18). Le Dieu incarné nous a révélé que Dieu désire nos désirs, veut nous aimer, veut être présent dans notre âme et nous inonder de sa miséricorde. Il veut toujours se donner, telle est Sa nature. Notre Dieu "n'a que tant qu'il donne".
 

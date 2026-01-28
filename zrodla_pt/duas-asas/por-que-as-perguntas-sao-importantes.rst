@@ -1,5 +1,5 @@
 Encontro 2. - Por que as perguntas são importantes?
-*****************************************
+***************************************************
 
 .. tags:: conteudo|busca|Busca, conteudo|verdade|Verdade, conteudo|decisoes|Decisões, conteudo|liberdade|Liberdade, conteudo|antigo-testamento|Antigo Testamento, metodo|trabalho-com-texto|Trabalho com texto, metodo|discussao|Discussão, tipo|formativo|Formativo
 

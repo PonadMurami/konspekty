@@ -35,7 +35,7 @@ El retiro no tiene magia ni poderes milagrosos... pero tiene un grupo pequeño :
 .. note:: Este es el lugar para el primer testimonio (5-7 frases) del animador sobre lo que sucedió cuando se tomó a Dios en serio.
 
 La fe no es un monolito
-======================
+=======================
 
 Ejemplos de eventos de la vida descubiertos gracias a diferentes gráficos de funciones ;). Los propios participantes intentan inventar de qué situación de la vida puede tratarse.
 
@@ -73,7 +73,7 @@ EJEMPLO:
 Vemos pues y nos damos cuenta de que en la vida percibimos de manera diferente los eventos importantes: lo acompaña tanto la indiferencia, como la decepción, y series de los llamados "altibajos", y la inestabilidad, es decir, cosas generalmente no muy positivamente percibidas por nosotros, diríamos "para cambiar".
 
 La historia de Jesús para nosotros es una historia de giros de acción
-===================================================================
+=====================================================================
 
 Y ahora, teniendo en mente estos gráficos, leamos un fragmento de la SE, que también trata sobre cierto evento y la actitud de la gente hacia él.
 
@@ -104,7 +104,7 @@ Conclusión sobre los últimos días de Jesús antes de Emaús:
    Jesús cuenta parábolas, resucita a Lázaro, entra solemnemente en Jerusalén, le siguen multitudes y unos días después es escarnecido y asesinado. Un giro de acción de 180 grados en unos pocos días, y la historia duró 3 años.
 
 ¡Buena decepción, porque es un trampolín hacia arriba!
-=====================================================
+======================================================
 
 Búsqueda:
 

@@ -110,7 +110,7 @@ Essa reinterpretação enfatiza que a fé que liberta não consiste apenas em ob
 - Como você interpreta o conceito de "água viva" em sua vida?
 
 Resumo e aplicação
-=================
+==================
 
 Passando pelas tradições judaicas encontramo-nos com três aspectos de nossa fé: hospitaleiro, exigente e libertador. A fé é um dom que recebemos. Cada um de nós vive sua fé de maneira diferente. Preparando-nos para a conferência que se aproxima, façamo-nos perguntas:
 

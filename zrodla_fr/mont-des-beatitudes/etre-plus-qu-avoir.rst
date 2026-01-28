@@ -180,7 +180,7 @@ Lisons un fragment de l'Homélie de Jean-Paul II de 1987 à Westerplatte en la d
 * À quoi ressemble dans notre vocation ou profession actuelle le rapport de l'« avoir plus » à l'« être plus » ?
 
 Se consumer pour les autres
-==========================
+===========================
 
 .. warning:: Moment important de la rencontre. De lui dépend la disposition à vivre le signe lors de la prière du soir.
 

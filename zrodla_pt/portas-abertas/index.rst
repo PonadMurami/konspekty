@@ -17,7 +17,7 @@ Descrição do retiro:
     .. rubric:: Lista de esquemas de reuniões em grupos
 
 .. toctree::
-   assim-como-fui-conhecido.rst
+   tal-como-fui-conhecido.rst
    abertura-sobrenatural.rst
    experimentando.rst
    profetiza.rst

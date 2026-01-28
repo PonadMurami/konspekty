@@ -98,7 +98,7 @@ Aqui os participantes podem ir por caminhos muito diferentes na interpretação.
 * O que significa isto para Vós? (pergunta discreta, mas chave!)
 
 O Espírito dá e descobre diante de nós o sentido
-===============================================
+================================================
 
 Poder-se-ia dizer muito mais sobre o Espírito, mas para as necessidades desta reunião acentuemos especialmente este último facto - o Espírito Santo como aquele que recebemos para que nos capacite para a fé ("recebereis a Sua força e sereis minhas testemunhas..."), como o elemento em falta no quebra-cabeças que é a nossa fé, sem o qual permanece apenas como uma conversa piedosa, algo que podemos repetir toda a vida não o sentindo completamente. Assim como por exemplo o autor deste desmotivador:
 

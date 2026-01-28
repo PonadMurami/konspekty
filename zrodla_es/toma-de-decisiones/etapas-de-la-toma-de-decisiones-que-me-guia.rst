@@ -23,7 +23,7 @@ Ayer decíamos que elegir no es cosa fácil. De hecho, cuando estamos ante un di
 * ¿Sentíamos presión de que no sabíamos qué elegir, pero teníamos que marcar algo?
 
 Hacer una elección/tener algo elegido
-====================================
+=====================================
 
 El hombre piensa mediante palabras. Las asociaciones que tenemos con las palabras se traducen directamente en la forma en que tratamos lo que significan. ¡Miremos nuestras asociaciones!
 

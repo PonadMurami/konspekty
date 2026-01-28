@@ -46,7 +46,7 @@ Voyant la beauté des différentes Églises, nous pouvons nous poser la question
 * Quand es-tu resté pour la dernière fois plus longtemps avec quelqu'un à l'arrêt de bus bien que tu ne connaisses pas si bien cette personne ? Quand as-tu fait pour quelqu'un 2000 pas au lieu de 1000 ? (Mt 5,41) ?
 
 Jésus comme Celui qui est ouvert
-===============================
+================================
 
 Comme nous le voyons, l'Église dès le début était plus diverse qu'il ne peut nous sembler. Différents mouvements, communautés, charismes continuent de s'y interpénétrer et de se compléter. Ce n'est cependant pas une caractéristique propre seulement à l'Église contemporaine, car il en allait de même avec le judaïsme à l'époque où le Seigneur Jésus enseignait. Regardons maintenant brièvement les différentes factions juives qui existaient alors.
 
@@ -108,7 +108,7 @@ Après la lecture en silence, chaque binôme raconte brièvement de quoi parlait
 Dans le contact avec les autres, l'origine, la profession ou le sexe n'avaient aucune importance pour Jésus. Il voyait avant tout l'homme, pas ce qu'il fait - peu importe que quelqu'un soit pêcheur, collecteur d'impôts, centurion. Chacun avait en soi un potentiel, chacun était pour Lui intéressant d'une certaine manière, Il était curieux de chacun.
 
 Ouverture et curiosité
-=====================
+======================
 
 La curiosité est indissociablement liée à l'ouverture. Dieu n'est pas seulement fasciné par chacun de nous, Il est Lui-même Celui qui intrigue - il apparaît dans le buisson ardent, la colonne de feu ou la nuée, Jésus par sa personne suscite l'intérêt et l'étonnement.
 

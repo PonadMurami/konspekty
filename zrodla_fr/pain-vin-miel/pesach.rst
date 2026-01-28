@@ -4,7 +4,7 @@ Rencontre 3. - Pessah
 .. tags:: contenu|eucharistie|Eucharistie, contenu|temps|Temps, contenu|volonte-de-dieu|Volonté de Dieu, contenu|traditions-juives|Traditions juives, methode|travail-sur-texte|Travail sur texte, methode|travail-sur-image|Travail sur image, methode|travail-en-groupes|Travail en groupes, type|mystagogique|Mystagogique
 
 Introduction pour l'animateur
-==========================
+=============================
 
 La rencontre concerne la **présence**. Le thème principal est divisé en trois parties : le pèlerinage, le rite de passage et la présence. Nous voulons commencer par la temporalité et le pèlerinage que nous avons vécus en construisant les tentes. Ensuite, chaque fin d'étape et début d'une nouvelle est liée au rite de passage. Communément, nous disons "quelque chose se termine, quelque chose commence". Nous voulons en parler. À la fin, nous voulons ancrer les participants dans le seder et indiquer où ils se trouvent actuellement.
 

@@ -1,46 +1,46 @@
 .. epub2mobi: http://calibre-ebook.com
 
-Spis Treści
-===========
+Tabla de contenido
+==================
 
 .. toctree::
    :maxdepth: 2
 
 
-   wprowadzenie/index
-   odpowiedzialnosc-za-wspolnote/index
-   duchowosc-czlowieka/index
-   eucharystia/index
-   ruch-swiatlo-zycie/index
-   wiara-wymaga-pytan/index
-   pragnienia-czlowieka-pragnienia-boga/index
-   bo-jak-smierc-potezna-jest-milosc/index
-   czego-szukam/index
-   podrozowanie-po-pustyni/index
-   podejmowanie-decyzji/index
-   poetycko-mieszka-czlowiek/index
-   przestrzenie-wolnosci/index
-   czy-nie-warto-sie-obudzic/index
-   ty-tez/index
-   ogien-wiary/index
-   re-kreacja/index
-   slowa-niezapomniane/index
-   wartosc-bezwzgledna/index
-   ponad-murami/index
-   poczekalnia/index
-   synowie-gromu/index
-   gora-blogoslawienstw/index
-   dwa-skrzydla/index
-   chce-abys-byl/index
-   wpatrzeni-w-niebo/index
-   rownowaga/index
-   7slow/index
-   oczekiwany/index
-   zjednoczeni/index
+   introduccion/index
+   responsabilidad-por-la-comunidad/index
+   espiritualidad-humana/index
+   eucaristia/index
+   movimiento-luz-vida/index
+   la-fe-requiere-preguntas/index
+   deseos-humanos-deseos-de-dios/index
+   porque-fuerte-como-la-muerte-es-el-amor/index
+   que-busco/index
+   viaje-por-el-desierto/index
+   toma-de-decisiones/index
+   poeticamente-habita-el-hombre/index
+   espacios-de-libertad/index
+   acaso-no-vale-la-pena-despertar/index
+   tu-tambien/index
+   fuego-de-la-fe/index
+   re-creacion/index
+   palabras-inolvidables/index
+   valor-absoluto/index
+   sobre-los-muros/index
+   sala-de-espera/index
+   hijos-del-trueno/index
+   monte-de-las-bienaventuranzas/index
+   dos-alas/index
+   quiero-que-seas/index
+   mirando-al-cielo/index
+   equilibrio/index
+   7-palabras/index
+   el-esperado/index
+   unidos/index
    anthrakia/index
-   na-brzegu/index
-   ta-sama-noc/index
-   jestesmy-z-modlitwy/index
-   dlaczego-ta-noc/index
-   drzwi-otwarte/index
-   chleb-wino-miod/index
+   en-la-orilla/index
+   esta-misma-noche/index
+   somos-de-la-oracion/index
+   por-que-esta-noche/index
+   puertas-abiertas/index
+   pan-vino-miel/index

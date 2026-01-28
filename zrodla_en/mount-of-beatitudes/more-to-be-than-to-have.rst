@@ -119,7 +119,7 @@ Peter let his feet be washed. During the wedding water was brought to Jesus to s
 Here a digression: the words "to be a servant" can currently have very negative associations. Culture has shaped our language this way. A servant is not a free man after all. Sometimes the language itself heard in the Church can scare us away only because it is currently incomprehensible to us. This retreat tells about the courage to change perspective. With own effort one can get used to this language and reach the content that stands behind it.
 
 To be a servant by choice
-========================
+=========================
 
 God gives us value as a human being not just so we simply have, not just to feel good, not just to focus only on own development and not just to put ourselves in the center. Through service, through mercy, the other person, following the example of Jesus Christ, stands on the pedestal of our doing love and good towards them.
 

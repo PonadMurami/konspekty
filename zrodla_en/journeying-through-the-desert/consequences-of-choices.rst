@@ -25,7 +25,7 @@ A classic example here is making decisions e.g. in politics. It is much easier n
 * Do you have such decisions in life, of the way of making which you are so sure that you are not afraid of any criticism, because You **know** that then it was the best move?
 
 Certainty, uncertainty
-===================
+======================
 
 We will probably agree that such decisions in our life are rather fewer than more. Normally uncertainty accompanies us more or less, but constantly. We can always ask ourselves this question: "and what if however...?" and start the analysis of the situation anew. Uncertainty is sometimes unbearable, we have had enough of it, we try to eliminate it at all costs.
 
@@ -68,7 +68,7 @@ A Christian does not say "what will be will be", but enters the world and with h
 .. note:: catch and discuss the "oasis slogan" – "God has shown me more than once that He is the Lord of my life and I with my decisions can...". This sentence is spoken with the best intention, but in fact it bends to the other side and can be understood as a kind of incapacitation!)
 
 Consequences – the other side of the coin
-==================================
+=========================================
 
 On the one hand, therefore, consequences appear to us as something "threatening", on the other hand we are called to cause them. Consequences are not a "curse", but a gift thanks to which we can build something on earth (because I can change something!). The effects of decisions are a real force and power to change the world. A poem known perhaps to some of you from Dead Poets Society comes to mind here:
 

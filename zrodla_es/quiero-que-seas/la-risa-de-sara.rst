@@ -1,5 +1,5 @@
 Encuentro 3. - La risa de Sara
-****************************
+******************************
 
 .. tags:: contenido|verdad|Verdad, contenido|esperanza|Esperanza, contenido|voluntad-de-dios|Voluntad de Dios, contenido|deseos|Deseos, metodo|trabajo-con-texto|Trabajo con texto, metodo|preguntas-para-compartir|Preguntas para compartir, tipo|formativo|Formativo
 

@@ -19,7 +19,7 @@ Nous sommes à la moitié de notre retraite. Que se passe-t-il chez nous ? Qu'es
 - Que tirons-nous pour nous-mêmes du "Chemin du Récit" ?
 
 Le rôle de l'étonnement
-======================
+=======================
 
 Depuis hier, nous parlons du rôle du récit et de son importance. Permettons-nous de commencer notre rencontre par la lecture d'un fragment qui est en quelque sorte un résumé de ce qui est derrière nous :
 

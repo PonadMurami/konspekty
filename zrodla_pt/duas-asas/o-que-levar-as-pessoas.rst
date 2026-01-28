@@ -1,5 +1,5 @@
 Encontro 3. - O que levar às pessoas?
-*******************************
+*************************************
 
 .. tags:: conteudo|missao|Missão, conteudo|responsabilidade|Responsabilidade, conteudo|comunicacao|Comunicação, conteudo|liberdade|Liberdade, metodo|trabalho-com-texto|Trabalho com texto, metodo|perguntas-para-partilha|Perguntas para partilha, tipo|formativo|Formativo
 
@@ -164,7 +164,7 @@ Trata-se de que o mais importante não é a divisão entre pessoas que acreditam
 .. note:: Se quiseres, podes também usar a invocação da oração dos fiéis da Sexta-feira Santa: Oremos por todos os que não reconhecem Deus, para que em sinceridade de coração sigam o que é justo, e assim possam encontrar o próprio Deus. /Oração em silêncio. Depois o sacerdote canta:/ Todo-poderoso, eterno Deus, Tu criaste todos os homens, para que sempre Te procurem, e encontrando-Te, experimentem paz; + faze misericordiosamente que todos apesar de obstáculos e perigos, vejam sinais da Tua bondade e testemunho das boas obras daqueles que em Ti acreditam * e com alegria professaram fé em Ti, único verdadeiro Deus e Pai de todos os homens. Por Cristo, nosso Senhor. R. Ámen.
 
 **Sal da terra, luz que brilha diante dos homens**
-=================================================
+==================================================
 
 .. note:: ponto opcional
 
@@ -227,7 +227,7 @@ Após conhecer as descrições, vejamos brevemente cada uma destas histórias:
 O que é importante neste catálogo? Cada um deles Deus chamou de forma que correspondesse ao seu carácter, mas também cada um deles realizou a sua "missão" à sua própria maneira e **não se pode dizer que uma destas maneiras fosse melhor, e outra pior!**
 
 Espaços da minha vida, necessidades do mundo
-===========================================
+============================================
 
 Tentemos preencher uma tabela simples - cada participante preenche para si.
 

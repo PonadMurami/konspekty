@@ -1,46 +1,46 @@
 .. epub2mobi: http://calibre-ebook.com
 
-Spis Treści
-===========
+Table des matières
+==================
 
 .. toctree::
    :maxdepth: 2
 
 
-   wprowadzenie/index
-   odpowiedzialnosc-za-wspolnote/index
-   duchowosc-czlowieka/index
-   eucharystia/index
-   ruch-swiatlo-zycie/index
-   wiara-wymaga-pytan/index
-   pragnienia-czlowieka-pragnienia-boga/index
-   bo-jak-smierc-potezna-jest-milosc/index
-   czego-szukam/index
-   podrozowanie-po-pustyni/index
-   podejmowanie-decyzji/index
-   poetycko-mieszka-czlowiek/index
-   przestrzenie-wolnosci/index
-   czy-nie-warto-sie-obudzic/index
-   ty-tez/index
-   ogien-wiary/index
-   re-kreacja/index
-   slowa-niezapomniane/index
-   wartosc-bezwzgledna/index
-   ponad-murami/index
-   poczekalnia/index
-   synowie-gromu/index
-   gora-blogoslawienstw/index
-   dwa-skrzydla/index
-   chce-abys-byl/index
-   wpatrzeni-w-niebo/index
-   rownowaga/index
-   7slow/index
-   oczekiwany/index
-   zjednoczeni/index
+   introduction/index
+   responsabilite-pour-la-communaute/index
+   spiritualite-humaine/index
+   eucharistie/index
+   mouvement-lumiere-vie/index
+   la-foi-exige-des-questions/index
+   desirs-humains-desirs-de-dieu/index
+   car-lamour-est-fort-comme-la-mort/index
+   ce-que-je-cherche/index
+   voyage-a-travers-le-desert/index
+   prise-de-decision/index
+   poetiquement-habite-l-homme/index
+   espaces-de-liberte/index
+   ne-vaut-il-pas-la-peine-de-se-reveiller/index
+   toi-aussi/index
+   feu-de-la-foi/index
+   re-creation/index
+   paroles-inoubliables/index
+   valeur-absolue/index
+   au-dessus-des-murs/index
+   salle-d-attente/index
+   fils-du-tonnerre/index
+   mont-des-beatitudes/index
+   deux-ailes/index
+   je-veux-que-tu-sois/index
+   les-yeux-fixes-au-ciel/index
+   equilibre/index
+   7-paroles/index
+   l-attendu/index
+   unis/index
    anthrakia/index
-   na-brzegu/index
-   ta-sama-noc/index
-   jestesmy-z-modlitwy/index
-   dlaczego-ta-noc/index
-   drzwi-otwarte/index
-   chleb-wino-miod/index
+   sur-le-rivage/index
+   cette-meme-nuit/index
+   nous-sommes-de-la-priere/index
+   pourquoi-cette-nuit/index
+   portes-ouvertes/index
+   pain-vin-miel/index

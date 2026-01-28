@@ -63,7 +63,7 @@ Depois segue-se a partilha. Perguntas auxiliares que vale a pena utilizar para m
 - Imaginemos que depois da morte de Jesus tivesse surgido apenas uma descrição da instituição da Eucaristia. Como seria o cristianismo 2000 anos depois deste facto?
 
 Intimidade da história
-=====================
+======================
 
 Vemos nós mesmos que quando transmitimos uma história acrescentamos-lhe um certo carácter único e íntimo. Escolhemos elementos que nos são mais próximos, tocam os nossos corações mais fortemente, ou são simplesmente melhores e mais expressivos quando se trata de enfatizar o significado do que aconteceu.
 

@@ -1,5 +1,5 @@
 Encontro 3 - A fé no lar
-***********************
+************************
 
 .. tags:: conteudo|igreja|Igreja, conteudo|comunidade|Comunidade, conteudo|palavra-de-deus|Palavra de Deus, conteudo|busca|Busca, conteudo|tradicoes-judaicas|Tradições judaicas, metodo|trabalho-com-simbolos|Trabalho com símbolos, metodo|trabalho-com-texto|Trabalho com texto, metodo|discussao|Discussão, tipo|mistagogico|Mistagógico
 

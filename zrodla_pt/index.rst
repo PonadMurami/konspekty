@@ -1,46 +1,46 @@
 .. epub2mobi: http://calibre-ebook.com
 
-Spis Treści
-===========
+Índice
+======
 
 .. toctree::
    :maxdepth: 2
 
 
-   wprowadzenie/index
-   odpowiedzialnosc-za-wspolnote/index
-   duchowosc-czlowieka/index
-   eucharystia/index
-   ruch-swiatlo-zycie/index
-   wiara-wymaga-pytan/index
-   pragnienia-czlowieka-pragnienia-boga/index
-   bo-jak-smierc-potezna-jest-milosc/index
-   czego-szukam/index
-   podrozowanie-po-pustyni/index
-   podejmowanie-decyzji/index
-   poetycko-mieszka-czlowiek/index
-   przestrzenie-wolnosci/index
-   czy-nie-warto-sie-obudzic/index
-   ty-tez/index
-   ogien-wiary/index
-   re-kreacja/index
-   slowa-niezapomniane/index
-   wartosc-bezwzgledna/index
-   ponad-murami/index
-   poczekalnia/index
-   synowie-gromu/index
-   gora-blogoslawienstw/index
-   dwa-skrzydla/index
-   chce-abys-byl/index
-   wpatrzeni-w-niebo/index
-   rownowaga/index
-   7slow/index
-   oczekiwany/index
-   zjednoczeni/index
+   introducao/index
+   responsabilidade-pela-comunidade/index
+   espiritualidade-humana/index
+   eucaristia/index
+   movimento-luz-vida/index
+   a-fe-exige-perguntas/index
+   desejos-humanos-desejos-de-deus/index
+   porque-o-amor-e-forte-como-a-morte/index
+   o-que-procuro/index
+   jornada-pelo-deserto/index
+   tomada-de-decisoes/index
+   poeticamente-habita-o-homem/index
+   espacos-de-liberdade/index
+   nao-vale-a-pena-acordar/index
+   tu-tambem/index
+   fogo-da-fe/index
+   re-criacao/index
+   palavras-inesqueciveis/index
+   valor-absoluto/index
+   sobre-os-muros/index
+   sala-de-espera/index
+   filhos-do-trovao/index
+   monte-das-bem-aventurancas/index
+   duas-asas/index
+   quero-que-sejas/index
+   olhando-para-o-ceu/index
+   equilibrio/index
+   7-palavras/index
+   o-esperado/index
+   unidos/index
    anthrakia/index
-   na-brzegu/index
-   ta-sama-noc/index
-   jestesmy-z-modlitwy/index
-   dlaczego-ta-noc/index
-   drzwi-otwarte/index
-   chleb-wino-miod/index
+   na-margem/index
+   esta-mesma-noite/index
+   somos-da-oracao/index
+   por-que-esta-noite/index
+   portas-abertas/index
+   pao-vinho-mel/index

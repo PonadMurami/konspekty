@@ -1,5 +1,5 @@
 Encontro 2. - Porque nos criaste orientados para Ti Senhor
-*********************************************************
+**********************************************************
 
 .. tags:: conteudo|amor|Amor, conteudo|desejos|Desejos, conteudo|palavra-de-deus|Palavra de Deus, conteudo|cruz|Cruz, metodo|trabalho-com-texto|Trabalho com texto, metodo|discussao|Discussão, tipo|evangelizador|Evangelizador
 

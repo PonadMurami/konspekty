@@ -79,7 +79,7 @@ We should know in which direction we are going, so as not to wander. We know the
 But how so? Now one has to be consistent and not give up on anything?! That's impossible!
 
 Not to lose the goal from sight (?)
-==================================
+===================================
 
 * Did it ever happen to You to lose the meaning of what you are doing while performing some activity? What was it?
 

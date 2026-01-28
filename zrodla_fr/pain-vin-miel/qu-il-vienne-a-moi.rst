@@ -4,7 +4,7 @@ Rencontre 2. - "Qu'il vienne à Moi"
 .. tags:: contenu|ouverture|Ouverture, contenu|liberte|Liberté, contenu|saint-esprit|Saint-Esprit, contenu|relations|Relations, contenu|traditions-juives|Traditions juives, methode|travail-sur-texte|Travail sur texte, methode|travail-sur-image|Travail sur image, type|formation|De formation
 
 Introduction pour l'animateur
-==========================
+=============================
 
 Cette rencontre s'appuie sur deux éléments importants liés à la célébration de Soukkot - la tradition d'inviter des invités dans la tente, et le portage de l'eau de la piscine de Siloé. Nous voulons traiter ces coutumes comme point de départ pour réfléchir sur notre propre foi et ses trois aspects - l'hospitalité (foi qui invite), l'effort (foi exigeante) et la liberté (foi libératrice). **Pendant la rencontre, nous utiliserons les matériaux qui se trouvent dans le carnet**, il vaut donc la peine de s'assurer avant la rencontre que les participants les ont avec eux. Toutes les questions n'ont pas besoin d'être posées, mais nous tenons à ce que les trois aspects de la foi soient abordés. Nous ne proposons aucune prière spécifique pour le début et la fin de la rencontre, nous laissons la liberté en cette matière. Nous croyons que chaque animateur adaptera le contenu de cette rencontre à son groupe pour qu'elle soit aussi fructueuse que possible ;)
 

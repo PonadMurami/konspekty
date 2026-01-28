@@ -1,5 +1,5 @@
 Encuentro 2. - Porque nos has creado orientados hacia Ti Señor
-************************************************************
+**************************************************************
 
 .. tags:: contenido|amor|Amor, contenido|deseos|Deseos, contenido|palabra-de-dios|Palabra de Dios, contenido|cruz|Cruz, metodo|trabajo-con-texto|Trabajo con texto, metodo|discusion|Discusión, tipo|evangelizador|Evangelizador
 

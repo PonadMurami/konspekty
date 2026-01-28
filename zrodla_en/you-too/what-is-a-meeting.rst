@@ -4,7 +4,7 @@ Meeting 2. - What is a meeting?
 .. tags:: content|community|Community, content|relationships|Relationships, content|communication|Communication, method|image-work|Image work, method|text-work|Text work, method|discussion|Discussion, type|workshop|Workshop
 
 Goal
-===
+====
 
 1. making participants aware that there are meetings and Meetings (with a capital M) and that we, being creators and makers of our life meetings, decide which will prevail
 2. sending them out of the meeting with an attempt to define what a Meeting is

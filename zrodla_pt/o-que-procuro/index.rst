@@ -1,5 +1,5 @@
 O que procuro?
-#############
+##############
 
 Tempo de criação dos conspectos:
     Outono de 2008

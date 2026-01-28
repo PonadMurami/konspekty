@@ -1,5 +1,5 @@
 Encuentro 3 - ¿Quién es y cómo actúa el Espíritu Santo?
-*****************************************************
+*******************************************************
 
 .. tags:: contenido|espiritu-santo|Espíritu Santo, contenido|verdad|Verdad, contenido|mision|Misión, contenido|antiguo-testamento|Antiguo Testamento, contenido|palabra-de-dios|Palabra de Dios, metodo|trabajo-en-grupos|Trabajo en grupos, metodo|trabajo-con-texto|Trabajo con texto, tipo|biblico|Bíblico
 
@@ -98,7 +98,7 @@ Aquí los participantes pueden ir por caminos muy diferentes en la interpretaci�
 * ¿Qué significa esto para Vosotros? (¡pregunta discreta, pero clave!)
 
 El Espíritu da y descubre ante nosotros el sentido
-=================================================
+==================================================
 
 Se podría decir mucho más sobre el Espíritu, pero para las necesidades de esta reunión acentuemos especialmente este último hecho - el Espíritu Santo como aquel que recibimos para que nos capacite para la fe ("recibiréis Su fuerza y seréis mis testigos..."), como el elemento que falta en el rompecabezas que es nuestra fe, sin el cual permanece solo como una charla piadosa, algo que podemos repetir toda la vida no sintiéndolo completamente. Así como por ejemplo el autor de este desmotivador:
 

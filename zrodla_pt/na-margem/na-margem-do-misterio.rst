@@ -11,7 +11,7 @@ As reuniões em grupos “Na Margem” têm como objetivo principal criar um esp
 A oração de hoje é um Pai Nosso expandido. Queremos “buscar lá onde parece que já sabemos tudo”. O objetivo desta reunião é explorar esses espaços em nossa vida espiritual que talvez “se tenham tornado óbvios” e, através de um olhar comum, buscar neles algo que continue sendo vivificante para nós.
 
 Constituição da comunidade - por que estamos na margem?
-======================================================
+=======================================================
 
 Há pouco, durante a conferência, ouvimos sobre milhões de ofertas que competem pelo nosso tempo e cada uma promete ser importante. No entanto, nós escolhemos estar aqui - por quê? Vamos usar a resposta a esta pergunta para nos conhecermos um pouco melhor.
 
@@ -103,7 +103,7 @@ Leiamos:
 * Que atribuição de categoria não nos serve na vida espiritual?
 
 A capacidade de deixar ir
-========================
+=========================
 
     “A santidade não significa fazer coisas extraordinárias, mas fazer as coisas ordinárias com amor e fé.”
 

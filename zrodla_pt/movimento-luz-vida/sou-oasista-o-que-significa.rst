@@ -39,7 +39,7 @@ O animador em um lugar apropriado (escolhido anteriormente) estende no chão uma
 *Lemos sucessivamente os elementos "Oasistas" (da folha) e os participantes ficam "no eixo". Em seguida, cada um responde por que escolheu exatamente esse lugar. Durante as respostas, os demais podem mudar de lugar.*
 
 Reflexão sobre a qualidade da própria vivência do Movimento
-==========================================================
+===========================================================
 
 *Vamos refletir se nos sentimos piores por ter que ficar mais perto do "menos"? (individualmente, não em público)*
 

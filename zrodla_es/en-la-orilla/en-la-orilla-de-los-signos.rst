@@ -1,5 +1,5 @@
 Encuentro 2. - “En la orilla de los signos”
-*****************************************
+*******************************************
 
 .. tags:: contenido|espiritu-santo|Espíritu Santo, contenido|madurez|Madurez, contenido|busqueda|Búsqueda, contenido|decisiones|Decisiones, metodo|trabajo-con-texto|Trabajo con texto, metodo|discusion|Discusión, tipo|formativo|Formativo
 
@@ -87,7 +87,7 @@ Decisión 3:
 * ¿Qué nos fue más fácil señalar: nuestros recursos o los recursos de San Pedro, María y San Francisco? ¿Qué me dice esto sobre mí mismo?
 
 El papel del Espíritu Santo en mi toma de decisiones
-===================================================
+====================================================
 
 Dios quiere que seamos maduros, que alcancemos la sabiduría en la que se basarán nuestras decisiones.
 

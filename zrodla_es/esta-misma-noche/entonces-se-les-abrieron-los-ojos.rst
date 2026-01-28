@@ -76,7 +76,7 @@ Las palabras de Jesús sobre la destrucción y reconstrucción del templo podía
 Si nos concentráramos solo y exclusivamente en lo que resulta directamente de este fragmento, perderíamos mucho de su significado. La clave es unir ambas perspectivas: tanto la profundización como la ampliación, y esto en referencia no solo a la interpretación de la Sagrada Escritura, sino en general a todos los procesos cognitivos en los que participamos. Si profundizamos siempre solo un tema, nos convertiremos en expertos en él, pero nuestra comprensión será, a pesar de todo, bastante estrecha. Por otro lado, si siempre exploráramos nuevas áreas sin profundizar en ninguna de ellas, no sería posible el desarrollo. Confiando en la guía de Dios y en que hemos sido equipados por el Espíritu Santo con las herramientas adecuadas, no tengamos miedo de intentar comprender el gran designio de Dios. ¡Especialmente porque a veces lo más importante no es obtener la respuesta, sino el proceso mismo de su búsqueda!
 
 Dios quiere ser interpretado, pero no interpretado totalmente (cerrado)
-======================================================================
+=======================================================================
 
 Leamos:
 

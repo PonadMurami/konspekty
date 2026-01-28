@@ -106,7 +106,7 @@ Lisons :
 *   Ai-je fait l'expérience de Paroles de Dieu qui "transformaient" quelque chose sous mes yeux ? Peux-tu en dire quelque chose ?
 
 Nous prononçons des mots
-=======================
+========================
 
 Dieu est un Dieu de dialogue. Il ne se contente pas de nous adresser des paroles, mais il écoute notre réponse. Quand l'homme commet un péché, Dieu ne lui fait pas un sermon, il demande seulement "Adam, où es-tu ?" (bien qu'il connaisse la réponse). Puisque Dieu lui-même a dit que "la Parole qui sort de ma bouche, ne me revient pas sans résultat avant d'avoir accompli ce que je voulais", cela signifie que Sa Parole rencontre une réponse !
 
@@ -177,7 +177,7 @@ Cela sonne peut-être bien, mais est-ce là notre expérience ? La lutte pour la
 *   Les "grands mots", les "mots interrogeant sur Dieu" ne me sont-ils pas devenus banals ?
 
 Des paroles qui sont un miroir et une purification
-=================================================
+==================================================
 
 Si nous entendons la Parole de Dieu et y répondons - nous commençons un voyage merveilleux. La Parole de Dieu nous guidera. C'est un voyage de foi.
 
@@ -261,7 +261,7 @@ Et un fragment du Nouveau Testament :
 *   Puis-je dire actuellement de moi que la Parole du Christ habite en moi ?
 
 Des paroles qui avec le temps se révèlent à nous
-===============================================
+================================================
 
 Lire la Parole de Dieu est une aventure. Vraiment. Il est unique ce moment où nous lisons la Parole de Dieu et commençons, à travers les signes créés avec de l'encre sur du papier, à voir un sens plus profond. Essayons d'en faire l'expérience !
 

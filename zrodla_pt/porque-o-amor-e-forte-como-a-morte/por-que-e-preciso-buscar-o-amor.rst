@@ -62,7 +62,7 @@ Usaremos este método lendo os fragmentos individuais do livro. Claro, não temo
 Por ocasião dos fragmentos anteriores, pode-se abordar o tema da linguagem do amor que os apaixonados usam neste livro. Vale a pena explicar aqui a origem dessas comparações, metáforas. Em seguida, perguntar com que linguagem falamos atualmente sobre o amor. (Claro, o animador não é obrigado a abordar este fio, mas vale a pena dar uma explicação das metáforas e comparações, ou pelo menos a gênese; isto é, o condicionamento cultural e histórico da comparação, por exemplo, com uma ovelha.)
 
 Por que é preciso buscar o amor?
-===============================
+================================
 
 Quando já tivermos lido esta parte do Cântico dos Cânticos, reflitamos por que a amada sempre procura seu amado, por que ocorrem momentos de separação? Para que serve isso?
 
@@ -73,7 +73,7 @@ Perguntemos aos participantes se, ao não ouvir os pais; ao fazer mal aos mais p
 Bem, nem sempre tem que ser assim. Afinal, mais de um de nós, ao não ser obediente aos pais, não quer de imediato o melhor para eles. Se amamos alguém, não é tão fácil eliminar esse amor de nós. Sim, às vezes o escondemos com outros assuntos, problemas que nos parecem mais importantes. Mas é preciso trabalhar muito para eliminar o amor de nós completamente. Da mesma forma que é preciso esforçar-se muito para encontrar esse amor – assim como a amada se esforça muito procurando no início do livro seu amado. (Muito bom se o que escrevi acima saísse durante a conversa, e não fosse apenas uma palestra do animador.)
 
 Por que chegamos ao amor a partir de um estado de carência, de vazio?
-====================================================================
+=====================================================================
 
 Durante a conversa, tentemos responder a esta pergunta. Coloquemos diante dos participantes 2 possibilidades:
 

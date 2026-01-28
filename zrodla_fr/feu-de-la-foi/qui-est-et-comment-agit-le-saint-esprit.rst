@@ -1,5 +1,5 @@
 Rencontre 3 - Qui est et comment agit le Saint-Esprit ?
-*****************************************************
+*******************************************************
 
 .. tags:: contenu|saint-esprit|Saint-Esprit, contenu|verite|Vérité, contenu|mission|Mission, contenu|ancien-testament|Ancien Testament, contenu|parole-de-dieu|Parole de Dieu, methode|travail-en-groupes|Travail en groupes, methode|travail-sur-texte|Travail sur texte, type|biblique|Biblique
 
@@ -98,7 +98,7 @@ Ici les participants peuvent aller par des chemins très différents dans l'inte
 * Qu'est-ce que cela signifie pour Vous ? (question anodine, mais clé !)
 
 L'Esprit donne et découvre devant nous le sens
-=============================================
+==============================================
 
 On pourrait dire encore beaucoup sur l'Esprit, mais pour les besoins de cette réunion accentuons particulièrement ce dernier fait - le Saint-Esprit comme celui que nous recevons pour qu'il nous rende capables de croire ("vous recevrez Sa force et vous serez mes témoins..."), comme l'élément manquant du puzzle qu'est notre foi, sans lequel elle reste seulement un bavardage pieux, quelque chose que nous pouvons répéter toute la vie sans le sentir complètement. Tout comme par exemple l'auteur de ce démotivateur :
 

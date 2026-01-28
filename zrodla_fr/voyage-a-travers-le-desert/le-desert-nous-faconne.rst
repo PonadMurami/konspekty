@@ -1,5 +1,5 @@
 Rencontre 2. - Le désert nous façonne
-************************************
+*************************************
 
 .. tags:: contenu|maturite|Maturité, contenu|croix|Croix, contenu|desirs|Désirs, methode|travail-sur-image|Travail sur image, methode|discussion|Discussion, type|formation|De formation
 
@@ -27,7 +27,7 @@ Hier, nous parlions du désert comme d'un endroit dangereux et menaçant, c'est 
 .. note:: animateurs : détruisons immédiatement les tendances aux "bonnes réponses que l'animateur veut entendre" et provoquons une conversation ouverte
 
 "La vie se déroule toute seule, nous nous y adaptons habilement"
-===============================================================
+================================================================
 
 D'où résultent nos sensations lors du Chemin de Croix d'une certaine fatigue/ennui/impatience/compte des stations jusqu'à la fin ? Qu'y avait-il de différent dans ces 1h30 de notre vie par rapport aux moments où "nous sentons que nous vivons" ? Nous ressentions quelque chose que nous essayons tant d'éviter au quotidien. Essayons de réfléchir à la source de ces sensations.
 

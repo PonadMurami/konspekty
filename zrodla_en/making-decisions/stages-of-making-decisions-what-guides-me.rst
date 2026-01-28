@@ -4,7 +4,7 @@ Meeting 2. - Stages of making decisions – what guides me?
 .. tags:: content|decisions|Decisions, content|discernment|Discernment, content|freedom|Freedom, method|definition-work|Definition work, method|discussion|Discussion, type|workshop|Workshop
 
 Goal
-===
+====
 
 To see different motivations in making decisions (on what basis do I make decisions?)
 
@@ -23,7 +23,7 @@ Yesterday we said that choice is not an easy thing. In fact, when we face a choi
 * did we feel pressure that we didn't know what to choose, but we had to mark something?
 
 To make a choice/to have something chosen
-===================================
+=========================================
 
 Man thinks using words. What associations we have with words directly translates into how we treat what they mean. Let's look at our associations!
 
@@ -42,7 +42,7 @@ These are very, very positive associations.
 * Where do you think this difference in associations of words so similar comes from?
 
 Choice – what can we give thanks to it?
-===================================
+=======================================
 
 .. centered:: **"Chosen means valuable"!**
 
@@ -67,7 +67,7 @@ Can we, for example, use the criterion of "greatest value" in relation to the ch
 Let's look that this is not about choosing that something from now on will not be/will be important (as far as such a choice is technically possible to change something like that by an act of reason!!!!), but that by making decisions it happens automatically as if "in the background".
 
 My choices – analysis of steps
-============================
+==============================
 
 Yesterday we filled out a survey. We had to make specific choices, even those "against us" when we would like to find another (better) solution, but such was not included in the answer options. Let's try to analyze each of the 14 situations now. However, let's try to focus on the stages of making decisions rather than on its content itself.
 

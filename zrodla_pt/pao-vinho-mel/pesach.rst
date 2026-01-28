@@ -189,7 +189,7 @@ As assinaturas são uma bela imagem contemporânea do caminho (embora frequentem
 A Páscoa de Jesus Cristo é o momento central de nossa fé. Segui-lo não pode ignorar esse aspecto - devemos ser "passantes". Deve ser tão próximo de nós que nos defina. Como cristãos, tornamo-nos em vida Homo Paschalis.
 
 Ritual de passagem
-=================
+==================
 
 Olhando para as pessoas às quais propusemos encerrar a assinatura ou adicionar uma nova, através dessa ação, elas encerraram uma certa etapa em suas vidas. Agora, por nossa sugestão, terão acesso a outros conteúdos. A partir de então começou outra etapa em sua atividade no YouTube, e nós fomos participantes do ritual de passagem, no qual eles mesmos modificaram a lista de canais que assinam. É uma espécie de passagem - nova etapa.
 

@@ -276,7 +276,7 @@ Dans la compréhension de Jésus, régner c'est servir. Le Royaume de Jésus n'e
 L'Écriture Sainte elle-même ne nous explique pas le concept du Royaume de Dieu de manière concrète, nous laissant ainsi une certaine dose de mystère. Et peut-être s'agit-il justement de ce mystère. Jamais, dans notre vie terrestre, il ne nous sera donné de connaître pleinement le mystère du Royaume, car il ne s'est pas encore pleinement manifesté. Il restera en lui une part de mystère, qui est un élément indissociable de notre foi. Mais cela ne signifie pas que nous ne pouvons pas y aspirer et participer à sa réalisation sur terre. Chacun de nous, bien qu'à un certain degré, est capable de discerner intuitivement la direction du chemin vers le Royaume. Il vaut la peine d'investir dans ce chemin.
 
 Résumé et application
-====================
+=====================
 
 Je pense qu'un bon résumé sera simplement de partager ce à quoi nos cœurs se sont ouverts pendant cette retraite. Partageons un court témoignage.
 

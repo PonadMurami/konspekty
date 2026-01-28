@@ -62,7 +62,7 @@ Usaremos este método leyendo los fragmentos individuales del libro. Por supuest
 Con ocasión de los fragmentos anteriores se puede tocar el tema del lenguaje del amor que usan los enamorados en este libro. Vale la pena explicar aquí el origen de estas comparaciones, metáforas. Luego preguntar con qué lenguaje hablamos actualmente sobre el amor. (Por supuesto, el animador no tiene que abordar este hilo, pero vale la pena dar una explicación de las metáforas y comparaciones, o al menos la génesis; es decir, el condicionamiento cultural e histórico de la comparación, por ejemplo, con una oveja.)
 
 ¿Por qué hay que buscar el amor?
-==============================
+================================
 
 Cuando ya hayamos leído esta parte del Cantar de los Cantares, reflexionemos por qué la amada siempre busca a su amado, ¿por qué ocurren momentos de separación? ¿Para qué sirve esto?
 
@@ -73,7 +73,7 @@ Preguntemos a los participantes si al no escuchar a los padres; al hacer daño a
 Pues no siempre tiene que ser así. Después de todo, más de uno de nosotros al no ser obediente a los padres no quiere de inmediato lo mejor para ellos. Si amamos a alguien, no es tan fácil eliminar ese amor de nosotros. Sí, a veces lo ocultamos con otros asuntos, problemas que parecen más importantes para nosotros. Pero hay que trabajar mucho para eliminar el amor de nosotros por completo. Del mismo modo que hay que esforzarse mucho para encontrar este amor – al igual que la amada se esfuerza mucho buscando al comienzo del libro a su amado. (Muy bien si lo que escribí arriba saliera durante la conversación, y no fuera solo una conferencia del animador.)
 
 ¿Por qué llegamos al amor desde un estado de carencia, de vacío?
-==============================================================
+================================================================
 
 Durante la conversación tratemos de responder a esta pregunta. Planteemos ante los participantes 2 posibilidades:
 

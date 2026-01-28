@@ -1,5 +1,5 @@
 Rencontre 1. - "Je veux, mais je ne comprends pas"
-************************************************
+**************************************************
 
 .. tags:: contenu|verite|Vérité, contenu|eglise|Église, contenu|maturite|Maturité, methode|travail-sur-texte|Travail sur texte, methode|questions-de-partage|Questions de partage, type|biblique|Biblique
 

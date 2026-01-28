@@ -1,5 +1,5 @@
 Encontro 1. - Liberdade
-**********************
+***********************
 
 .. tags:: conteudo|liberdade|Liberdade, conteudo|verdade|Verdade, conteudo|pecado|Pecado, metodo|trabalho-com-musica|Trabalho com música, metodo|trabalho-com-texto|Trabalho com texto, metodo|trabalho-com-definicao|Trabalho com definição, metodo|discussao|Discussão, tipo|formativo|Formativo
 

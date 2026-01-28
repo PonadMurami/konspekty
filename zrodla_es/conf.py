@@ -218,7 +218,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'konspekty.tex', u'Konspekty spotkań grupowych',
+  ('index', 'konspekty.tex', u'Esquemas de reuniones grupales',
    u'Diakonia Ponad Murami', 'book')
 ]
 

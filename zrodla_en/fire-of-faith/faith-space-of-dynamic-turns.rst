@@ -9,17 +9,17 @@ Necessary aids
 Two markers of different colors, blank sheets of paper (min. 5 pcs.), Holy Scripture, a card with the inscription "RESURRECTION IS MUCH ADO ABOUT NOTHING", printed graphs (but they can also be created on the fly with the group)
 
 Goal
-===
+====
 
 Obtaining a common ground with participants at the start of the retreat in relation to faith - there is no "closer" and "further", if faith is grace.
 
 Introduction for the animator to the whole retreat
-================================================
+==================================================
 
 A meeting with another person starting with the sign of the cross is something that cannot be predicted and which we will never manage to close in the frames of an outline. We stand before the Mystery of another person, their history, desires, experienced situations. Therefore, let these outlines be only an attempt to direct animators to the topic, a certain proposal. "The letter kills, but the Spirit gives life" (2 Cor 3:6) - let these letters scattered on these pages not kill the Spirit of the Meeting, who waits until we invite Him together to dialogue with us.
 
 Introduction for the animator
-==========================
+=============================
 
 Since the meeting requires crossing "polite Catholicism", animators must be sensitized to this, that they must create such an atmosphere of openness from the first minutes of the meeting, so that people feel encouraged and appreciate the value of talking about how it is, and not about how it should be. It is worth saying that this is exactly why we come to the retreat, that we are in such a group where we trust each other, that when someone says something it is not because they do not love God, only because they want to look for answers together with the group. We are touching, in my opinion, some core of what being an animator is. We demand a lot from animators. This is not an outline to be led by reading it like a script. Basically, Saturday I is about what I wrote here, but animators must create such an atmosphere already now. The official moment of transition to this is Fr. Jarek's homily.
 
@@ -104,7 +104,7 @@ Conclusion regarding Jesus' last days before Emmaus:
    Jesus tells parables, raises Lazarus, enters Jerusalem solemnly, crowds follow him and a few days later he is mocked and killed. A 180 degree turn of action in a few days, and the story lasted 3 years.
 
 Good disappointment, because it's a springboard up!
-==========================================
+===================================================
 
 Search:
 
@@ -136,7 +136,7 @@ We put a card on the table with the words "RESURRECTION IS MUCH ADO ABOUT NOTHIN
 * And even if we feel ourselves that no, can we say that some think so? Why do they think so?
 
 Conclusions
-=======
+===========
 
 It is difficult for us to deal with the resurrection. We are aware of the momentousness of this event, someone is constantly quoting St. Paul that "if Christ has not been raised, your faith is futile"; someone is constantly repeating that Easter is the most important holiday for Christians... but do I carry it? Do I accept it? Is it actually important to me? Do I want it? And it is not about answering yes to all these questions now, but to want to stand in truth and realize that I CAN not understand, not accept, not carry, but I should not let go, be indifferent. Each of us feels that his personal faith is something important to him. And for important things it is worth, and even necessary to fight.
 

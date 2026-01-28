@@ -1,10 +1,10 @@
 Rencontre 1. - Soukkot
-*********************
+**********************
 
 .. tags:: contenu|ouverture|Ouverture, contenu|communaute|Communauté, contenu|service|Service, contenu|traditions-juives|Traditions juives, methode|arts-plastiques|Arts plastiques, methode|travail-en-groupes|Travail en groupes, type|atelier|Atelier
 
 Introduction pour l'animateur
-==========================
+=============================
 
 La première rencontre de groupe remplit une fonction de présentation et d'intégration. Nous aimerions que la rencontre permette de vivre et de résumer le premier jour des retraites. Dans la première rencontre, nous aimerions mettre l'accent sur l'HOSPITALITÉ. L'hospitalité comprise comme l'étape suivante après l'ouverture et la sortie vers les autres. C'est nous qui devons donner un espace hospitalier, auquel nous invitons les autres, afin qu'ils puissent sortir vers les gens.
 
@@ -90,7 +90,7 @@ L'HOSPITALITÉ ne signifie pas accepter tout sans réfléchir, mais la capacité
     -- Mt 10,40
 
 L'hospitalité comme sagesse du cœur
-==============================
+===================================
 
 Lisons :
 
@@ -103,7 +103,7 @@ Lisons :
 Les voyages forment, mais ce qui forme le plus en eux, ce sont les rencontres avec d'autres personnes, pas seulement la connaissance livresque sur d'autres pays. **L'hospitalité donne la possibilité de faire un voyage sans sortir de chez soi** - de même qu'en voyage nous avons l'occasion de rencontrer une autre personne et Dieu dans l'autre personne. Ce n'est pas acquérir des informations, c'est vivre l'autre personne.
 
 Inversion de la logique
-=================
+=======================
 
 L'animateur commence par la question :
 

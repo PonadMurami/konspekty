@@ -154,7 +154,7 @@ Souvent ce qui détermine notre action dans la vie (ou son absence) est la peur.
 Quand nous faisons quelque chose d'important pour le monde, il y a toujours inscrit en cela le risque d'un échec plus ou moins grand - toujours quelque chose ne marchera pas (pendant le tournage de la vidéo avec le gâteau un tas de choses n'ont pas marché, ce dont peuvent témoigner ceux qui y ont participé). Il est important que nos peurs ne freinent pas notre action. Car c'est Dieu qui s'en chargera.
 
 La lutte du bien contre le mal se joue ici et maintenant
-======================================================
+========================================================
 
 * Quand nous entendons parler de la lutte du bien contre le mal, quelles images avons-nous devant les yeux ?
 

@@ -1,5 +1,5 @@
 Réunion 3. - “Sur le Rivage de l'Église”
-***************************************
+****************************************
 
 .. tags:: contenu|eglise|Église, contenu|vocation|Vocation, contenu|amour|Amour, contenu|service|Service, methode|travail-sur-image|Travail sur image, methode|discussion|Discussion, type|atelier|Atelier
 

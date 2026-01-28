@@ -82,7 +82,7 @@ Fuir le quotidien est fuir soi-même, sa propre humanité, qui inséparablement 
    -- Karl Rahner
 
 Où est la place pour l'admiration ?
-==================================
+===================================
 
 Si le quotidien est si super alors pourquoi au juste cette admiration ? Où est la place pour elle ?
 
@@ -124,7 +124,7 @@ Quotidiennement dans chaque église est célébrée l'Eucharistie. C'est précis
 Je pense qu'on ne peut pas appeler chose ordinaire le fait que Dieu descend sur terre et vient à nous dans un morceau de pain. Mais Jésus n'a pas dit : faites ceci en mémoire de moi, mais chaque jour différemment. Non, chaque jour cela s'accomplit de la même manière et c'est salvateur.
 
 Dans les moments les plus petits est caché le goût de la vie
-===========================================================
+============================================================
 
 * Qu'en pensez-vous, peut-on unir de telles choses extraordinaires - comme l'est chaque Eucharistie - et ordinaires - comme le fait qu'elle est quotidienne ?
 

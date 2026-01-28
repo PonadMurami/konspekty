@@ -40,7 +40,7 @@ Reading the Passage, and then placing it in a visible place so that it "accompan
 This passage is also an introduction to the topic of the meeting – ask someone specifically how they react when they see such a text, are these "clichés" for them or perhaps unlifelike considerations, or maybe something that moved them?
 
 The gift of life: what to do with it? What is it?
-===============================================
+=================================================
 
 Without an answer to the questions: what is my life, what does the fact that I exist testify to, what do I live for, etc., there is no possibility of going further. Man usually either avoids these questions because they are too difficult for him, or pushes them into the "space of obviousness".
 

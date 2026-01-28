@@ -103,7 +103,7 @@ The difference is huge! Continuous seeking is creating a dynamic relationship th
 Our seeking is however strongly threatened. The world easily manipulates it, but also we ourselves.
 
 I seek because they told me that I want this
-===========================================
+============================================
 
 .. note:: this point can be reported. I place it here due to the significant age span of our participants – perhaps there will be groups where this topic will be most fruitful
 

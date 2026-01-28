@@ -219,7 +219,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   ('index', 'konspekty.tex', u'Meeting outlines',
-   u'Diakonia Ponad Murami', 'book')
+   u'Above the Walls', 'book')
 ]
 
 # The name of an image file (relative to this directory) to place at the top of

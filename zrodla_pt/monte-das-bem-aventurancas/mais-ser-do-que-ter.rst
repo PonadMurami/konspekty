@@ -180,7 +180,7 @@ Leiamos um fragmento da Homilia de João Paulo II de 1987 em Westerplatte dividi
 * Como se parece na nossa vocação ou profissão atual a relação de "ter mais" com "ser mais"?
 
 Consumir-se pelos outros
-=======================
+========================
 
 .. warning:: Momento importante do encontro. Dele depende a disposição para viver o sinal na oração da noite.
 

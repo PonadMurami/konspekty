@@ -107,9 +107,9 @@ Los apóstoles, que fueron a todo el mundo conocido por ellos y anunciaron a Jes
 
 Si ellos pudieron ser así, nosotros también podemos. No es nada anormal si tenemos problemas con la fe, el problema es que nos cerramos al Autor de Todo Movimiento.
 
-=========================================
+==============================================
 Para que fueras tú mismo - Deseo de Dios mismo
-=========================================
+==============================================
 
 Veamos dos actitudes:
 

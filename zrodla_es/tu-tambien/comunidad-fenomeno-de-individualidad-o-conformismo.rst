@@ -1,5 +1,5 @@
 Encuentro 1. - Comunidad - ¿fenómeno de individualidad o conformismo?
-*******************************************************************
+*********************************************************************
 
 .. tags:: contenido|comunidad|Comunidad, contenido|identidad|Identidad, contenido|iglesia|Iglesia, metodo|trabajo-con-simbolos|Trabajo con símbolos, metodo|trabajo-en-grupos|Trabajo en grupos, metodo|discusion|Discusión, tipo|de-integracion|De integración
 

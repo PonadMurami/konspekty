@@ -1,5 +1,5 @@
 Rencontre 1 - La foi : espace de tournants dynamiques
-***************************************************
+*****************************************************
 
 .. tags:: contenu|resurrection|Résurrection, contenu|recherche|Recherche, contenu|verite|Vérité, contenu|desirs|Désirs, methode|travail-sur-image|Travail sur image, methode|travail-sur-texte|Travail sur texte, type|formation|De formation
 
@@ -73,7 +73,7 @@ EXEMPLE :
 Nous voyons donc et nous nous rendons compte que dans la vie nous percevons différemment les événements importants - cela s'accompagne à la fois d'indifférence, et de déception, et de séries de ce qu'on appelle des "hauts et des bas", et d'instabilité, c'est-à-dire des choses généralement pas très positivement perçues par nous, nous dirions "à changer".
 
 L'histoire de Jésus pour nous est une histoire de rebondissements
-===============================================================
+=================================================================
 
 Et maintenant, en gardant à l'esprit ces graphiques, lisons un fragment de l'Écriture Sainte, qui traite aussi d'un certain événement et de l'attitude des gens envers lui.
 
@@ -104,7 +104,7 @@ Conclusion concernant les derniers jours de Jésus avant Emmaüs :
    Jésus raconte des paraboles, ressuscite Lazare, entre solennellement à Jérusalem, des foules le suivent et quelques jours plus tard il est moqué et tué. Un revirement de situation à 180 degrés en quelques jours, et l'histoire a duré 3 ans.
 
 Une bonne déception, car c'est un tremplin vers le haut !
-========================================================
+=========================================================
 
 Recherche :
 

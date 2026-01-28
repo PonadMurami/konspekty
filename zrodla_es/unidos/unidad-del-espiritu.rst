@@ -1,5 +1,5 @@
 Reunión 3 - “Unidad del Espíritu”
-*******************************
+*********************************
 
 .. tags:: contenido|espiritu-santo|Espíritu Santo, contenido|unidad|Unidad, contenido|oracion|Oración, metodo|trabajo-con-texto|Trabajo con texto, metodo|preguntas-para-compartir|Preguntas para compartir, tipo|de-oracion|De oración
 

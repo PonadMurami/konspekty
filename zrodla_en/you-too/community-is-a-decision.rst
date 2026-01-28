@@ -4,7 +4,7 @@ Meeting 3. - Community is a decision
 .. tags:: content|community|Community, content|decisions|Decisions, content|responsibility|Responsibility, content|time|Time, method|music-work|Music work, method|text-work|Text work, method|discussion|Discussion, type|formative|Formative
 
 Goal
-===
+====
 
 Second-to-last substantive point of the retreat. We decidedly summarize, gather, share experiences. Convincing to an open and active attitude in one's life, to going beyond one's "I".
 

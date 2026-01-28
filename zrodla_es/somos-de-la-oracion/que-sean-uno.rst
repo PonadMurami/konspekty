@@ -38,7 +38,7 @@ Queremos hoy que este texto sea para nosotros fuente y herramienta de unidad ent
 - ¿Qué frase del fragmento leído me parece ahora la más importante para mí? ¿Por qué?
 
 "Padre, quiero que donde yo esté estén también conmigo"
-======================================================
+=======================================================
 
 Muchos eventos religiosos los terminamos con un envío. En nuestro retiro, el envío fue en medio del retiro, el sábado por la noche. ¿Por qué? Porque nos importaba poder hablar hoy sobre el envío: darle peso, valorarlo. Tal vez con demasiada frecuencia se nos escapa cuáles son las consecuencias de ser enviado.
 
@@ -86,7 +86,7 @@ La unidad quiere ser eficaz. El fruto final de la unidad debe ser el reconocimie
 - ¿De qué manera me ayuda Jesús a buscar caminos de unidad?
 
 "Para que el amor con que tú me has amado esté en ellos y yo en ellos"
-=====================================================================
+======================================================================
 
 Normalmente al final del encuentro establecemos una aplicación para realizar en un tiempo posterior, por ejemplo, después de que volvamos del retiro. Hoy queremos que los contenidos de los que hemos hablado den fruto en nosotros ahora mismo. Durante este retiro nos hemos centrado en el fragmento que hablaba de los deseos de Jesús respecto a los discípulos, respecto a la Iglesia, respecto a nosotros. Al final, queriendo profundizar la unidad entre nosotros, compartamos entre nosotros nuestros deseos.
 

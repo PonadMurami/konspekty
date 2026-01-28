@@ -4,7 +4,7 @@ Encuentro 2. - "Que venga a Mí"
 .. tags:: contenido|apertura|Apertura, contenido|libertad|Libertad, contenido|espiritu-santo|Espíritu Santo, contenido|relaciones|Relaciones, contenido|tradiciones-judias|Tradiciones judías, metodo|trabajo-con-texto|Trabajo con texto, metodo|trabajo-con-imagen|Trabajo con imagen, tipo|formativo|Formativo
 
 Introducción para el animador
-==========================
+=============================
 
 Este encuentro se basa en dos elementos importantes relacionados con la celebración de Sukkot: la tradición de invitar huéspedes a la tienda y el transporte de agua desde el estanque de Siloé. Queremos tratar estas costumbres como punto de partida para reflexionar sobre nuestra propia fe y sus tres aspectos: hospitalidad (fe que invita), esfuerzo (fe que exige) y libertad (fe que libera). **Durante el encuentro utilizaremos materiales que se encuentran en el cuaderno**, por lo que vale la pena asegurarse antes del encuentro de que los participantes los tengan consigo. No todas las preguntas tienen que hacerse, sin embargo, nos importa que se aborden los tres aspectos de la fe. No proponemos ninguna oración concreta al inicio y al final del encuentro, dejamos libertad en este asunto. Creemos que cada animador adaptará el contenido de este encuentro a su grupo para que sea lo más fructífero posible ;)
 

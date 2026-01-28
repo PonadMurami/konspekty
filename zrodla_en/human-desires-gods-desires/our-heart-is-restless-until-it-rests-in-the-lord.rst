@@ -167,7 +167,7 @@ Application – role of community
 
 Actually – undertaking the effort of such life with God "at 100%" is very difficult. But we are literally not alone in this effort – we have each other. We would like here at these retreats to "touch" what our community is.
 
-**Participants give themselves tasks for today, each two – one very practical, one spiritual. The tasks should be related to the theme of the retreats. When I come up with tasks, I ask two people from the group to accept them (the animator makes sure that people get "equally"). The goal of this point – mutual help (in responsibility) in getting to know Christ better and better. **
+**Participants give themselves tasks for today, each two – one very practical, one spiritual. The tasks should be related to the theme of the retreats. When I come up with tasks, I ask two people from the group to accept them (the animator makes sure that people get "equally"). The goal of this point – mutual help (in responsibility) in getting to know Christ better and better.**
 
 **The task is not simple and you should allocate about 10 minutes for the participants to come up with tasks.**
 

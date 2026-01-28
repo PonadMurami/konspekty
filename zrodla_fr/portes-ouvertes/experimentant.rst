@@ -25,7 +25,7 @@ Nous sommes témoins de changements importants dans notre Église. Le pape Fran�
 * Comment je me sens avec une telle vision de l'Église ?
 
 Courage pour les choses importantes
-=================================
+===================================
 
 Il est bon d'être guidé quand on fait confiance à celui qui guide. Cependant, nous découvrons que ce n'est pas notre seule vocation. Effatha "n'est pas là pour" être plus ouvert à écouter des ordres. C'est nous qui prenons la responsabilité de choisir la direction (synodalité) !
 

@@ -19,7 +19,7 @@ Introduction
 Hier, nous avons parlé toute la journée de l'admiration et de la passion. Nous avons construit une ville dans laquelle se trouvent "nos lieux". Cette ville n'est cependant pas encore complète. Ce n'est pas la ville dans laquelle tu vis, toi et moi. Notre vie ne se compose pas seulement de moments dont nous pouvons parler avec admiration dans la voix. Qu'en est-il de ce temps ordinaire ? Le fait qu'il existe signifie-t-il que nous devons travailler beaucoup plus pour "profiter de la vie au maximum" ? C'est de cela que traitera la deuxième partie de la retraite.
 
 Qu'est-ce qui constitue la majorité de ma vie ?
-==============================================
+===============================================
 
 Écrivons sur une feuille les choses "extraordinaires" que vous avez vécues (auxquelles vous avez participé) la semaine ou le mois dernier. Il peut être utile de se rappeler ce que nous avons mis hier sur la maquette de la ville.
 

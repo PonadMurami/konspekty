@@ -26,14 +26,14 @@ Table of Contents
    re-creation/index
    unforgotten-words/index
    absolute-value/index
-   over-the-walls/index
+   above-the-walls/index
    waiting-room/index
    sons-of-thunder/index
    mount-of-beatitudes/index
    two-wings/index
    i-want-you-to-be/index
    gazing-into-heaven/index
-   rownowaga/index
+   equilibrium/index
    seven-words/index
    the-awaited-one/index
    united/index

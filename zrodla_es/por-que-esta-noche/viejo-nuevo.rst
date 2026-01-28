@@ -109,7 +109,7 @@ Leamos:
 - ¿Qué cosas me gustaría conectar?
 
 Sumergirse en la muerte
-======================
+=======================
 
 ¡Conectar es difícil! Es difícil deshacerse del juicio, de la tentación de elegir y promover. Es difícil para mí verme a mí mismo tanto en el joven como en el sabio **a la vez**. Quizás todo el tiempo sentimos en algún lugar el imperativo de "tomar partido". ¿Qué dice Jesús a esto?
 

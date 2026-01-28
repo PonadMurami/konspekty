@@ -27,7 +27,7 @@ Ayer hablábamos del desierto como un lugar peligroso y amenazante, es un reflej
 .. note:: animadores: derribemos de inmediato las tendencias a "buenas respuestas que el animador quiere escuchar" y provoquemos una conversación abierta
 
 "La vida transcurre sola, nosotros nos adaptamos hábilmente a ella"
-==================================================================
+===================================================================
 
 ¿De dónde resultan nuestras sensaciones en el Vía Crucis de algún cansancio/aburrimiento/impaciencia/contar las estaciones hasta el final? ¿Qué hubo de diferente en esas 1.5h de nuestra vida en comparación con los momentos cuando "sentimos que vivimos"? Sentíamos algo que día a día tratamos de evitar tanto. Intentemos reflexionar sobre la fuente de estas sensaciones.
 
@@ -128,7 +128,7 @@ Leamos ahora el poema de Jacek Kaczmarski "A un paso". Que cada uno de nosotros 
 * ¿Tenemos confianza en el tiempo de desierto y dificultad de que llegaremos finalmente al Oasis si eso es bueno para nosotros?
 
 Nada es ya lo mismo
-==================
+===================
 
 Aquellos que experimentaron el desierto y pasaron a través de él cambian su mirada sobre muchos asuntos. A menudo el fruto es el respeto y la humildad ante Dios, la naturaleza, otras personas. Son frutos básicos por los cuales se puede discernir cómo se aprovechó el desierto.
 

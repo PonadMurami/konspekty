@@ -1,5 +1,5 @@
 Rencontre 3. - "Je veux, mais je ne peux pas"
-********************************************
+*********************************************
 
 .. tags:: contenu|priere|Prière, contenu|verite|Vérité, contenu|maturite|Maturité, contenu|croix|Croix, methode|travail-sur-texte|Travail sur texte, methode|travail-sur-image|Travail sur image, type|biblique|Biblique
 

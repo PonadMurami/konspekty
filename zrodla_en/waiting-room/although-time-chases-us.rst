@@ -1,10 +1,10 @@
 Meeting 1. - Although Time Chases Us
-*********************************
+************************************
 
 .. tags:: content|time|Time, content|decisions|Decisions, content|church|Church, method|definition-work|Definition work, method|discussion|Discussion, type|formative|Formative
 
 Goals
-====
+=====
 
 Showing the value of time, emphasizing its role, understanding its influence and action. Starting from its role in 'everyday' life, passing through the meaning of time in the Church. Participants should be aware that time enables Us to develop through making decisions and changes in life.
 
@@ -23,7 +23,7 @@ Prayer
 Spontaneous to the Holy Spirit for a good experience of the retreat time. Request for strength so that we know how to use this time from the beginning 100%, without letting go, without waiting for moments of elation. We want to fight for every second. Request for openness and forming a community in the group.
 
 Introduction to the meeting
-=========================
+===========================
 
 .. note:: ~5 minutes
 
@@ -82,7 +82,7 @@ Time enables change
 Based on examples we can conclude that time was measured based on the observation of change e.g. the level of sand in the hourglass. **Time enables change**.
 
 Apocalypse! Change through decision
-==================================
+===================================
 
 .. note:: ~15 minutes
 

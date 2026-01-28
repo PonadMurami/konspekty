@@ -1,5 +1,5 @@
 Rencontre 2 - Ouverture surnaturelle
-**********************************
+************************************
 
 .. tags:: contenu|ouverture|Ouverture, contenu|eglise|Église, contenu|verite|Vérité, contenu|eucharistie|Eucharistie, contenu|conversion|Conversion, methode|travail-avec-image|Travail avec image, methode|travail-avec-texte|Travail avec texte, type|atelier|Atelier
 

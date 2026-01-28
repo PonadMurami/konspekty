@@ -4,7 +4,7 @@ Meeting 2. - The desert shapes us
 .. tags:: content|maturity|Maturity, content|cross|Cross, content|desires|Desires, method|image-work|Image work, method|discussion|Discussion, type|formative|Formative
 
 Goal
-===
+====
 
 Show the good side of the desert experience – it is a potential gift for us that can be used or rejected. Sharing our experience of "lack" in life and on today's Way of the Cross. The desert shapes!
 
@@ -91,7 +91,7 @@ People's reaction to crisis/deserts is sometimes strange. Maybe we have had the 
 .. warning:: This question can refer to very intimate relationships e.g. male-female. Example: The guy tries to remove the blues of the chosen one as quickly as possible so that it is cool again and they can spend time "as always". Thus it is an important place of group meeting
 
 Persevere to the end
-================
+====================
 
 Therefore, one should not run away from the time of desert, but use it as best as possible. I think that the most common mistake in the desert is lack of patience. The desert is a "boundary experience" which allows opening a new chapter, giving a new look at some stage of life. An example here can be despair and spiritual desert of Judas after betraying Jesus. This experience of emptiness led him to a fatal decision to take his own life. If he managed to survive this night and get up... Let's see how much Mercy would triumph, how great testimony it would be if he taught about the forgiveness of sins etc. Who knows – maybe he would be one of the greatest saints.
 

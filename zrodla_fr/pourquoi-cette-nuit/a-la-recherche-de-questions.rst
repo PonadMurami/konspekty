@@ -50,7 +50,7 @@ La Haggadah comme réponse aux questions
 Cherchons ensemble des questions auxquelles ce fragment de l'Histoire du Salut serait la réponse. Précisément pour pouvoir aspirer à l'expérience de la foi.
 
 Laisser de l'espace
-==================
+===================
 
 .. note:: À la fin de la rencontre, nous prierons la prière de Saint Ignace de Loyola. Elle souligne le rôle de l'attachement avant tout à la grâce et à l'amour de Dieu. Dans ce contexte, parlons des attachements dans la foi.
 

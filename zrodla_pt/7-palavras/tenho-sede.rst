@@ -169,7 +169,7 @@ Como resumo leiamos:
     -- Walter Burghardt SJ, "O amor é uma chama do Senhor"
 
 Eucaristia - encontro de desejos
-===============================
+================================
 
 Visto que sabemos que nós desejamos a Deus e que Deus deseja encontrar-se connosco, surge a pergunta de como podemos encontrar-nos. Onde podemos encontrar-nos. O pecado é o que separou o homem de Deus.
 

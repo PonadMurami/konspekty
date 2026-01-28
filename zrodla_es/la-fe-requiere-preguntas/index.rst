@@ -1,5 +1,5 @@
 La fe requiere preguntas
-#######################
+########################
 
 Tiempo de creación de los esquemas:
     Primavera de 2007

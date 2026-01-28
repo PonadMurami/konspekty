@@ -1,10 +1,10 @@
 Rencontre 4. - Chavouot
-**********************
+***********************
 
 .. tags:: contenu|mission|Mission, contenu|parole-de-dieu|Parole de Dieu, contenu|resurrection|Résurrection, contenu|traditions-juives|Traditions juives, methode|travail-avec-musique|Travail avec musique, methode|travail-en-groupes|Travail en groupes, methode|travail-sur-texte|Travail sur texte, type|biblique|Biblique
 
 Introduction pour l'animateur
-==========================
+=============================
 
 Cette rencontre est la dernière rencontre de groupe des retraites. Son objectif principal est de présenter l'idée de "vision spirituelle" et de montrer aux participants qu'il n'y a pas de place dans l'Église pour la division entre public et artistes, que la transmission de la foi, des réflexions, le partage de la façon dont Dieu agit en nous n'est pas réservé à un petit groupe de personnes, mais nous sommes tous appelés, comme l'écrit saint Pierre :
 
@@ -23,7 +23,7 @@ Nous sommes au moment des retraites où les éléments commencent à se composer
 - Qu'est-ce qui me semble à l'heure actuelle comme l'élément qui m'a donné le plus ?
 
 Vision spirituelle
-=============
+==================
 
 Au cours de nos retraites, nous cherchons les racines chrétiennes. Nous l'avons fait ensemble, ce qui est toujours une merveilleuse aventure. Les retraites se terminent aujourd'hui, c'est pourquoi nous voulons parler maintenant d'une certaine compétence qui nous aidera à chercher indépendamment la profondeur et les racines. Commençons donc par une certaine expérience.
 
@@ -282,7 +282,7 @@ Le mystère chrétien ne consiste pas en ce qu'il existe un livre gardé dont se
 Il serait plus facile si "quelqu'un" venait et nous expliquait tout, et nous le "consommerions" et nous en réjouirions. Il semble cependant que ce ne soit pas l'intention du Très-Haut.
 
 Il n'y a pas de public et d'artiste
-========================
+===================================
 
 Lisons :
 
@@ -307,7 +307,7 @@ Parfois, il nous semble que pour donner quelque chose à l'Église, il faut êtr
 - Pour qui prends-je la responsabilité, pour qu'il voie l'ensemble, et pas seulement les parties de la foi ?
 
 Les deux mers d'Israël
-=================
+======================
 
 .. note:: Nous sortons la carte représentant le cours du Jourdain avec les deux mers : la mer (lac) de Galilée et la mer Morte. Coupe-la en bandes marquées par des lignes pointillées (la carte doit être préparée et coupée avant la rencontre). Ensuite, avec les participants, assemblez la carte en commençant par le haut (les sources du Jourdain) en prêtant attention aux points caractéristiques décrits en orange. Il s'agit que les participants voient les lieux qui leur sont familiers de divers fragments de l'Évangile.
 

@@ -1,5 +1,5 @@
 Réunion 2. - “Sur le Rivage des Signes”
-*************************************
+***************************************
 
 .. tags:: contenu|saint-esprit|Saint-Esprit, contenu|maturite|Maturité, contenu|recherche|Recherche, contenu|decisions|Décisions, methode|travail-sur-texte|Travail sur texte, methode|discussion|Discussion, type|formation|De formation
 

@@ -1,5 +1,5 @@
 Responsabilité pour la communauté
-###############################
+#################################
 
 Temps de création des schémas :
     Automne 2005

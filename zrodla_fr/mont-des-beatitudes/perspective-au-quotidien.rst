@@ -51,7 +51,7 @@ Temps pour le concret et l'entrée dans la partie proprement dite de la rencontr
 * Es-tu d'accord avec la phrase : « Le changement de perspective apporte un nouveau regard, et donc aussi de nouvelles solutions ? » Comment la comprends-tu ?
 
 Exercices pratiques pour le changement de perspective
-===================================================
+=====================================================
 
 Nous proposons de réaliser quelques exercices, afin de montrer nos théories dans la pratique. Cette partie de la rencontre a une forme d'atelier, c'est pourquoi il est bon de comprendre correctement son idée. Les exercices devraient nous faire prendre conscience que le changement de perspective est souvent nécessaire, et sûrement toujours très précieux. C'est nécessaire pour bien entrer dans les contenus prévus pour le samedi, où nous nous occuperons de la thématique du changement évangélique de perspective.
 
@@ -116,7 +116,7 @@ Conclusions (discussion) :
 * Quelles sont tes expériences liées à l'objectivation de la situation ?
 
 Résumé et application
-====================
+=====================
 
 L'objectif de ce point est un bref résumé et la présentation de pourquoi une rencontre d'atelier si courte est importante pour la totalité de la retraite.
 

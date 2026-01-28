@@ -124,7 +124,7 @@ Diariamente em cada igreja é celebrada a Eucaristia. É precisamente à Eucaris
 Acho que não se pode chamar coisa comum ao facto de que Deus desce à terra e vem a nós num pedaço de pão. Mas Jesus não disse: fazei isto em memória de mim, mas cada dia de maneira diferente. Não, cada dia realiza-se da mesma maneira e isso é salvífico.
 
 Nos momentos mais pequenos está oculto o sabor da vida
-=====================================================
+======================================================
 
 * O que pensam, podem-se unir tais coisas extraordinárias - como o é cada Eucaristia - e comuns - como o facto de que é diariamente?
 

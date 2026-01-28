@@ -1,15 +1,15 @@
 Meeting 3. - I Hand Over the Kingdom to You
-******************************************
+*******************************************
 
 .. tags:: content|kingdom-of-god|Kingdom of God, content|church|Church, content|decisions|Decisions, content|community|Community, content|hope|Hope, method|text-work|Text work, method|group-work|Group work, type|formative|Formative
 
 Goals
-====
+=====
 
 The goal of this meeting is to convey to participants that the Church (so also every member of it) goes towards the Kingdom of God, which we create bit by bit throughout our lives, ending with the fullness of glory in eternity. We also want to show participants that this path (after all, the Church is pilgrim) is equal to the decisions and choices of each of us. As a result, the Kingdom of God is the work of each of us. It is the sum of all our aspirations towards greater glory of God.
 
 Notes for the animator
-===================
+======================
 
 The Kingdom of Heaven is a quite distant issue for the average mortal. Most people know little about it. The level of abstractness of these concepts may be so high for participants that they may simply not assimilate this news (“not get” the topic). Therefore, the animator should as much as possible bring closer (preferably as workshop-like as possible) the topic of this meeting. Activating, movement exercises, etc. will work. The more creatively, the better. The outline is only a sketch of the meeting. The animator creates it. Therefore, one does not have to use all the author's proposals (including questions).
 
@@ -24,12 +24,12 @@ Sharing
 This time is intended for sharing previous experiences, Tent of Meeting, etc. It is worth asking about the most important moment for this time of retreat, about reflections in connection with one's life. If the group does not show a desire to share, the animator can encourage with his example.
 
 Introduction to the meeting
-=========================
+===========================
 
 We already know that each of us lives in time and this forces changes, and making decisions. This “compulsion” of the temporal world has its goal. At this meeting we want to get to what this goal is.
 
 How do we wait?
-============
+===============
 
 Making decisions by us is unavoidable. However, what happens next? The period of waiting for effects begins. Time of doubts, about which we spoke recently. It is worth noting that this is exactly what connects us. The animator can now ask participants questions:
 
@@ -44,7 +44,7 @@ Let's look for similarities in our waiting in the group.
 This point can be realized by a scheme on a common sheet of paper; create sets with our answers and check if we form some whole; if no one is separate. You can do the same using other methods, e.g.: Who answered the same as another person from the group takes a candy of the same color. At the end we check which persons have candies. This exercise will show us our similarities.
 
 How does the Church wait?
-==================
+=========================
 
 It is worth noting that the Church waits similarly to “ordinary people” (lay people). Every common prayer, sacraments, reading the Word of God, Advent, Eucharist and many others serve this purpose. At the previous meeting it was mentioned that the Church waits for various things.
 
@@ -55,7 +55,7 @@ It is worth noting that the Church waits similarly to “ordinary people” (lay
 * Do I see a similarity in “pious” and “secular” waiting?
 
 So what are we waiting for?
-===================
+===========================
 
 Present in time, we wait for the end of this time. This answer should already slowly come to mind for the group. Do we know, however, what it means? What is the Kingdom of God?
 
@@ -102,7 +102,7 @@ The application from this meeting can be e.g. creating and implementing a SMART 
     | **Time-bound** – so that it is defined in time (set time of achieving the goal mobilizes)
 
 For behold, the kingdom of God is among you
-=========================================
+===========================================
 
 Summarizing the meeting, it must be noted that since we are already building this New Kingdom now, we are changing the world around us. We are fully aware of the evil of this world (conflicts, wars, etc.), but we still go into this world and want to make it better and better. Let this thought be present in the prayer at the end of the meeting. You can also use the Franciscan prayer here, in which the motif of changing the world is very strong.
 

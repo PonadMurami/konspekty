@@ -78,7 +78,7 @@ Al final cada uno del grupo lee lo que escribió (aunque sería mejor si en este
 * ¿De dónde sacas el coraje para pronunciar estas palabras?
 
 "¡Mientras tenga fuerzas, iré! ¡Correré! ¡No me rendiré!"
-========================================================
+=========================================================
 
 .. note:: Fragmento de "La vida es una caminata del hombre" de Edward Stachura
 

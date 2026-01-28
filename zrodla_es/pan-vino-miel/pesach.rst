@@ -4,7 +4,7 @@ Encuentro 3. - Pesaj
 .. tags:: contenido|eucaristia|Eucaristía, contenido|tiempo|Tiempo, contenido|voluntad-de-dios|Voluntad de Dios, contenido|tradiciones-judias|Tradiciones judías, metodo|trabajo-con-texto|Trabajo con texto, metodo|trabajo-con-imagen|Trabajo con imagen, metodo|trabajo-en-grupos|Trabajo en grupos, tipo|mistagogico|Mistagógico
 
 Introducción para el animador
-==========================
+=============================
 
 Este encuentro trata sobre **presencia**. El tema principal está dividido en tres partes: peregrinación, rito de paso y presencia. Queremos comenzar desde la temporalidad y la peregrinación que experimentamos construyendo las tiendas. Además, cada finalización de etapa e inicio de una nueva está relacionado con un rito de paso. Coloquialmente decimos "algo termina y algo comienza". Queremos hablar de esto. Al final queremos situar a los participantes en el seder e indicar dónde están actualmente.
 
@@ -256,7 +256,7 @@ Cuarto vaso – Hallel
 Los ritos de paso nos permitirán dar el acento adecuado y **permanecer en presencia - aquí y ahora.**
 
 Presencia
-========
+=========
 
 Hoy viviremos la conmemoración de la Pascua. La traducción literal es "pasar sobre". Ya hemos hablado bastante sobre "pasar". Sin embargo, los judíos tienen una intuición maravillosa - la fiesta de "pasar sobre" la celebran… sentados a la mesa - se podría decir "muy estáticamente" para "pasar". ¡No es falta de coherencia o comodidad!
 

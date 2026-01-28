@@ -1,5 +1,5 @@
 Encontro 2. - Seja feita a Tua vontade
-*************************************
+**************************************
 
 .. tags:: conteudo|vontade-de-deus|Vontade de Deus, conteudo|oracao|Oração, conteudo|liberdade|Liberdade, metodo|trabalho-com-texto|Trabalho com texto, metodo|discussao|Discussão, tipo|formativo|Formativo
 

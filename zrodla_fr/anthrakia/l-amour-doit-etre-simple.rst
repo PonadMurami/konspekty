@@ -1,5 +1,5 @@
 Rencontre 2. - "L'amour doit être simple"
-****************************************
+*****************************************
 
 .. tags:: contenu|amour|Amour, contenu|communaute|Communauté, contenu|service|Service, contenu|eucharistie|Eucharistie, methode|travail-sur-texte|Travail sur texte, methode|travail-sur-definition|Travail sur définition, type|formation|De formation
 

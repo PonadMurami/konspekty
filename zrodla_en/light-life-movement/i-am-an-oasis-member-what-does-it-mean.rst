@@ -1,5 +1,5 @@
 Meeting 2 - I am an Oasis Member - What Does It Mean?
-***************************************************
+*****************************************************
 
 .. tags:: content|identity|Identity, content|community|Community, content|church|Church, method|spatial-activity|Spatial activity, method|sharing-questions|Sharing questions, method|discussion|Discussion, type|formative|Formative
 

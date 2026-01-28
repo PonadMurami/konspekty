@@ -4,7 +4,7 @@ Encuentro 1. - Sukkot
 .. tags:: contenido|apertura|Apertura, contenido|comunidad|Comunidad, contenido|servicio|Servicio, contenido|tradiciones-judias|Tradiciones judías, metodo|trabajo-plastico|Trabajo plástico, metodo|trabajo-en-grupos|Trabajo en grupos, tipo|taller|Taller
 
 Introducción para el animador
-==========================
+=============================
 
 El primer encuentro grupal cumple una función de conocimiento e integración. Quisiéramos que el encuentro permita experimentar y resumir el primer día de los retiros. En el primer encuentro quisiéramos poner el acento en la HOSPITALIDAD. Hospitalidad entendida como el siguiente paso después de la apertura y salir hacia otros. Somos nosotros quienes debemos dar un espacio hospitalario, al que invitamos a otros, para que puedan salir hacia las personas.
 
@@ -90,7 +90,7 @@ La HOSPITALIDAD no significa aceptar todo sin pensar, sino la habilidad de escuc
     -- Mt 10,40
 
 Hospitalidad como sabiduría del corazón
-==============================
+=======================================
 
 Leamos:
 
@@ -103,7 +103,7 @@ Leamos:
 Los viajes educan, pero lo que más educa en ellos son los encuentros con otras personas, no el conocimiento libresco sobre otros países. **La hospitalidad da la posibilidad de hacer un viaje sin salir de casa** - similar a un viaje tenemos la oportunidad de encontrar a otra persona y a Dios en el otro. No es obtener información, es experimentar a la otra persona.
 
 Inversión de la lógica
-=================
+======================
 
 El animador comienza con la pregunta:
 

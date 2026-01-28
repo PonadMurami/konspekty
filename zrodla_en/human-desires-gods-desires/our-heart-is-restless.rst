@@ -67,7 +67,7 @@ Let's look at how many of these desires cannot be satisfied. When I desire a com
 .. note:: You can tell here about modern advertisements that convince us that we should still desire something, so that we constantly want more.... so that the economy develops
 
 The answer to this situation, which is a question (!)
-====================================================
+=====================================================
 
 Play a scene, read with role division or something like that:
 

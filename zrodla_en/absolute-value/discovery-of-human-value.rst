@@ -4,7 +4,7 @@ Meeting 1. - Discovery of human value
 .. tags:: content|identity|Identity, content|vocation|Vocation, method|text-work|Text work, method|sharing-questions|Sharing questions, method|discussion|Discussion, type|formative|Formative
 
 Goal
-===
+====
 
 Discovery of human value (what one is capable of, what constitutes one's strength, what makes the slogan "Man - it sounds proud" true). Discovery of one's own value - I am also capable of doing great things, I have this potential in me.
 

@@ -1,5 +1,5 @@
 Encontro 3. - O nosso coração está inquieto até descansar no Senhor
-******************************************************************
+*******************************************************************
 
 .. tags:: conteudo|desejos|Desejos, conteudo|vontade-de-deus|Vontade de Deus, conteudo|discernimento|Discernimento, conteudo|esperanca|Esperança, conteudo|comunidade|Comunidade, metodo|trabalho-com-texto|Trabalho com texto, metodo|discussao|Discussão, tipo|formativo|Formativo
 

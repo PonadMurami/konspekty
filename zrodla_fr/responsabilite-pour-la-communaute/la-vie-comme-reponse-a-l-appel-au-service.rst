@@ -1,5 +1,5 @@
 Réunion 1. - La vie comme réponse à l'appel au service
-****************************************************
+******************************************************
 
 .. tags:: contenu|vocation|Vocation, contenu|service|Service, contenu|responsabilite|Responsabilité, contenu|communaute|Communauté, contenu|amour|Amour, methode|travail-sur-texte|Travail sur texte, type|formation|De formation
 
@@ -56,7 +56,7 @@ C'est une affaire très sérieuse et fondamentale – sortir de la pensée pragm
 On peut réaliser sa vie d'autant de manières qu'il y a de gens dans le monde. On peut essayer par soi-même, absolument à partir de zéro, de chercher son sens. C'est cependant un chemin plutôt pour peu de gens. L'Église, en annonçant la Bonne Nouvelle du Christ, montre une direction-proposition très claire pour nous.
 
 Vocation : que faire de ma vie ? Quel est mon chemin ?
-=====================================================
+======================================================
 
 Dieu choisit chacun de nous. Il nous a créés et ne l'a pas fait "comme ça sans idée", en nous donnant le don de la vie il avait un dessein concret. Il veut que nous soyons beaux, que nous soyons à Sa ressemblance.
 

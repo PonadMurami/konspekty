@@ -1,5 +1,5 @@
 Encontro 2 - "Ó Senhor meu Deus, para que me serve a recompensa?"
-***************************************************************
+*****************************************************************
 
 .. tags:: conteudo|desejos|Desejos, conteudo|discernimento|Discernimento, conteudo|vontade-de-deus|Vontade de Deus, conteudo|esperanca|Esperança, metodo|trabalho-com-texto|Trabalho com texto, metodo|perguntas-para-partilha|Perguntas para partilha, tipo|formativo|Formativo
 

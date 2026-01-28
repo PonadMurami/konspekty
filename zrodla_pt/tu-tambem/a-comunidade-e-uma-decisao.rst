@@ -73,7 +73,7 @@ Gostaríamos hoje de começar o encontro ouvindo ou lendo uma obra.
    | De passagem, de passagem
    | Difícil simplesmente passar
    | Cidade de nuvens, momentos de felicidade
-   |
+
    -- Jacek Kaczmarski -- De passagem
 
 A vida decorre de passagem. Quer queiramos quer não, desde o início deste encontro já passaram várias dezenas de segundos de tempo. Mesmo que nos fechemos no quarto, a terra continuará a girar, e as estações a mudar.

@@ -62,7 +62,7 @@ Nous utiliserons cette méthode en lisant les différents fragments du livre. Bi
 À l'occasion des fragments précédents, on peut aborder le sujet du langage de l'amour qu'utilisent les amoureux dans ce livre. Il vaut la peine d'expliquer ici l'origine de ces comparaisons, métaphores. Ensuite, demander avec quel langage nous parlons actuellement de l'amour. (Bien sûr, l'animateur n'est pas obligé d'aborder ce fil, mais il vaut la peine de donner une explication des métaphores et des comparaisons, ou au moins la genèse ; c'est-à-dire le conditionnement culturel et historique de la comparaison, par exemple, avec une brebis.)
 
 Pourquoi faut-il chercher l'amour ?
-==================================
+===================================
 
 Lorsque nous aurons déjà lu cette partie du Cantique des Cantiques, réfléchissons pourquoi la bien-aimée cherche toujours son bien-aimé, pourquoi surviennent des moments de séparation ? À quoi cela sert-il ?
 

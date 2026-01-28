@@ -11,7 +11,7 @@ As reuniões em grupos “Na Margem” têm como objetivo principal criar um esp
 A oração de hoje é o Hino Akathistos em honra do Espírito Santo. O objetivo da reunião de hoje é voltar ao nosso sacramento da confirmação e lembrar o papel do Espírito Santo no conhecimento do Mistério.
 
 A fé exige perguntas - sobre o papel da curiosidade
-==================================================
+===================================================
 
 Leiamos:
 
@@ -32,7 +32,7 @@ Ouvimos hoje conferências que abordavam o tema de fazer perguntas sobre a fé, 
 * O que gostaria de levar da atitude de São Tomé para a minha vida religiosa? Como seria isso em 2022?
 
 A fé como desenvolvimento e caminho
-==================================
+===================================
 
 As perguntas, a curiosidade, o confronto benevolente conduzem ao nosso desenvolvimento. É a coragem do aluno, que à pergunta do professor “está tudo claro?” responde “não, não sei porque aprendemos isto”, que inicia a etapa mais importante da educação - desce a um nível mais profundo de motivação. Como qualquer outra esfera da nossa vida, a fé passa por diferentes etapas, amadurece conosco. Paulo escreve:
 

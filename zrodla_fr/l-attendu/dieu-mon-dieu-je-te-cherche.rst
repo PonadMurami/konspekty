@@ -128,7 +128,7 @@ Lisons un poème du P. Jan Twardowski (traduction libre) :
 * Quand ai-je vu pour la dernière fois la fenêtre que Dieu a ouverte pour moi ?
 
 Humilité dans la recherche et application
-========================================
+=========================================
 
 Ce point a pour but de nous faire prendre conscience du rôle de l'humilité dans notre recherche de Dieu et de nous permettre de bien entrer dans les éléments suivants de la retraite. L'application de cette rencontre sera également basée sur la question de l'humilité. N'omettons pas cette dépendance - l'humilité est un bon point de discussion.
 

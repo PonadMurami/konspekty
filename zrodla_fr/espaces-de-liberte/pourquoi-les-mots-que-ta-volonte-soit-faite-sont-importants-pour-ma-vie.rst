@@ -19,7 +19,7 @@ Introduction
 Hier nous avons parlé de ce qu'est la liberté et comment la distinguer de la licence. C'est-à-dire comment "ne pas exagérer" avec la liberté. Aujourd'hui nous savons déjà que nous pouvons remettre notre liberté à Dieu, pour qu'il la dirige. Mais comment concilier cela ? Comment concilier la liberté avec l'accomplissement de la volonté de Dieu – comment "ne pas asservir sa propre liberté".
 
 Où y a-t-il de la place pour la volonté de Dieu dans ma vie ?
-============================================================
+=============================================================
 
 Écrivons sur une feuille les sphères dont se compose notre vie – aussi bien les petites que les "grandes". Ensuite, classons-les en commençant par celles qui sont pour nous les plus importantes, en finissant par les moins importantes. (ex. École, rencontres avec des amis, famille, mon hobby, travail, vocation...)
 
@@ -92,7 +92,7 @@ Dans l'Épître de saint Paul aux Galates nous lisons :
 * Face à la vocation à la liberté, pouvons-nous encore dire qu'accomplir la volonté de Dieu ne nous est pas nécessairement nécessaire ?
 
 Pour les Groupes Plus Jeunes (et pas seulement) - annexe
-=======================================================
+========================================================
 
 Sur une feuille nous écrivons une grande inscription "Dieu" et nous la mettons sous la feuille créée au début de la rencontre. Sur le fond de la fenêtre à notre premier plan transparaît l'inscription Dieu.
 

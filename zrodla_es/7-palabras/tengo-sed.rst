@@ -169,7 +169,7 @@ Como resumen leamos:
     -- Walter Burghardt SJ, "El amor es una llama del Señor"
 
 Eucaristía - encuentro de deseos
-===============================
+================================
 
 Puesto que sabemos que nosotros deseamos a Dios y que Dios desea encontrarse con nosotros, surge la pregunta de cómo podemos encontrarnos. Dónde podemos encontrarnos. El pecado es lo que separó al hombre de Dios.
 

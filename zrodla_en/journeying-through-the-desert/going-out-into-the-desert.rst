@@ -1,10 +1,10 @@
 Meeting 1. - Going out into the desert
-**********************************
+**************************************
 
 .. tags:: content|maturity|Maturity, content|old-testament|Old Testament, content|freedom|Freedom, content|desires|Desires, method|text-work|Text work, method|discussion|Discussion, type|biblical|Biblical
 
 Goal
-===
+====
 
 Initial definition of the desert as something dangerous, threatening to man.
 
@@ -45,7 +45,7 @@ At the beginning, let's ask participants what 5 items they would take to the des
    * swimming trunks
 
 Exodus of Israelites
-==================
+====================
 
 At the beginning of our considerations about the desert, let's look at the situation of Israelites leaving Egypt:
 
@@ -64,7 +64,7 @@ Then let's read the next fragment from the Book of Exodus. Of course, the animat
 After a short period of time, the Israelites change their view on crossing the sea. The event that was a reason to praise God, joy etc. became the beginning of misfortunes, a reason for dissatisfaction and complaining. They want to return to Egypt, they prefer to stay there – in the house of slavery – than to die free in the desert.
 
 Life in the desert
-================
+==================
 
 Let's try now to look at the place that the Israelites disliked so much and describe it. Maybe someone had the opportunity to be in a real desert. Since we live in such and not another climatic zone, probably few of us could stay in the desert. We will therefore have to refer strongly to our imagination. Below I quote the memories of people who had the opportunity to be in the desert.
 

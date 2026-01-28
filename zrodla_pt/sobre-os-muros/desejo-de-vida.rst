@@ -239,7 +239,7 @@ Chegamos ao fato de que o desejo nos obriga a tomar uma decisão - Quero realiza
 Olha. Ele tem um plano maravilhoso para Você! Uma ideia para sua vida. Vamos descobrir toda a riqueza que a palavra maravilhoso carrega, e que há muito foi desgastada. Beleza, encanto, fascinação, vida - tudo isso está contido nela. Mas Você deve tomar uma decisão! **"Quero agora levantar-me e seguir em frente!"**
 
 Me movi, e agora?
-================
+=================
 
 .. warning:: Este é o lugar para um breve testemunho do animador. De uma pessoa que tomou muitas decisões difíceis, mas também de uma pessoa que mais de uma vez foi "cercada pelo medo". No entanto, graças à tomada do esforço, Você está agora em tal, e não outro lugar. Graças a este esforço Você pode mostrar aos outros que vale a pena arriscar e agir, e não apenas observar de lado o que está acontecendo.
 

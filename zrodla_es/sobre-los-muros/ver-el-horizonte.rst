@@ -20,7 +20,7 @@ El encuentro de hoy tiene dos dimensiones. Por un lado es una especie de resumen
 En los materiales para animadores que se encuentran al final del esquema **está colocado un texto más largo sobre las creencias auto-limitantes. Vale la pena familiarizarse con él antes de los retiros, para que te sea más fácil explicar este concepto a los participantes**. Este material es bastante extenso, así que no lo dejes para el último momento antes de los retiros - es bueno detenerse un momento en él. Recuerda también que el esquema es una ayuda, no un esquema rígido al que hay que seguirse absolutamente. **Analízalo con calma y selecciona** esos contenidos, esas preguntas para compartir, esos materiales, que según tu discernimiento serán los más apropiados para tu grupo (si no lo haces, tu encuentro de repente puede cortarse en el punto tercero por falta de tiempo).
 
 Oración
-======
+=======
 
 Espontánea al Espíritu Santo - invocación por Su luz, que necesitamos para estar en verdad ante Dios y entre nosotros, por la valentía para enfrentarnos a nuestras propias limitaciones y apertura de sentidos y corazones, para que podamos admirarnos con el paisaje que se extenderá ante nosotros cuando ya nos hayamos elevado por encima de nuestros muros.
 

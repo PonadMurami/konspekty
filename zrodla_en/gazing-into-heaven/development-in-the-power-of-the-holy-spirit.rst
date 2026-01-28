@@ -1,5 +1,5 @@
 Meeting 3. - "Development in the power of the Holy Spirit"
-*********************************************************
+**********************************************************
 
 .. tags:: content|holy-spirit|Holy Spirit, content|maturity|Maturity, content|mission|Mission, method|text-work|Text work, method|sharing-questions|Sharing questions, method|discussion|Discussion, type|formative|Formative
 

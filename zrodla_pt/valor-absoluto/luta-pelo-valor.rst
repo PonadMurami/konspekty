@@ -78,7 +78,7 @@ No final, cada um do grupo lê o que escreveu (embora fosse melhor se neste mome
 * De onde tiras a coragem para pronunciar tais palavras?
 
 "Enquanto tiver forças, irei! Correrei! Não me renderei!"
-========================================================
+=========================================================
 
 .. note:: Trecho de "A vida é uma caminhada do homem" de Edward Stachura
 
@@ -192,7 +192,7 @@ Jesus desde o início dá-lhe valor - visa que ela levante a cabeça e olhe cora
 Sozinhos, entrando no fundo da nossa pessoa, não somos capazes de encontrar o nosso valor. É preciso um outro. O valor ganha-se no encontro, no diálogo!
 
 "Reconstrói os muros de Jerusalém!"
-==================================
+===================================
 
 .. note:: Esta parte da reunião está diretamente ligada à oração da noite e constitui uma introdução a ela [a continuação será a vigília]
 

@@ -4,7 +4,7 @@ Meeting 1. - Community - phenomenon of individuality or conformity?
 .. tags:: content|community|Community, content|identity|Identity, content|church|Church, method|symbols-work|Symbols work, method|group-work|Group work, method|discussion|Discussion, type|integrative|Integrative
 
 Goal
-===
+====
 
 Getting to know the group, but not by telling about oneself, but by conversation on a topic. Confronting the first stereotype of community which is loss of self. (and not "having oneself in giving oneself"!). Outlining a vision of the Church as reconciled diversity.
 

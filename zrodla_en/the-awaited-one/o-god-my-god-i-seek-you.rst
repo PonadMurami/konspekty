@@ -127,7 +127,7 @@ Let's read a poem by Fr. Jan Twardowski:
 * When was the last time I noticed a window that God opened for me?
 
 Humility in searching and application
-====================================
+=====================================
 
 This point is to make us aware of the role of humility in our search for God and allow us to enter well into the next elements of the retreat. The application of this meeting will also be based on the issue of humility. Let's not skip this dependence - humility is a good point for discussion.
 

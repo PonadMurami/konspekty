@@ -1,5 +1,5 @@
 Reunión 2 - “Qu'ils soient un”
-****************************
+******************************
 
 .. tags:: contenu|unite|Unité, contenu|eglise|Église, contenu|amour|Amour, methode|travail-sur-texte|Travail sur texte, methode|questions-de-partage|Questions de partage, type|de-priere|De prière
 

@@ -1,5 +1,5 @@
 Encontro 4 - Minha Hagadá
-***********************
+*************************
 
 .. tags:: conteudo|ressurreicao|Ressurreição, conteudo|missao|Missão, conteudo|palavra-de-deus|Palavra de Deus, conteudo|tradicoes-judaicas|Tradições judaicas, metodo|trabalho-com-texto|Trabalho com texto, metodo|perguntas-para-partilha|Perguntas para partilha, metodo|trabalho-artistico|Trabalho artístico, tipo|mistagogico|Mistagógico
 

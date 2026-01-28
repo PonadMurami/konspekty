@@ -1,5 +1,5 @@
 Encuentro 3. - “En la orilla de la Iglesia”
-******************************************
+*******************************************
 
 .. tags:: contenido|iglesia|Iglesia, contenido|vocacion|Vocación, contenido|amor|Amor, contenido|servicio|Servicio, metodo|trabajo-con-imagen|Trabajo con imagen, metodo|discusion|Discusión, tipo|taller|Taller
 

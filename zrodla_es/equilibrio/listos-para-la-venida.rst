@@ -83,7 +83,7 @@ Las distracciones en la oración se pueden comparar con las "distracciones" de l
 * ¿Qué distracciones he logrado superar en mi vida? ¿Cómo lo hice?
 
 Metanoia como camino
-===================
+====================
 
 En esta parte del encuentro nos centramos en nuestra comprensión de la "conversión". Queremos darnos cuenta de que todos los días tenemos la oportunidad de convertirnos de nuevo y así acercarnos al Reino.
 

@@ -109,7 +109,7 @@ Questions auxiliaires :
 - Quel fragment de l'Écriture Sainte m'était proche autrefois ? Qu'est-ce qui a changé entre-temps ?
 
 Partage de l'histoire
-====================
+=====================
 
 Pendant la conférence, nous avons dit que nous sommes créés pour raconter. Pour qu'une histoire ait lieu, nous devons avoir un contact avec un autre être humain, avec qui nous pourrons partager l'histoire et les émotions que nous venons de discuter. Dans notre groupe, il y a des personnes de différents endroits. Nous pouvons habiter très loin les uns des autres, et pourtant nous aurons beaucoup en commun et à certains moments nous nous comprendrons parfaitement, bien que nous ne disions pas grand-chose. Certaines histoires, nous les partagerons avec tous nos compatriotes, certaines avec des personnes de notre propre région, et certaines avec des personnes de la famille la plus proche. Profitons de cet élément pour une fin joyeuse de la rencontre, partageons des slogans/textes/motifs qui sont évidents pour nous bien que nous ne nous connaissions que depuis 45 minutes.
 

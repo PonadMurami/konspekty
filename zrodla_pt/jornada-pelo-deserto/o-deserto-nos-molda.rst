@@ -27,7 +27,7 @@ Ontem falávamos do deserto como um lugar perigoso e ameaçador, é um reflexo n
 .. note:: animadores: derrubemos de imediato as tendências a "boas respostas que o animador quer ouvir" e provoquemos uma conversa aberta
 
 "A vida corre sozinha, nós adaptamo-nos habilmente a ela"
-=======================================================
+=========================================================
 
 De onde resultam as nossas sensações na Via Sacra de algum cansaço/tédio/impaciência/contar as estações até ao fim? O que houve de diferente nessas 1.5h da nossa vida em comparação com os momentos quando "sentimos que vivemos"? Sentíamos algo que no dia a dia tentamos tanto evitar. Tentemos refletir sobre a fonte dessas sensações.
 
@@ -51,7 +51,7 @@ O animador distribui ao grupo impressões e tenta analisá-las com eles. Abaixo 
 (Por exemplo, para a necessidade de segurança, para assegurá-la tenho que escolher em que banco guardarei dinheiro para o futuro, quando já o escolher tenho que decidir que quantia depositarei lá todos os meses, e qual deixarei "para viver", depois tenho que fazer a escolha de quando usarei esse dinheiro)
 
 "A vida corre sozinha, nós adaptamo-nos habilmente a ela" – por isso o deserto!
-==============================================================================
+===============================================================================
 
 * Entendo. Do que se trata então nessas tesouras? Como se relacionam com a Via Sacra da manhã?
 

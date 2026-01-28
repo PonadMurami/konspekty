@@ -1,5 +1,5 @@
 Encontro 2. - "Viverei para Ele"
-******************************
+********************************
 
 .. tags:: conteudo|cruz|Cruz, conteudo|ressurreicao|Ressurreição, conteudo|pecado|Pecado, conteudo|conversao|Conversão, conteudo|palavra-de-deus|Palavra de Deus, metodo|trabalho-com-texto|Trabalho com texto, metodo|perguntas-para-partilha|Perguntas para partilha, tipo|biblico|Bíblico
 

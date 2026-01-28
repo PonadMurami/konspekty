@@ -78,7 +78,7 @@ Quand les participants auront fini d'écrire, demandons :
 * D'où tires-tu le courage pour prononcer de tels mots ?
 
 "Tant qu'il me restera des forces, j'irai ! Je courrai ! Je ne me laisserai pas faire !"
-=======================================================================================
+========================================================================================
 
 .. note:: Extrait de "La vie est une errance de l'homme" d'Edward Stachura
 

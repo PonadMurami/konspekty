@@ -108,7 +108,7 @@ Após a leitura em silêncio, cada dupla conta brevemente do que tratava seu fra
 No contato com os outros, a origem, a profissão ou o sexo não tinham nenhuma importância para Jesus. Ele via antes de tudo o homem, não o que ele faz - não importa se alguém era pescador, cobrador de impostos, centurião. Cada um tinha em si um potencial, cada um era para Ele interessante de alguma maneira, Ele estava curioso por cada um.
 
 Abertura e curiosidade
-=====================
+======================
 
 A curiosidade está indissociavelmente ligada à abertura. Deus não está apenas fascinado por cada um de nós, Ele mesmo é Aquele que intriga - aparece na sarça ardente, na coluna de fogo ou na nuvem, Jesus por sua pessoa desperta interesse e espanto.
 

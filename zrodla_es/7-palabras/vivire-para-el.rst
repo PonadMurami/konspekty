@@ -1,5 +1,5 @@
 Encuentro 2. - "Viviré para Él"
-*****************************
+*******************************
 
 .. tags:: contenido|cruz|Cruz, contenido|resurreccion|Resurrección, contenido|pecado|Pecado, contenido|conversion|Conversión, contenido|palabra-de-dios|Palabra de Dios, metodo|trabajo-con-texto|Trabajo con texto, metodo|preguntas-para-compartir|Preguntas para compartir, tipo|biblico|Bíblico
 

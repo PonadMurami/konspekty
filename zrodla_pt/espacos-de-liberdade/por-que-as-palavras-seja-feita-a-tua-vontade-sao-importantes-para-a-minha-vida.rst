@@ -1,5 +1,5 @@
 Encontro 3. - Por que as palavras "Seja feita a Tua vontade" são importantes para a minha vida?
-*********************************************************************************************
+***********************************************************************************************
 
 .. tags:: conteudo|vontade-de-deus|Vontade de Deus, conteudo|liberdade|Liberdade, conteudo|vocacao|Vocação, conteudo|verdade|Verdade, metodo|trabalho-com-texto|Trabalho com texto, metodo|perguntas-para-partilha|Perguntas para partilha, metodo|discussao|Discussão, tipo|formativo|Formativo
 

@@ -17,7 +17,7 @@ Description de la retraite :
     .. rubric:: Liste des schémas de réunions en groupes
 
 .. toctree::
-   comme-j-ai-ete-connu.rst
+   comme-jai-ete-connu.rst
    ouverture-surnaturelle.rst
-   l-experience.rst
+   experimentant.rst
    prophetise.rst

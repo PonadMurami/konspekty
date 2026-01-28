@@ -1,5 +1,5 @@
 Encontro 1. - A vida como resposta ao chamado ao serviço
-******************************************************
+********************************************************
 
 .. tags:: conteudo|vocacao|Vocação, conteudo|servico|Serviço, conteudo|responsabilidade|Responsabilidade, conteudo|comunidade|Comunidade, conteudo|amor|Amor, metodo|trabalho-com-texto|Trabalho com texto, tipo|formativo|Formativo
 

@@ -4,7 +4,7 @@ Meeting 2. - Fight for value
 .. tags:: content|identity|Identity, content|decisions|Decisions, content|hope|Hope, method|text-work|Text work, method|sharing-questions|Sharing questions, method|discussion|Discussion, type|formative|Formative
 
 Goal
-===
+====
 
 Reflection on what is value and non-value in my life. Discovery that values are simultaneously a call (and a task!) to fight for them. Analysis of this fight, seeing its planes.
 
@@ -78,7 +78,7 @@ At the end, everyone from the group reads what they wrote (although it would be 
 * Where do you get the courage to speak such words?
 
 "As long as I have strength, I will go! I will run! I will not give up!"
-======================================================================
+========================================================================
 
 .. note:: Fragment of "Life is a wandering of man" by Edward Stachura
 

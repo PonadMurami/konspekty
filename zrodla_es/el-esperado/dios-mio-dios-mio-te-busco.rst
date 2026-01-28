@@ -127,7 +127,7 @@ Leamos un poema del P. Jan Twardowski (traducción libre):
 * ¿Cuándo fue la última vez que vi la ventana que Dios abrió para mí?
 
 Humildad en la búsqueda y aplicación
-===================================
+====================================
 
 Este punto tiene como objetivo hacernos conscientes del papel de la humildad en nuestra búsqueda de Dios y permitirnos entrar bien en los siguientes elementos del retiro. La aplicación de este encuentro también se basará en la cuestión de la humildad. No omitamos esta dependencia: la humildad es un buen punto para la discusión.
 

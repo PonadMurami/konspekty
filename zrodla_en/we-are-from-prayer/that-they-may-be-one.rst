@@ -22,7 +22,7 @@ Starting the prayer let's read the fragment Jn 17:20-26, and then let's put the 
     -- Jn 17:20-26
 
 “These know that you have sent me”
-=================================
+==================================
 
 The animator takes out a sheet with the text of the Gospel and places it in front of the Holy Scripture on the table.
 The entire meeting today will be based on the text from Jn 17:20-26, with which we just started our meeting. Let this text accompany us as a sign of Jesus' presence at the meeting.
@@ -38,7 +38,7 @@ We want today for this text to be for us a source and tool of unity between us. 
 - Which sentence of the read fragment seems most important to me now? Why?
 
 “Father, I desire that they also, whom you have given me, may be with me”
-========================================================================
+=========================================================================
 
 Many religious events end with a dismissal. At our retreat the dismissal was in the middle of the retreat on Saturday evening. Why? Because we cared about being able to talk about the dismissal today - to add weight to it, to value it. Perhaps too often it escapes our eyes what consequences being sent has.
 
@@ -72,7 +72,7 @@ Crucial for us is the word "desire". Jesus in such a human way is motivated by t
 - Where and when did I experience this unity that Jesus desires for me?
 
 “So that the world may know that you sent me!”
-=============================================
+==============================================
 
 Jesus praying says "that they may become perfectly one, so that the world may know that you sent me". Christ seems to suggest that faith in the authenticity of His mission is dependent on our unification. This is a serious responsibility.
 
@@ -85,7 +85,7 @@ Unity wants to be causative. The ultimate fruit of unity is to be the recognitio
 - In what way does Jesus help me look for paths of unity?
 
 “That the love with which you have loved me may be in them, and I in them”
-=========================================================================
+==========================================================================
 
 Usually at the end of the meeting we determine the application for implementation at a later time, for example after we have returned from the retreat. Today we want the content we talked about to bear fruit in us right now. During this retreat we focused on the fragment that spoke about Jesus' desires towards the disciples, towards the Church, towards us. Finally, wanting to deepen unity between us, let's share our desires among ourselves.
 

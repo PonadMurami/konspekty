@@ -4,12 +4,12 @@ Meeting 2. - Waiting Which Is Courage
 .. tags:: content|time|Time, content|decisions|Decisions, content|discernment|Discernment, content|hope|Hope, content|seeking|Seeking, method|text-work|Text work, method|sharing-questions|Sharing questions, type|formative|Formative
 
 Goal of the Meeting
-=============
+===================
 
 Revision of our doubts - analysis of their structure. Showing that courageous (not thought through from every angle) decisions are a better way than paralysis related to lack of decision-making. Introduction to the topic of the ability to wait for fruits.
 
 Introduction for the animator
-==========================
+=============================
 
 The meeting has a strongly sharing character. One should very consciously control the time of the meeting - **it is more important that people really share their lives than realizing even ½ of this outline**. The outline is extensive - it has 39 sharing questions (!), choose from them what will be the greatest value for Your group - do not try to ask them all. It may turn out that part of this content will be touched upon at conferences/testimonies earlier - we cannot predict how the Holy Spirit will blow - this outline is a buffer that allows adjusting the program line.
 
@@ -34,7 +34,7 @@ Sharing the Tent of Meeting
 * What does this text have in common with doubts?
 
 Introduction to the meeting
-=========================
+===========================
 
 .. note:: ~10 minutes
 

@@ -76,7 +76,7 @@ Les paroles de Jésus sur la destruction et la reconstruction du temple ne pouva
 Si nous nous concentrions uniquement et exclusivement sur ce qui découle directement de ce fragment, nous perdrions beaucoup de sa signification. La clé est d'unir les deux perspectives - tant l'approfondissement que l'élargissement, et ce en référence non seulement à l'interprétation de l'Écriture Sainte, mais en général à tous les processus cognitifs auxquels nous participons. Si nous approfondissons toujours un seul sujet, nous en deviendrons experts, mais notre compréhension sera malgré tout assez étroite. D'un autre côté, si nous explorions toujours de nouveaux domaines sans en approfondir aucun, le développement ne serait pas possible. Confiants dans la conduite de Dieu et dans le fait que nous avons été équipés par le Saint-Esprit des outils appropriés, n'ayons pas peur d'essayer de comprendre le grand dessein de Dieu. Surtout que parfois le plus important n'est pas d'obtenir la réponse, mais le processus même de sa recherche !
 
 Dieu veut être interprété, mais pas interprété totalement (clos)
-===============================================================
+================================================================
 
 Lisons :
 

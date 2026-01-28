@@ -186,7 +186,7 @@ Let's read:
 
 
 “Grace bases on nature” - individualism of every path of faith
-=============================================================
+==============================================================
 
 We want to show that just as Christ comes to each of us with a proposal of faith in a unique and completely individualized way (see: Saturday), so we too, taking responsibility for the faith we choose, do it also in a very personal way, proper only to us.
 
@@ -231,7 +231,7 @@ What is important in the above catalog? God called each of them so that it fit t
 
 
 Spaces of my life, needs of the world
-====================================
+=====================================
 
 Let's try to fill in a simple table - each participant fills it in for themselves.
 

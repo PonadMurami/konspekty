@@ -1,5 +1,5 @@
 Encuentro 2. - ¿Qué es un encuentro?
-***********************************
+************************************
 
 .. tags:: contenido|comunidad|Comunidad, contenido|relaciones|Relaciones, contenido|comunicacion|Comunicación, metodo|trabajo-con-imagen|Trabajo con imagen, metodo|trabajo-con-texto|Trabajo con texto, metodo|discusion|Discusión, tipo|taller|Taller
 

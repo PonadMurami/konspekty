@@ -17,7 +17,7 @@ Today's meeting takes place after the Sunday Eucharist, therefore conclusions an
 Today the most important thing is referring to the experiences, feelings of participants. Let them tell how they experienced these masses during these retreats, whether they differed from other ones experienced by them so far. This reflection can proceed according to questions in the outline, but can also touch on other moments of the mass. The most important thing in this part is to extract concrete attitudes that we will try to introduce into our life after returning. This meeting has primarily a sharing character. One should "help" participants in recalling important fragments of the Eucharist, and even look for holes in the whole, provoke to express their opinion.
 
 Eucharist as the saving presence of Jesus in the community of believers
-======================================================================
+=======================================================================
 
     And on the first day of Unleavened Bread, when they sacrificed the Passover lamb, his disciples said to him, "Where will you have us go and prepare for you to eat the Passover?" And he sent two of his disciples and said to them, "Go into the city, and a man carrying a jar of water will meet you. Follow him, and wherever he enters, say to the master of the house, 'The Teacher says, Where is my guest room, where I may eat the Passover with my disciples?' And he will show you a large upper room furnished and ready; there prepare for us." And the disciples set out and went to the city and found it just as he had told them, and they prepared the Passover.
 

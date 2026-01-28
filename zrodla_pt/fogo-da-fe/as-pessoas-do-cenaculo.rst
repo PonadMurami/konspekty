@@ -107,9 +107,9 @@ Os apóstolos, que foram a todo o mundo conhecido por eles e anunciaram Jesus em
 
 Visto que eles puderam ser assim, nós também podemos. Não é nada anormal se temos problemas com a fé, o problema é que nos fechamos ao Autor de Todo o Movimento.
 
-=========================================
+===============================================
 Para que fosses tu mesmo - Desejo de Deus mesmo
-=========================================
+===============================================
 
 Vejamos duas atitudes:
 

@@ -11,7 +11,7 @@ Meetings in groups "On the Shore" are to create primarily a space for dialogue a
 Today's prayer is the Akathist to the Holy Spirit. The goal of today's meeting is to return to our sacrament of confirmation and remind ourselves of the role of the Holy Spirit in knowing the Mystery.
 
 Faith requires questions - about the role of curiosity
-====================================================
+======================================================
 
 Let's read:
 

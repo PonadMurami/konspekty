@@ -1,5 +1,5 @@
 Meeting 1 - The Beginning of the Journey
-**************************************
+****************************************
 
 .. tags:: content|vocation|Vocation, content|desires|Desires, content|decisions|Decisions, content|gods-will|God's will, method|text-work|Text work, method|sharing-questions|Sharing questions, type|integrative|Integrative
 

@@ -81,7 +81,7 @@ Que cada um dos grupos escolha os seus 10 espaços anotando-o numa folha de modo
 .. note:: Este é um lugar onde, como animadores, podemos dar testemunho desse "encontrar em si a imagem Daquele que nos chamou" na diaconia. É pessoal, mas penso indispensável.
 
 Recebi portanto dou
-==================
+===================
 
 Leiamos:
 

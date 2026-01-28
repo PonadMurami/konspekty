@@ -98,7 +98,7 @@ Here participants can go very different ways in interpretation. It's cool if her
 * What does this mean to you? (inconspicuous question, but key!)
 
 The Spirit gives and reveals meaning to us
-=========================================
+==========================================
 
 Much more could be said about the Spirit, but for the needs of this meeting let's emphasize especially this last fact - the Holy Spirit as the one whom we receive so that He enables us to believe ("you will receive power... and you will be my witnesses..."), as the missing piece of the puzzle which is our faith, without which it remains only pious chatter, something we can repeat all our lives without feeling it completely. Just like e.g. the author of this demotivator:
 

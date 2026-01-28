@@ -1,5 +1,5 @@
 Encuentro 3. - La comunidad es una decisión
-*************************************
+*******************************************
 
 .. tags:: contenido|comunidad|Comunidad, contenido|decisiones|Decisiones, contenido|responsabilidad|Responsabilidad, contenido|tiempo|Tiempo, metodo|trabajo-con-musica|Trabajo con música, metodo|trabajo-con-texto|Trabajo con texto, metodo|discusion|Discusión, tipo|formativo|Formativo
 

@@ -68,7 +68,7 @@ El cristiano no dice "lo que tenga que ser, será", sino que entra en el mundo y
 .. note:: captar y discutir el "eslogan de oasis" – "Dios más de una vez me mostró que Él es el Señor de mi vida y yo con mis decisiones puedo...". ¡Esta frase se pronuncia con la mejor intención, pero en el fondo se pasa al otro lado y puede ser entendida como una especie de incapacitación!
 
 Consecuencias – la otra cara de la moneda
-========================================
+=========================================
 
 Por un lado, entonces, las consecuencias se nos aparecen como algo "amenazante", por otro estamos llamados a causarlas. Las consecuencias no son una "maldición", sino un don gracias al cual precisamente podemos construir algo en la tierra (¡porque puedo cambiar algo!). Los efectos de la decisión son una fuerza real y poder para cambiar el mundo. Se asocia aquí un poema conocido quizás por algunos de vosotros de la Sociedad de los Poetas Muertos:
 

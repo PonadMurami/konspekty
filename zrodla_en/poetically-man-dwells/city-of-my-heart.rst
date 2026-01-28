@@ -19,7 +19,7 @@ Introduction
 Today, at the beginning of this retreat time, we want to reflect on our passions, on what amazes us, what distinguishes us from the crowd. Building a city will help us with this, which will be one of the important places of the retreat.
 
 The city is...
-=============
+==============
 
 * What does the city remind you of?
 
