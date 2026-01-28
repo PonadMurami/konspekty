@@ -6,6 +6,12 @@ SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
 PAPER         = 
 BUILDDIR      = zbudowane
+SRCDIR_PL     = zrodla_pl
+SRCDIR_EN     = zrodla_en
+SITE_BASEURL ?= http://konspekty.ponadmurami.pl/
+HTMLDIR       = $(BUILDDIR)/html
+EBOOK_CONVERT ?= /opt/calibre/ebook-convert
+PANDOC        ?= pandoc
 
 # User-friendly check for sphinx-build
 ifeq ($(shell which $(SPHINXBUILD) >/dev/null 2>&1; echo $$?), 1)
@@ -15,11 +21,16 @@ endif
 # Internal variables.
 PAPEROPT_a4     = -D latex_paper_size=a4
 PAPEROPT_letter = -D latex_paper_size=letter
-ALLSPHINXOPTS   = -d $(BUILDDIR)/doctrees $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) zrodla
-# the i18n builder cannot share the environment and doctrees with the others
-I18NSPHINXOPTS  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) zrodla
+ALLSPHINXOPTS_PL   = -d $(BUILDDIR)/doctrees-pl $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) $(SRCDIR_PL)
+ALLSPHINXOPTS_EN   = -d $(BUILDDIR)/doctrees-en $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) $(SRCDIR_EN)
+# i18n builder cannot share environment/doctrees
+I18NSPHINXOPTS_PL  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) $(SRCDIR_PL)
+I18NSPHINXOPTS_EN  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) $(SRCDIR_EN)
+# Backwards-compatible defaults (build PL only for other targets)
+ALLSPHINXOPTS      = $(ALLSPHINXOPTS_PL)
+I18NSPHINXOPTS     = $(I18NSPHINXOPTS_PL)
 
-.PHONY: help clean html dirhtml singlehtml pickle json htmlhelp qthelp devhelp epub latex latexpdf text man changes linkcheck doctest gettext
+.PHONY: help clean html dirhtml singlehtml pickle json htmlhelp qthelp devhelp epub latex latexpdf mobi docx release text man changes linkcheck doctest gettext landing htaccess
 
 help:
 	@echo "Please use \`make <target>' where <target> is one of"
@@ -49,10 +60,26 @@ help:
 clean:
 	rm -rf $(BUILDDIR)/*
 
+landing:
+	@mkdir -p $(HTMLDIR)
+	python scripts/generate_landing.py $(HTMLDIR)
+
+sitemap:
+	@mkdir -p $(HTMLDIR)
+	python scripts/generate_sitemap_index.py $(HTMLDIR) $(SITE_BASEURL)
+
+htaccess:
+	@mkdir -p $(HTMLDIR)
+	cp -f shared/.htaccess $(HTMLDIR)/.htaccess
+
 html:
-	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html
+	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS_PL) $(HTMLDIR)/pl
+	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS_EN) $(HTMLDIR)/en
+	$(MAKE) landing
+	$(MAKE) sitemap
+	$(MAKE) htaccess
 	@echo
-	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
+	@echo "Build finished. The HTML pages are in $(HTMLDIR)/pl and $(HTMLDIR)/en."
 
 dirhtml:
 	$(SPHINXBUILD) -b dirhtml $(ALLSPHINXOPTS) $(BUILDDIR)/dirhtml
@@ -60,9 +87,10 @@ dirhtml:
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/dirhtml."
 
 singlehtml:
-	$(SPHINXBUILD) -b singlehtml $(ALLSPHINXOPTS) $(BUILDDIR)/singlehtml
+	$(SPHINXBUILD) -b singlehtml $(ALLSPHINXOPTS_PL) $(BUILDDIR)/singlehtml/pl
+	$(SPHINXBUILD) -b singlehtml $(ALLSPHINXOPTS_EN) $(BUILDDIR)/singlehtml/en
 	@echo
-	@echo "Build finished. The HTML page is in $(BUILDDIR)/singlehtml."
+	@echo "Build finished. The HTML page is in $(BUILDDIR)/singlehtml/(pl|en)."
 
 pickle:
 	$(SPHINXBUILD) -b pickle $(ALLSPHINXOPTS) $(BUILDDIR)/pickle
@@ -99,22 +127,47 @@ devhelp:
 	@echo "# devhelp"
 
 epub:
-	$(SPHINXBUILD) -b epub $(ALLSPHINXOPTS) $(BUILDDIR)/epub
+	$(SPHINXBUILD) -b epub $(ALLSPHINXOPTS_PL) $(BUILDDIR)/epub/pl
+	$(SPHINXBUILD) -b epub $(ALLSPHINXOPTS_EN) $(BUILDDIR)/epub/en
+	@mkdir -p $(HTMLDIR)/pl $(HTMLDIR)/en
+	cp -f $(BUILDDIR)/epub/pl/konspekty.epub $(HTMLDIR)/pl/konspekty.epub
+	cp -f $(BUILDDIR)/epub/en/konspekty.epub $(HTMLDIR)/en/konspekty.epub
 	@echo
-	@echo "Build finished. The epub file is in $(BUILDDIR)/epub."
+	@echo "Build finished. The epub files are in $(BUILDDIR)/epub/(pl|en) and copied to $(HTMLDIR)/(pl|en)."
+
+mobi: epub
+	$(EBOOK_CONVERT) $(HTMLDIR)/pl/konspekty.epub $(HTMLDIR)/pl/konspekty.mobi
+	$(EBOOK_CONVERT) $(HTMLDIR)/en/konspekty.epub $(HTMLDIR)/en/konspekty.mobi
+	@echo
+	@echo "Build finished. The mobi files are in $(HTMLDIR)/(pl|en)."
+
+docx: epub
+	$(PANDOC) -o $(HTMLDIR)/pl/konspekty.docx $(HTMLDIR)/pl/konspekty.epub
+	$(PANDOC) -o $(HTMLDIR)/en/konspekty.docx $(HTMLDIR)/en/konspekty.epub
+	@echo
+	@echo "Build finished. The docx files are in $(HTMLDIR)/(pl|en)."
+
+release: clean html latexpdf epub mobi docx
 
 latex:
-	$(SPHINXBUILD) -b latex $(ALLSPHINXOPTS) $(BUILDDIR)/latex
+	$(SPHINXBUILD) -b latex $(ALLSPHINXOPTS_PL) $(BUILDDIR)/latex/pl
+	$(SPHINXBUILD) -b latex $(ALLSPHINXOPTS_EN) $(BUILDDIR)/latex/en
 	@echo
-	@echo "Build finished; the LaTeX files are in $(BUILDDIR)/latex."
+	@echo "Build finished; the LaTeX files are in $(BUILDDIR)/latex/(pl|en)."
 	@echo "Run \`make' in that directory to run these through (pdf)latex" \
 	      "(use \`make latexpdf' here to do that automatically)."
 
 latexpdf:
-	$(SPHINXBUILD) -b latex $(ALLSPHINXOPTS) $(BUILDDIR)/latex
-	@echo "Running LaTeX files through pdflatex..."
-	$(MAKE) -C $(BUILDDIR)/latex all-pdf
-	@echo "pdflatex finished; the PDF files are in $(BUILDDIR)/latex."
+	$(SPHINXBUILD) -b latex $(ALLSPHINXOPTS_PL) $(BUILDDIR)/latex/pl
+	$(SPHINXBUILD) -b latex $(ALLSPHINXOPTS_EN) $(BUILDDIR)/latex/en
+	@echo "Running LaTeX files through pdflatex (pl)..."
+	$(MAKE) -C $(BUILDDIR)/latex/pl all-pdf
+	@echo "Running LaTeX files through pdflatex (en)..."
+	$(MAKE) -C $(BUILDDIR)/latex/en all-pdf
+	@mkdir -p $(HTMLDIR)/pl $(HTMLDIR)/en
+	cp -f $(BUILDDIR)/latex/pl/konspekty.pdf $(HTMLDIR)/pl/konspekty.pdf
+	cp -f $(BUILDDIR)/latex/en/konspekty.pdf $(HTMLDIR)/en/konspekty.pdf
+	@echo "pdflatex finished; the PDF files are in $(BUILDDIR)/latex/(pl|en) and copied to $(HTMLDIR)/(pl|en)."
 
 latexpdfja:
 	$(SPHINXBUILD) -b latex $(ALLSPHINXOPTS) $(BUILDDIR)/latex
@@ -146,9 +199,10 @@ info:
 	@echo "makeinfo finished; the Info files are in $(BUILDDIR)/texinfo."
 
 gettext:
-	$(SPHINXBUILD) -b gettext $(I18NSPHINXOPTS) $(BUILDDIR)/locale
+	$(SPHINXBUILD) -b gettext $(I18NSPHINXOPTS_PL) $(BUILDDIR)/locale/pl
+	$(SPHINXBUILD) -b gettext $(I18NSPHINXOPTS_EN) $(BUILDDIR)/locale/en
 	@echo
-	@echo "Build finished. The message catalogs are in $(BUILDDIR)/locale."
+	@echo "Build finished. The message catalogs are in $(BUILDDIR)/locale/(pl|en)."
 
 changes:
 	$(SPHINXBUILD) -b changes $(ALLSPHINXOPTS) $(BUILDDIR)/changes

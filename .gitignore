@@ -4,5 +4,6 @@ node_modules
 /.ftppass
 .idea
 .cursor
-zrodla/tag/*
+zrodla_en/tag/*
+zrodla_pl/tag/*
 _build/*

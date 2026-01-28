@@ -17,7 +17,8 @@ RUN apt-get update && \
       pandoc \
       libopengl0 \
       libxcb-cursor0 \
-      libxkbcommon-x11-0
+      libxkbcommon-x11-0 \
+      librsvg2-bin
 
 RUN wget -nv -O- https://download.calibre-ebook.com/linux-installer.sh | sh /dev/stdin
 RUN pip install sphinx-sitemap sphinx-design

@@ -1,0 +1,22 @@
+{% if lang_switch_url %}
+<h3>{% if language == 'pl' %}Język{% else %}Language{% endif %}</h3>
+<ul>
+	<li><a href="{{ lang_switch_url }}">{% if lang_switch_lang == 'en' %}English{% else %}Polski{% endif %}</a></li>
+</ul>
+{% endif %}
+
+<h3>{% if language == 'pl' %}Materiały do pobrania{% else %}Downloads{% endif %}</h3>
+<ul>
+	<li><a href="{{ pathto('./', 1) }}konspekty.pdf">{% if language == 'pl' %}Konspekty w wersji .pdf{% else %}Outlines (PDF){% endif %}</a></li>
+	<li><a href="{{ pathto('./', 1) }}konspekty.mobi">{% if language == 'pl' %}Konspekty w wersji .mobi{% else %}Outlines (MOBI){% endif %}</a></li>
+	<li><a href="{{ pathto('./', 1) }}konspekty.epub">{% if language == 'pl' %}Konspekty w wersji .epub{% else %}Outlines (EPUB){% endif %}</a></li>
+    <li><a href="{{ pathto('./', 1) }}konspekty.docx">{% if language == 'pl' %}Konspekty w wersji .docx{% else %}Outlines (DOCX){% endif %}</a></li>
+</ul>
+
+<h3>{% if language == 'pl' %}Tagi{% else %}Tags{% endif %}</h3>
+<ul>
+	<li><a href="{{ pathto('./', 1) }}tag/kategoria-tresc.html">{% if language == 'pl' %}Treści{% else %}Content{% endif %}</a></li>
+	<li><a href="{{ pathto('./', 1) }}tag/kategoria-metoda.html">{% if language == 'pl' %}Metody{% else %}Methods{% endif %}</a></li>
+	<li><a href="{{ pathto('./', 1) }}tag/kategoria-typ.html">{% if language == 'pl' %}Charakter spotkania{% else %}Type{% endif %}</a></li>
+</ul>
+

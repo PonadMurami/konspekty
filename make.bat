@@ -5,12 +5,28 @@ REM Command file for Sphinx documentation
 if "%SPHINXBUILD%" == "" (
 	set SPHINXBUILD=sphinx-build
 )
+if "%EBOOK_CONVERT%" == "" (
+	set EBOOK_CONVERT=ebook-convert
+)
+if "%PANDOC%" == "" (
+	set PANDOC=pandoc
+)
 set BUILDDIR=zbudowane
-set ALLSPHINXOPTS=-d %BUILDDIR%/doctrees %SPHINXOPTS% zrodla
-set I18NSPHINXOPTS=%SPHINXOPTS% zrodla
+set SRCDIR_PL=zrodla_pl
+set SRCDIR_EN=zrodla_en
+set HTMLDIR=%BUILDDIR%/html
+set ALLSPHINXOPTS_PL=-d %BUILDDIR%/doctrees-pl %SPHINXOPTS% %SRCDIR_PL%
+set ALLSPHINXOPTS_EN=-d %BUILDDIR%/doctrees-en %SPHINXOPTS% %SRCDIR_EN%
+set I18NSPHINXOPTS_PL=%SPHINXOPTS% %SRCDIR_PL%
+set I18NSPHINXOPTS_EN=%SPHINXOPTS% %SRCDIR_EN%
+REM Backwards-compatible defaults (build PL only for other targets)
+set ALLSPHINXOPTS=%ALLSPHINXOPTS_PL%
+set I18NSPHINXOPTS=%I18NSPHINXOPTS_PL%
 if NOT "%PAPER%" == "" (
-	set ALLSPHINXOPTS=-D latex_paper_size=%PAPER% %ALLSPHINXOPTS%
-	set I18NSPHINXOPTS=-D latex_paper_size=%PAPER% %I18NSPHINXOPTS%
+	set ALLSPHINXOPTS_PL=-D latex_paper_size=%PAPER% %ALLSPHINXOPTS_PL%
+	set ALLSPHINXOPTS_EN=-D latex_paper_size=%PAPER% %ALLSPHINXOPTS_EN%
+	set I18NSPHINXOPTS_PL=-D latex_paper_size=%PAPER% %I18NSPHINXOPTS_PL%
+	set I18NSPHINXOPTS_EN=-D latex_paper_size=%PAPER% %I18NSPHINXOPTS_EN%
 )
 
 if "%1" == "" goto help
@@ -61,10 +77,16 @@ if errorlevel 9009 (
 )
 
 if "%1" == "html" (
-	%SPHINXBUILD% -b html %ALLSPHINXOPTS% %BUILDDIR%/html
+	%SPHINXBUILD% -b html %ALLSPHINXOPTS_PL% %HTMLDIR%/pl
 	if errorlevel 1 exit /b 1
+	%SPHINXBUILD% -b html %ALLSPHINXOPTS_EN% %HTMLDIR%/en
+	if errorlevel 1 exit /b 1
+	if not exist %BUILDDIR%\html mkdir %BUILDDIR%\html
+	python scripts\generate_landing.py %BUILDDIR%\html
+	python scripts\generate_sitemap_index.py %BUILDDIR%\html http://konspekty.ponadmurami.pl/
+	copy /Y shared\.htaccess %BUILDDIR%\html\.htaccess >nul
 	echo.
-	echo.Build finished. The HTML pages are in %BUILDDIR%/html.
+	echo.Build finished. The HTML pages are in %HTMLDIR%/pl and %HTMLDIR%/en.
 	goto end
 )
 
@@ -130,10 +152,52 @@ if "%1" == "devhelp" (
 )
 
 if "%1" == "epub" (
-	%SPHINXBUILD% -b epub %ALLSPHINXOPTS% %BUILDDIR%/epub
+	%SPHINXBUILD% -b epub %ALLSPHINXOPTS_PL% %BUILDDIR%/epub/pl
+	if errorlevel 1 exit /b 1
+	%SPHINXBUILD% -b epub %ALLSPHINXOPTS_EN% %BUILDDIR%/epub/en
+	if errorlevel 1 exit /b 1
+	if not exist %BUILDDIR%\html\pl mkdir %BUILDDIR%\html\pl
+	if not exist %BUILDDIR%\html\en mkdir %BUILDDIR%\html\en
+	copy /Y %BUILDDIR%\epub\pl\konspekty.epub %BUILDDIR%\html\pl\konspekty.epub >nul
+	copy /Y %BUILDDIR%\epub\en\konspekty.epub %BUILDDIR%\html\en\konspekty.epub >nul
+	echo.
+	echo.Build finished. The epub files are in %BUILDDIR%/epub/(pl|en) and copied to %HTMLDIR%/(pl|en).
+	goto end
+)
+
+if "%1" == "mobi" (
+	if not exist %BUILDDIR%\html\pl\konspekty.epub (
+		echo.Missing %BUILDDIR%\html\pl\konspekty.epub - run `make epub` first.
+		exit /b 1
+	)
+	if not exist %BUILDDIR%\html\en\konspekty.epub (
+		echo.Missing %BUILDDIR%\html\en\konspekty.epub - run `make epub` first.
+		exit /b 1
+	)
+	%EBOOK_CONVERT% %BUILDDIR%\html\pl\konspekty.epub %BUILDDIR%\html\pl\konspekty.mobi
+	if errorlevel 1 exit /b 1
+	%EBOOK_CONVERT% %BUILDDIR%\html\en\konspekty.epub %BUILDDIR%\html\en\konspekty.mobi
 	if errorlevel 1 exit /b 1
 	echo.
-	echo.Build finished. The epub file is in %BUILDDIR%/epub.
+	echo.Build finished. The mobi files are in %HTMLDIR%/(pl|en).
+	goto end
+)
+
+if "%1" == "docx" (
+	if not exist %BUILDDIR%\html\pl\konspekty.epub (
+		echo.Missing %BUILDDIR%\html\pl\konspekty.epub - run `make epub` first.
+		exit /b 1
+	)
+	if not exist %BUILDDIR%\html\en\konspekty.epub (
+		echo.Missing %BUILDDIR%\html\en\konspekty.epub - run `make epub` first.
+		exit /b 1
+	)
+	%PANDOC% -o %BUILDDIR%\html\pl\konspekty.docx %BUILDDIR%\html\pl\konspekty.epub
+	if errorlevel 1 exit /b 1
+	%PANDOC% -o %BUILDDIR%\html\en\konspekty.docx %BUILDDIR%\html\en\konspekty.epub
+	if errorlevel 1 exit /b 1
+	echo.
+	echo.Build finished. The docx files are in %HTMLDIR%/(pl|en).
 	goto end
 )
 
@@ -146,13 +210,24 @@ if "%1" == "latex" (
 )
 
 if "%1" == "latexpdf" (
-	%SPHINXBUILD% -b latex %ALLSPHINXOPTS% %BUILDDIR%/latex
-	cd %BUILDDIR%/latex
+	%SPHINXBUILD% -b latex %ALLSPHINXOPTS_PL% %BUILDDIR%/latex/pl
+	if errorlevel 1 exit /b 1
+	%SPHINXBUILD% -b latex %ALLSPHINXOPTS_EN% %BUILDDIR%/latex/en
+	if errorlevel 1 exit /b 1
+	pushd %BUILDDIR%/latex/pl
 	make all-pdf
-	cd %BUILDDIR%/..
+	if errorlevel 1 exit /b 1
+	popd
+	pushd %BUILDDIR%/latex/en
+	make all-pdf
+	if errorlevel 1 exit /b 1
+	popd
+	if not exist %BUILDDIR%\html\pl mkdir %BUILDDIR%\html\pl
+	if not exist %BUILDDIR%\html\en mkdir %BUILDDIR%\html\en
+	copy /Y %BUILDDIR%\latex\pl\konspekty.pdf %BUILDDIR%\html\pl\konspekty.pdf >nul
+	copy /Y %BUILDDIR%\latex\en\konspekty.pdf %BUILDDIR%\html\en\konspekty.pdf >nul
 	echo.
-	echo.Build finished; the PDF files are in %BUILDDIR%/latex.
-	cd %CD%
+	echo.Build finished; the PDF files are in %BUILDDIR%/latex/(pl|en) and copied to %HTMLDIR%/(pl|en).
 	goto end
 )
 
@@ -191,10 +266,12 @@ if "%1" == "texinfo" (
 )
 
 if "%1" == "gettext" (
-	%SPHINXBUILD% -b gettext %I18NSPHINXOPTS% %BUILDDIR%/locale
+	%SPHINXBUILD% -b gettext %I18NSPHINXOPTS_PL% %BUILDDIR%/locale/pl
+	if errorlevel 1 exit /b 1
+	%SPHINXBUILD% -b gettext %I18NSPHINXOPTS_EN% %BUILDDIR%/locale/en
 	if errorlevel 1 exit /b 1
 	echo.
-	echo.Build finished. The message catalogs are in %BUILDDIR%/locale.
+	echo.Build finished. The message catalogs are in %BUILDDIR%/locale/(pl|en).
 	goto end
 )
 
