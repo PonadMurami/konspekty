@@ -25,6 +25,9 @@ def main() -> int:
     sitemaps = [
         ("pl", site_baseurl + "pl/sitemap.xml"),
         ("en", site_baseurl + "en/sitemap.xml"),
+        ("es", site_baseurl + "es/sitemap.xml"),
+        ("pt", site_baseurl + "pt/sitemap.xml"),
+        ("fr", site_baseurl + "fr/sitemap.xml"),
     ]
 
     os.makedirs(out_dir, exist_ok=True)

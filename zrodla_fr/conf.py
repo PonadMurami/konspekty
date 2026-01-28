@@ -362,3 +362,11 @@ tags_badge_colors = {
     "methode": "success",
     "type": "warning",
 }
+
+tags_category_labels = {
+    "contenu": "Contenu",
+    "methode": "Méthode",
+    "type": "Type",
+}
+tags_category_page_title_template = "Étiquettes dans la catégorie : {category}"
+tags_category_page_basename_template = "categorie-{category_key}"

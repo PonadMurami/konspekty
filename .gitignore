@@ -6,4 +6,7 @@ node_modules
 .cursor
 zrodla_en/tag/*
 zrodla_pl/tag/*
+zrodla_es/etiqueta/*
+zrodla_pt/etiqueta/*
+zrodla_fr/etiquette/*
 _build/*
