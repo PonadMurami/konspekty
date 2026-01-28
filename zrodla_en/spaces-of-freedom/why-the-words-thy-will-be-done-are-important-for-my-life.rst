@@ -1,7 +1,7 @@
 Meeting 3. - Why the Words "Thy Will Be Done" Are Important for My Life
 **************************************************************************
 
-.. tags:: tresc|wola-boza|God's Will, tresc|wolnosc|Freedom, tresc|powolanie|Vocation, tresc|prawda|Truth, metoda|praca-z-tekstem|Working with Text, metoda|pytania-do-dzielenia|Questions for Sharing, metoda|dyskusja|Discussion, typ|formacyjne|Formational
+.. tags:: content|gods-will|God's will, content|freedom|Freedom, content|vocation|Vocation, content|truth|Truth, method|praca-z-tekstem|Working with Text, method|pytania-do-dzielenia|Questions for Sharing, method|discussion|Discussion, type|formacyjne|Formational
 
 Goal
 ====

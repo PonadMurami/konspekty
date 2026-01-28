@@ -8,6 +8,9 @@ PAPER         =
 BUILDDIR      = zbudowane
 SRCDIR_PL     = zrodla_pl
 SRCDIR_EN     = zrodla_en
+SRCDIR_ES     = zrodla_es
+SRCDIR_PT     = zrodla_pt
+SRCDIR_FR     = zrodla_fr
 SITE_BASEURL ?= http://konspekty.ponadmurami.pl/
 HTMLDIR       = $(BUILDDIR)/html
 EBOOK_CONVERT ?= /opt/calibre/ebook-convert
@@ -23,12 +26,19 @@ PAPEROPT_a4     = -D latex_paper_size=a4
 PAPEROPT_letter = -D latex_paper_size=letter
 ALLSPHINXOPTS_PL   = -d $(BUILDDIR)/doctrees-pl $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) $(SRCDIR_PL)
 ALLSPHINXOPTS_EN   = -d $(BUILDDIR)/doctrees-en $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) $(SRCDIR_EN)
+ALLSPHINXOPTS_ES   = -d $(BUILDDIR)/doctrees-es $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) $(SRCDIR_ES)
+ALLSPHINXOPTS_PT   = -d $(BUILDDIR)/doctrees-pt $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) $(SRCDIR_PT)
+ALLSPHINXOPTS_FR   = -d $(BUILDDIR)/doctrees-fr $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) $(SRCDIR_FR)
+
 # i18n builder cannot share environment/doctrees
 I18NSPHINXOPTS_PL  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) $(SRCDIR_PL)
 I18NSPHINXOPTS_EN  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) $(SRCDIR_EN)
-# Backwards-compatible defaults (build PL only for other targets)
+I18NSPHINXOPTS_ES  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) $(SRCDIR_ES)
+I18NSPHINXOPTS_PT  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) $(SRCDIR_PT)
+I18NSPHINXOPTS_FR  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) $(SRCDIR_FR)
+
+# Backwards-compatible defaults (build PL only for other targets if specified generically, but we mostly focus on specific targets)
 ALLSPHINXOPTS      = $(ALLSPHINXOPTS_PL)
-I18NSPHINXOPTS     = $(I18NSPHINXOPTS_PL)
 
 .PHONY: help clean html dirhtml singlehtml pickle json htmlhelp qthelp devhelp epub latex latexpdf mobi docx release text man changes linkcheck doctest gettext landing htaccess
 
@@ -75,15 +85,20 @@ htaccess:
 html:
 	@mkdir -p $(HTMLDIR)
 	# Avoid stale tag pages when tag slugs change (do not delete download artifacts).
-	rm -rf $(HTMLDIR)/pl/tag $(HTMLDIR)/en/tag
-	rm -rf $(HTMLDIR)/pl/_sources/tag $(HTMLDIR)/en/_sources/tag
+	# Note: We need to know the output directory for tags in each language.
+	# PL/EN: tag, ES/PT: etiqueta, FR: etiquette
+	rm -rf $(HTMLDIR)/pl/tag $(HTMLDIR)/en/tag $(HTMLDIR)/es/etiqueta $(HTMLDIR)/pt/etiqueta $(HTMLDIR)/fr/etiquette
+	rm -rf $(HTMLDIR)/pl/_sources/tag $(HTMLDIR)/en/_sources/tag $(HTMLDIR)/es/_sources/etiqueta $(HTMLDIR)/pt/_sources/etiqueta $(HTMLDIR)/fr/_sources/etiquette
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS_PL) $(HTMLDIR)/pl
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS_EN) $(HTMLDIR)/en
+	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS_ES) $(HTMLDIR)/es
+	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS_PT) $(HTMLDIR)/pt
+	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS_FR) $(HTMLDIR)/fr
 	$(MAKE) landing
 	$(MAKE) sitemap
 	$(MAKE) htaccess
 	@echo
-	@echo "Build finished. The HTML pages are in $(HTMLDIR)/pl and $(HTMLDIR)/en."
+	@echo "Build finished. The HTML pages are in $(HTMLDIR)/{pl,en,es,pt,fr}."
 
 dirhtml:
 	$(SPHINXBUILD) -b dirhtml $(ALLSPHINXOPTS) $(BUILDDIR)/dirhtml
@@ -93,8 +108,11 @@ dirhtml:
 singlehtml:
 	$(SPHINXBUILD) -b singlehtml $(ALLSPHINXOPTS_PL) $(BUILDDIR)/singlehtml/pl
 	$(SPHINXBUILD) -b singlehtml $(ALLSPHINXOPTS_EN) $(BUILDDIR)/singlehtml/en
+	$(SPHINXBUILD) -b singlehtml $(ALLSPHINXOPTS_ES) $(BUILDDIR)/singlehtml/es
+	$(SPHINXBUILD) -b singlehtml $(ALLSPHINXOPTS_PT) $(BUILDDIR)/singlehtml/pt
+	$(SPHINXBUILD) -b singlehtml $(ALLSPHINXOPTS_FR) $(BUILDDIR)/singlehtml/fr
 	@echo
-	@echo "Build finished. The HTML page is in $(BUILDDIR)/singlehtml/(pl|en)."
+	@echo "Build finished. The HTML page is in $(BUILDDIR)/singlehtml/(pl|en|es|pt|fr)."
 
 pickle:
 	$(SPHINXBUILD) -b pickle $(ALLSPHINXOPTS) $(BUILDDIR)/pickle
@@ -133,45 +151,72 @@ devhelp:
 epub:
 	$(SPHINXBUILD) -b epub $(ALLSPHINXOPTS_PL) $(BUILDDIR)/epub/pl
 	$(SPHINXBUILD) -b epub $(ALLSPHINXOPTS_EN) $(BUILDDIR)/epub/en
-	@mkdir -p $(HTMLDIR)/pl $(HTMLDIR)/en
+	$(SPHINXBUILD) -b epub $(ALLSPHINXOPTS_ES) $(BUILDDIR)/epub/es
+	$(SPHINXBUILD) -b epub $(ALLSPHINXOPTS_PT) $(BUILDDIR)/epub/pt
+	$(SPHINXBUILD) -b epub $(ALLSPHINXOPTS_FR) $(BUILDDIR)/epub/fr
+	@mkdir -p $(HTMLDIR)/pl $(HTMLDIR)/en $(HTMLDIR)/es $(HTMLDIR)/pt $(HTMLDIR)/fr
 	cp -f $(BUILDDIR)/epub/pl/konspekty.epub $(HTMLDIR)/pl/konspekty.epub
 	cp -f $(BUILDDIR)/epub/en/konspekty.epub $(HTMLDIR)/en/konspekty.epub
+	cp -f $(BUILDDIR)/epub/es/konspekty.epub $(HTMLDIR)/es/konspekty.epub
+	cp -f $(BUILDDIR)/epub/pt/konspekty.epub $(HTMLDIR)/pt/konspekty.epub
+	cp -f $(BUILDDIR)/epub/fr/konspekty.epub $(HTMLDIR)/fr/konspekty.epub
 	@echo
-	@echo "Build finished. The epub files are in $(BUILDDIR)/epub/(pl|en) and copied to $(HTMLDIR)/(pl|en)."
+	@echo "Build finished. The epub files are in $(BUILDDIR)/epub/(pl|en|es|pt|fr) and copied to $(HTMLDIR)/(pl|en|es|pt|fr)."
 
 mobi: epub
 	$(EBOOK_CONVERT) $(HTMLDIR)/pl/konspekty.epub $(HTMLDIR)/pl/konspekty.mobi
 	$(EBOOK_CONVERT) $(HTMLDIR)/en/konspekty.epub $(HTMLDIR)/en/konspekty.mobi
+	$(EBOOK_CONVERT) $(HTMLDIR)/es/konspekty.epub $(HTMLDIR)/es/konspekty.mobi
+	$(EBOOK_CONVERT) $(HTMLDIR)/pt/konspekty.epub $(HTMLDIR)/pt/konspekty.mobi
+	$(EBOOK_CONVERT) $(HTMLDIR)/fr/konspekty.epub $(HTMLDIR)/fr/konspekty.mobi
 	@echo
-	@echo "Build finished. The mobi files are in $(HTMLDIR)/(pl|en)."
+	@echo "Build finished. The mobi files are in $(HTMLDIR)/(pl|en|es|pt|fr)."
 
 docx: epub
 	$(PANDOC) -o $(HTMLDIR)/pl/konspekty.docx $(HTMLDIR)/pl/konspekty.epub
 	$(PANDOC) -o $(HTMLDIR)/en/konspekty.docx $(HTMLDIR)/en/konspekty.epub
+	$(PANDOC) -o $(HTMLDIR)/es/konspekty.docx $(HTMLDIR)/es/konspekty.epub
+	$(PANDOC) -o $(HTMLDIR)/pt/konspekty.docx $(HTMLDIR)/pt/konspekty.epub
+	$(PANDOC) -o $(HTMLDIR)/fr/konspekty.docx $(HTMLDIR)/fr/konspekty.epub
 	@echo
-	@echo "Build finished. The docx files are in $(HTMLDIR)/(pl|en)."
+	@echo "Build finished. The docx files are in $(HTMLDIR)/(pl|en|es|pt|fr)."
 
 release: clean html latexpdf epub mobi docx
 
 latex:
 	$(SPHINXBUILD) -b latex $(ALLSPHINXOPTS_PL) $(BUILDDIR)/latex/pl
 	$(SPHINXBUILD) -b latex $(ALLSPHINXOPTS_EN) $(BUILDDIR)/latex/en
+	$(SPHINXBUILD) -b latex $(ALLSPHINXOPTS_ES) $(BUILDDIR)/latex/es
+	$(SPHINXBUILD) -b latex $(ALLSPHINXOPTS_PT) $(BUILDDIR)/latex/pt
+	$(SPHINXBUILD) -b latex $(ALLSPHINXOPTS_FR) $(BUILDDIR)/latex/fr
 	@echo
-	@echo "Build finished; the LaTeX files are in $(BUILDDIR)/latex/(pl|en)."
+	@echo "Build finished; the LaTeX files are in $(BUILDDIR)/latex/(pl|en|es|pt|fr)."
 	@echo "Run \`make' in that directory to run these through (pdf)latex" \
 	      "(use \`make latexpdf' here to do that automatically)."
 
 latexpdf:
 	$(SPHINXBUILD) -b latex $(ALLSPHINXOPTS_PL) $(BUILDDIR)/latex/pl
 	$(SPHINXBUILD) -b latex $(ALLSPHINXOPTS_EN) $(BUILDDIR)/latex/en
+	$(SPHINXBUILD) -b latex $(ALLSPHINXOPTS_ES) $(BUILDDIR)/latex/es
+	$(SPHINXBUILD) -b latex $(ALLSPHINXOPTS_PT) $(BUILDDIR)/latex/pt
+	$(SPHINXBUILD) -b latex $(ALLSPHINXOPTS_FR) $(BUILDDIR)/latex/fr
 	@echo "Running LaTeX files through pdflatex (pl)..."
 	$(MAKE) -C $(BUILDDIR)/latex/pl all-pdf
 	@echo "Running LaTeX files through pdflatex (en)..."
 	$(MAKE) -C $(BUILDDIR)/latex/en all-pdf
-	@mkdir -p $(HTMLDIR)/pl $(HTMLDIR)/en
+	@echo "Running LaTeX files through pdflatex (es)..."
+	$(MAKE) -C $(BUILDDIR)/latex/es all-pdf
+	@echo "Running LaTeX files through pdflatex (pt)..."
+	$(MAKE) -C $(BUILDDIR)/latex/pt all-pdf
+	@echo "Running LaTeX files through pdflatex (fr)..."
+	$(MAKE) -C $(BUILDDIR)/latex/fr all-pdf
+	@mkdir -p $(HTMLDIR)/pl $(HTMLDIR)/en $(HTMLDIR)/es $(HTMLDIR)/pt $(HTMLDIR)/fr
 	cp -f $(BUILDDIR)/latex/pl/konspekty.pdf $(HTMLDIR)/pl/konspekty.pdf
 	cp -f $(BUILDDIR)/latex/en/konspekty.pdf $(HTMLDIR)/en/konspekty.pdf
-	@echo "pdflatex finished; the PDF files are in $(BUILDDIR)/latex/(pl|en) and copied to $(HTMLDIR)/(pl|en)."
+	cp -f $(BUILDDIR)/latex/es/konspekty.pdf $(HTMLDIR)/es/konspekty.pdf
+	cp -f $(BUILDDIR)/latex/pt/konspekty.pdf $(HTMLDIR)/pt/konspekty.pdf
+	cp -f $(BUILDDIR)/latex/fr/konspekty.pdf $(HTMLDIR)/fr/konspekty.pdf
+	@echo "pdflatex finished; the PDF files are in $(BUILDDIR)/latex/(pl|en|es|pt|fr) and copied to $(HTMLDIR)/(pl|en|es|pt|fr)."
 
 latexpdfja:
 	$(SPHINXBUILD) -b latex $(ALLSPHINXOPTS) $(BUILDDIR)/latex
@@ -205,8 +250,11 @@ info:
 gettext:
 	$(SPHINXBUILD) -b gettext $(I18NSPHINXOPTS_PL) $(BUILDDIR)/locale/pl
 	$(SPHINXBUILD) -b gettext $(I18NSPHINXOPTS_EN) $(BUILDDIR)/locale/en
+	$(SPHINXBUILD) -b gettext $(I18NSPHINXOPTS_ES) $(BUILDDIR)/locale/es
+	$(SPHINXBUILD) -b gettext $(I18NSPHINXOPTS_PT) $(BUILDDIR)/locale/pt
+	$(SPHINXBUILD) -b gettext $(I18NSPHINXOPTS_FR) $(BUILDDIR)/locale/fr
 	@echo
-	@echo "Build finished. The message catalogs are in $(BUILDDIR)/locale/(pl|en)."
+	@echo "Build finished. The message catalogs are in $(BUILDDIR)/locale/(pl|en|es|pt|fr)."
 
 changes:
 	$(SPHINXBUILD) -b changes $(ALLSPHINXOPTS) $(BUILDDIR)/changes

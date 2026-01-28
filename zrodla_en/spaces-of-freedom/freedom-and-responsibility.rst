@@ -1,7 +1,7 @@
 Meeting 4. - Freedom and Responsibility
 ****************************************
 
-.. tags:: tresc|wolnosc|Freedom, tresc|odpowiedzialnosc|Responsibility, tresc|rozeznawanie|Discernment, metoda|pytania-do-dzielenia|Questions for Sharing, metoda|dyskusja|Discussion, typ|formacyjne|Formational
+.. tags:: content|freedom|Freedom, content|responsibility|Responsibility, content|discernment|Discernment, method|pytania-do-dzielenia|Questions for Sharing, method|discussion|Discussion, type|formacyjne|Formational
 
 Goal
 ====

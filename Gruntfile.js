@@ -38,11 +38,11 @@ module.exports = function(grunt) {
 		},	
 		watch: {
 			html: {
-				files: ["zrodla_pl/**/*.rst", "zrodla_en/**/*.rst"],
+				files: ["zrodla_pl/**/*.rst", "zrodla_en/**/*.rst", "zrodla_es/**/*.rst", "zrodla_pt/**/*.rst", "zrodla_fr/**/*.rst"],
 				tasks: ["mkdir", "shell:makeHtml"]
 			},
 			all: {
-				files: ["zrodla_pl/**/*.rst", "zrodla_en/**/*.rst"],
+				files: ["zrodla_pl/**/*.rst", "zrodla_en/**/*.rst", "zrodla_es/**/*.rst", "zrodla_pt/**/*.rst", "zrodla_fr/**/*.rst"],
 				tasks: ["mkdir", "shell:makeRelease"]
 			}
 		},

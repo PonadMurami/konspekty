@@ -1,7 +1,7 @@
 Meeting 2. - To See the Horizon
 ********************************
 
-.. tags:: tresc|dojrzalosc|Maturity, tresc|wolnosc|Freedom, tresc|grzech|Sin, tresc|nawrocenie|Conversion, metoda|praca-z-tekstem|Working with text, metoda|praca-z-definicja|Working with definition, metoda|dyskusja|Discussion, typ|formacyjne|Formational
+.. tags:: content|maturity|Maturity, content|freedom|Freedom, content|sin|Sin, content|conversion|Conversion, method|praca-z-tekstem|Working with text, method|praca-z-definicja|Working with definition, method|discussion|Discussion, type|formacyjne|Formational
 
 Goal
 ====

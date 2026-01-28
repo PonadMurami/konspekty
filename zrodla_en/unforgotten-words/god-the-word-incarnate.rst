@@ -317,25 +317,25 @@ Where C and C’ are additionally reinforced as quotes from the Book of Isaiah f
 
 It can be presented like this:
 
-+------+------------------------------------------------------------------------------------------------------------------------------+
-| A    | The beginning of the **gospel** of Jesus Christ, the Son of God.                                                             |
-+------+------------------------------------------------------------------------------------------------------------------------------+
-| B    | Behold, I send my **messenger** before your face, who will prepare your way                                                  |
-+------+------------------------------------------------------------------------------------------------------------------------------+
-| C    | The **voice** of one crying in the wilderness: Prepare the way of the Lord, make his paths straight                          |
-+------+------------------------------------------------------------------------------------------------------------------------------+
-| D    | **John** appeared, baptizing in the wilderness and proclaiming a **baptism of repentance**                                   |
-+------+------------------------------------------------------------------------------------------------------------------------------+
-| E    | I have **baptized you with water**, but he will **baptize you with the Holy Spirit.**                                        |
-+------+------------------------------------------------------------------------------------------------------------------------------+
-| D'   | In those days **Jesus came from Nazareth** of Galilee and was **baptized by John in the Jordan**                             |
-+------+------------------------------------------------------------------------------------------------------------------------------+
-| C'   | And a **voice** came from heaven, “You are my beloved Son; with you I am well pleased.”                                      |
-+------+------------------------------------------------------------------------------------------------------------------------------+
-| B'   | And he was in the wilderness forty days, being tempted by Satan. And he was with the wild animals, and the **angels** were ministering to him.|
-+------+------------------------------------------------------------------------------------------------------------------------------+
-| A'   | Now after John was arrested, Jesus came into Galilee, proclaiming the **gospel** of God.                                     |
-+------+------------------------------------------------------------------------------------------------------------------------------+
++------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| A    | The beginning of the **gospel** of Jesus Christ, the Son of God.                                                                                |
++------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| B    | Behold, I send my **messenger** before your face, who will prepare your way                                                                     |
++------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| C    | The **voice** of one crying in the wilderness: Prepare the way of the Lord, make his paths straight                                             |
++------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| D    | **John** appeared, baptizing in the wilderness and proclaiming a **baptism of repentance**                                                      |
++------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| E    | I have **baptized you with water**, but he will **baptize you with the Holy Spirit.**                                                           |
++------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| D'   | In those days **Jesus came from Nazareth** of Galilee and was **baptized by John in the Jordan**                                                |
++------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| C'   | And a **voice** came from heaven, “You are my beloved Son; with you I am well pleased.”                                                         |
++------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| B'   | And he was in the wilderness forty days, being tempted by Satan. And he was with the wild animals, and the **angels** were ministering to him.  |
++------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| A'   | Now after John was arrested, Jesus came into Galilee, proclaiming the **gospel** of God.                                                        |
++------+-------------------------------------------------------------------------------------------------------------------------------------------------+
 
 Undoubtedly it is not a coincidence and it is something strange. Let's look at this more closely. What does this construction remind us of?
 

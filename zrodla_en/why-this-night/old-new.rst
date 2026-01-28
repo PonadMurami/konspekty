@@ -1,7 +1,7 @@
 Meeting 4 — Old-New
 *******************
 
-.. tags:: content|eucharist|Eucharist, content|word-of-god|Word of God, content|church|Church, content|resurrection|Resurrection, content|mission|Mission, content|jewish-traditions|Jewish traditions, method|image-work|Image work, method|group-work|Group-work, type|mystagogical|Mystagogical
+.. tags:: content|eucharist|Eucharist, content|word-of-god|Word of God, content|church|Church, content|resurrection|Resurrection, content|mission|Mission, content|jewish-traditions|Jewish traditions, method|image-work|Image work, method|group-work|Group work, type|mystagogical|Mystagogical
 
 Introduction for the facilitator
 ================================

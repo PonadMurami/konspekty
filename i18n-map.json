@@ -1,467 +1,1250 @@
-{
-  "pl:7slow/index": "en:seven-words/index",
-  "en:seven-words/index": "pl:7slow/index",
-
-  "pl:7slow/zobaczyc-zeby-uslyszec": "en:seven-words/see-to-hear",
-  "en:seven-words/see-to-hear": "pl:7slow/zobaczyc-zeby-uslyszec",
-
-  "pl:7slow/bede-zyc-dla-niego": "en:seven-words/i-will-live-for-him",
-  "en:seven-words/i-will-live-for-him": "pl:7slow/bede-zyc-dla-niego",
-
-  "pl:7slow/pragne": "en:seven-words/i-thirst",
-  "en:seven-words/i-thirst": "pl:7slow/pragne",
-
-  "pl:7slow/wdziecznosc-i-wolnosc": "en:seven-words/gratitude-and-freedom",
-  "en:seven-words/gratitude-and-freedom": "pl:7slow/wdziecznosc-i-wolnosc",
-
-  "pl:anthrakia/index": "en:anthrakia/index",
-  "en:anthrakia/index": "pl:anthrakia/index",
-
-  "pl:anthrakia/chce-ale-nie-rozumiem": "en:anthrakia/i-want-but-do-not-understand",
-  "en:anthrakia/i-want-but-do-not-understand": "pl:anthrakia/chce-ale-nie-rozumiem",
-
-  "pl:anthrakia/milosc-musi-byc-prosta": "en:anthrakia/love-must-be-simple",
-  "en:anthrakia/love-must-be-simple": "pl:anthrakia/milosc-musi-byc-prosta",
-
-  "pl:anthrakia/chce-ale-nie-umiem": "en:anthrakia/i-want-but-cannot",
-  "en:anthrakia/i-want-but-cannot": "pl:anthrakia/chce-ale-nie-umiem",
-
-  "pl:anthrakia/chce-i-jestem-poslany": "en:anthrakia/i-want-and-i-am-sent",
-  "en:anthrakia/i-want-and-i-am-sent": "pl:anthrakia/chce-i-jestem-poslany",
-
-  "pl:bo-jak-smierc-potezna-jest-milosc/index": "en:for-love-is-strong-as-death/index",
-  "en:for-love-is-strong-as-death/index": "pl:bo-jak-smierc-potezna-jest-milosc/index",
-
-  "pl:bo-jak-smierc-potezna-jest-milosc/czemu-milosci-trzeba-szukac": "en:for-love-is-strong-as-death/why-love-must-be-sought",
-  "en:for-love-is-strong-as-death/why-love-must-be-sought": "pl:bo-jak-smierc-potezna-jest-milosc/czemu-milosci-trzeba-szukac",
-
-  "pl:bo-jak-smierc-potezna-jest-milosc/milosci-pogodzone": "en:for-love-is-strong-as-death/reconciled-loves",
-  "en:for-love-is-strong-as-death/reconciled-loves": "pl:bo-jak-smierc-potezna-jest-milosc/milosci-pogodzone",
-
-  "pl:chce-abys-byl/index": "en:i-want-you-to-be/index",
-  "en:i-want-you-to-be/index": "pl:chce-abys-byl/index",
-
-  "pl:chce-abys-byl/poczatek-podrozy": "en:i-want-you-to-be/beginning-of-the-journey",
-  "en:i-want-you-to-be/beginning-of-the-journey": "pl:chce-abys-byl/poczatek-podrozy",
-
-  "pl:chce-abys-byl/o-panie-moj-boze-na-coz-mi-nagroda": "en:i-want-you-to-be/o-lord-my-god-what-good-is-a-reward-to-me",
-  "en:i-want-you-to-be/o-lord-my-god-what-good-is-a-reward-to-me": "pl:chce-abys-byl/o-panie-moj-boze-na-coz-mi-nagroda",
-
-  "pl:chce-abys-byl/smiech-sary": "en:i-want-you-to-be/sarahs-laughter",
-  "en:i-want-you-to-be/sarahs-laughter": "pl:chce-abys-byl/smiech-sary",
-
-  "pl:gora-blogoslawienstw/index": "en:mount-of-beatitudes/index",
-  "en:mount-of-beatitudes/index": "pl:gora-blogoslawienstw/index",
-
-  "pl:gora-blogoslawienstw/bardziej-byc-niz-miec": "en:mount-of-beatitudes/more-to-be-than-to-have",
-  "en:mount-of-beatitudes/more-to-be-than-to-have": "pl:gora-blogoslawienstw/bardziej-byc-niz-miec",
-
-  "pl:gora-blogoslawienstw/byc-sluga-boga-i-ludzi": "en:mount-of-beatitudes/being-a-servant-of-god-and-people",
-  "en:mount-of-beatitudes/being-a-servant-of-god-and-people": "pl:gora-blogoslawienstw/byc-sluga-boga-i-ludzi",
-
-  "pl:gora-blogoslawienstw/perspektywa-w-codziennosci": "en:mount-of-beatitudes/perspective-in-everyday-life",
-  "en:mount-of-beatitudes/perspective-in-everyday-life": "pl:gora-blogoslawienstw/perspektywa-w-codziennosci",
-
-  "pl:chleb-wino-miod/index": "en:bread-wine-honey/index",
-  "en:bread-wine-honey/index": "pl:chleb-wino-miod/index",
-
-  "pl:chleb-wino-miod/niech-przyjdzie-do-mnie": "en:bread-wine-honey/let-him-come-to-me",
-  "en:bread-wine-honey/let-him-come-to-me": "pl:chleb-wino-miod/niech-przyjdzie-do-mnie",
-
-  "pl:chleb-wino-miod/pesach": "en:bread-wine-honey/passover",
-  "en:bread-wine-honey/passover": "pl:chleb-wino-miod/pesach",
-
-  "pl:chleb-wino-miod/sukkot": "en:bread-wine-honey/sukkot",
-  "en:bread-wine-honey/sukkot": "pl:chleb-wino-miod/sukkot",
-
-  "pl:chleb-wino-miod/szawuot": "en:bread-wine-honey/shavuot",
-  "en:bread-wine-honey/shavuot": "pl:chleb-wino-miod/szawuot",
-
-  "pl:czego-szukam/index": "en:what-am-i-looking-for/index",
-  "en:what-am-i-looking-for/index": "pl:czego-szukam/index",
-
-  "pl:czego-szukam/czego-szukam": "en:what-am-i-looking-for/what-am-i-looking-for",
-  "en:what-am-i-looking-for/what-am-i-looking-for": "pl:czego-szukam/czego-szukam",
-
-  "pl:czego-szukam/czym-jest-poszukiwanie": "en:what-am-i-looking-for/what-is-seeking",
-  "en:what-am-i-looking-for/what-is-seeking": "pl:czego-szukam/czym-jest-poszukiwanie",
-
-  "pl:czego-szukam/jak-szukam": "en:what-am-i-looking-for/how-do-i-seek",
-  "en:what-am-i-looking-for/how-do-i-seek": "pl:czego-szukam/jak-szukam",
-
-  "pl:czy-nie-warto-sie-obudzic/index": "en:is-it-not-worth-waking-up/index",
-  "en:is-it-not-worth-waking-up/index": "pl:czy-nie-warto-sie-obudzic/index",
-
-  "pl:czy-nie-warto-sie-obudzic/jezeli-chcemy-dojsc-do-celu-to-dojdziemy": "en:is-it-not-worth-waking-up/if-we-want-to-reach-the-goal-we-will-reach-it",
-  "en:is-it-not-worth-waking-up/if-we-want-to-reach-the-goal-we-will-reach-it": "pl:czy-nie-warto-sie-obudzic/jezeli-chcemy-dojsc-do-celu-to-dojdziemy",
-
-  "pl:czy-nie-warto-sie-obudzic/moje-dzis-wielkie-dzis": "en:is-it-not-worth-waking-up/my-today-great-today",
-  "en:is-it-not-worth-waking-up/my-today-great-today": "pl:czy-nie-warto-sie-obudzic/moje-dzis-wielkie-dzis",
-
-  "pl:czy-nie-warto-sie-obudzic/quo-vadis": "en:is-it-not-worth-waking-up/quo-vadis",
-  "en:is-it-not-worth-waking-up/quo-vadis": "pl:czy-nie-warto-sie-obudzic/quo-vadis",
-
-  "pl:czy-nie-warto-sie-obudzic/tobie-adamie-rozkazuje-zbudz-sie-ktory-spisz": "en:is-it-not-worth-waking-up/i-command-you-adam-wake-up-sleeper",
-  "en:is-it-not-worth-waking-up/i-command-you-adam-wake-up-sleeper": "pl:czy-nie-warto-sie-obudzic/tobie-adamie-rozkazuje-zbudz-sie-ktory-spisz",
-
-  "pl:dlaczego-ta-noc/index": "en:why-this-night/index",
-  "en:why-this-night/index": "pl:dlaczego-ta-noc/index",
-
-  "pl:dlaczego-ta-noc/jestem": "en:why-this-night/i-am",
-  "en:why-this-night/i-am": "pl:dlaczego-ta-noc/jestem",
-
-  "pl:dlaczego-ta-noc/poszukujac-pytan": "en:why-this-night/searching-for-questions",
-  "en:why-this-night/searching-for-questions": "pl:dlaczego-ta-noc/poszukujac-pytan",
-
-  "pl:dlaczego-ta-noc/przewodnicy-w-wierze": "en:why-this-night/guides-in-faith",
-  "en:why-this-night/guides-in-faith": "pl:dlaczego-ta-noc/przewodnicy-w-wierze",
-
-  "pl:dlaczego-ta-noc/stare-nowe": "en:why-this-night/old-new",
-  "en:why-this-night/old-new": "pl:dlaczego-ta-noc/stare-nowe",
-
-  "pl:drzwi-otwarte/index": "en:open-doors/index",
-  "en:open-doors/index": "pl:drzwi-otwarte/index",
-
-  "pl:drzwi-otwarte/tak-jak-sam-zostalem-poznany": "en:open-doors/just-as-i-have-been-fully-known",
-  "en:open-doors/just-as-i-have-been-fully-known": "pl:drzwi-otwarte/tak-jak-sam-zostalem-poznany",
-
-  "pl:drzwi-otwarte/nadprzyrodzona-otwartosc": "en:open-doors/supernatural-openness",
-  "en:open-doors/supernatural-openness": "pl:drzwi-otwarte/nadprzyrodzona-otwartosc",
-
-  "pl:drzwi-otwarte/doswiadczajacy": "en:open-doors/experiencing",
-  "en:open-doors/experiencing": "pl:drzwi-otwarte/doswiadczajacy",
-
-  "pl:drzwi-otwarte/prorokuj": "en:open-doors/prophesy",
-  "en:open-doors/prophesy": "pl:drzwi-otwarte/prorokuj",
-
-  "pl:duchowosc-czlowieka/index": "en:human-spirituality/index",
-  "en:human-spirituality/index": "pl:duchowosc-czlowieka/index",
-
-  "pl:duchowosc-czlowieka/duchowa-kondycja-czlowieka": "en:human-spirituality/spiritual-condition-of-man",
-  "en:human-spirituality/spiritual-condition-of-man": "pl:duchowosc-czlowieka/duchowa-kondycja-czlowieka",
-
-  "pl:duchowosc-czlowieka/boze-spojrzenie-na-czlowieka": "en:human-spirituality/gods-view-of-man",
-  "en:human-spirituality/gods-view-of-man": "pl:duchowosc-czlowieka/boze-spojrzenie-na-czlowieka",
-
-  "pl:dwa-skrzydla/index": "en:two-wings/index",
-  "en:two-wings/index": "pl:dwa-skrzydla/index",
-
-  "pl:dwa-skrzydla/dlaczego-pytania-sa-wazne": "en:two-wings/why-questions-are-important",
-  "en:two-wings/why-questions-are-important": "pl:dwa-skrzydla/dlaczego-pytania-sa-wazne",
-
-  "pl:dwa-skrzydla/iluzja-a-prawda": "en:two-wings/illusion-and-truth",
-  "en:two-wings/illusion-and-truth": "pl:dwa-skrzydla/iluzja-a-prawda",
-
-  "pl:dwa-skrzydla/z-czym-do-ludzi": "en:two-wings/what-to-bring-to-people",
-  "en:two-wings/what-to-bring-to-people": "pl:dwa-skrzydla/z-czym-do-ludzi",
-
-  "pl:wartosc-bezwzgledna/index": "en:absolute-value/index",
-  "en:absolute-value/index": "pl:wartosc-bezwzgledna/index",
-
-  "pl:wartosc-bezwzgledna/odkrycie-wartosci-czlowieka": "en:absolute-value/discovery-of-human-value",
-  "en:absolute-value/discovery-of-human-value": "pl:wartosc-bezwzgledna/odkrycie-wartosci-czlowieka",
-
-  "pl:wartosc-bezwzgledna/walka-o-wartosc": "en:absolute-value/fight-for-value",
-  "en:absolute-value/fight-for-value": "pl:wartosc-bezwzgledna/walka-o-wartosc",
-
-  "pl:wartosc-bezwzgledna/narodziny-animatora": "en:absolute-value/birth-of-an-animator",
-  "en:absolute-value/birth-of-an-animator": "pl:wartosc-bezwzgledna/narodziny-animatora",
-
-  "pl:wpatrzeni-w-niebo/index": "en:gazing-into-heaven/index",
-  "en:gazing-into-heaven/index": "pl:wpatrzeni-w-niebo/index",
-
-  "pl:wpatrzeni-w-niebo/rozwoj-trojwymiarowy": "en:gazing-into-heaven/three-dimensional-development",
-  "en:gazing-into-heaven/three-dimensional-development": "pl:wpatrzeni-w-niebo/rozwoj-trojwymiarowy",
-
-  "pl:wpatrzeni-w-niebo/badzcie-wiec-wy-doskonali-jak-doskonaly-jest-ojciec-wasz-niebieski": "en:gazing-into-heaven/be-perfect-as-your-heavenly-father-is-perfect",
-  "en:gazing-into-heaven/be-perfect-as-your-heavenly-father-is-perfect": "pl:wpatrzeni-w-niebo/badzcie-wiec-wy-doskonali-jak-doskonaly-jest-ojciec-wasz-niebieski",
-
-  "pl:wpatrzeni-w-niebo/rozwoj-w-mocy-ducha-swietego": "en:gazing-into-heaven/development-in-the-power-of-the-holy-spirit",
-  "en:gazing-into-heaven/development-in-the-power-of-the-holy-spirit": "pl:wpatrzeni-w-niebo/rozwoj-w-mocy-ducha-swietego",
-
-  "pl:eucharystia/index": "en:eucharist/index",
-  "en:eucharist/index": "pl:eucharystia/index",
-
-  "pl:eucharystia/eucharystia-jako-pokarm": "en:eucharist/eucharist-as-food",
-  "en:eucharist/eucharist-as-food": "pl:eucharystia/eucharystia-jako-pokarm",
-
-  "pl:eucharystia/eucharystia-jako-spotkanie-z-czlowiekiem-i-bogiem": "en:eucharist/eucharist-as-meeting-with-man-and-god",
-  "en:eucharist/eucharist-as-meeting-with-man-and-god": "pl:eucharystia/eucharystia-jako-spotkanie-z-czlowiekiem-i-bogiem",
-
-  "pl:eucharystia/eucharystia-jako-zjednoczenie-z-ludzmi-i-bogiem": "en:eucharist/eucharist-as-union-with-people-and-god",
-  "en:eucharist/eucharist-as-union-with-people-and-god": "pl:eucharystia/eucharystia-jako-zjednoczenie-z-ludzmi-i-bogiem",
-
-  "pl:jestesmy-z-modlitwy/index": "en:we-are-from-prayer/index",
-  "en:we-are-from-prayer/index": "pl:jestesmy-z-modlitwy/index",
-
-  "pl:jestesmy-z-modlitwy/o-moi-trzej": "en:we-are-from-prayer/o-my-three",
-  "en:we-are-from-prayer/o-my-three": "pl:jestesmy-z-modlitwy/o-moi-trzej",
-
-  "pl:jestesmy-z-modlitwy/aby-znali-ciebie": "en:we-are-from-prayer/that-they-may-know-you",
-  "en:we-are-from-prayer/that-they-may-know-you": "pl:jestesmy-z-modlitwy/aby-znali-ciebie",
-
-  "pl:jestesmy-z-modlitwy/aby-radosc-mieli-w-sobie": "en:we-are-from-prayer/that-they-may-have-joy-in-themselves",
-  "en:we-are-from-prayer/that-they-may-have-joy-in-themselves": "pl:jestesmy-z-modlitwy/aby-radosc-mieli-w-sobie",
-
-  "pl:jestesmy-z-modlitwy/aby-byli-jedno": "en:we-are-from-prayer/that-they-may-be-one",
-  "en:we-are-from-prayer/that-they-may-be-one": "pl:jestesmy-z-modlitwy/aby-byli-jedno",
-
-  "pl:odpowiedzialnosc-za-wspolnote/index": "en:responsibility-for-the-community/index",
-  "en:responsibility-for-the-community/index": "pl:odpowiedzialnosc-za-wspolnote/index",
-
-  "pl:odpowiedzialnosc-za-wspolnote/zycie-jako-odpowiedz-na-powolanie-do-sluzby": "en:responsibility-for-the-community/life-as-a-response-to-the-call-to-service",
-  "en:responsibility-for-the-community/life-as-a-response-to-the-call-to-service": "pl:odpowiedzialnosc-za-wspolnote/zycie-jako-odpowiedz-na-powolanie-do-sluzby",
-
-  "pl:ogien-wiary/index": "en:fire-of-faith/index",
-  "en:fire-of-faith/index": "pl:ogien-wiary/index",
-
-  "pl:ogien-wiary/duch-swiety-jako-ten-ktory-zmienia": "en:fire-of-faith/holy-spirit-as-the-one-who-changes",
-  "en:fire-of-faith/holy-spirit-as-the-one-who-changes": "pl:ogien-wiary/duch-swiety-jako-ten-ktory-zmienia",
-
-  "pl:ogien-wiary/kim-jest-i-jak-dziala-duch-swiety": "en:fire-of-faith/who-is-and-how-does-the-holy-spirit-work",
-  "en:fire-of-faith/who-is-and-how-does-the-holy-spirit-work": "pl:ogien-wiary/kim-jest-i-jak-dziala-duch-swiety",
-
-  "pl:ogien-wiary/ludzie-wieczernika": "en:fire-of-faith/people-of-the-upper-room",
-  "en:fire-of-faith/people-of-the-upper-room": "pl:ogien-wiary/ludzie-wieczernika",
-
-  "pl:ogien-wiary/wiara-przestrzen-dynamicznych-zwrotow": "en:fire-of-faith/faith-space-of-dynamic-turns",
-  "en:fire-of-faith/faith-space-of-dynamic-turns": "pl:ogien-wiary/wiara-przestrzen-dynamicznych-zwrotow",
-
-  "pl:poetycko-mieszka-czlowiek/index": "en:poetically-man-dwells/index",
-  "en:poetically-man-dwells/index": "pl:poetycko-mieszka-czlowiek/index",
-
-  "pl:poetycko-mieszka-czlowiek/miasto-mego-serca": "en:poetically-man-dwells/city-of-my-heart",
-  "en:poetically-man-dwells/city-of-my-heart": "pl:poetycko-mieszka-czlowiek/miasto-mego-serca",
-
-  "pl:poetycko-mieszka-czlowiek/zycie-ktore-jest-pomimo-wspanialych-marzen": "en:poetically-man-dwells/life-that-is-despite-great-dreams",
-  "en:poetically-man-dwells/life-that-is-despite-great-dreams": "pl:poetycko-mieszka-czlowiek/zycie-ktore-jest-pomimo-wspanialych-marzen",
-
-  "pl:poetycko-mieszka-czlowiek/codziennosc-i-pasja-dwa-filary-jednego-mieszkania": "en:poetically-man-dwells/everyday-life-and-passion-two-pillars-of-one-dwelling",
-  "en:poetically-man-dwells/everyday-life-and-passion-two-pillars-of-one-dwelling": "pl:poetycko-mieszka-czlowiek/codziennosc-i-pasja-dwa-filary-jednego-mieszkania",
-
-  "pl:ponad-murami/index": "en:above-the-walls/index",
-  "en:above-the-walls/index": "pl:ponad-murami/index",
-
-  "pl:ponad-murami/pragnienie-zycia": "en:above-the-walls/desire-for-life",
-  "en:above-the-walls/desire-for-life": "pl:ponad-murami/pragnienie-zycia",
-
-  "pl:ponad-murami/zobaczyc-horyzont": "en:above-the-walls/to-see-the-horizon",
-  "en:above-the-walls/to-see-the-horizon": "pl:ponad-murami/zobaczyc-horyzont",
-
-  "pl:ponad-murami/wyruszyc-w-droge-ktora-jest-celem": "en:above-the-walls/to-set-out-on-a-journey-that-is-the-goal",
-  "en:above-the-walls/to-set-out-on-a-journey-that-is-the-goal": "pl:ponad-murami/wyruszyc-w-droge-ktora-jest-celem",
-
-  "pl:poczekalnia/index": "en:waiting-room/index",
-  "en:waiting-room/index": "pl:poczekalnia/index",
-
-  "pl:poczekalnia/choc-goni-nas-czas": "en:waiting-room/although-time-chases-us",
-  "en:waiting-room/although-time-chases-us": "pl:poczekalnia/choc-goni-nas-czas",
-
-  "pl:poczekalnia/czekanie-ktore-jest-odwaga": "en:waiting-room/waiting-which-is-courage",
-  "en:waiting-room/waiting-which-is-courage": "pl:poczekalnia/czekanie-ktore-jest-odwaga",
-
-  "pl:poczekalnia/ja-przekazuje-wam-krolestwo": "en:waiting-room/i-hand-over-the-kingdom-to-you",
-  "en:waiting-room/i-hand-over-the-kingdom-to-you": "pl:poczekalnia/ja-przekazuje-wam-krolestwo",
-
-  "pl:podejmowanie-decyzji/index": "en:making-decisions/index",
-  "en:making-decisions/index": "pl:podejmowanie-decyzji/index",
-
-  "pl:podejmowanie-decyzji/jakie-decyzje-podejmujemy": "en:making-decisions/what-decisions-we-make",
-  "en:making-decisions/what-decisions-we-make": "pl:podejmowanie-decyzji/jakie-decyzje-podejmujemy",
-
-  "pl:podejmowanie-decyzji/etapy-podejmowania-decyzji-czym-sie-kieruje": "en:making-decisions/stages-of-making-decisions-what-guides-me",
-  "en:making-decisions/stages-of-making-decisions-what-guides-me": "pl:podejmowanie-decyzji/etapy-podejmowania-decyzji-czym-sie-kieruje",
-
-  "pl:podrozowanie-po-pustyni/index": "en:journeying-through-the-desert/index",
-  "en:journeying-through-the-desert/index": "pl:podrozowanie-po-pustyni/index",
-
-  "pl:podrozowanie-po-pustyni/wyjscie-na-pustynie": "en:journeying-through-the-desert/going-out-into-the-desert",
-  "en:journeying-through-the-desert/going-out-into-the-desert": "pl:podrozowanie-po-pustyni/wyjscie-na-pustynie",
-
-  "pl:podrozowanie-po-pustyni/pustynia-nas-ksztaltuje": "en:journeying-through-the-desert/desert-shapes-us",
-  "en:journeying-through-the-desert/desert-shapes-us": "pl:podrozowanie-po-pustyni/pustynia-nas-ksztaltuje",
-
-  "pl:podrozowanie-po-pustyni/konsekwencje-wyborow": "en:journeying-through-the-desert/consequences-of-choices",
-  "en:journeying-through-the-desert/consequences-of-choices": "pl:podrozowanie-po-pustyni/konsekwencje-wyborow",
-
-  "pl:zjednoczeni/index": "en:united/index",
-  "en:united/index": "pl:zjednoczeni/index",
-
-  "pl:zjednoczeni/jednym-sercem-i-jednym-glosem": "en:united/with-one-heart-and-one-voice",
-  "en:united/with-one-heart-and-one-voice": "pl:zjednoczeni/jednym-sercem-i-jednym-glosem",
-
-  "pl:zjednoczeni/aby-byli-jedno": "en:united/that-they-may-be-one",
-  "en:united/that-they-may-be-one": "pl:zjednoczeni/aby-byli-jedno",
-
-  "pl:zjednoczeni/jednosc-ducha": "en:united/unity-of-spirit",
-  "en:united/unity-of-spirit": "pl:zjednoczeni/jednosc-ducha",
-
-  "pl:zjednoczeni/milosc-wiezia-jednosci": "en:united/love-bond-of-unity",
-  "en:united/love-bond-of-unity": "pl:zjednoczeni/milosc-wiezia-jednosci",
-  "pl:ruch-swiatlo-zycie/index": "en:light-life-movement/index",
-  "en:light-life-movement/index": "pl:ruch-swiatlo-zycie/index",
-
-  "pl:ruch-swiatlo-zycie/jestesmy-oaza": "en:light-life-movement/we-are-oasis",
-  "en:light-life-movement/we-are-oasis": "pl:ruch-swiatlo-zycie/jestesmy-oaza",
-
-  "pl:ruch-swiatlo-zycie/jestem-oazowiczem-co-to-znaczy": "en:light-life-movement/i-am-an-oasis-member-what-does-it-mean",
-  "en:light-life-movement/i-am-an-oasis-member-what-does-it-mean": "pl:ruch-swiatlo-zycie/jestem-oazowiczem-co-to-znaczy",
-
-  "pl:ruch-swiatlo-zycie/jestem-oazowiczem-co-z-tego-wynika": "en:light-life-movement/i-am-an-oasis-member-what-follows",
-  "en:light-life-movement/i-am-an-oasis-member-what-follows": "pl:ruch-swiatlo-zycie/jestem-oazowiczem-co-z-tego-wynika",
-
-  "pl:ty-tez/index": "en:you-too/index",
-  "en:you-too/index": "pl:ty-tez/index",
-
-  "pl:ty-tez/czym-jest-spotkanie": "en:you-too/what-is-a-meeting",
-  "en:you-too/what-is-a-meeting": "pl:ty-tez/czym-jest-spotkanie",
-
-  "pl:ty-tez/wspolnota-fenomen-indywidualnosci-czy-konformizmu": "en:you-too/community-phenomenon-of-individuality-or-conformity",
-  "en:you-too/community-phenomenon-of-individuality-or-conformity": "pl:ty-tez/wspolnota-fenomen-indywidualnosci-czy-konformizmu",
-
-  "pl:ty-tez/wspolnota-jest-decyzja": "en:you-too/community-is-a-decision",
-  "en:you-too/community-is-a-decision": "pl:ty-tez/wspolnota-jest-decyzja",
-
-  "pl:wprowadzenie/index": "en:introduction/index",
-  "en:introduction/index": "pl:wprowadzenie/index",
-  "pl:slowa-niezapomniane/index": "en:unforgotten-words/index",
-  "en:unforgotten-words/index": "pl:slowa-niezapomniane/index",
-
-  "pl:slowa-niezapomniane/slowa-wyczekiwane": "en:unforgotten-words/awaited-words",
-  "en:unforgotten-words/awaited-words": "pl:slowa-niezapomniane/slowa-wyczekiwane",
-
-  "pl:slowa-niezapomniane/wartosc-slowa": "en:unforgotten-words/value-of-the-word",
-  "en:unforgotten-words/value-of-the-word": "pl:slowa-niezapomniane/wartosc-slowa",
-
-  "pl:slowa-niezapomniane/bog-slowo-wcielone": "en:unforgotten-words/god-the-word-incarnate",
-  "en:unforgotten-words/god-the-word-incarnate": "pl:slowa-niezapomniane/bog-slowo-wcielone",
-
-  "pl:slowa-niezapomniane/walka-ze-slowem-o-slowo": "en:unforgotten-words/fight-with-the-word-for-the-word",
-
-  "pl:synowie-gromu/index": "en:sons-of-thunder/index",
-  "en:sons-of-thunder/index": "pl:synowie-gromu/index",
-
-  "pl:synowie-gromu/dokument-programowy": "en:sons-of-thunder/programmatic-document",
-  "en:sons-of-thunder/programmatic-document": "pl:synowie-gromu/dokument-programowy",
-
-  "pl:synowie-gromu/tesknota-za-idealem": "en:sons-of-thunder/longing-for-the-ideal",
-  "en:sons-of-thunder/longing-for-the-ideal": "pl:synowie-gromu/tesknota-za-idealem",
-
-  "pl:synowie-gromu/sympatycy-czy-chrzescijanie": "en:sons-of-thunder/sympathizers-or-christians",
-  "en:sons-of-thunder/sympathizers-or-christians": "pl:synowie-gromu/sympatycy-czy-chrzescijanie",
-
-  "pl:synowie-gromu/jestem-christianoi": "en:sons-of-thunder/i-am-christianoi",
-  "en:sons-of-thunder/i-am-christianoi": "pl:synowie-gromu/jestem-christianoi",
-
-  "pl:ta-sama-noc/index": "en:the-same-night/index",
-  "en:the-same-night/index": "pl:ta-sama-noc/index",
-
-  "pl:ta-sama-noc/opowiedz-mi": "en:the-same-night/tell-me",
-  "en:the-same-night/tell-me": "pl:ta-sama-noc/opowiedz-mi",
-
-  "pl:ta-sama-noc/wtedy-otworzyly-sie-im-oczy": "en:the-same-night/then-their-eyes-were-opened",
-  "en:the-same-night/then-their-eyes-were-opened": "pl:ta-sama-noc/wtedy-otworzyly-sie-im-oczy",
-
-  "pl:ta-sama-noc/wiara-zadomowiona": "en:the-same-night/faith-at-home",
-  "en:the-same-night/faith-at-home": "pl:ta-sama-noc/wiara-zadomowiona",
-
-  "pl:ta-sama-noc/moja-haggada": "en:the-same-night/my-haggadah",
-  "en:the-same-night/my-haggadah": "pl:ta-sama-noc/moja-haggada",
-
-  "pl:wiara-wymaga-pytan/index": "en:faith-requires-questions/index",
-  "en:faith-requires-questions/index": "pl:wiara-wymaga-pytan/index",
-
-  "pl:wiara-wymaga-pytan/sam-dla-siebie-pytaniem": "en:faith-requires-questions/question-to-myself",
-  "en:faith-requires-questions/question-to-myself": "pl:wiara-wymaga-pytan/sam-dla-siebie-pytaniem",
-
-  "pl:wiara-wymaga-pytan/osobiste-doswiadczenie-wiary": "en:faith-requires-questions/personal-experience-of-faith",
-  "en:faith-requires-questions/personal-experience-of-faith": "pl:wiara-wymaga-pytan/osobiste-doswiadczenie-wiary",
-
-  "pl:wiara-wymaga-pytan/dynamizm-wiary": "en:faith-requires-questions/dynamism-of-faith",
-  "en:faith-requires-questions/dynamism-of-faith": "pl:wiara-wymaga-pytan/dynamizm-wiary",
-  "en:unforgotten-words/fight-with-the-word-for-the-word": "pl:slowa-niezapomniane/walka-ze-slowem-o-slowo",
-
-  "pl:pragnienia-czlowieka-pragnienia-boga/index": "en:human-desires-gods-desires/index",
-  "en:human-desires-gods-desires/index": "pl:pragnienia-czlowieka-pragnienia-boga/index",
-
-  "pl:pragnienia-czlowieka-pragnienia-boga/niespokojne-jest-serce-nasze": "en:human-desires-gods-desires/our-heart-is-restless",
-  "en:human-desires-gods-desires/our-heart-is-restless": "pl:pragnienia-czlowieka-pragnienia-boga/niespokojne-jest-serce-nasze",
-
-  "pl:pragnienia-czlowieka-pragnienia-boga/stworzyles-nas-bowiem-jako-skierowanych-ku-tobie-panie": "en:human-desires-gods-desires/you-created-us-directed-towards-you",
-  "en:human-desires-gods-desires/you-created-us-directed-towards-you": "pl:pragnienia-czlowieka-pragnienia-boga/stworzyles-nas-bowiem-jako-skierowanych-ku-tobie-panie",
-
-  "pl:pragnienia-czlowieka-pragnienia-boga/niespokojne-jest-serce-nasze-dopoki-nie-spocznie-w-panu": "en:human-desires-gods-desires/our-heart-is-restless-until-it-rests-in-the-lord",
-  "en:human-desires-gods-desires/our-heart-is-restless-until-it-rests-in-the-lord": "pl:pragnienia-czlowieka-pragnienia-boga/niespokojne-jest-serce-nasze-dopoki-nie-spocznie-w-panu",
-
-  "pl:przestrzenie-wolnosci/index": "en:spaces-of-freedom/index",
-  "en:spaces-of-freedom/index": "pl:przestrzenie-wolnosci/index",
-
-  "pl:przestrzenie-wolnosci/o-istocie-wolnosci": "en:spaces-of-freedom/on-the-essence-of-freedom",
-  "en:spaces-of-freedom/on-the-essence-of-freedom": "pl:przestrzenie-wolnosci/o-istocie-wolnosci",
-
-  "pl:przestrzenie-wolnosci/badz-wola-twoja": "en:spaces-of-freedom/thy-will-be-done",
-  "en:spaces-of-freedom/thy-will-be-done": "pl:przestrzenie-wolnosci/badz-wola-twoja",
-
-  "pl:przestrzenie-wolnosci/dlaczego-slowa-badz-wola-twoja-sa-istotne-dla-mojego-zycia": "en:spaces-of-freedom/why-the-words-thy-will-be-done-are-important-for-my-life",
-  "en:spaces-of-freedom/why-the-words-thy-will-be-done-are-important-for-my-life": "pl:przestrzenie-wolnosci/dlaczego-slowa-badz-wola-twoja-sa-istotne-dla-mojego-zycia",
-
-  "pl:przestrzenie-wolnosci/wolnosc-i-odpowiedzialnosc": "en:spaces-of-freedom/freedom-and-responsibility",
-  "en:spaces-of-freedom/freedom-and-responsibility": "pl:przestrzenie-wolnosci/wolnosc-i-odpowiedzialnosc",
-
-  "pl:re-kreacja/index": "en:re-creation/index",
-  "en:re-creation/index": "pl:re-kreacja/index",
-
-  "pl:re-kreacja/wolnosc": "en:re-creation/freedom",
-  "en:re-creation/freedom": "pl:re-kreacja/wolnosc",
-
-  "pl:re-kreacja/tozsamosc": "en:re-creation/identity",
-  "en:re-creation/identity": "pl:re-kreacja/tozsamosc",
-
-  "pl:re-kreacja/przejawy-nowej-kultury-w-zyciu-chrzescijanskim": "en:re-creation/manifestations-of-new-culture-in-christian-life",
-  "en:re-creation/manifestations-of-new-culture-in-christian-life": "pl:re-kreacja/przejawy-nowej-kultury-w-zyciu-chrzescijanskim",
-
-  "pl:re-kreacja/maski": "en:re-creation/masks",
-  "en:re-creation/masks": "pl:re-kreacja/maski",
-
-  "pl:na-brzegu/index": "en:on-the-shore/index",
-  "en:on-the-shore/index": "pl:na-brzegu/index",
-
-  "pl:na-brzegu/na-brzegu-kosciola": "en:on-the-shore/on-the-shore-of-the-church",
-  "en:on-the-shore/on-the-shore-of-the-church": "pl:na-brzegu/na-brzegu-kosciola",
-
-  "pl:na-brzegu/na-brzegu-tajemnicy": "en:on-the-shore/on-the-shore-of-mystery",
-  "en:on-the-shore/on-the-shore-of-mystery": "pl:na-brzegu/na-brzegu-tajemnicy",
-
-  "pl:na-brzegu/na-brzegu-znakow": "en:on-the-shore/on-the-shore-of-signs",
-  "en:on-the-shore/on-the-shore-of-signs": "pl:na-brzegu/na-brzegu-znakow",
-
-  "pl:oczekiwany/index": "en:the-awaited-one/index",
-  "en:the-awaited-one/index": "pl:oczekiwany/index",
-
-  "pl:oczekiwany/boze-moj-boze-szukam-ciebie": "en:the-awaited-one/o-god-my-god-i-seek-you",
-  "en:the-awaited-one/o-god-my-god-i-seek-you": "pl:oczekiwany/boze-moj-boze-szukam-ciebie",
-
-  "pl:oczekiwany/communio": "en:the-awaited-one/communio",
-  "en:the-awaited-one/communio": "pl:oczekiwany/communio",
-
-  "pl:oczekiwany/posmakowac-slowa": "en:the-awaited-one/tasting-the-word",
-  "en:the-awaited-one/tasting-the-word": "pl:oczekiwany/posmakowac-slowa",
-
-  "pl:oczekiwany/poznal-i-uwierzyl": "en:the-awaited-one/he-saw-and-believed",
-  "en:the-awaited-one/he-saw-and-believed": "pl:oczekiwany/poznal-i-uwierzyl",
-
-  "pl:index": "en:index",
-  "en:index": "pl:index",
-
-  "pl:rownowaga/index": "en:equilibrium/index",
-  "en:equilibrium/index": "pl:rownowaga/index",
-
-  "pl:rownowaga/gotowi-na-przyjscie": "en:equilibrium/ready-for-the-coming",
-  "en:equilibrium/ready-for-the-coming": "pl:rownowaga/gotowi-na-przyjscie",
-
-  "pl:rownowaga/jednego-ci-jeszcze-brak": "en:equilibrium/you-lack-one-thing",
-  "en:equilibrium/you-lack-one-thing": "pl:rownowaga/jednego-ci-jeszcze-brak",
-
-  "pl:rownowaga/nie-zadreczajcie-sie": "en:equilibrium/do-not-worry",
-  "en:equilibrium/do-not-worry": "pl:rownowaga/nie-zadreczajcie-sie"
-}
+[
+  {
+    "en": "seven-words/i-will-live-for-him",
+    "id": "7slow/bede-zyc-dla-niego",
+    "pl": "7slow/bede-zyc-dla-niego",
+    "es": "7-palabras/vivire-para-el",
+    "fr": "7-paroles/je-vivrai-pour-lui",
+    "pt": "7-palavras/viverei-para-ele"
+  },
+  {
+    "en": "seven-words/index",
+    "id": "7slow/index",
+    "pl": "7slow/index",
+    "es": "7-palabras/index",
+    "fr": "7-paroles/index",
+    "pt": "7-palavras/index"
+  },
+  {
+    "en": "seven-words/i-thirst",
+    "id": "7slow/pragne",
+    "pl": "7slow/pragne",
+    "es": "7-palabras/tengo-sed",
+    "fr": "7-paroles/jai-soif",
+    "pt": "7-palavras/tenho-sede"
+  },
+  {
+    "en": "seven-words/gratitude-and-freedom",
+    "id": "7slow/wdziecznosc-i-wolnosc",
+    "pl": "7slow/wdziecznosc-i-wolnosc",
+    "es": "7-palabras/gratitud-y-libertad",
+    "fr": "7-paroles/gratitude-et-liberte",
+    "pt": "7-palavras/gratidao-e-liberdade"
+  },
+  {
+    "en": "seven-words/see-to-hear",
+    "id": "7slow/zobaczyc-zeby-uslyszec",
+    "pl": "7slow/zobaczyc-zeby-uslyszec",
+    "es": "7-palabras/ver-para-oir",
+    "fr": "7-paroles/voir-pour-entendre",
+    "pt": "7-palavras/ver-para-ouvir"
+  },
+  {
+    "en": "anthrakia/i-want-but-do-not-understand",
+    "id": "anthrakia/chce-ale-nie-rozumiem",
+    "pl": "anthrakia/chce-ale-nie-rozumiem",
+    "es": "anthrakia/quiero-pero-no-entiendo",
+    "fr": "anthrakia/je-veux-mais-je-ne-comprends-pas",
+    "pt": "anthrakia/eu-quero-mas-nao-entendo"
+  },
+  {
+    "en": "anthrakia/i-want-but-cannot",
+    "id": "anthrakia/chce-ale-nie-umiem",
+    "pl": "anthrakia/chce-ale-nie-umiem",
+    "es": "anthrakia/quiero-pero-no-puedo",
+    "fr": "anthrakia/je-veux-mais-je-ne-peux-pas",
+    "pt": "anthrakia/eu-quero-mas-nao-consigo"
+  },
+  {
+    "en": "anthrakia/i-want-and-i-am-sent",
+    "id": "anthrakia/chce-i-jestem-poslany",
+    "pl": "anthrakia/chce-i-jestem-poslany",
+    "es": "anthrakia/quiero-y-soy-enviado",
+    "fr": "anthrakia/je-veux-et-je-suis-envoye",
+    "pt": "anthrakia/eu-quero-e-sou-enviado"
+  },
+  {
+    "en": "anthrakia/index",
+    "id": "anthrakia/index",
+    "pl": "anthrakia/index",
+    "es": "anthrakia/index",
+    "fr": "anthrakia/index",
+    "pt": "anthrakia/index"
+  },
+  {
+    "en": "anthrakia/love-must-be-simple",
+    "id": "anthrakia/milosc-musi-byc-prosta",
+    "pl": "anthrakia/milosc-musi-byc-prosta",
+    "es": "anthrakia/el-amor-debe-ser-simple",
+    "fr": "anthrakia/l-amour-doit-etre-simple",
+    "pt": "anthrakia/o-amor-deve-ser-simples"
+  },
+  {
+    "en": "for-love-is-strong-as-death/why-love-must-be-sought",
+    "id": "bo-jak-smierc-potezna-jest-milosc/czemu-milosci-trzeba-szukac",
+    "pl": "bo-jak-smierc-potezna-jest-milosc/czemu-milosci-trzeba-szukac",
+    "es": "porque-fuerte-como-la-muerte-es-el-amor/por-que-hay-que-buscar-el-amor",
+    "fr": "car-lamour-est-fort-comme-la-mort/pourquoi-il-faut-chercher-lamour",
+    "pt": "porque-o-amor-e-forte-como-a-morte/por-que-e-preciso-buscar-o-amor"
+  },
+  {
+    "en": "for-love-is-strong-as-death/index",
+    "id": "bo-jak-smierc-potezna-jest-milosc/index",
+    "pl": "bo-jak-smierc-potezna-jest-milosc/index",
+    "es": "porque-fuerte-como-la-muerte-es-el-amor/index",
+    "fr": "car-lamour-est-fort-comme-la-mort/index",
+    "pt": "porque-o-amor-e-forte-como-a-morte/index"
+  },
+  {
+    "en": "for-love-is-strong-as-death/reconciled-loves",
+    "id": "bo-jak-smierc-potezna-jest-milosc/milosci-pogodzone",
+    "pl": "bo-jak-smierc-potezna-jest-milosc/milosci-pogodzone",
+    "es": "porque-fuerte-como-la-muerte-es-el-amor/amores-reconciliados",
+    "fr": "car-lamour-est-fort-comme-la-mort/amours-reconciliees",
+    "pt": "porque-o-amor-e-forte-como-a-morte/amores-reconciliados"
+  },
+  {
+    "en": "i-want-you-to-be/index",
+    "id": "chce-abys-byl/index",
+    "pl": "chce-abys-byl/index",
+    "es": "quiero-que-seas/index",
+    "fr": "je-veux-que-tu-sois/index",
+    "pt": "quero-que-sejas/index"
+  },
+  {
+    "en": "i-want-you-to-be/o-lord-my-god-what-good-is-a-reward-to-me",
+    "id": "chce-abys-byl/o-panie-moj-boze-na-coz-mi-nagroda",
+    "pl": "chce-abys-byl/o-panie-moj-boze-na-coz-mi-nagroda",
+    "es": "quiero-que-seas/oh-senor-dios-mio-para-que-me-sirve-la-recompensa",
+    "fr": "je-veux-que-tu-sois/o-seigneur-mon-dieu-a-quoi-bon-une-recompense",
+    "pt": "quero-que-sejas/o-senhor-meu-deus-para-que-me-serve-a-recompensa"
+  },
+  {
+    "en": "i-want-you-to-be/beginning-of-the-journey",
+    "id": "chce-abys-byl/poczatek-podrozy",
+    "pl": "chce-abys-byl/poczatek-podrozy",
+    "es": "quiero-que-seas/el-comienzo-del-viaje",
+    "fr": "je-veux-que-tu-sois/le-debut-du-voyage",
+    "pt": "quero-que-sejas/o-inicio-da-viagem"
+  },
+  {
+    "en": "i-want-you-to-be/sarahs-laughter",
+    "id": "chce-abys-byl/smiech-sary",
+    "pl": "chce-abys-byl/smiech-sary",
+    "es": "quiero-que-seas/la-risa-de-sara",
+    "fr": "je-veux-que-tu-sois/le-rire-de-sarah",
+    "pt": "quero-que-sejas/o-riso-de-sara"
+  },
+  {
+    "en": "bread-wine-honey/index",
+    "id": "chleb-wino-miod/index",
+    "pl": "chleb-wino-miod/index",
+    "es": "pan-vino-miel/index",
+    "fr": "pain-vin-miel/index",
+    "pt": "pao-vinho-mel/index"
+  },
+  {
+    "en": "bread-wine-honey/let-him-come-to-me",
+    "id": "chleb-wino-miod/niech-przyjdzie-do-mnie",
+    "pl": "chleb-wino-miod/niech-przyjdzie-do-mnie",
+    "es": "pan-vino-miel/que-venga-a-mi",
+    "fr": "pain-vin-miel/qu-il-vienne-a-moi",
+    "pt": "pao-vinho-mel/que-venha-a-mim"
+  },
+  {
+    "en": "bread-wine-honey/passover",
+    "id": "chleb-wino-miod/pesach",
+    "pl": "chleb-wino-miod/pesach",
+    "es": "pan-vino-miel/pesach",
+    "fr": "pain-vin-miel/pesach",
+    "pt": "pao-vinho-mel/pesach"
+  },
+  {
+    "en": "bread-wine-honey/sukkot",
+    "id": "chleb-wino-miod/sukkot",
+    "pl": "chleb-wino-miod/sukkot",
+    "es": "pan-vino-miel/sukkot",
+    "fr": "pain-vin-miel/sukkot",
+    "pt": "pao-vinho-mel/sukkot"
+  },
+  {
+    "en": "bread-wine-honey/shavuot",
+    "id": "chleb-wino-miod/szawuot",
+    "pl": "chleb-wino-miod/szawuot",
+    "es": "pan-vino-miel/shavuot",
+    "fr": "pain-vin-miel/chavouot",
+    "pt": "pao-vinho-mel/shavuot"
+  },
+  {
+    "en": "what-am-i-looking-for/what-am-i-looking-for",
+    "es": "que-busco/que-busco",
+    "fr": "ce-que-je-cherche/ce-que-je-cherche",
+    "id": "czego-szukam/czego-szukam",
+    "pl": "czego-szukam/czego-szukam",
+    "pt": "o-que-procuro/o-que-procuro"
+  },
+  {
+    "en": "what-am-i-looking-for/what-is-seeking",
+    "es": "que-busco/que-es-la-busqueda",
+    "fr": "ce-que-je-cherche/qu-est-ce-que-la-recherche",
+    "id": "czego-szukam/czym-jest-poszukiwanie",
+    "pl": "czego-szukam/czym-jest-poszukiwanie",
+    "pt": "o-que-procuro/o-que-e-a-busca"
+  },
+  {
+    "en": "what-am-i-looking-for/index",
+    "es": "que-busco/index",
+    "fr": "ce-que-je-cherche/index",
+    "id": "czego-szukam/index",
+    "pl": "czego-szukam/index",
+    "pt": "o-que-procuro/index"
+  },
+  {
+    "en": "what-am-i-looking-for/how-do-i-seek",
+    "es": "que-busco/como-busco",
+    "fr": "ce-que-je-cherche/comment-je-cherche",
+    "id": "czego-szukam/jak-szukam",
+    "pl": "czego-szukam/jak-szukam",
+    "pt": "o-que-procuro/como-procuro"
+  },
+  {
+    "en": "is-it-not-worth-waking-up/index",
+    "id": "czy-nie-warto-sie-obudzic/index",
+    "pl": "czy-nie-warto-sie-obudzic/index",
+    "es": "acaso-no-vale-la-pena-despertar/index",
+    "fr": "ne-vaut-il-pas-la-peine-de-se-reveiller/index",
+    "pt": "nao-vale-a-pena-acordar/index"
+  },
+  {
+    "en": "is-it-not-worth-waking-up/if-we-want-to-reach-the-goal-we-will-reach-it",
+    "id": "czy-nie-warto-sie-obudzic/jezeli-chcemy-dojsc-do-celu-to-dojdziemy",
+    "pl": "czy-nie-warto-sie-obudzic/jezeli-chcemy-dojsc-do-celu-to-dojdziemy",
+    "es": "acaso-no-vale-la-pena-despertar/si-queremos-llegar-a-la-meta-llegaremos",
+    "fr": "ne-vaut-il-pas-la-peine-de-se-reveiller/si-nous-voulons-atteindre-le-but-nous-l-atteindrons",
+    "pt": "nao-vale-a-pena-acordar/se-quisermos-alcancar-a-meta-alcancaremos"
+  },
+  {
+    "en": "is-it-not-worth-waking-up/my-today-great-today",
+    "id": "czy-nie-warto-sie-obudzic/moje-dzis-wielkie-dzis",
+    "pl": "czy-nie-warto-sie-obudzic/moje-dzis-wielkie-dzis",
+    "es": "acaso-no-vale-la-pena-despertar/mi-hoy-gran-hoy",
+    "fr": "ne-vaut-il-pas-la-peine-de-se-reveiller/mon-aujourd-hui-grand-aujourd-hui",
+    "pt": "nao-vale-a-pena-acordar/meu-hoje-grande-hoje"
+  },
+  {
+    "en": "is-it-not-worth-waking-up/quo-vadis",
+    "id": "czy-nie-warto-sie-obudzic/quo-vadis",
+    "pl": "czy-nie-warto-sie-obudzic/quo-vadis",
+    "es": "acaso-no-vale-la-pena-despertar/quo-vadis",
+    "fr": "ne-vaut-il-pas-la-peine-de-se-reveiller/quo-vadis",
+    "pt": "nao-vale-a-pena-acordar/quo-vadis"
+  },
+  {
+    "en": "is-it-not-worth-waking-up/i-command-you-adam-wake-up-sleeper",
+    "id": "czy-nie-warto-sie-obudzic/tobie-adamie-rozkazuje-zbudz-sie-ktory-spisz",
+    "pl": "czy-nie-warto-sie-obudzic/tobie-adamie-rozkazuje-zbudz-sie-ktory-spisz",
+    "es": "acaso-no-vale-la-pena-despertar/a-ti-adan-te-ordeno-despierta-tu-que-duermes",
+    "fr": "ne-vaut-il-pas-la-peine-de-se-reveiller/a-toi-adam-je-l-ordonne-eveille-toi-toi-qui-dors",
+    "pt": "nao-vale-a-pena-acordar/a-ti-adao-eu-ordeno-desperta-tu-que-dormes"
+  },
+  {
+    "en": "why-this-night/index",
+    "es": "por-que-esta-noche/index",
+    "fr": "pourquoi-cette-nuit/index",
+    "id": "dlaczego-ta-noc/index",
+    "pl": "dlaczego-ta-noc/index",
+    "pt": "por-que-esta-noite/index"
+  },
+  {
+    "en": "why-this-night/i-am",
+    "es": "por-que-esta-noche/yo-soy",
+    "fr": "pourquoi-cette-nuit/je-suis",
+    "id": "dlaczego-ta-noc/jestem",
+    "pl": "dlaczego-ta-noc/jestem",
+    "pt": "por-que-esta-noite/eu-sou"
+  },
+  {
+    "en": "why-this-night/searching-for-questions",
+    "es": "por-que-esta-noche/buscando-preguntas",
+    "fr": "pourquoi-cette-nuit/a-la-recherche-de-questions",
+    "id": "dlaczego-ta-noc/poszukujac-pytan",
+    "pl": "dlaczego-ta-noc/poszukujac-pytan",
+    "pt": "por-que-esta-noite/em-busca-de-perguntas"
+  },
+  {
+    "en": "why-this-night/guides-in-faith",
+    "es": "por-que-esta-noche/guias-en-la-fe",
+    "fr": "pourquoi-cette-nuit/guides-dans-la-foi",
+    "id": "dlaczego-ta-noc/przewodnicy-w-wierze",
+    "pl": "dlaczego-ta-noc/przewodnicy-w-wierze",
+    "pt": "por-que-esta-noite/guias-na-fe"
+  },
+  {
+    "en": "why-this-night/old-new",
+    "es": "por-que-esta-noche/viejo-nuevo",
+    "fr": "pourquoi-cette-nuit/vieux-nouveau",
+    "id": "dlaczego-ta-noc/stare-nowe",
+    "pl": "dlaczego-ta-noc/stare-nowe",
+    "pt": "por-que-esta-noite/velho-novo"
+  },
+  {
+    "en": "open-doors/experiencing",
+    "id": "drzwi-otwarte/doswiadczajacy",
+    "pl": "drzwi-otwarte/doswiadczajacy",
+    "es": "puertas-abiertas/experimentando",
+    "fr": "portes-ouvertes/experimentant",
+    "pt": "portas-abertas/experimentando"
+  },
+  {
+    "en": "open-doors/index",
+    "id": "drzwi-otwarte/index",
+    "pl": "drzwi-otwarte/index",
+    "es": "puertas-abiertas/index",
+    "fr": "portes-ouvertes/index",
+    "pt": "portas-abertas/index"
+  },
+  {
+    "en": "open-doors/supernatural-openness",
+    "id": "drzwi-otwarte/nadprzyrodzona-otwartosc",
+    "pl": "drzwi-otwarte/nadprzyrodzona-otwartosc",
+    "es": "puertas-abiertas/apertura-sobrenatural",
+    "fr": "portes-ouvertes/ouverture-surnaturelle",
+    "pt": "portas-abertas/abertura-sobrenatural"
+  },
+  {
+    "en": "open-doors/prophesy",
+    "id": "drzwi-otwarte/prorokuj",
+    "pl": "drzwi-otwarte/prorokuj",
+    "es": "puertas-abiertas/profetiza",
+    "fr": "portes-ouvertes/prophetise",
+    "pt": "portas-abertas/profetiza"
+  },
+  {
+    "en": "open-doors/just-as-i-have-been-fully-known",
+    "id": "drzwi-otwarte/tak-jak-sam-zostalem-poznany",
+    "pl": "drzwi-otwarte/tak-jak-sam-zostalem-poznany",
+    "es": "puertas-abiertas/tal-como-fui-conocido",
+    "fr": "portes-ouvertes/comme-jai-ete-connu",
+    "pt": "portas-abertas/tal-como-fui-conhecido"
+  },
+  {
+    "en": "human-spirituality/gods-view-of-man",
+    "id": "duchowosc-czlowieka/boze-spojrzenie-na-czlowieka",
+    "pl": "duchowosc-czlowieka/boze-spojrzenie-na-czlowieka",
+    "es": "espiritualidad-humana/la-mirada-de-dios-sobre-el-hombre",
+    "fr": "spiritualite-humaine/le-regard-de-dieu-sur-l-homme",
+    "pt": "espiritualidade-humana/o-olhar-de-deus-sobre-o-homem"
+  },
+  {
+    "en": "human-spirituality/spiritual-condition-of-man",
+    "id": "duchowosc-czlowieka/duchowa-kondycja-czlowieka",
+    "pl": "duchowosc-czlowieka/duchowa-kondycja-czlowieka",
+    "es": "espiritualidad-humana/condicion-espiritual-del-hombre",
+    "fr": "spiritualite-humaine/condition-spirituelle-de-l-homme",
+    "pt": "espiritualidade-humana/condicao-espiritual-do-homem"
+  },
+  {
+    "en": "human-spirituality/index",
+    "id": "duchowosc-czlowieka/index",
+    "pl": "duchowosc-czlowieka/index",
+    "es": "espiritualidad-humana/index",
+    "fr": "spiritualite-humaine/index",
+    "pt": "espiritualidade-humana/index"
+  },
+  {
+    "en": "two-wings/why-questions-are-important",
+    "id": "dwa-skrzydla/dlaczego-pytania-sa-wazne",
+    "pl": "dwa-skrzydla/dlaczego-pytania-sa-wazne",
+    "es": "dos-alas/por-que-las-preguntas-son-importantes",
+    "fr": "deux-ailes/pourquoi-les-questions-sont-importantes",
+    "pt": "duas-asas/por-que-as-perguntas-sao-importantes"
+  },
+  {
+    "en": "two-wings/illusion-and-truth",
+    "id": "dwa-skrzydla/iluzja-a-prawda",
+    "pl": "dwa-skrzydla/iluzja-a-prawda",
+    "es": "dos-alas/ilusion-y-verdad",
+    "fr": "deux-ailes/illusion-et-verite",
+    "pt": "duas-asas/ilusao-e-verdade"
+  },
+  {
+    "en": "two-wings/index",
+    "id": "dwa-skrzydla/index",
+    "pl": "dwa-skrzydla/index",
+    "es": "dos-alas/index",
+    "fr": "deux-ailes/index",
+    "pt": "duas-asas/index"
+  },
+  {
+    "en": "two-wings/what-to-bring-to-people",
+    "id": "dwa-skrzydla/z-czym-do-ludzi",
+    "pl": "dwa-skrzydla/z-czym-do-ludzi",
+    "es": "dos-alas/que-llevar-a-la-gente",
+    "fr": "deux-ailes/ce-quil-faut-apporter-aux-gens",
+    "pt": "duas-asas/o-que-levar-as-pessoas"
+  },
+  {
+    "en": "eucharist/eucharist-as-food",
+    "id": "eucharystia/eucharystia-jako-pokarm",
+    "pl": "eucharystia/eucharystia-jako-pokarm",
+    "es": "eucaristia/la-eucaristia-como-alimento",
+    "fr": "eucharistie/l-eucharistie-comme-nourriture",
+    "pt": "eucaristia/a-eucaristia-como-alimento"
+  },
+  {
+    "en": "eucharist/eucharist-as-meeting-with-man-and-god",
+    "id": "eucharystia/eucharystia-jako-spotkanie-z-czlowiekiem-i-bogiem",
+    "pl": "eucharystia/eucharystia-jako-spotkanie-z-czlowiekiem-i-bogiem",
+    "es": "eucaristia/la-eucaristia-como-encuentro-con-el-hombre-y-dios",
+    "fr": "eucharistie/l-eucharistie-comme-rencontre-avec-l-homme-et-dieu",
+    "pt": "eucaristia/a-eucaristia-como-encontro-com-o-homem-e-deus"
+  },
+  {
+    "en": "eucharist/eucharist-as-union-with-people-and-god",
+    "id": "eucharystia/eucharystia-jako-zjednoczenie-z-ludzmi-i-bogiem",
+    "pl": "eucharystia/eucharystia-jako-zjednoczenie-z-ludzmi-i-bogiem",
+    "es": "eucaristia/la-eucaristia-como-union-con-las-personas-y-dios",
+    "fr": "eucharistie/l-eucharistie-comme-union-avec-les-hommes-et-dieu",
+    "pt": "eucaristia/a-eucaristia-como-uniao-com-as-pessoas-e-deus"
+  },
+  {
+    "en": "eucharist/index",
+    "id": "eucharystia/index",
+    "pl": "eucharystia/index",
+    "es": "eucaristia/index",
+    "fr": "eucharistie/index",
+    "pt": "eucaristia/index"
+  },
+  {
+    "en": "mount-of-beatitudes/more-to-be-than-to-have",
+    "es": "monte-de-las-bienaventuranzas/mas-ser-que-tener",
+    "fr": "mont-des-beatitudes/etre-plus-qu-avoir",
+    "id": "gora-blogoslawienstw/bardziej-byc-niz-miec",
+    "pl": "gora-blogoslawienstw/bardziej-byc-niz-miec",
+    "pt": "monte-das-bem-aventurancas/mais-ser-do-que-ter"
+  },
+  {
+    "en": "mount-of-beatitudes/being-a-servant-of-god-and-people",
+    "es": "monte-de-las-bienaventuranzas/ser-siervo-de-dios-y-de-los-hombres",
+    "fr": "mont-des-beatitudes/etre-serviteur-de-dieu-et-des-hommes",
+    "id": "gora-blogoslawienstw/byc-sluga-boga-i-ludzi",
+    "pl": "gora-blogoslawienstw/byc-sluga-boga-i-ludzi",
+    "pt": "monte-das-bem-aventurancas/ser-servo-de-deus-e-das-pessoas"
+  },
+  {
+    "en": "mount-of-beatitudes/index",
+    "es": "monte-de-las-bienaventuranzas/index",
+    "fr": "mont-des-beatitudes/index",
+    "id": "gora-blogoslawienstw/index",
+    "pl": "gora-blogoslawienstw/index",
+    "pt": "monte-das-bem-aventurancas/index"
+  },
+  {
+    "en": "mount-of-beatitudes/perspective-in-everyday-life",
+    "es": "monte-de-las-bienaventuranzas/perspectiva-en-la-vida-cotidiana",
+    "fr": "mont-des-beatitudes/perspective-au-quotidien",
+    "id": "gora-blogoslawienstw/perspektywa-w-codziennosci",
+    "pl": "gora-blogoslawienstw/perspektywa-w-codziennosci",
+    "pt": "monte-das-bem-aventurancas/perspectiva-no-cotidiano"
+  },
+  {
+    "en": "index",
+    "id": "index",
+    "pl": "index",
+    "es": "index",
+    "fr": "index",
+    "pt": "index"
+  },
+  {
+    "en": "we-are-from-prayer/that-they-may-be-one",
+    "id": "jestesmy-z-modlitwy/aby-byli-jedno",
+    "pl": "jestesmy-z-modlitwy/aby-byli-jedno",
+    "es": "somos-de-la-oracion/que-sean-uno",
+    "fr": "nous-sommes-de-la-priere/qu-ils-soient-un",
+    "pt": "somos-da-oracao/que-sejam-um"
+  },
+  {
+    "en": "we-are-from-prayer/that-they-may-have-joy-in-themselves",
+    "id": "jestesmy-z-modlitwy/aby-radosc-mieli-w-sobie",
+    "pl": "jestesmy-z-modlitwy/aby-radosc-mieli-w-sobie",
+    "es": "somos-de-la-oracion/que-tengan-la-alegria-en-si-mismos",
+    "fr": "nous-sommes-de-la-priere/qu-ils-aient-la-joie-en-eux-memes",
+    "pt": "somos-da-oracao/que-tenham-a-alegria-em-si-mesmos"
+  },
+  {
+    "en": "we-are-from-prayer/that-they-may-know-you",
+    "id": "jestesmy-z-modlitwy/aby-znali-ciebie",
+    "pl": "jestesmy-z-modlitwy/aby-znali-ciebie",
+    "es": "somos-de-la-oracion/que-te-conozcan",
+    "fr": "nous-sommes-de-la-priere/qu-ils-te-connaissent",
+    "pt": "somos-da-oracao/que-te-conhecam"
+  },
+  {
+    "en": "we-are-from-prayer/index",
+    "id": "jestesmy-z-modlitwy/index",
+    "pl": "jestesmy-z-modlitwy/index",
+    "es": "somos-de-la-oracion/index",
+    "fr": "nous-sommes-de-la-priere/index",
+    "pt": "somos-da-oracao/index"
+  },
+  {
+    "en": "we-are-from-prayer/o-my-three",
+    "id": "jestesmy-z-modlitwy/o-moi-trzej",
+    "pl": "jestesmy-z-modlitwy/o-moi-trzej",
+    "es": "somos-de-la-oracion/oh-mis-tres",
+    "fr": "nous-sommes-de-la-priere/o-mes-trois",
+    "pt": "somos-da-oracao/o-meus-tres"
+  },
+  {
+    "en": "on-the-shore/index",
+    "es": "en-la-orilla/index",
+    "fr": "sur-le-rivage/index",
+    "id": "na-brzegu/index",
+    "pl": "na-brzegu/index",
+    "pt": "na-margem/index"
+  },
+  {
+    "en": "on-the-shore/on-the-shore-of-the-church",
+    "es": "en-la-orilla/en-la-orilla-de-la-iglesia",
+    "fr": "sur-le-rivage/sur-le-rivage-de-l-eglise",
+    "id": "na-brzegu/na-brzegu-kosciola",
+    "pl": "na-brzegu/na-brzegu-kosciola",
+    "pt": "na-margem/na-margem-da-igreja"
+  },
+  {
+    "en": "on-the-shore/on-the-shore-of-mystery",
+    "es": "en-la-orilla/en-la-orilla-del-misterio",
+    "fr": "sur-le-rivage/sur-le-rivage-du-mystere",
+    "id": "na-brzegu/na-brzegu-tajemnicy",
+    "pl": "na-brzegu/na-brzegu-tajemnicy",
+    "pt": "na-margem/na-margem-do-misterio"
+  },
+  {
+    "en": "on-the-shore/on-the-shore-of-signs",
+    "es": "en-la-orilla/en-la-orilla-de-los-signos",
+    "fr": "sur-le-rivage/sur-le-rivage-des-signes",
+    "id": "na-brzegu/na-brzegu-znakow",
+    "pl": "na-brzegu/na-brzegu-znakow",
+    "pt": "na-margem/na-margem-dos-sinais"
+  },
+  {
+    "en": "the-awaited-one/o-god-my-god-i-seek-you",
+    "id": "oczekiwany/boze-moj-boze-szukam-ciebie",
+    "pl": "oczekiwany/boze-moj-boze-szukam-ciebie",
+    "es": "el-esperado/dios-mio-dios-mio-te-busco",
+    "fr": "l-attendu/dieu-mon-dieu-je-te-cherche",
+    "pt": "o-esperado/deus-meu-deus-eu-te-busco"
+  },
+  {
+    "en": "the-awaited-one/communio",
+    "id": "oczekiwany/communio",
+    "pl": "oczekiwany/communio",
+    "es": "el-esperado/communio",
+    "fr": "l-attendu/communio",
+    "pt": "o-esperado/communio"
+  },
+  {
+    "en": "the-awaited-one/index",
+    "id": "oczekiwany/index",
+    "pl": "oczekiwany/index",
+    "es": "el-esperado/index",
+    "fr": "l-attendu/index",
+    "pt": "o-esperado/index"
+  },
+  {
+    "en": "the-awaited-one/tasting-the-word",
+    "id": "oczekiwany/posmakowac-slowa",
+    "pl": "oczekiwany/posmakowac-slowa",
+    "es": "el-esperado/saborear-la-palabra",
+    "fr": "l-attendu/gouter-la-parole",
+    "pt": "o-esperado/saborear-a-palavra"
+  },
+  {
+    "en": "the-awaited-one/he-saw-and-believed",
+    "id": "oczekiwany/poznal-i-uwierzyl",
+    "pl": "oczekiwany/poznal-i-uwierzyl",
+    "es": "el-esperado/conocio-y-creyo",
+    "fr": "l-attendu/il-a-connu-et-il-a-cru",
+    "pt": "o-esperado/conheceu-e-acreditou"
+  },
+  {
+    "en": "responsibility-for-the-community/index",
+    "es": "responsabilidad-por-la-comunidad/index",
+    "fr": "responsabilite-pour-la-communaute/index",
+    "id": "odpowiedzialnosc-za-wspolnote/index",
+    "pl": "odpowiedzialnosc-za-wspolnote/index",
+    "pt": "responsabilidade-pela-comunidade/index"
+  },
+  {
+    "en": "responsibility-for-the-community/life-as-a-response-to-the-call-to-service",
+    "es": "responsabilidad-por-la-comunidad/la-vida-como-respuesta-al-llamado-al-servicio",
+    "fr": "responsabilite-pour-la-communaute/la-vie-comme-reponse-a-l-appel-au-service",
+    "id": "odpowiedzialnosc-za-wspolnote/zycie-jako-odpowiedz-na-powolanie-do-sluzby",
+    "pl": "odpowiedzialnosc-za-wspolnote/zycie-jako-odpowiedz-na-powolanie-do-sluzby",
+    "pt": "responsabilidade-pela-comunidade/a-vida-como-resposta-ao-chamado-ao-servico"
+  },
+  {
+    "en": "fire-of-faith/holy-spirit-as-the-one-who-changes",
+    "id": "ogien-wiary/duch-swiety-jako-ten-ktory-zmienia",
+    "pl": "ogien-wiary/duch-swiety-jako-ten-ktory-zmienia",
+    "es": "fuego-de-la-fe/el-espiritu-santo-como-el-que-cambia",
+    "fr": "feu-de-la-foi/le-saint-esprit-comme-celui-qui-change",
+    "pt": "fogo-da-fe/o-espirito-santo-como-aquele-que-transforma"
+  },
+  {
+    "en": "fire-of-faith/index",
+    "id": "ogien-wiary/index",
+    "pl": "ogien-wiary/index",
+    "es": "fuego-de-la-fe/index",
+    "fr": "feu-de-la-foi/index",
+    "pt": "fogo-da-fe/index"
+  },
+  {
+    "en": "fire-of-faith/who-is-and-how-does-the-holy-spirit-work",
+    "id": "ogien-wiary/kim-jest-i-jak-dziala-duch-swiety",
+    "pl": "ogien-wiary/kim-jest-i-jak-dziala-duch-swiety",
+    "es": "fuego-de-la-fe/quien-es-y-como-actua-el-espiritu-santo",
+    "fr": "feu-de-la-foi/qui-est-et-comment-agit-le-saint-esprit",
+    "pt": "fogo-da-fe/quem-e-e-como-age-o-espirito-santo"
+  },
+  {
+    "en": "fire-of-faith/people-of-the-upper-room",
+    "id": "ogien-wiary/ludzie-wieczernika",
+    "pl": "ogien-wiary/ludzie-wieczernika",
+    "es": "fuego-de-la-fe/la-gente-del-cenaculo",
+    "fr": "feu-de-la-foi/les-gens-du-cenacle",
+    "pt": "fogo-da-fe/as-pessoas-do-cenaculo"
+  },
+  {
+    "en": "fire-of-faith/faith-space-of-dynamic-turns",
+    "id": "ogien-wiary/wiara-przestrzen-dynamicznych-zwrotow",
+    "pl": "ogien-wiary/wiara-przestrzen-dynamicznych-zwrotow",
+    "es": "fuego-de-la-fe/fe-espacio-de-giros-dinamicos",
+    "fr": "feu-de-la-foi/la-foi-espace-de-tournants-dynamiques",
+    "pt": "fogo-da-fe/fe-espaco-de-viradas-dinamicas"
+  },
+  {
+    "en": "waiting-room/although-time-chases-us",
+    "es": "sala-de-espera/aunque-el-tiempo-nos-persiga",
+    "fr": "salle-d-attente/bien-que-le-temps-nous-poursuive",
+    "id": "poczekalnia/choc-goni-nas-czas",
+    "pl": "poczekalnia/choc-goni-nas-czas",
+    "pt": "sala-de-espera/embora-o-tempo-nos-persiga"
+  },
+  {
+    "en": "waiting-room/waiting-which-is-courage",
+    "es": "sala-de-espera/la-espera-que-es-valentia",
+    "fr": "salle-d-attente/l-attente-qui-est-courage",
+    "id": "poczekalnia/czekanie-ktore-jest-odwaga",
+    "pl": "poczekalnia/czekanie-ktore-jest-odwaga",
+    "pt": "sala-de-espera/a-espera-que-e-coragem"
+  },
+  {
+    "en": "waiting-room/index",
+    "es": "sala-de-espera/index",
+    "fr": "salle-d-attente/index",
+    "id": "poczekalnia/index",
+    "pl": "poczekalnia/index",
+    "pt": "sala-de-espera/index"
+  },
+  {
+    "en": "waiting-room/i-hand-over-the-kingdom-to-you",
+    "es": "sala-de-espera/yo-os-entrego-el-reino",
+    "fr": "salle-d-attente/je-vous-transmets-le-royaume",
+    "id": "poczekalnia/ja-przekazuje-wam-krolestwo",
+    "pl": "poczekalnia/ja-przekazuje-wam-krolestwo",
+    "pt": "sala-de-espera/eu-lhes-transmito-o-reino"
+  },
+  {
+    "en": "making-decisions/stages-of-making-decisions-what-guides-me",
+    "id": "podejmowanie-decyzji/etapy-podejmowania-decyzji-czym-sie-kieruje",
+    "pl": "podejmowanie-decyzji/etapy-podejmowania-decyzji-czym-sie-kieruje",
+    "es": "toma-de-decisiones/etapas-de-la-toma-de-decisiones-que-me-guia",
+    "fr": "prise-de-decision/etapes-de-la-prise-de-decision-ce-qui-me-guide",
+    "pt": "tomada-de-decisoes/etapas-da-tomada-de-decisao-o-que-me-guia"
+  },
+  {
+    "en": "making-decisions/index",
+    "id": "podejmowanie-decyzji/index",
+    "pl": "podejmowanie-decyzji/index",
+    "es": "toma-de-decisiones/index",
+    "fr": "prise-de-decision/index",
+    "pt": "tomada-de-decisoes/index"
+  },
+  {
+    "en": "making-decisions/what-decisions-we-make",
+    "id": "podejmowanie-decyzji/jakie-decyzje-podejmujemy",
+    "pl": "podejmowanie-decyzji/jakie-decyzje-podejmujemy",
+    "es": "toma-de-decisiones/que-decisiones-tomamos",
+    "fr": "prise-de-decision/quelles-decisions-prenons-nous",
+    "pt": "tomada-de-decisoes/que-decisoes-tomamos"
+  },
+  {
+    "en": "journeying-through-the-desert/index",
+    "es": "viaje-por-el-desierto/index",
+    "fr": "voyage-a-travers-le-desert/index",
+    "id": "podrozowanie-po-pustyni/index",
+    "pl": "podrozowanie-po-pustyni/index",
+    "pt": "jornada-pelo-deserto/index"
+  },
+  {
+    "en": "journeying-through-the-desert/consequences-of-choices",
+    "es": "viaje-por-el-desierto/consecuencias-de-las-elecciones",
+    "fr": "voyage-a-travers-le-desert/consequences-des-choix",
+    "id": "podrozowanie-po-pustyni/konsekwencje-wyborow",
+    "pl": "podrozowanie-po-pustyni/konsekwencje-wyborow",
+    "pt": "jornada-pelo-deserto/consequencias-das-escolhas"
+  },
+  {
+    "en": "journeying-through-the-desert/desert-shapes-us",
+    "es": "viaje-por-el-desierto/el-desierto-nos-forma",
+    "fr": "voyage-a-travers-le-desert/le-desert-nous-faconne",
+    "id": "podrozowanie-po-pustyni/pustynia-nas-ksztaltuje",
+    "pl": "podrozowanie-po-pustyni/pustynia-nas-ksztaltuje",
+    "pt": "jornada-pelo-deserto/o-deserto-nos-molda"
+  },
+  {
+    "en": "journeying-through-the-desert/going-out-into-the-desert",
+    "es": "viaje-por-el-desierto/salida-al-desierto",
+    "fr": "voyage-a-travers-le-desert/sortie-au-desert",
+    "id": "podrozowanie-po-pustyni/wyjscie-na-pustynie",
+    "pl": "podrozowanie-po-pustyni/wyjscie-na-pustynie",
+    "pt": "jornada-pelo-deserto/saida-para-o-deserto"
+  },
+  {
+    "en": "poetically-man-dwells/everyday-life-and-passion-two-pillars-of-one-dwelling",
+    "id": "poetycko-mieszka-czlowiek/codziennosc-i-pasja-dwa-filary-jednego-mieszkania",
+    "pl": "poetycko-mieszka-czlowiek/codziennosc-i-pasja-dwa-filary-jednego-mieszkania",
+    "es": "poeticamente-habita-el-hombre/cotidianeidad-y-pasion-dos-pilares-de-una-misma-vivienda",
+    "fr": "poetiquement-habite-l-homme/quotidien-et-passion-deux-piliers-d-une-meme-habitation",
+    "pt": "poeticamente-habita-o-homem/cotidiano-e-paixao-dois-pilares-de-uma-mesma-morada"
+  },
+  {
+    "en": "poetically-man-dwells/index",
+    "id": "poetycko-mieszka-czlowiek/index",
+    "pl": "poetycko-mieszka-czlowiek/index",
+    "es": "poeticamente-habita-el-hombre/index",
+    "fr": "poetiquement-habite-l-homme/index",
+    "pt": "poeticamente-habita-o-homem/index"
+  },
+  {
+    "en": "poetically-man-dwells/city-of-my-heart",
+    "id": "poetycko-mieszka-czlowiek/miasto-mego-serca",
+    "pl": "poetycko-mieszka-czlowiek/miasto-mego-serca",
+    "es": "poeticamente-habita-el-hombre/ciudad-de-mi-corazon",
+    "fr": "poetiquement-habite-l-homme/ville-de-mon-coeur",
+    "pt": "poeticamente-habita-o-homem/cidade-do-meu-coracao"
+  },
+  {
+    "en": "poetically-man-dwells/life-that-is-despite-great-dreams",
+    "id": "poetycko-mieszka-czlowiek/zycie-ktore-jest-pomimo-wspanialych-marzen",
+    "pl": "poetycko-mieszka-czlowiek/zycie-ktore-jest-pomimo-wspanialych-marzen",
+    "es": "poeticamente-habita-el-hombre/vida-que-es-a-pesar-de-los-maravillosos-suenos",
+    "fr": "poetiquement-habite-l-homme/la-vie-qui-est-malgre-des-reves-merveilleux",
+    "pt": "poeticamente-habita-o-homem/a-vida-que-e-apesar-dos-sonhos-maravilhosos"
+  },
+  {
+    "en": "above-the-walls/index",
+    "es": "sobre-los-muros/index",
+    "fr": "au-dessus-des-murs/index",
+    "id": "ponad-murami/index",
+    "pl": "ponad-murami/index",
+    "pt": "sobre-os-muros/index"
+  },
+  {
+    "en": "above-the-walls/desire-for-life",
+    "es": "sobre-los-muros/deseo-de-vida",
+    "fr": "au-dessus-des-murs/desir-de-vie",
+    "id": "ponad-murami/pragnienie-zycia",
+    "pl": "ponad-murami/pragnienie-zycia",
+    "pt": "sobre-os-muros/desejo-de-vida"
+  },
+  {
+    "en": "above-the-walls/to-set-out-on-a-journey-that-is-the-goal",
+    "es": "sobre-los-muros/emprender-el-camino-que-es-la-meta",
+    "fr": "au-dessus-des-murs/partir-sur-le-chemin-qui-est-le-but",
+    "id": "ponad-murami/wyruszyc-w-droge-ktora-jest-celem",
+    "pl": "ponad-murami/wyruszyc-w-droge-ktora-jest-celem",
+    "pt": "sobre-os-muros/partir-no-caminho-que-e-a-meta"
+  },
+  {
+    "en": "above-the-walls/to-see-the-horizon",
+    "es": "sobre-los-muros/ver-el-horizonte",
+    "fr": "au-dessus-des-murs/voir-l-horizon",
+    "id": "ponad-murami/zobaczyc-horyzont",
+    "pl": "ponad-murami/zobaczyc-horyzont",
+    "pt": "sobre-os-muros/ver-o-horizonte"
+  },
+  {
+    "en": "human-desires-gods-desires/index",
+    "es": "deseos-humanos-deseos-de-dios/index",
+    "fr": "desirs-humains-desirs-de-dieu/index",
+    "id": "pragnienia-czlowieka-pragnienia-boga/index",
+    "pl": "pragnienia-czlowieka-pragnienia-boga/index",
+    "pt": "desejos-humanos-desejos-de-deus/index"
+  },
+  {
+    "en": "human-desires-gods-desires/our-heart-is-restless",
+    "es": "deseos-humanos-deseos-de-dios/nuestro-corazon-esta-inquieto",
+    "fr": "desirs-humains-desirs-de-dieu/notre-coeur-est-sans-repos",
+    "id": "pragnienia-czlowieka-pragnienia-boga/niespokojne-jest-serce-nasze",
+    "pl": "pragnienia-czlowieka-pragnienia-boga/niespokojne-jest-serce-nasze",
+    "pt": "desejos-humanos-desejos-de-deus/o-nosso-coracao-esta-inquieto"
+  },
+  {
+    "en": "human-desires-gods-desires/our-heart-is-restless-until-it-rests-in-the-lord",
+    "es": "deseos-humanos-deseos-de-dios/nuestro-corazon-esta-inquieto-hasta-que-descanse-en-el-senor",
+    "fr": "desirs-humains-desirs-de-dieu/notre-coeur-est-sans-repos-jusqu-a-ce-qu-il-repose-en-le-seigneur",
+    "id": "pragnienia-czlowieka-pragnienia-boga/niespokojne-jest-serce-nasze-dopoki-nie-spocznie-w-panu",
+    "pl": "pragnienia-czlowieka-pragnienia-boga/niespokojne-jest-serce-nasze-dopoki-nie-spocznie-w-panu",
+    "pt": "desejos-humanos-desejos-de-deus/o-nosso-coracao-esta-inquieto-ate-descansar-no-senhor"
+  },
+  {
+    "en": "human-desires-gods-desires/you-created-us-directed-towards-you",
+    "es": "deseos-humanos-deseos-de-dios/porque-nos-has-creado-orientados-hacia-ti-senor",
+    "fr": "desirs-humains-desirs-de-dieu/car-tu-nous-as-crees-orientes-vers-toi-seigneur",
+    "id": "pragnienia-czlowieka-pragnienia-boga/stworzyles-nas-bowiem-jako-skierowanych-ku-tobie-panie",
+    "pl": "pragnienia-czlowieka-pragnienia-boga/stworzyles-nas-bowiem-jako-skierowanych-ku-tobie-panie",
+    "pt": "desejos-humanos-desejos-de-deus/porque-nos-criaste-orientados-para-ti-senhor"
+  },
+  {
+    "en": "spaces-of-freedom/thy-will-be-done",
+    "es": "espacios-de-libertad/hagase-tu-voluntad",
+    "fr": "espaces-de-liberte/que-ta-volonte-soit-faite",
+    "id": "przestrzenie-wolnosci/badz-wola-twoja",
+    "pl": "przestrzenie-wolnosci/badz-wola-twoja",
+    "pt": "espacos-de-liberdade/seja-feita-a-tua-vontade"
+  },
+  {
+    "en": "spaces-of-freedom/why-the-words-thy-will-be-done-are-important-for-my-life",
+    "es": "espacios-de-libertad/por-que-las-palabras-hagase-tu-voluntad-son-importantes-para-mi-vida",
+    "fr": "espaces-de-liberte/pourquoi-les-mots-que-ta-volonte-soit-faite-sont-importants-pour-ma-vie",
+    "id": "przestrzenie-wolnosci/dlaczego-slowa-badz-wola-twoja-sa-istotne-dla-mojego-zycia",
+    "pl": "przestrzenie-wolnosci/dlaczego-slowa-badz-wola-twoja-sa-istotne-dla-mojego-zycia",
+    "pt": "espacos-de-liberdade/por-que-as-palavras-seja-feita-a-tua-vontade-sao-importantes-para-a-minha-vida"
+  },
+  {
+    "en": "spaces-of-freedom/index",
+    "es": "espacios-de-libertad/index",
+    "fr": "espaces-de-liberte/index",
+    "id": "przestrzenie-wolnosci/index",
+    "pl": "przestrzenie-wolnosci/index",
+    "pt": "espacos-de-liberdade/index"
+  },
+  {
+    "en": "spaces-of-freedom/on-the-essence-of-freedom",
+    "es": "espacios-de-libertad/sobre-la-esencia-de-la-libertad",
+    "fr": "espaces-de-liberte/sur-l-essence-de-la-liberte",
+    "id": "przestrzenie-wolnosci/o-istocie-wolnosci",
+    "pl": "przestrzenie-wolnosci/o-istocie-wolnosci",
+    "pt": "espacos-de-liberdade/sobre-a-essencia-da-liberdade"
+  },
+  {
+    "en": "spaces-of-freedom/freedom-and-responsibility",
+    "es": "espacios-de-libertad/libertad-y-responsabilidad",
+    "fr": "espaces-de-liberte/liberte-et-responsabilite",
+    "id": "przestrzenie-wolnosci/wolnosc-i-odpowiedzialnosc",
+    "pl": "przestrzenie-wolnosci/wolnosc-i-odpowiedzialnosc",
+    "pt": "espacos-de-liberdade/liberdade-e-responsabilidade"
+  },
+  {
+    "en": "re-creation/index",
+    "id": "re-kreacja/index",
+    "pl": "re-kreacja/index",
+    "es": "re-creacion/index",
+    "fr": "re-creation/index",
+    "pt": "re-criacao/index"
+  },
+  {
+    "en": "re-creation/masks",
+    "id": "re-kreacja/maski",
+    "pl": "re-kreacja/maski",
+    "es": "re-creacion/mascaras",
+    "fr": "re-creation/masques",
+    "pt": "re-criacao/mascaras"
+  },
+  {
+    "en": "re-creation/manifestations-of-new-culture-in-christian-life",
+    "id": "re-kreacja/przejawy-nowej-kultury-w-zyciu-chrzescijanskim",
+    "pl": "re-kreacja/przejawy-nowej-kultury-w-zyciu-chrzescijanskim",
+    "es": "re-creacion/manifestaciones-de-la-nueva-cultura-en-la-vida-cristiana",
+    "fr": "re-creation/manifestations-de-la-nouvelle-culture-dans-la-vie-chretienne",
+    "pt": "re-criacao/manifestacoes-da-nova-cultura-na-vida-crista"
+  },
+  {
+    "en": "re-creation/identity",
+    "id": "re-kreacja/tozsamosc",
+    "pl": "re-kreacja/tozsamosc",
+    "es": "re-creacion/identidad",
+    "fr": "re-creation/identite",
+    "pt": "re-criacao/identidade"
+  },
+  {
+    "en": "re-creation/freedom",
+    "id": "re-kreacja/wolnosc",
+    "pl": "re-kreacja/wolnosc",
+    "es": "re-creacion/libertad",
+    "fr": "re-creation/liberte",
+    "pt": "re-criacao/liberdade"
+  },
+  {
+    "en": "equilibrium/ready-for-the-coming",
+    "id": "rownowaga/gotowi-na-przyjscie",
+    "pl": "rownowaga/gotowi-na-przyjscie",
+    "es": "equilibrio/listos-para-la-venida",
+    "fr": "equilibre/prets-pour-la-venue",
+    "pt": "equilibrio/prontos-para-a-vinda"
+  },
+  {
+    "en": "equilibrium/index",
+    "id": "rownowaga/index",
+    "pl": "rownowaga/index",
+    "es": "equilibrio/index",
+    "fr": "equilibre/index",
+    "pt": "equilibrio/index"
+  },
+  {
+    "en": "equilibrium/you-lack-one-thing",
+    "id": "rownowaga/jednego-ci-jeszcze-brak",
+    "pl": "rownowaga/jednego-ci-jeszcze-brak",
+    "es": "equilibrio/una-cosa-te-falta",
+    "fr": "equilibre/il-te-manque-une-chose",
+    "pt": "equilibrio/uma-coisa-te-falta"
+  },
+  {
+    "en": "equilibrium/do-not-worry",
+    "id": "rownowaga/nie-zadreczajcie-sie",
+    "pl": "rownowaga/nie-zadreczajcie-sie",
+    "es": "equilibrio/no-os-atormenteis",
+    "fr": "equilibre/ne-vous-tourmentez-pas",
+    "pt": "equilibrio/nao-se-atormentem"
+  },
+  {
+    "en": "light-life-movement/index",
+    "id": "ruch-swiatlo-zycie/index",
+    "pl": "ruch-swiatlo-zycie/index",
+    "es": "movimiento-luz-vida/index",
+    "fr": "mouvement-lumiere-vie/index",
+    "pt": "movimento-luz-vida/index"
+  },
+  {
+    "en": "light-life-movement/i-am-an-oasis-member-what-does-it-mean",
+    "id": "ruch-swiatlo-zycie/jestem-oazowiczem-co-to-znaczy",
+    "pl": "ruch-swiatlo-zycie/jestem-oazowiczem-co-to-znaczy",
+    "es": "movimiento-luz-vida/soy-oasista-que-significa",
+    "fr": "mouvement-lumiere-vie/je-suis-oasien-qu-est-ce-que-ca-signifie",
+    "pt": "movimento-luz-vida/sou-oasista-o-que-significa"
+  },
+  {
+    "en": "light-life-movement/i-am-an-oasis-member-what-follows",
+    "id": "ruch-swiatlo-zycie/jestem-oazowiczem-co-z-tego-wynika",
+    "pl": "ruch-swiatlo-zycie/jestem-oazowiczem-co-z-tego-wynika",
+    "es": "movimiento-luz-vida/soy-oasista-que-implica",
+    "fr": "mouvement-lumiere-vie/je-suis-oasien-qu-est-ce-qui-en-decoule",
+    "pt": "movimento-luz-vida/sou-oasista-o-que-resulta-disso"
+  },
+  {
+    "en": "light-life-movement/we-are-oasis",
+    "id": "ruch-swiatlo-zycie/jestesmy-oaza",
+    "pl": "ruch-swiatlo-zycie/jestesmy-oaza",
+    "es": "movimiento-luz-vida/somos-oasis",
+    "fr": "mouvement-lumiere-vie/nous-sommes-oasis",
+    "pt": "movimento-luz-vida/somos-oasis"
+  },
+  {
+    "en": "unforgotten-words/god-the-word-incarnate",
+    "id": "slowa-niezapomniane/bog-slowo-wcielone",
+    "pl": "slowa-niezapomniane/bog-slowo-wcielone",
+    "es": "palabras-inolvidables/dios-verbo-encarnado",
+    "fr": "paroles-inoubliables/dieu-verbe-incarne",
+    "pt": "palavras-inesqueciveis/deus-verbo-encarnado"
+  },
+  {
+    "en": "unforgotten-words/index",
+    "id": "slowa-niezapomniane/index",
+    "pl": "slowa-niezapomniane/index",
+    "es": "palabras-inolvidables/index",
+    "fr": "paroles-inoubliables/index",
+    "pt": "palavras-inesqueciveis/index"
+  },
+  {
+    "en": "unforgotten-words/awaited-words",
+    "id": "slowa-niezapomniane/slowa-wyczekiwane",
+    "pl": "slowa-niezapomniane/slowa-wyczekiwane",
+    "es": "palabras-inolvidables/palabras-esperadas",
+    "fr": "paroles-inoubliables/paroles-attendues",
+    "pt": "palavras-inesqueciveis/palavras-esperadas"
+  },
+  {
+    "en": "unforgotten-words/fight-with-the-word-for-the-word",
+    "id": "slowa-niezapomniane/walka-ze-slowem-o-slowo",
+    "pl": "slowa-niezapomniane/walka-ze-slowem-o-slowo",
+    "es": "palabras-inolvidables/lucha-con-la-palabra-por-la-palabra",
+    "fr": "paroles-inoubliables/combat-avec-la-parole-pour-la-parole",
+    "pt": "palavras-inesqueciveis/luta-com-a-palavra-pela-palavra"
+  },
+  {
+    "en": "unforgotten-words/value-of-the-word",
+    "id": "slowa-niezapomniane/wartosc-slowa",
+    "pl": "slowa-niezapomniane/wartosc-slowa",
+    "es": "palabras-inolvidables/valor-de-la-palabra",
+    "fr": "paroles-inoubliables/valeur-de-la-parole",
+    "pt": "palavras-inesqueciveis/valor-da-palavra"
+  },
+  {
+    "en": "sons-of-thunder/programmatic-document",
+    "es": "hijos-del-trueno/documento-programatico",
+    "fr": "fils-du-tonnerre/document-de-programme",
+    "id": "synowie-gromu/dokument-programowy",
+    "pl": "synowie-gromu/dokument-programowy",
+    "pt": "filhos-do-trovao/documento-programatico"
+  },
+  {
+    "en": "sons-of-thunder/index",
+    "es": "hijos-del-trueno/index",
+    "fr": "fils-du-tonnerre/index",
+    "id": "synowie-gromu/index",
+    "pl": "synowie-gromu/index",
+    "pt": "filhos-do-trovao/index"
+  },
+  {
+    "en": "sons-of-thunder/i-am-christianoi",
+    "es": "hijos-del-trueno/soy-christianoi",
+    "fr": "fils-du-tonnerre/je-suis-christianoi",
+    "id": "synowie-gromu/jestem-christianoi",
+    "pl": "synowie-gromu/jestem-christianoi",
+    "pt": "filhos-do-trovao/sou-christianoi"
+  },
+  {
+    "en": "sons-of-thunder/sympathizers-or-christians",
+    "es": "hijos-del-trueno/simpatizantes-o-cristianos",
+    "fr": "fils-du-tonnerre/sympathisants-ou-chretiens",
+    "id": "synowie-gromu/sympatycy-czy-chrzescijanie",
+    "pl": "synowie-gromu/sympatycy-czy-chrzescijanie",
+    "pt": "filhos-do-trovao/simpatizantes-ou-cristaos"
+  },
+  {
+    "en": "sons-of-thunder/longing-for-the-ideal",
+    "es": "hijos-del-trueno/anhelo-por-el-ideal",
+    "fr": "fils-du-tonnerre/nostalgie-de-l-ideal",
+    "id": "synowie-gromu/tesknota-za-idealem",
+    "pl": "synowie-gromu/tesknota-za-idealem",
+    "pt": "filhos-do-trovao/saudade-do-ideal"
+  },
+  {
+    "en": "the-same-night/index",
+    "id": "ta-sama-noc/index",
+    "pl": "ta-sama-noc/index",
+    "es": "esta-misma-noche/index",
+    "fr": "cette-meme-nuit/index",
+    "pt": "esta-mesma-noite/index"
+  },
+  {
+    "en": "the-same-night/my-haggadah",
+    "id": "ta-sama-noc/moja-haggada",
+    "pl": "ta-sama-noc/moja-haggada",
+    "es": "esta-misma-noche/mi-hagada",
+    "fr": "cette-meme-nuit/ma-haggadah",
+    "pt": "esta-mesma-noite/minha-hagada"
+  },
+  {
+    "en": "the-same-night/tell-me",
+    "id": "ta-sama-noc/opowiedz-mi",
+    "pl": "ta-sama-noc/opowiedz-mi",
+    "es": "esta-misma-noche/cuentame",
+    "fr": "cette-meme-nuit/raconte-moi",
+    "pt": "esta-mesma-noite/conte-me"
+  },
+  {
+    "en": "the-same-night/faith-at-home",
+    "id": "ta-sama-noc/wiara-zadomowiona",
+    "pl": "ta-sama-noc/wiara-zadomowiona",
+    "es": "esta-misma-noche/la-fe-en-el-hogar",
+    "fr": "cette-meme-nuit/la-foi-au-foyer",
+    "pt": "esta-mesma-noite/a-fe-no-lar"
+  },
+  {
+    "en": "the-same-night/then-their-eyes-were-opened",
+    "id": "ta-sama-noc/wtedy-otworzyly-sie-im-oczy",
+    "pl": "ta-sama-noc/wtedy-otworzyly-sie-im-oczy",
+    "es": "esta-misma-noche/entonces-se-les-abrieron-los-ojos",
+    "fr": "cette-meme-nuit/alors-leurs-yeux-s-ouvrirent",
+    "pt": "esta-mesma-noite/entao-abriram-se-lhes-os-olhos"
+  },
+  {
+    "en": "you-too/what-is-a-meeting",
+    "es": "tu-tambien/que-es-un-encuentro",
+    "fr": "toi-aussi/qu-est-ce-qu-une-rencontre",
+    "id": "ty-tez/czym-jest-spotkanie",
+    "pl": "ty-tez/czym-jest-spotkanie",
+    "pt": "tu-tambem/o-que-e-um-encontro"
+  },
+  {
+    "en": "you-too/index",
+    "es": "tu-tambien/index",
+    "fr": "toi-aussi/index",
+    "id": "ty-tez/index",
+    "pl": "ty-tez/index",
+    "pt": "tu-tambem/index"
+  },
+  {
+    "en": "you-too/community-phenomenon-of-individuality-or-conformity",
+    "es": "tu-tambien/comunidad-fenomeno-de-individualidad-o-conformismo",
+    "fr": "toi-aussi/communaute-phenomene-d-individualite-ou-de-conformisme",
+    "id": "ty-tez/wspolnota-fenomen-indywidualnosci-czy-konformizmu",
+    "pl": "ty-tez/wspolnota-fenomen-indywidualnosci-czy-konformizmu",
+    "pt": "tu-tambem/comunidade-fenomeno-de-individualidade-ou-conformismo"
+  },
+  {
+    "en": "you-too/community-is-a-decision",
+    "es": "tu-tambien/la-comunidad-es-una-decision",
+    "fr": "toi-aussi/la-communaute-est-une-decision",
+    "id": "ty-tez/wspolnota-jest-decyzja",
+    "pl": "ty-tez/wspolnota-jest-decyzja",
+    "pt": "tu-tambem/a-comunidade-e-uma-decisao"
+  },
+  {
+    "en": "absolute-value/index",
+    "es": "valor-absoluto/index",
+    "fr": "valeur-absolue/index",
+    "id": "wartosc-bezwzgledna/index",
+    "pl": "wartosc-bezwzgledna/index",
+    "pt": "valor-absoluto/index"
+  },
+  {
+    "en": "absolute-value/birth-of-an-animator",
+    "es": "valor-absoluto/el-nacimiento-del-animador",
+    "fr": "valeur-absolue/naissance-de-l-animateur",
+    "id": "wartosc-bezwzgledna/narodziny-animatora",
+    "pl": "wartosc-bezwzgledna/narodziny-animatora",
+    "pt": "valor-absoluto/o-nascimento-do-animador"
+  },
+  {
+    "en": "absolute-value/discovery-of-human-value",
+    "es": "valor-absoluto/descubrimiento-del-valor-del-hombre",
+    "fr": "valeur-absolue/decouverte-de-la-valeur-de-l-homme",
+    "id": "wartosc-bezwzgledna/odkrycie-wartosci-czlowieka",
+    "pl": "wartosc-bezwzgledna/odkrycie-wartosci-czlowieka",
+    "pt": "valor-absoluto/descoberta-do-valor-do-homem"
+  },
+  {
+    "en": "absolute-value/fight-for-value",
+    "es": "valor-absoluto/lucha-por-el-valor",
+    "fr": "valeur-absolue/lutte-pour-la-valeur",
+    "id": "wartosc-bezwzgledna/walka-o-wartosc",
+    "pl": "wartosc-bezwzgledna/walka-o-wartosc",
+    "pt": "valor-absoluto/luta-pelo-valor"
+  },
+  {
+    "en": "faith-requires-questions/dynamism-of-faith",
+    "es": "la-fe-requiere-preguntas/dinamismo-de-la-fe",
+    "fr": "la-foi-exige-des-questions/le-dynamisme-de-la-foi",
+    "id": "wiara-wymaga-pytan/dynamizm-wiary",
+    "pl": "wiara-wymaga-pytan/dynamizm-wiary",
+    "pt": "a-fe-exige-perguntas/dinamismo-da-fe"
+  },
+  {
+    "en": "faith-requires-questions/index",
+    "es": "la-fe-requiere-preguntas/index",
+    "fr": "la-foi-exige-des-questions/index",
+    "id": "wiara-wymaga-pytan/index",
+    "pl": "wiara-wymaga-pytan/index",
+    "pt": "a-fe-exige-perguntas/index"
+  },
+  {
+    "en": "faith-requires-questions/personal-experience-of-faith",
+    "es": "la-fe-requiere-preguntas/experiencia-personal-de-la-fe",
+    "fr": "la-foi-exige-des-questions/experience-personnelle-de-la-foi",
+    "id": "wiara-wymaga-pytan/osobiste-doswiadczenie-wiary",
+    "pl": "wiara-wymaga-pytan/osobiste-doswiadczenie-wiary",
+    "pt": "a-fe-exige-perguntas/experiencia-pessoal-da-fe"
+  },
+  {
+    "en": "faith-requires-questions/question-to-myself",
+    "es": "la-fe-requiere-preguntas/ser-una-pregunta-para-uno-mismo",
+    "fr": "la-foi-exige-des-questions/etre-une-question-pour-soi-meme",
+    "id": "wiara-wymaga-pytan/sam-dla-siebie-pytaniem",
+    "pl": "wiara-wymaga-pytan/sam-dla-siebie-pytaniem",
+    "pt": "a-fe-exige-perguntas/ser-uma-pergunta-para-si-mesmo"
+  },
+  {
+    "en": "gazing-into-heaven/be-perfect-as-your-heavenly-father-is-perfect",
+    "id": "wpatrzeni-w-niebo/badzcie-wiec-wy-doskonali-jak-doskonaly-jest-ojciec-wasz-niebieski",
+    "pl": "wpatrzeni-w-niebo/badzcie-wiec-wy-doskonali-jak-doskonaly-jest-ojciec-wasz-niebieski",
+    "es": "mirando-al-cielo/sed-perfectos-como-vuestro-padre-celestial-es-perfecto",
+    "fr": "les-yeux-fixes-au-ciel/soyez-donc-parfaits-comme-votre-pere-celeste-est-parfait",
+    "pt": "olhando-para-o-ceu/sede-perfeitos-como-o-vosso-pai-celeste-e-perfeito"
+  },
+  {
+    "en": "gazing-into-heaven/index",
+    "id": "wpatrzeni-w-niebo/index",
+    "pl": "wpatrzeni-w-niebo/index",
+    "es": "mirando-al-cielo/index",
+    "fr": "les-yeux-fixes-au-ciel/index",
+    "pt": "olhando-para-o-ceu/index"
+  },
+  {
+    "en": "gazing-into-heaven/three-dimensional-development",
+    "id": "wpatrzeni-w-niebo/rozwoj-trojwymiarowy",
+    "pl": "wpatrzeni-w-niebo/rozwoj-trojwymiarowy",
+    "es": "mirando-al-cielo/desarrollo-tridimensional",
+    "fr": "les-yeux-fixes-au-ciel/developpement-tridimensionnel",
+    "pt": "olhando-para-o-ceu/desenvolvimento-tridimensional"
+  },
+  {
+    "en": "gazing-into-heaven/development-in-the-power-of-the-holy-spirit",
+    "id": "wpatrzeni-w-niebo/rozwoj-w-mocy-ducha-swietego",
+    "pl": "wpatrzeni-w-niebo/rozwoj-w-mocy-ducha-swietego",
+    "es": "mirando-al-cielo/desarrollo-en-el-poder-del-espiritu-santo",
+    "fr": "les-yeux-fixes-au-ciel/developpement-dans-la-puissance-du-saint-esprit",
+    "pt": "olhando-para-o-ceu/desenvolvimento-no-poder-do-espirito-santo"
+  },
+  {
+    "en": "introduction/index",
+    "es": "introduccion/index",
+    "fr": "introduction/index",
+    "pt": "introducao/index",
+    "id": "wprowadzenie/index",
+    "pl": "wprowadzenie/index"
+  },
+  {
+    "en": "united/that-they-may-be-one",
+    "id": "zjednoczeni/aby-byli-jedno",
+    "pl": "zjednoczeni/aby-byli-jedno",
+    "es": "unidos/que-sean-uno",
+    "fr": "unis/qu-ils-soient-un",
+    "pt": "unidos/que-sejam-um"
+  },
+  {
+    "en": "united/index",
+    "id": "zjednoczeni/index",
+    "pl": "zjednoczeni/index",
+    "es": "unidos/index",
+    "fr": "unis/index",
+    "pt": "unidos/index"
+  },
+  {
+    "en": "united/unity-of-spirit",
+    "id": "zjednoczeni/jednosc-ducha",
+    "pl": "zjednoczeni/jednosc-ducha",
+    "es": "unidos/unidad-del-espiritu",
+    "fr": "unis/unite-de-l-esprit",
+    "pt": "unidos/unidade-do-espirito"
+  },
+  {
+    "en": "united/with-one-heart-and-one-voice",
+    "id": "zjednoczeni/jednym-sercem-i-jednym-glosem",
+    "pl": "zjednoczeni/jednym-sercem-i-jednym-glosem",
+    "es": "unidos/con-un-solo-corazon-y-una-sola-voz",
+    "fr": "unis/d-un-seul-coeur-et-d-une-seule-voix",
+    "pt": "unidos/com-um-so-coracao-e-uma-so-voz"
+  },
+  {
+    "en": "united/love-bond-of-unity",
+    "id": "zjednoczeni/milosc-wiezia-jednosci",
+    "pl": "zjednoczeni/milosc-wiezia-jednosci",
+    "es": "unidos/el-amor-vinculo-de-unidad",
+    "fr": "unis/l-amour-lien-d-unite",
+    "pt": "unidos/o-amor-vinculo-da-unidade"
+  }
+]

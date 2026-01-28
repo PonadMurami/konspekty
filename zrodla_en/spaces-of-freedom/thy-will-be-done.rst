@@ -1,7 +1,7 @@
 Meeting 2. - Thy Will Be Done
 ******************************
 
-.. tags:: tresc|wola-boza|God's Will, tresc|modlitwa|Prayer, tresc|wolnosc|Freedom, metoda|praca-z-tekstem|Working with Text, metoda|dyskusja|Discussion, typ|formacyjne|Formational
+.. tags:: content|gods-will|God's will, content|prayer|Prayer, content|freedom|Freedom, method|praca-z-tekstem|Working with Text, method|discussion|Discussion, type|formacyjne|Formational
 
 Goal
 ====

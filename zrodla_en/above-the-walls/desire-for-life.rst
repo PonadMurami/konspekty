@@ -1,7 +1,7 @@
 Meeting 1. - Desire for Life
 *****************************
 
-.. tags:: tresc|pragnienia|Desires, tresc|milosc|Love, tresc|decyzje|Decisions, tresc|nawrocenie|Conversion, metoda|praca-z-tekstem|Working with text, metoda|praca-z-muzyka|Working with music, metoda|pytania-do-dzielenia|Questions for sharing, typ|formacyjne|Formational
+.. tags:: content|desires|Desires, content|love|Love, content|decisions|Decisions, content|conversion|Conversion, method|praca-z-tekstem|Working with text, method|praca-z-muzyka|Working with music, method|pytania-do-dzielenia|Questions for sharing, type|formacyjne|Formational
 
 Goal
 ====

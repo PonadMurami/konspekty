@@ -1,7 +1,7 @@
 Meeting 1. - Our Heart is Restless
 ***********************************
 
-.. tags:: tresc|pragnienia|Desires, tresc|poszukiwanie|Seeking, metoda|praca-z-obrazem|Working with images, metoda|praca-z-tekstem|Working with text, metoda|dyskusja|Discussion, typ|formacyjne|Formational
+.. tags:: content|desires|Desires, content|seeking|Seeking, method|praca-z-obrazem|Working with images, method|praca-z-tekstem|Working with text, method|discussion|Discussion, type|formacyjne|Formational
 
 Goal of the Meeting
 ===================

@@ -12,6 +12,9 @@ HTML = """<!doctype html>
 
     <link rel="alternate" hreflang="pl" href="./pl/" />
     <link rel="alternate" hreflang="en" href="./en/" />
+    <link rel="alternate" hreflang="es" href="./es/" />
+    <link rel="alternate" hreflang="pt" href="./pt/" />
+    <link rel="alternate" hreflang="fr" href="./fr/" />
     <link rel="alternate" hreflang="x-default" href="./" />
 
     <!-- Typography + color palette inspired by sphinx_rtd_theme -->
@@ -102,22 +105,20 @@ HTML = """<!doctype html>
         font-weight: 700;
         text-decoration: none;
         border: 1px solid rgba(0, 0, 0, 0.1);
-      }
-
-      /* Use RTD button feel, but slightly larger and cleaner for landing. */
-      a.pm-btn.primary {
-        background: var(--pm-accent);
-        color: #fff;
-        border-color: rgba(0, 0, 0, 0.12);
-      }
-      a.pm-btn.primary:hover { background: #2e8ece; }
-
-      a.pm-btn.secondary {
         background: #f3f6f6; /* RTD neutral */
         color: #404040;
         border-color: var(--pm-border);
       }
-      a.pm-btn.secondary:hover { background: #e5ebeb; }
+      a.pm-btn:hover { background: #e5ebeb; }
+
+      /* Highlight Polish as primary, others secondary/equal */
+      a.pm-btn.primary {
+        background: var(--pm-accent);
+        color: #fff;
+        border-color: rgba(0, 0, 0, 0.12);
+        grid-column: span 2; /* Make the main one full width if we want, or just let it flow */
+      }
+      a.pm-btn.primary:hover { background: #2e8ece; }
 
       .pm-footer {
         margin-top: 18px;
@@ -127,6 +128,7 @@ HTML = """<!doctype html>
 
       @media (max-width: 420px) {
         .pm-actions { grid-template-columns: 1fr; }
+        a.pm-btn.primary { grid-column: span 1; }
         .pm-card { padding: 28px 22px 22px; }
       }
     </style>
@@ -142,7 +144,10 @@ HTML = """<!doctype html>
 
         <div class="pm-actions">
           <a class="pm-btn primary" href="./pl/" lang="pl">Polski</a>
-          <a class="pm-btn secondary" href="./en/" lang="en">English</a>
+          <a class="pm-btn" href="./en/" lang="en">English</a>
+          <a class="pm-btn" href="./es/" lang="es">Español</a>
+          <a class="pm-btn" href="./pt/" lang="pt">Português</a>
+          <a class="pm-btn" href="./fr/" lang="fr">Français</a>
         </div>
 
         <div class="pm-footer">Diakonia Ponad Murami</div>
@@ -167,4 +172,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

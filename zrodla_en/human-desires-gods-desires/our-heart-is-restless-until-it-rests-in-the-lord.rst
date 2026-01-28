@@ -1,7 +1,7 @@
 Meeting 3. - Our Heart is Restless Until it Rests in the Lord
 **************************************************************
 
-.. tags:: tresc|pragnienia|Desires, tresc|wola-boza|God's Will, tresc|rozeznawanie|Discernment, tresc|nadzieja|Hope, tresc|wspolnota|Community, metoda|praca-z-tekstem|Working with text, metoda|dyskusja|Discussion, typ|formacyjne|Formational
+.. tags:: content|desires|Desires, content|gods-will|God's will, content|discernment|Discernment, content|hope|Hope, content|community|Community, method|praca-z-tekstem|Working with text, method|discussion|Discussion, type|formacyjne|Formational
 
 Goal of the Meeting
 ===================
@@ -56,28 +56,28 @@ God's action is wise
 Imagine that a small child asks you for many things (desires something). You can respond to these desires either according to the child's mind or not. Let's try to create a list of reasons why we might do something not according to the child's desires and give an example. (we create together a list that looks roughly like this):
 
 +--------------------------+----------------------------+
-||     Child's desire       |    Reason for refusal      |
+|     Child's desire       |    Reason for refusal      |
 +==========================+============================+
-||  To play with a hot      | I know that this desire    |
-||  iron                    | **does not lead to        |
-||                          | anything good**, because   |
-||                          | an iron is not for         |
-||                          | playing                    |
+|  To play with a hot      | I know that this desire    |
+|  iron                    | **does not lead to**       |
+|                          | anything good**, because   |
+|                          | an iron is not for         |
+|                          | playing                    |
 +--------------------------+----------------------------+
-||  I want to watch a film  | The desire is good,        |
-||  about Katyn             | but **before reaching      |
-||                          | a certain age** a child    |
-||                          | should not watch           |
-||                          | certain scenes so          |
-||                          | I currently refuse         |
+|  I want to watch a film  | The desire is good,        |
+|  about Katyn             | but **before reaching      |
+|                          | a certain age** a child    |
+|                          | should not watch           |
+|                          | certain scenes so          |
+|                          | I currently refuse         |
 +--------------------------+----------------------------+
-||  I want to get 0.1kg     | The desire **is not        |
-||  of candy                | bad**, but I refuse,       |
-||                          | **because I know that      |
-||                          | in 2h they will get        |
-||                          | a birthday cake**          |
-||                          | and should save room       |
-||                          | in their stomach for it    |
+|  I want to get 0.1kg     | The desire **is not        |
+|  of candy                | bad**, but I refuse,       |
+|                          | **because I know that      |
+|                          | in 2h they will get        |
+|                          | a birthday cake**          |
+|                          | and should save room       |
+|                          | in their stomach for it    |
 +--------------------------+----------------------------+
 
 It is important to guide the group so that at least these 3 reasons for refusal come out!

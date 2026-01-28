@@ -1,7 +1,7 @@
 Meeting 2. - For You Created Us Directed Towards You Lord
 **********************************************************
 
-.. tags:: tresc|milosc|Love, tresc|pragnienia|Desires, tresc|slowo-boze|Word of God, tresc|krzyz|Cross, metoda|praca-z-tekstem|Working with text, metoda|dyskusja|Discussion, typ|ewangelizacyjne|Evangelical
+.. tags:: content|love|Love, content|desires|Desires, content|word-of-god|Word of God, content|cross|Cross, method|praca-z-tekstem|Working with text, method|discussion|Discussion, type|ewangelizacyjne|Evangelical
 
 Goal of the Meeting
 ===================

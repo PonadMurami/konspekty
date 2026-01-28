@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="865.8468"
+   height="485.90521"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="New document 1">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="432.92605"
+     inkscape:cy="242.95261"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1858"
+     inkscape:window-height="1057"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(57.926049,-289.40958)">
+    <g
+       transform="matrix(1.25,0,0,-1.25,-157.75,896.24461)"
+       inkscape:label="spotkanie"
+       id="g2993">
+      <text
+         id="text2995"
+         transform="matrix(1,0,0,-1,110.18,381.67)">
+        <tspan
+           id="tspan2997"
+           sodipodi:role="line"
+           y="0"
+           x="0 62.858379 146.2695 230.13068 283.98785 357.19763 430.85745 512.16827 544.87262"
+           style="font-size:150.02000427px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Candara;-inkscape-font-specification:Candara">spotkanie</tspan>
+      </text>
+      <text
+         id="text2999"
+         transform="matrix(1,0,0,-1,103.34,130.22)">
+        <tspan
+           id="tspan3001"
+           sodipodi:role="line"
+           y="0"
+           x="0 76.660217 160.07133 243.93253 297.7897 370.99945 444.65927 525.97009 558.6745"
+           style="font-size:150.02000427px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Candara;-inkscape-font-specification:Candara">Spotkanie</tspan>
+      </text>
+      <path
+         id="path3003"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         d="m 80.25,288.82 691.9,0"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

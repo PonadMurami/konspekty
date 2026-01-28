@@ -1,7 +1,7 @@
 Meeting 3. - To Set Out on a Journey That Is the Goal
 ******************************************************
 
-.. tags:: tresc|wspolnota|Community, tresc|kosciol|Church, tresc|duch-swiety|Holy Spirit, tresc|poslanie|Mission, tresc|decyzje|Decisions, metoda|praca-z-tekstem|Working with text, metoda|praca-w-grupach|Working in groups, typ|formacyjne|Formational
+.. tags:: content|community|Community, content|church|Church, content|holy-spirit|Holy Spirit, content|mission|Mission, content|decisions|Decisions, method|praca-z-tekstem|Working with text, method|praca-w-grupach|Working in groups, type|formacyjne|Formational
 
 Goal of the Meeting
 ===================

@@ -1,7 +1,7 @@
 Meeting 1. - On the Essence of Freedom
 ***************************************
 
-.. tags:: tresc|wolnosc|Freedom, tresc|prawda|Truth, tresc|grzech|Sin, metoda|praca-z-definicja|Working with Definition, metoda|praca-z-tekstem|Working with Text, metoda|dyskusja|Discussion, typ|formacyjne|Formational
+.. tags:: content|freedom|Freedom, content|truth|Truth, content|sin|Sin, method|praca-z-definicja|Working with Definition, method|praca-z-tekstem|Working with Text, method|discussion|Discussion, type|formacyjne|Formational
 
 Goal
 ====
