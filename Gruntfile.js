@@ -47,6 +47,11 @@ module.exports = function(grunt) {
 			}
 		},
 		shell: {
+            options: {
+                execOptions: {
+                    maxBuffer: 1024 * 1024 * 50 // 50 MB
+                }
+            },
 			makeHtml: {
 				command: "make html"
 			},

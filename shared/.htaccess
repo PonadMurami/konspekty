@@ -7,6 +7,6 @@ RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /(.*)index\.html($|\ |\?)
 RewriteRule ^ /%1 [R=301,L]
 
 RewriteCond %{REQUEST_URI} !^/$
-RewriteCond %{REQUEST_URI} !^/(pl|en)(/|$) [NC]
+RewriteCond %{REQUEST_URI} !^/(pl|en|es|pt|fr)(/|$) [NC]
 RewriteCond %{REQUEST_URI} !^/(robots\.txt|sitemap\.xml|sitemap_index\.xml)$ [NC]
 RewriteRule ^(.*)$ /pl/$1 [R=301,L]

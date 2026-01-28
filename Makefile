@@ -164,11 +164,11 @@ epub:
 	@echo "Build finished. The epub files are in $(BUILDDIR)/epub/(pl|en|es|pt|fr) and copied to $(HTMLDIR)/(pl|en|es|pt|fr)."
 
 mobi: epub
-	$(EBOOK_CONVERT) $(HTMLDIR)/pl/konspekty.epub $(HTMLDIR)/pl/konspekty.mobi
-	$(EBOOK_CONVERT) $(HTMLDIR)/en/konspekty.epub $(HTMLDIR)/en/konspekty.mobi
-	$(EBOOK_CONVERT) $(HTMLDIR)/es/konspekty.epub $(HTMLDIR)/es/konspekty.mobi
-	$(EBOOK_CONVERT) $(HTMLDIR)/pt/konspekty.epub $(HTMLDIR)/pt/konspekty.mobi
-	$(EBOOK_CONVERT) $(HTMLDIR)/fr/konspekty.epub $(HTMLDIR)/fr/konspekty.mobi
+	python scripts/filter_ebook_convert.py "$(EBOOK_CONVERT)" $(HTMLDIR)/pl/konspekty.epub $(HTMLDIR)/pl/konspekty.mobi
+	python scripts/filter_ebook_convert.py "$(EBOOK_CONVERT)" $(HTMLDIR)/en/konspekty.epub $(HTMLDIR)/en/konspekty.mobi
+	python scripts/filter_ebook_convert.py "$(EBOOK_CONVERT)" $(HTMLDIR)/es/konspekty.epub $(HTMLDIR)/es/konspekty.mobi
+	python scripts/filter_ebook_convert.py "$(EBOOK_CONVERT)" $(HTMLDIR)/pt/konspekty.epub $(HTMLDIR)/pt/konspekty.mobi
+	python scripts/filter_ebook_convert.py "$(EBOOK_CONVERT)" $(HTMLDIR)/fr/konspekty.epub $(HTMLDIR)/fr/konspekty.mobi
 	@echo
 	@echo "Build finished. The mobi files are in $(HTMLDIR)/(pl|en|es|pt|fr)."
 
