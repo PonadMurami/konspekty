@@ -1,7 +1,7 @@
 Spotkanie 3. - Bóg - Słowo wcielone
 ***********************************
 
-.. tags:: tresc|slowo_boze|Słowo Boże, tresc|prawda|Prawda, metoda|praca_z_tekstem|Praca z~tekstem, metoda|praca_plastyczna|Praca plastyczna, metoda|dyskusja|Dyskusja, typ|biblijne|Biblijne
+.. tags:: content|word-of-god|Word of God, content|truth|Truth, method|text-work|Text work, method|art-activity|Art activity, method|discussion|Discussion, type|biblical|Biblical
 
 Cel Spotkania
 =============

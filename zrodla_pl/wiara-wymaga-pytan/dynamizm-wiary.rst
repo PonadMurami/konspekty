@@ -1,7 +1,7 @@
 Spotkanie 3. - Dynamizm wiary
 *****************************
 
-.. tags:: tresc|poszukiwanie|Poszukiwanie, tresc|dojrzalosc|Dojrzałość, tresc|nadzieja|Nadzieja, metoda|pytania_do_dzielenia|Pytania do dzielenia, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
+.. tags:: tresc|poszukiwanie|Poszukiwanie, tresc|dojrzalosc|Dojrzałość, tresc|nadzieja|Nadzieja, metoda|pytania-do-dzielenia|Pytania do dzielenia, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
 
 Uwagi dla animatora
 ===================

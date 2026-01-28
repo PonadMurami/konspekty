@@ -1,7 +1,7 @@
 Spotkanie 1. - Perspektywa w~codzienności
 *****************************************
 
-.. tags:: tresc|prawda|Prawda, tresc|odpowiedzialnosc|Odpowiedzialność, tresc|sluzba|Służba, metoda|praca_przestrzenna|Praca przestrzenna, metoda|praca_z_definicja|Praca z~definicją, metoda|dyskusja|Dyskusja, typ|warsztatowe|Warsztatowe
+.. tags:: content|truth|Truth, content|responsibility|Responsibility, content|service|Service, method|spatial-activity|Spatial activity, method|definition-work|Definition work, method|discussion|Discussion, type|workshop|Workshop
 
 Cel spotkania i~wprowadzenie dla animatora
 ==========================================

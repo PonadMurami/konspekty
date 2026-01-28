@@ -1,7 +1,7 @@
 Spotkanie 1. - Czemu miłości trzeba szukać?
 *******************************************
 
-.. tags:: tresc|milosc|Miłość, tresc|pragnienia|Pragnienia, tresc|kosciol|Kościół, metoda|praca_z_tekstem|Praca z~tekstem, metoda|praca_w_grupach|Praca w~grupach, typ|warsztatowe|Warsztatowe
+.. tags:: content|love|Love, content|desires|Desires, content|church|Church, method|text-work|Text work, method|group-work|Group work, type|workshop|Workshop
 
 Wprowadzenie dla animatorów do rekolekcji
 =========================================

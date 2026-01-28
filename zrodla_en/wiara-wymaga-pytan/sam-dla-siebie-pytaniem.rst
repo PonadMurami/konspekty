@@ -1,7 +1,7 @@
 Spotkanie 1. - Sam dla siebie pytaniem
 **************************************
 
-.. tags:: tresc|poszukiwanie|Poszukiwanie, tresc|prawda|Prawda, tresc|tozsamosc|Tożsamość, metoda|praca_z_definicja|Praca z~definicją, metoda|praca_z_tekstem|Praca z~tekstem, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
+.. tags:: content|seeking|Seeking, content|truth|Truth, content|identity|Identity, method|definition-work|Definition work, method|text-work|Text work, method|discussion|Discussion, type|formative|Formative
 
 Wskazówki dla animatora
 =======================

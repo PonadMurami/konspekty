@@ -1,7 +1,7 @@
 Spotkanie 2. - Sympatycy czy chrześcijanie?
 *******************************************
 
-.. tags:: tresc|decyzje|Decyzje, tresc|dojrzalosc|Dojrzałość, tresc|prawda|Prawda, metoda|praca_z_tekstem|Praca z~tekstem, metoda|pytania_do_dzielenia|Pytania do dzielenia, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
+.. tags:: tresc|decyzje|Decyzje, tresc|dojrzalosc|Dojrzałość, tresc|prawda|Prawda, metoda|praca-z-tekstem|Praca z~tekstem, metoda|pytania-do-dzielenia|Pytania do dzielenia, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
 
 Cel Spotkania
 =============

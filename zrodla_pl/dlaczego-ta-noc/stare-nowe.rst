@@ -1,7 +1,7 @@
 Spotkanie 4. - Stare-Nowe
 *************************
 
-.. tags:: tresc|eucharystia|Eucharystia, tresc|slowo_boze|Słowo Boże, tresc|kosciol|Kościół, tresc|zmartwychwstanie|Zmartwychwstanie, tresc|poslanie|Posłanie, tresc|tradycje_zydowskie|Tradycje żydowskie, metoda|praca_z_obrazem|Praca z~obrazem, metoda|praca_w_grupach|Praca w~grupach, typ|mistagogiczne|Mistagogiczne
+.. tags:: tresc|eucharystia|Eucharystia, tresc|slowo-boze|Słowo Boże, tresc|kosciol|Kościół, tresc|zmartwychwstanie|Zmartwychwstanie, tresc|poslanie|Posłanie, tresc|tradycje-zydowskie|Tradycje żydowskie, metoda|praca-z-obrazem|Praca z~obrazem, metoda|praca-w-grupach|Praca w~grupach, typ|mistagogiczne|Mistagogiczne
 
 Wprowadzenie dla animatora
 ==========================

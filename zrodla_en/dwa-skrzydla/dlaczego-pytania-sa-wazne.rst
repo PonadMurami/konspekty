@@ -1,7 +1,7 @@
 Spotkanie 2. - Dlaczego pytania są ważne?
 *****************************************
 
-.. tags:: tresc|poszukiwanie|Poszukiwanie, tresc|prawda|Prawda, tresc|decyzje|Decyzje, tresc|wolnosc|Wolność, tresc|stary_testament|Stary Testament, metoda|praca_z_tekstem|Praca z~tekstem, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
+.. tags:: content|seeking|Seeking, content|truth|Truth, content|decisions|Decisions, content|freedom|Freedom, content|old-testament|Old Testament, method|text-work|Text work, method|discussion|Discussion, type|formative|Formative
 
 Dzielenie się Ewangelią
 =======================

@@ -1,7 +1,7 @@
 Spotkanie 4. - Moja Haggada
 ***************************
 
-.. tags:: tresc|zmartwychwstanie|Zmartwychwstanie, tresc|poslanie|Posłanie, tresc|slowo_boze|Słowo Boże, tresc|tradycje_zydowskie|Tradycje żydowskie, metoda|praca_z_tekstem|Praca z~tekstem, metoda|pytania_do_dzielenia|Pytania do dzielenia, metoda|praca_plastyczna|Praca plastyczna, typ|mistagogiczne|Mistagogiczne
+.. tags:: tresc|zmartwychwstanie|Zmartwychwstanie, tresc|poslanie|Posłanie, tresc|slowo-boze|Słowo Boże, tresc|tradycje-zydowskie|Tradycje żydowskie, metoda|praca-z-tekstem|Praca z~tekstem, metoda|pytania-do-dzielenia|Pytania do dzielenia, metoda|praca-plastyczna|Praca plastyczna, typ|mistagogiczne|Mistagogiczne
 
 Wprowadzenie dla animatora
 ==========================

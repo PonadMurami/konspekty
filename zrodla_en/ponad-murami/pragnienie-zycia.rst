@@ -1,7 +1,7 @@
 Spotkanie 1. - Pragnienie Życia
 *******************************
 
-.. tags:: tresc|pragnienia|Pragnienia, tresc|milosc|Miłość, tresc|decyzje|Decyzje, tresc|nawrocenie|Nawrócenie, metoda|praca_z_tekstem|Praca z~tekstem, metoda|praca_z_muzyka|Praca z~muzyką, metoda|pytania_do_dzielenia|Pytania do dzielenia, typ|formacyjne|Formacyjne
+.. tags:: content|desires|Desires, content|love|Love, content|decisions|Decisions, content|conversion|Conversion, method|text-work|Text work, method|music-work|Music work, method|sharing-questions|Sharing questions, type|formative|Formative
 
 Cel
 ===

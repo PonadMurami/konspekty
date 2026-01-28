@@ -1,7 +1,7 @@
 Spotkanie 4. - Walka ze słowem - o~słowo
 ****************************************
 
-.. tags:: tresc|slowo_boze|Słowo Boże, tresc|poslanie|Posłanie, tresc|prawda|Prawda, metoda|mapa_mysli|Mapa myśli, metoda|praca_z_tekstem|Praca z~tekstem, metoda|pytania_do_dzielenia|Pytania do dzielenia, typ|formacyjne|Formacyjne
+.. tags:: tresc|slowo-boze|Słowo Boże, tresc|poslanie|Posłanie, tresc|prawda|Prawda, metoda|mapa-mysli|Mapa myśli, metoda|praca-z-tekstem|Praca z~tekstem, metoda|pytania-do-dzielenia|Pytania do dzielenia, typ|formacyjne|Formacyjne
 
 Cel Spotkania
 =============

@@ -1,7 +1,7 @@
 Spotkanie 1. - Czym jest poszukiwanie?
 **************************************
 
-.. tags:: tresc|poszukiwanie|Poszukiwanie, tresc|pragnienia|Pragnienia, tresc|prawda|Prawda, metoda|praca_z_tekstem|Praca z~tekstem, metoda|praca_z_obrazem|Praca z~obrazem, typ|integracyjne|Integracyjne
+.. tags:: content|seeking|Seeking, content|desires|Desires, content|truth|Truth, method|text-work|Text work, method|image-work|Image work, type|integrative|Integrative
 
 Wprowadzenie
 ============

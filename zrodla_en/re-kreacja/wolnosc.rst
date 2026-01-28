@@ -1,7 +1,7 @@
 Spotkanie 1. - Wolność
 **********************
 
-.. tags:: tresc|wolnosc|Wolność, tresc|prawda|Prawda, tresc|grzech|Grzech, metoda|praca_z_muzyka|Praca z~muzyką, metoda|praca_z_tekstem|Praca z~tekstem, metoda|praca_z_definicja|Praca z~definicją, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
+.. tags:: content|freedom|Freedom, content|truth|Truth, content|sin|Sin, method|music-work|Music work, method|text-work|Text work, method|definition-work|Definition work, method|discussion|Discussion, type|formative|Formative
 
 Wprowadzenie dla animatora
 ==========================

@@ -351,14 +351,22 @@ epub_exclude_files = ['search.html']
 
 tags_create_tags = True
 tags_create_badges = True
-tags_overview_title = "Tagi"
-tags_intro_text = "Tagi:"
+tags_overview_title = "Tags"
+tags_intro_text = "Tags:"
 tags_page_title = "Tag"
 tags_page_header = ""
 tags_output_dir = "tag"
+tags_index_head = "Tags"
+tags_category_labels = {
+    "content": "Content",
+    "method": "Methods",
+    "type": "Type",
+}
+tags_category_page_title_template = "Tags in category: {category}"
+tags_category_page_basename_template = "category-{category_key}"
+tags_definition_file = "tags.md"
 tags_badge_colors = {
-    # Kolory badge zależne od kategorii taga (kategoria|nazwa_taga)
-    "tresc": "primary",
-    "metoda": "success",
-    "typ": "warning",
+    "content": "primary",
+    "method": "success",
+    "type": "warning",
 }

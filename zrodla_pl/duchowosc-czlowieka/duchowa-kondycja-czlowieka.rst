@@ -1,7 +1,7 @@
 Spotkanie 1. - Duchowa kondycja człowieka
 *****************************************
 
-.. tags:: tresc|duchowosc|Duchowość, tresc|prawda|Prawda, tresc|wolnosc|Wolność, tresc|dojrzalosc|Dojrzałość, tresc|poszukiwanie|Poszukiwanie, metoda|praca_z_tekstem|Praca z~tekstem, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
+.. tags:: tresc|duchowosc|Duchowość, tresc|prawda|Prawda, tresc|wolnosc|Wolność, tresc|dojrzalosc|Dojrzałość, tresc|poszukiwanie|Poszukiwanie, metoda|praca-z-tekstem|Praca z~tekstem, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
 
 Wprowadzenie dla Animatora
 ==========================

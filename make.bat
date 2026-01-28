@@ -77,6 +77,10 @@ if errorlevel 9009 (
 )
 
 if "%1" == "html" (
+	if exist %BUILDDIR%\html\pl\tag rmdir /q /s %BUILDDIR%\html\pl\tag
+	if exist %BUILDDIR%\html\en\tag rmdir /q /s %BUILDDIR%\html\en\tag
+	if exist %BUILDDIR%\html\pl\_sources\tag rmdir /q /s %BUILDDIR%\html\pl\_sources\tag
+	if exist %BUILDDIR%\html\en\_sources\tag rmdir /q /s %BUILDDIR%\html\en\_sources\tag
 	%SPHINXBUILD% -b html %ALLSPHINXOPTS_PL% %HTMLDIR%/pl
 	if errorlevel 1 exit /b 1
 	%SPHINXBUILD% -b html %ALLSPHINXOPTS_EN% %HTMLDIR%/en

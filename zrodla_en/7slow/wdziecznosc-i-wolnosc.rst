@@ -1,7 +1,7 @@
 Spotkanie 4. - "Wdzięczność i~wolność"
 **************************************
 
-.. tags:: tresc|milosc|Miłość, tresc|wolnosc|Wolność, tresc|krzyz|Krzyż, tresc|eucharystia|Eucharystia, tresc|tradycje_zydowskie|Tradycje żydowskie, metoda|praca_z_tekstem|Praca z~tekstem, metoda|pytania_do_dzielenia|Pytania do dzielenia, typ|formacyjne|Formacyjne
+.. tags:: content|love|Love, content|freedom|Freedom, content|cross|Cross, content|eucharist|Eucharist, content|jewish-traditions|Jewish traditions, method|text-work|Text work, method|sharing-questions|Sharing questions, type|formative|Formative
 
 Cel spotkania + wprowadzenie dla animatora
 ==========================================

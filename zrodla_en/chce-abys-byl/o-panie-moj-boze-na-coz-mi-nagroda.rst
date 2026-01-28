@@ -1,7 +1,7 @@
 Spotkanie 2. - "O, Panie, mój Boże, na cóż mi nagroda?"
 *******************************************************
 
-.. tags:: tresc|pragnienia|Pragnienia, tresc|rozeznawanie|Rozeznawanie, tresc|wola_boza|Wola Boża, tresc|nadzieja|Nadzieja, metoda|praca_z_tekstem|Praca z~tekstem, metoda|pytania_do_dzielenia|Pytania do dzielenia, typ|formacyjne|Formacyjne
+.. tags:: content|desires|Desires, content|discernment|Discernment, content|gods-will|God's will, content|hope|Hope, method|text-work|Text work, method|sharing-questions|Sharing questions, type|formative|Formative
 
 Cel spotkania + wprowadzenie dla animatora
 ==========================================

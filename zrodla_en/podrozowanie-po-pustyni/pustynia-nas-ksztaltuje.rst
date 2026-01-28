@@ -1,7 +1,7 @@
 Spotkanie 2. - Pustynia nas kształtuje
 **************************************
 
-.. tags:: tresc|dojrzalosc|Dojrzałość, tresc|krzyz|Krzyż, tresc|pragnienia|Pragnienia, metoda|praca_z_obrazem|Praca z~obrazem, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
+.. tags:: content|maturity|Maturity, content|cross|Cross, content|desires|Desires, method|image-work|Image work, method|discussion|Discussion, type|formative|Formative
 
 Cel
 ===

@@ -1,7 +1,7 @@
 Spotkanie 2. - Nadprzyrodzona otwartość
 ***************************************
 
-.. tags:: tresc|otwartosc|Otwartość, tresc|kosciol|Kościół, tresc|prawda|Prawda, tresc|eucharystia|Eucharystia, tresc|nawrocenie|Nawrócenie, metoda|praca_z_obrazem|Praca z~obrazem, metoda|praca_z_tekstem|Praca z~tekstem, typ|warsztatowe|Warsztatowe
+.. tags:: tresc|otwartosc|Otwartość, tresc|kosciol|Kościół, tresc|prawda|Prawda, tresc|eucharystia|Eucharystia, tresc|nawrocenie|Nawrócenie, metoda|praca-z-obrazem|Praca z~obrazem, metoda|praca-z-tekstem|Praca z~tekstem, typ|warsztatowe|Warsztatowe
 
 Wprowadzenie dla animatora
 ==========================

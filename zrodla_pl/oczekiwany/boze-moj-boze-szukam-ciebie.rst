@@ -1,7 +1,7 @@
 Spotkanie 1. - Boże, mój Boże, szukam Ciebie
 ********************************************
 
-.. tags:: tresc|poszukiwanie|Poszukiwanie, tresc|pragnienia|Pragnienia, tresc|nadzieja|Nadzieja, tresc|duch_swiety|Duch Święty, metoda|praca_z_tekstem|Praca z~tekstem, metoda|pytania_do_dzielenia|Pytania do dzielenia, typ|integracyjne|Integracyjne
+.. tags:: tresc|poszukiwanie|Poszukiwanie, tresc|pragnienia|Pragnienia, tresc|nadzieja|Nadzieja, tresc|duch-swiety|Duch Święty, metoda|praca-z-tekstem|Praca z~tekstem, metoda|pytania-do-dzielenia|Pytania do dzielenia, typ|integracyjne|Integracyjne
 
 Cele spotkania + wprowadzenie dla animatora
 ===========================================

@@ -1,7 +1,7 @@
 Spotkanie 4. - "Chcę i~jestem posłany"
 **************************************
 
-.. tags:: tresc|poslanie|Posłanie, tresc|odpowiedzialnosc|Odpowiedzialność, tresc|milosc|Miłość, tresc|wspolnota|Wspólnota, metoda|praca_z_tekstem|Praca z~tekstem, metoda|pytania_do_dzielenia|Pytania do dzielenia, typ|formacyjne|Formacyjne
+.. tags:: content|mission|Mission, content|responsibility|Responsibility, content|love|Love, content|community|Community, method|text-work|Text work, method|sharing-questions|Sharing questions, type|formative|Formative
 
 Wprowadzenie
 ============

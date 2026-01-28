@@ -73,6 +73,10 @@ htaccess:
 	cp -f shared/.htaccess $(HTMLDIR)/.htaccess
 
 html:
+	@mkdir -p $(HTMLDIR)
+	# Avoid stale tag pages when tag slugs change (do not delete download artifacts).
+	rm -rf $(HTMLDIR)/pl/tag $(HTMLDIR)/en/tag
+	rm -rf $(HTMLDIR)/pl/_sources/tag $(HTMLDIR)/en/_sources/tag
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS_PL) $(HTMLDIR)/pl
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS_EN) $(HTMLDIR)/en
 	$(MAKE) landing

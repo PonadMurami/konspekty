@@ -1,7 +1,7 @@
 Spotkanie 1. - "Zobaczyć, żeby usłyszeć"
 ****************************************
 
-.. tags:: tresc|krzyz|Krzyż, tresc|dojrzalosc|Dojrzałość, tresc|modlitwa|Modlitwa, tresc|slowo_boze|Słowo Boże, metoda|praca_z_tekstem|Praca z~tekstem, metoda|praca_przestrzenna|Praca przestrzenna, typ|integracyjne|Integracyjne
+.. tags:: content|cross|Cross, content|maturity|Maturity, content|prayer|Prayer, content|word-of-god|Word of God, method|text-work|Text work, method|spatial-activity|Spatial activity, type|integrative|Integrative
 
 Cel spotkania + wprowadzenie dla animatora
 ==========================================

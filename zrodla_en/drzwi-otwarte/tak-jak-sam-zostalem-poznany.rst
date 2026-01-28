@@ -1,7 +1,7 @@
 Spotkanie 1. - Tak, jak sam zostałem poznany
 ********************************************
 
-.. tags:: tresc|otwartosc|Otwartość, tresc|kosciol|Kościół, tresc|wspolnota|Wspólnota, tresc|relacje|Relacje, metoda|praca_z_obrazem|Praca z~obrazem, metoda|praca_w_grupach|Praca w~grupach, typ|integracyjne|Integracyjne
+.. tags:: content|openness|Openness, content|church|Church, content|community|Community, content|relationships|Relationships, method|image-work|Image work, method|group-work|Group work, type|integrative|Integrative
 
 Wprowadzenie dla animatora
 ==========================

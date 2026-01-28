@@ -1,7 +1,7 @@
 Spotkanie 2. - Wtedy otworzyły się im oczy
 ******************************************
 
-.. tags:: tresc|slowo_boze|Słowo Boże, tresc|poszukiwanie|Poszukiwanie, tresc|prawda|Prawda, metoda|praca_z_tekstem|Praca z~tekstem, metoda|praca_w_grupach|Praca w~grupach, metoda|pytania_do_dzielenia|Pytania do dzielenia, typ|biblijne|Biblijne
+.. tags:: tresc|slowo-boze|Słowo Boże, tresc|poszukiwanie|Poszukiwanie, tresc|prawda|Prawda, metoda|praca-z-tekstem|Praca z~tekstem, metoda|praca-w-grupach|Praca w~grupach, metoda|pytania-do-dzielenia|Pytania do dzielenia, typ|biblijne|Biblijne
 
 Cel spotkania
 =============

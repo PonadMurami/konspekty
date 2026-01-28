@@ -1,7 +1,7 @@
 Spotkanie 2. - Czym jest spotkanie?
 ***********************************
 
-.. tags:: tresc|wspolnota|Wspólnota, tresc|relacje|Relacje, tresc|komunikacja|Komunikacja, metoda|praca_z_obrazem|Praca z~obrazem, metoda|praca_z_tekstem|Praca z~tekstem, metoda|dyskusja|Dyskusja, typ|warsztatowe|Warsztatowe
+.. tags:: tresc|wspolnota|Wspólnota, tresc|relacje|Relacje, tresc|komunikacja|Komunikacja, metoda|praca-z-obrazem|Praca z~obrazem, metoda|praca-z-tekstem|Praca z~tekstem, metoda|dyskusja|Dyskusja, typ|warsztatowe|Warsztatowe
 
 Cel
 ===

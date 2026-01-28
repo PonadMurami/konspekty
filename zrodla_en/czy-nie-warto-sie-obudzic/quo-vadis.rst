@@ -1,7 +1,7 @@
 Spotkanie 4. - Quo vadis?
 *************************
 
-.. tags:: tresc|decyzje|Decyzje, tresc|powolanie|Powołanie, tresc|nadzieja|Nadzieja, tresc|krolestwo_boze|Królestwo Boże, tresc|czas|Czas, metoda|praca_z_tekstem|Praca z~tekstem, metoda|praca_z_definicja|Praca z~definicją, typ|formacyjne|Formacyjne
+.. tags:: content|decisions|Decisions, content|vocation|Vocation, content|hope|Hope, content|kingdom-of-god|Kingdom of God, content|time|Time, method|text-work|Text work, method|definition-work|Definition work, type|formative|Formative
 
 Cel
 ===

@@ -1,7 +1,7 @@
 Spotkanie 3. - Być sługą Boga i~ludzi
 *************************************
 
-.. tags:: tresc|sluzba|Służba, tresc|milosc|Miłość, tresc|powolanie|Powołanie, tresc|odpowiedzialnosc|Odpowiedzialność, metoda|praca_w_grupach|Praca w~grupach, metoda|praca_przestrzenna|Praca przestrzenna, typ|formacyjne|Formacyjne
+.. tags:: content|service|Service, content|love|Love, content|vocation|Vocation, content|responsibility|Responsibility, method|group-work|Group work, method|spatial-activity|Spatial activity, type|formative|Formative
 
 Cel spotkania + wprowadzenie dla animatora
 ==========================================

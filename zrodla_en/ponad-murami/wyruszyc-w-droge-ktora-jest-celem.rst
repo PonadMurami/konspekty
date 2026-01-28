@@ -1,7 +1,7 @@
 Spotkanie 3. - Wyruszyć w~drogę, która jest celem
 *************************************************
 
-.. tags:: tresc|wspolnota|Wspólnota, tresc|kosciol|Kościół, tresc|duch_swiety|Duch Święty, tresc|poslanie|Posłanie, tresc|decyzje|Decyzje, metoda|praca_z_tekstem|Praca z~tekstem, metoda|praca_w_grupach|Praca w~grupach, typ|formacyjne|Formacyjne
+.. tags:: content|community|Community, content|church|Church, content|holy-spirit|Holy Spirit, content|mission|Mission, content|decisions|Decisions, method|text-work|Text work, method|group-work|Group work, type|formative|Formative
 
 Cel Spotkania
 =============

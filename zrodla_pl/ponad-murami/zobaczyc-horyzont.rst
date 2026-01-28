@@ -1,7 +1,7 @@
 Spotkanie 2. - Zobaczyć horyzont
 ********************************
 
-.. tags:: tresc|dojrzalosc|Dojrzałość, tresc|wolnosc|Wolność, tresc|grzech|Grzech, tresc|nawrocenie|Nawrócenie, metoda|praca_z_tekstem|Praca z~tekstem, metoda|praca_z_definicja|Praca z~definicją, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
+.. tags:: tresc|dojrzalosc|Dojrzałość, tresc|wolnosc|Wolność, tresc|grzech|Grzech, tresc|nawrocenie|Nawrócenie, metoda|praca-z-tekstem|Praca z~tekstem, metoda|praca-z-definicja|Praca z~definicją, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
 
 Cel
 ===

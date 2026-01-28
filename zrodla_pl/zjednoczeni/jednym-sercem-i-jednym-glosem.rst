@@ -1,7 +1,7 @@
 Spotkanie 1. - “Jednym sercem i~jednym głosem”
 **********************************************
 
-.. tags:: tresc|wspolnota|Wspólnota, tresc|jednosc|Jedność, tresc|modlitwa|Modlitwa, metoda|praca_z_tekstem|Praca z~tekstem, metoda|praca_plastyczna|Praca plastyczna, metoda|pytania_do_dzielenia|Pytania do dzielenia, typ|integracyjne|Integracyjne
+.. tags:: tresc|wspolnota|Wspólnota, tresc|jednosc|Jedność, tresc|modlitwa|Modlitwa, metoda|praca-z-tekstem|Praca z~tekstem, metoda|praca-plastyczna|Praca plastyczna, metoda|pytania-do-dzielenia|Pytania do dzielenia, typ|integracyjne|Integracyjne
 
 Cel spotkania
 =============

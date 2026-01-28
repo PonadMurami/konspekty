@@ -1,7 +1,7 @@
 Spotkanie 3. - Jak szukam?
 **************************
 
-.. tags:: tresc|poszukiwanie|Poszukiwanie, tresc|duch_swiety|Duch Święty, tresc|rozeznawanie|Rozeznawanie, tresc|prawda|Prawda, metoda|praca_z_tekstem|Praca z~tekstem, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
+.. tags:: content|seeking|Seeking, content|holy-spirit|Holy Spirit, content|discernment|Discernment, content|truth|Truth, method|text-work|Text work, method|discussion|Discussion, type|formative|Formative
 
 Cel Spotkania
 =============

@@ -1,7 +1,7 @@
 Spotkanie 2. - Boże spojrzenie na człowieka
 *******************************************
 
-.. tags:: tresc|milosc|Miłość, tresc|prawda|Prawda, tresc|tozsamosc|Tożsamość, tresc|dojrzalosc|Dojrzałość, tresc|krzyz|Krzyż, metoda|praca_z_tekstem|Praca z~tekstem, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
+.. tags:: content|love|Love, content|truth|Truth, content|identity|Identity, content|maturity|Maturity, content|cross|Cross, method|text-work|Text work, method|discussion|Discussion, type|formative|Formative
 
 Wprowadzenie dla Animatora
 ==========================

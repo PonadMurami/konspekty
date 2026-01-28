@@ -1,7 +1,7 @@
 Spotkanie 1. - Moje dziś, wielkie dziś
 **************************************
 
-.. tags:: tresc|czas|Czas, tresc|prawda|Prawda, tresc|decyzje|Decyzje, metoda|praca_z_muzyka|Praca z~muzyką, metoda|praca_z_tekstem|Praca z~tekstem, metoda|pytania_do_dzielenia|Pytania do dzielenia, typ|formacyjne|Formacyjne
+.. tags:: tresc|czas|Czas, tresc|prawda|Prawda, tresc|decyzje|Decyzje, metoda|praca-z-muzyka|Praca z~muzyką, metoda|praca-z-tekstem|Praca z~tekstem, metoda|pytania-do-dzielenia|Pytania do dzielenia, typ|formacyjne|Formacyjne
 
 Cel
 ===

@@ -1,7 +1,7 @@
 Spotkanie 1. - Opowiedz mi
 **************************
 
-.. tags:: tresc|eucharystia|Eucharystia, tresc|slowo_boze|Słowo Boże, tresc|wspolnota|Wspólnota, metoda|praca_z_tekstem|Praca z~tekstem, metoda|praca_w_grupach|Praca w~grupach, metoda|dyskusja|Dyskusja, typ|mistagogiczne|Mistagogiczne
+.. tags:: content|eucharist|Eucharist, content|word-of-god|Word of God, content|community|Community, method|text-work|Text work, method|group-work|Group work, method|discussion|Discussion, type|mystagogical|Mystagogical
 
 Cel spotkania
 =============

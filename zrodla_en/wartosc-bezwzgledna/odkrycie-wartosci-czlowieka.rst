@@ -1,7 +1,7 @@
 Spotkanie 1. - Odkrycie wartości człowieka
 ******************************************
 
-.. tags:: tresc|tozsamosc|Tożsamość, tresc|powolanie|Powołanie, metoda|praca_z_tekstem|Praca z~tekstem, metoda|pytania_do_dzielenia|Pytania do dzielenia, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
+.. tags:: content|identity|Identity, content|vocation|Vocation, method|text-work|Text work, method|sharing-questions|Sharing questions, method|discussion|Discussion, type|formative|Formative
 
 Cel
 ===

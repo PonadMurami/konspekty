@@ -1,7 +1,7 @@
 Spotkanie 2. - Walka o~wartość
 ******************************
 
-.. tags:: tresc|tozsamosc|Tożsamość, tresc|decyzje|Decyzje, tresc|nadzieja|Nadzieja, metoda|praca_z_tekstem|Praca z~tekstem, metoda|pytania_do_dzielenia|Pytania do dzielenia, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
+.. tags:: content|identity|Identity, content|decisions|Decisions, content|hope|Hope, method|text-work|Text work, method|sharing-questions|Sharing questions, method|discussion|Discussion, type|formative|Formative
 
 Cel
 ===

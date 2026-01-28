@@ -1,7 +1,7 @@
 Spotkanie 3. - “Rozwój w~mocy Ducha Świętego”
 ************************************************************************************
 
-.. tags:: tresc|duch_swiety|Duch Święty, tresc|dojrzalosc|Dojrzałość, tresc|poslanie|Posłanie, metoda|praca_z_tekstem|Praca z~tekstem, metoda|pytania_do_dzielenia|Pytania do dzielenia, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
+.. tags:: tresc|duch-swiety|Duch Święty, tresc|dojrzalosc|Dojrzałość, tresc|poslanie|Posłanie, metoda|praca-z-tekstem|Praca z~tekstem, metoda|pytania-do-dzielenia|Pytania do dzielenia, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
 
 Cel spotkania + wprowadzenie dla animatora
 ==========================================

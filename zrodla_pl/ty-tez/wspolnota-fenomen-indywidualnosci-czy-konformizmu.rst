@@ -1,7 +1,7 @@
 Spotkanie 1. - Wspólnota - fenomen indywidualności czy konformizmu?
 *******************************************************************
 
-.. tags:: tresc|wspolnota|Wspólnota, tresc|tozsamosc|Tożsamość, tresc|kosciol|Kościół, metoda|praca_z_symbolami|Praca z~symbolami, metoda|praca_w_grupach|Praca w~grupach, metoda|dyskusja|Dyskusja, typ|integracyjne|Integracyjne
+.. tags:: tresc|wspolnota|Wspólnota, tresc|tozsamosc|Tożsamość, tresc|kosciol|Kościół, metoda|praca-z-symbolami|Praca z~symbolami, metoda|praca-w-grupach|Praca w~grupach, metoda|dyskusja|Dyskusja, typ|integracyjne|Integracyjne
 
 Cel
 ===

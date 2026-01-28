@@ -1,7 +1,7 @@
 Spotkanie 1. - Sukkot
 *********************
 
-.. tags:: tresc|otwartosc|Otwartość, tresc|wspolnota|Wspólnota, tresc|sluzba|Służba, tresc|tradycje_zydowskie|Tradycje żydowskie, metoda|praca_plastyczna|Praca plastyczna, metoda|praca_w_grupach|Praca w~grupach, typ|warsztatowe|Warsztatowe
+.. tags:: tresc|otwartosc|Otwartość, tresc|wspolnota|Wspólnota, tresc|sluzba|Służba, tresc|tradycje-zydowskie|Tradycje żydowskie, metoda|praca-plastyczna|Praca plastyczna, metoda|praca-w-grupach|Praca w~grupach, typ|warsztatowe|Warsztatowe
 
 Wprowadzenie dla animatora
 ==========================

@@ -1,7 +1,7 @@
 Spotkanie 3. - Jestem Oazowiczem – co z~tego wynika?
 ****************************************************
 
-.. tags:: tresc|odpowiedzialnosc|Odpowiedzialność, tresc|wspolnota|Wspólnota, tresc|kosciol|Kościół, tresc|sluzba|Służba, metoda|praca_z_tekstem|Praca z~tekstem, metoda|praca_w_grupach|Praca w~grupach, metoda|dyskusja|Dyskusja, typ|warsztatowe|Warsztatowe
+.. tags:: content|responsibility|Responsibility, content|community|Community, content|church|Church, content|service|Service, method|text-work|Text work, method|group-work|Group work, method|discussion|Discussion, type|workshop|Workshop
 
 Cel i~metoda spotkania
 ======================

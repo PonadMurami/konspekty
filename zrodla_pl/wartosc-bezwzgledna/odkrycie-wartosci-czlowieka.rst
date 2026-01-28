@@ -1,7 +1,7 @@
 Spotkanie 1. - Odkrycie wartości człowieka
 ******************************************
 
-.. tags:: tresc|tozsamosc|Tożsamość, tresc|powolanie|Powołanie, metoda|praca_z_tekstem|Praca z~tekstem, metoda|pytania_do_dzielenia|Pytania do dzielenia, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
+.. tags:: tresc|tozsamosc|Tożsamość, tresc|powolanie|Powołanie, metoda|praca-z-tekstem|Praca z~tekstem, metoda|pytania-do-dzielenia|Pytania do dzielenia, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
 
 Cel
 ===

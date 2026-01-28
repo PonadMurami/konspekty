@@ -1,7 +1,7 @@
 Spotkanie 2. - Osobiste doświadczenie wiary
 *******************************************
 
-.. tags:: tresc|poszukiwanie|Poszukiwanie, tresc|tozsamosc|Tożsamość, tresc|prawda|Prawda, metoda|pytania_do_dzielenia|Pytania do dzielenia, metoda|praca_plastyczna|Praca plastyczna, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
+.. tags:: content|seeking|Seeking, content|identity|Identity, content|truth|Truth, method|sharing-questions|Sharing questions, method|art-activity|Art activity, method|discussion|Discussion, type|formative|Formative
 
 Cel Spotkania
 =============

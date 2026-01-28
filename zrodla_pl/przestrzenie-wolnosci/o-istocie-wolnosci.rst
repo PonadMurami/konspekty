@@ -1,7 +1,7 @@
 Spotkanie 1. - O~istocie wolności
 *********************************
 
-.. tags:: tresc|wolnosc|Wolność, tresc|prawda|Prawda, tresc|grzech|Grzech, metoda|praca_z_definicja|Praca z~definicją, metoda|praca_z_tekstem|Praca z~tekstem, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
+.. tags:: tresc|wolnosc|Wolność, tresc|prawda|Prawda, tresc|grzech|Grzech, metoda|praca-z-definicja|Praca z~definicją, metoda|praca-z-tekstem|Praca z~tekstem, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
 
 Cel
 ===

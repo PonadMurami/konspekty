@@ -1,7 +1,7 @@
 Spotkanie 3. - "Gotowi na przyjście"
 *******************************************
 
-.. tags:: tresc|nawrocenie|Nawrócenie, tresc|krolestwo_boze|Królestwo Boże, tresc|czas|Czas, metoda|praca_z_tekstem|Praca z~tekstem, metoda|pytania_do_dzielenia|Pytania do dzielenia, metoda|praca_przestrzenna|Praca przestrzenna, typ|formacyjne|Formacyjne
+.. tags:: content|conversion|Conversion, content|kingdom-of-god|Kingdom of God, content|time|Time, method|text-work|Text work, method|sharing-questions|Sharing questions, method|spatial-activity|Spatial activity, type|formative|Formative
 
 Cel spotkania + wprowadzenie dla animatora
 ==========================================

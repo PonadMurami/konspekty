@@ -1,7 +1,7 @@
 Spotkanie 1. - Rozwój "trójwymiarowy"
 *************************************
 
-.. tags:: tresc|dojrzalosc|Dojrzałość, tresc|powolanie|Powołanie, tresc|slowo_boze|Słowo Boże, metoda|praca_przestrzenna|Praca przestrzenna, metoda|praca_z_tekstem|Praca z~tekstem, metoda|pytania_do_dzielenia|Pytania do dzielenia, typ|integracyjne|Integracyjne
+.. tags:: tresc|dojrzalosc|Dojrzałość, tresc|powolanie|Powołanie, tresc|slowo-boze|Słowo Boże, metoda|praca-przestrzenna|Praca przestrzenna, metoda|praca-z-tekstem|Praca z~tekstem, metoda|pytania-do-dzielenia|Pytania do dzielenia, typ|integracyjne|Integracyjne
 
 Cel spotkania + wprowadzenie dla animatora
 ==========================================

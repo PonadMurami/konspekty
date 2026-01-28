@@ -1,7 +1,7 @@
 Spotkanie 2. - Eucharystia jako pokarm
 **************************************
 
-.. tags:: tresc|eucharystia|Eucharystia, tresc|stary_testament|Stary Testament, tresc|pragnienia|Pragnienia, metoda|praca_z_tekstem|Praca z~tekstem, typ|mistagogiczne|Mistagogiczne
+.. tags:: content|eucharist|Eucharist, content|old-testament|Old Testament, content|desires|Desires, method|text-work|Text work, type|mystagogical|Mystagogical
 
 Wprowadzenie dla Animatora
 ==========================

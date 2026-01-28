@@ -1,7 +1,7 @@
 Spotkanie 3. - Wspólnota jest decyzją
 *************************************
 
-.. tags:: tresc|wspolnota|Wspólnota, tresc|decyzje|Decyzje, tresc|odpowiedzialnosc|Odpowiedzialność, tresc|czas|Czas, metoda|praca_z_muzyka|Praca z~muzyką, metoda|praca_z_tekstem|Praca z~tekstem, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
+.. tags:: content|community|Community, content|decisions|Decisions, content|responsibility|Responsibility, content|time|Time, method|music-work|Music work, method|text-work|Text work, method|discussion|Discussion, type|formative|Formative
 
 Cel
 ===

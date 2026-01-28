@@ -1,7 +1,7 @@
 Spotkanie 3. - Niespokojne jest serce nasze, dopóki nie spocznie w~Panu
 ***********************************************************************
 
-.. tags:: tresc|pragnienia|Pragnienia, tresc|wola_boza|Wola Boża, tresc|rozeznawanie|Rozeznawanie, tresc|nadzieja|Nadzieja, tresc|wspolnota|Wspólnota, metoda|praca_z_tekstem|Praca z~tekstem, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
+.. tags:: content|desires|Desires, content|gods-will|God's will, content|discernment|Discernment, content|hope|Hope, content|community|Community, method|text-work|Text work, method|discussion|Discussion, type|formative|Formative
 
 Cel Spotkania
 =============

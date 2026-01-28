@@ -1,7 +1,7 @@
 Spotkanie 3. - "KONSEKWENCJE!!!" czy po prostu "Konsekwencje"?
 ***************************************************************
 
-.. tags:: tresc|decyzje|Decyzje, tresc|odpowiedzialnosc|Odpowiedzialność, tresc|wolnosc|Wolność, tresc|prawda|Prawda, metoda|praca_z_tekstem|Praca z~tekstem, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
+.. tags:: tresc|decyzje|Decyzje, tresc|odpowiedzialnosc|Odpowiedzialność, tresc|wolnosc|Wolność, tresc|prawda|Prawda, metoda|praca-z-tekstem|Praca z~tekstem, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
 
 Cel Spotkania
 =============

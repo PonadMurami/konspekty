@@ -1,7 +1,7 @@
 Spotkanie 3. - Dlaczego słowa "Bądź wola Twoja" są istotne dla mojego życia?
 ****************************************************************************
 
-.. tags:: tresc|wola_boza|Wola Boża, tresc|wolnosc|Wolność, tresc|powolanie|Powołanie, tresc|prawda|Prawda, metoda|praca_z_tekstem|Praca z~tekstem, metoda|pytania_do_dzielenia|Pytania do dzielenia, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
+.. tags:: content|gods-will|God's will, content|freedom|Freedom, content|vocation|Vocation, content|truth|Truth, method|text-work|Text work, method|sharing-questions|Sharing questions, method|discussion|Discussion, type|formative|Formative
 
 Cel
 ===

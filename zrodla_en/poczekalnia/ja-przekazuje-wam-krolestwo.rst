@@ -1,7 +1,7 @@
 Spotkanie 3. - Ja przekazuję wam królestwo
 ******************************************
 
-.. tags:: tresc|krolestwo_boze|Królestwo Boże, tresc|kosciol|Kościół, tresc|decyzje|Decyzje, tresc|wspolnota|Wspólnota, tresc|nadzieja|Nadzieja, metoda|praca_z_tekstem|Praca z~tekstem, metoda|praca_w_grupach|Praca w~grupach, typ|formacyjne|Formacyjne
+.. tags:: content|kingdom-of-god|Kingdom of God, content|church|Church, content|decisions|Decisions, content|community|Community, content|hope|Hope, method|text-work|Text work, method|group-work|Group work, type|formative|Formative
 
 Cele
 ====

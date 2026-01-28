@@ -1,7 +1,7 @@
 Spotkanie 2. - Wartość słowa
 ****************************
 
-.. tags:: tresc|slowo_boze|Słowo Boże, tresc|komunikacja|Komunikacja, tresc|prawda|Prawda, metoda|praca_z_tekstem|Praca z~tekstem, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
+.. tags:: tresc|slowo-boze|Słowo Boże, tresc|komunikacja|Komunikacja, tresc|prawda|Prawda, metoda|praca-z-tekstem|Praca z~tekstem, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
 
 Cel
 ===

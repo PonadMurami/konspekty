@@ -1,7 +1,7 @@
 Spotkanie 2. - Miłości "pogodzone"
 **********************************
 
-.. tags:: tresc|milosc|Miłość, tresc|relacje|Relacje, tresc|wolnosc|Wolność, metoda|praca_z_tekstem|Praca z~tekstem, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
+.. tags:: content|love|Love, content|relationships|Relationships, content|freedom|Freedom, method|text-work|Text work, method|discussion|Discussion, type|formative|Formative
 
 Cel Spotkania
 =============

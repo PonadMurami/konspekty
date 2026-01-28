@@ -1,7 +1,7 @@
 Spotkanie 2. - Jestem Oazowiczem - co to znaczy?
 ************************************************
 
-.. tags:: tresc|tozsamosc|Tożsamość, tresc|wspolnota|Wspólnota, tresc|kosciol|Kościół, metoda|praca_przestrzenna|Praca przestrzenna, metoda|pytania_do_dzielenia|Pytania do dzielenia, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
+.. tags:: content|identity|Identity, content|community|Community, content|church|Church, method|spatial-activity|Spatial activity, method|sharing-questions|Sharing questions, method|discussion|Discussion, type|formative|Formative
 
 Cel Spotkania
 =============

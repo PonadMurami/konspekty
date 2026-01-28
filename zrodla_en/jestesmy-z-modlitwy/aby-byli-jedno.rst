@@ -1,7 +1,7 @@
 Spotkanie 4. - "Aby byli jedno"
 *******************************
 
-.. tags:: tresc|jednosc|Jedność, tresc|wspolnota|Wspólnota, tresc|modlitwa|Modlitwa, tresc|duch_swiety|Duch Święty, tresc|pragnienia|Pragnienia, metoda|praca_z_tekstem|Praca z~tekstem, typ|modlitewne|Modlitewne
+.. tags:: content|unity|Unity, content|community|Community, content|prayer|Prayer, content|holy-spirit|Holy Spirit, content|desires|Desires, method|text-work|Text work, type|prayer-meeting|Prayer meeting
 
 Wprowadzenie dla animatora
 ==========================

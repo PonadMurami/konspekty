@@ -1,7 +1,7 @@
 Spotkanie 1. - Wolność
 **********************
 
-.. tags:: tresc|wolnosc|Wolność, tresc|prawda|Prawda, tresc|grzech|Grzech, metoda|praca_z_muzyka|Praca z~muzyką, metoda|praca_z_tekstem|Praca z~tekstem, metoda|praca_z_definicja|Praca z~definicją, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
+.. tags:: tresc|wolnosc|Wolność, tresc|prawda|Prawda, tresc|grzech|Grzech, metoda|praca-z-muzyka|Praca z~muzyką, metoda|praca-z-tekstem|Praca z~tekstem, metoda|praca-z-definicja|Praca z~definicją, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
 
 Wprowadzenie dla animatora
 ==========================

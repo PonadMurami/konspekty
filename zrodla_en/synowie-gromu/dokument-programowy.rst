@@ -1,7 +1,7 @@
 Dokument programowy
 *******************
 
-.. tags:: tresc|pragnienia|Pragnienia, tresc|decyzje|Decyzje, tresc|dojrzalosc|Dojrzałość, tresc|nawrocenie|Nawrócenie, metoda|praca_z_tekstem|Praca z~tekstem, typ|formacyjne|Formacyjne
+.. tags:: content|desires|Desires, content|decisions|Decisions, content|maturity|Maturity, content|conversion|Conversion, method|text-work|Text work, type|formative|Formative
 
 ==================================
 Wprowadzenie

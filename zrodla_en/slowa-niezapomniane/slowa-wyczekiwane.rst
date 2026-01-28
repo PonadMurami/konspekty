@@ -1,7 +1,7 @@
 Spotkanie 1. - Słowa wyczekiwane
 ********************************
 
-.. tags:: tresc|komunikacja|Komunikacja, tresc|relacje|Relacje, tresc|prawda|Prawda, metoda|praca_z_muzyka|Praca z~muzyką, metoda|dyskusja|Dyskusja, typ|integracyjne|Integracyjne
+.. tags:: content|communication|Communication, content|relationships|Relationships, content|truth|Truth, method|music-work|Music work, method|discussion|Discussion, type|integrative|Integrative
 
 Cel
 ===

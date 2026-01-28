@@ -1,7 +1,7 @@
 Spotkanie 2. - Poznał i~uwierzył
 ********************************
 
-.. tags:: tresc|czas|Czas, tresc|nadzieja|Nadzieja, tresc|stary_testament|Stary Testament, tresc|slowo_boze|Słowo Boże, tresc|prawda|Prawda, metoda|praca_z_tekstem|Praca z~tekstem, typ|biblijne|Biblijne
+.. tags:: tresc|czas|Czas, tresc|nadzieja|Nadzieja, tresc|stary-testament|Stary Testament, tresc|slowo-boze|Słowo Boże, tresc|prawda|Prawda, metoda|praca-z-tekstem|Praca z~tekstem, typ|biblijne|Biblijne
 
 Cele spotkania + wprowadzenie dla animatora
 ===========================================

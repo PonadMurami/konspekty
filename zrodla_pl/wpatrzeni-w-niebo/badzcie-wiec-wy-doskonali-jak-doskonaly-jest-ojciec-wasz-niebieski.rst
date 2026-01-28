@@ -1,7 +1,7 @@
 Spotkanie 2. - “Bądźcie więc wy doskonali, jak doskonały jest Ojciec wasz niebieski”
 ************************************************************************************
 
-.. tags:: tresc|powolanie|Powołanie, tresc|duchowosc|Duchowość, tresc|dojrzalosc|Dojrzałość, metoda|praca_z_tekstem|Praca z~tekstem, metoda|praca_w_grupach|Praca w~grupach, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
+.. tags:: tresc|powolanie|Powołanie, tresc|duchowosc|Duchowość, tresc|dojrzalosc|Dojrzałość, metoda|praca-z-tekstem|Praca z~tekstem, metoda|praca-w-grupach|Praca w~grupach, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
 
 Cel spotkania i~wprowadzenie dla animatora
 ==========================================

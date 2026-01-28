@@ -1,7 +1,7 @@
 Spotkanie 1. - Tęsknota za ideałem
 **********************************
 
-.. tags:: tresc|pragnienia|Pragnienia, tresc|poszukiwanie|Poszukiwanie, tresc|grzech|Grzech, tresc|prawda|Prawda, metoda|praca_w_grupach|Praca w~grupach, metoda|praca_z_tekstem|Praca z~tekstem, metoda|pytania_do_dzielenia|Pytania do dzielenia, typ|integracyjne|Integracyjne
+.. tags:: content|desires|Desires, content|seeking|Seeking, content|sin|Sin, content|truth|Truth, method|group-work|Group work, method|text-work|Text work, method|sharing-questions|Sharing questions, type|integrative|Integrative
 
 Cele
 ====

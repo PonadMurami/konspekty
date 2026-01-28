@@ -1,7 +1,7 @@
 Spotkanie 1. - Wiara - przestrzeń dynamicznych zwrotów
 ******************************************************
 
-.. tags:: tresc|zmartwychwstanie|Zmartwychwstanie, tresc|poszukiwanie|Poszukiwanie, tresc|prawda|Prawda, tresc|pragnienia|Pragnienia, metoda|praca_z_obrazem|Praca z~obrazem, metoda|praca_z_tekstem|Praca z~tekstem, typ|formacyjne|Formacyjne
+.. tags:: tresc|zmartwychwstanie|Zmartwychwstanie, tresc|poszukiwanie|Poszukiwanie, tresc|prawda|Prawda, tresc|pragnienia|Pragnienia, metoda|praca-z-obrazem|Praca z~obrazem, metoda|praca-z-tekstem|Praca z~tekstem, typ|formacyjne|Formacyjne
 
 Potrzebne pomoce
 ================

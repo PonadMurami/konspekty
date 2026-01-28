@@ -1,7 +1,7 @@
 Spotkanie 2. - Stworzyłeś nas bowiem jako skierowanych ku Tobie Panie
 *********************************************************************
 
-.. tags:: tresc|milosc|Miłość, tresc|pragnienia|Pragnienia, tresc|slowo_boze|Słowo Boże, tresc|krzyz|Krzyż, metoda|praca_z_tekstem|Praca z~tekstem, metoda|dyskusja|Dyskusja, typ|ewangelizacyjne|Ewangelizacyjne
+.. tags:: content|love|Love, content|desires|Desires, content|word-of-god|Word of God, content|cross|Cross, method|text-work|Text work, method|discussion|Discussion, type|evangelistic|Evangelistic
 
 Cel Spotkania
 =============

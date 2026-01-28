@@ -1,7 +1,7 @@
 Spotkanie 4. - Quo vadis?
 *************************
 
-.. tags:: tresc|decyzje|Decyzje, tresc|powolanie|Powołanie, tresc|nadzieja|Nadzieja, tresc|krolestwo_boze|Królestwo Boże, tresc|czas|Czas, metoda|praca_z_tekstem|Praca z~tekstem, metoda|praca_z_definicja|Praca z~definicją, typ|formacyjne|Formacyjne
+.. tags:: tresc|decyzje|Decyzje, tresc|powolanie|Powołanie, tresc|nadzieja|Nadzieja, tresc|krolestwo-boze|Królestwo Boże, tresc|czas|Czas, metoda|praca-z-tekstem|Praca z~tekstem, metoda|praca-z-definicja|Praca z~definicją, typ|formacyjne|Formacyjne
 
 Cel
 ===

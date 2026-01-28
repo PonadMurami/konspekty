@@ -1,7 +1,7 @@
 Spotkanie 1. - Choć goni nas czas
 *********************************
 
-.. tags:: tresc|czas|Czas, tresc|decyzje|Decyzje, tresc|kosciol|Kościół, metoda|praca_z_definicja|Praca z~definicją, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
+.. tags:: content|time|Time, content|decisions|Decisions, content|church|Church, method|definition-work|Definition work, method|discussion|Discussion, type|formative|Formative
 
 Cele
 ====

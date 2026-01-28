@@ -1,7 +1,7 @@
 Spotkanie 4. - “Miłość więzią jedności”
 ***************************************
 
-.. tags:: tresc|milosc|Miłość, tresc|jednosc|Jedność, tresc|relacje|Relacje, metoda|praca_z_tekstem|Praca z~tekstem, metoda|pytania_do_dzielenia|Pytania do dzielenia, typ|modlitewne|Modlitewne
+.. tags:: tresc|milosc|Miłość, tresc|jednosc|Jedność, tresc|relacje|Relacje, metoda|praca-z-tekstem|Praca z~tekstem, metoda|pytania-do-dzielenia|Pytania do dzielenia, typ|modlitewne|Modlitewne
 
 Cel spotkania
 =============

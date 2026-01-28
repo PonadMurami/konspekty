@@ -1,7 +1,7 @@
 Spotkanie 1. - Iluzja a~prawda
 ******************************
 
-.. tags:: tresc|wolnosc|Wolność, tresc|prawda|Prawda, tresc|rozeznawanie|Rozeznawanie, tresc|duch_swiety|Duch Święty, metoda|praca_z_tekstem|Praca z~tekstem, metoda|dyskusja|Dyskusja, typ|integracyjne|Integracyjne
+.. tags:: tresc|wolnosc|Wolność, tresc|prawda|Prawda, tresc|rozeznawanie|Rozeznawanie, tresc|duch-swiety|Duch Święty, metoda|praca-z-tekstem|Praca z~tekstem, metoda|dyskusja|Dyskusja, typ|integracyjne|Integracyjne
 
 Cel spotkania i~wprowadzenie dla animatora
 ==========================================

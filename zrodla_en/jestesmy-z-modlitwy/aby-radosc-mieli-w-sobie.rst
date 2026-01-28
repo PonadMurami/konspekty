@@ -1,7 +1,7 @@
 Spotkanie 3. - "Aby radość mieli w~sobie w~całej pełni"
 *******************************************************
 
-.. tags:: tresc|jednosc|Jedność, tresc|wspolnota|Wspólnota, tresc|modlitwa|Modlitwa, tresc|prawda|Prawda, metoda|praca_przestrzenna|Praca przestrzenna, metoda|praca_z_tekstem|Praca z~tekstem, typ|modlitewne|Modlitewne
+.. tags:: content|unity|Unity, content|community|Community, content|prayer|Prayer, content|truth|Truth, method|spatial-activity|Spatial activity, method|text-work|Text work, type|prayer-meeting|Prayer meeting
 
 Wprowadzenie dla animatora
 ==========================

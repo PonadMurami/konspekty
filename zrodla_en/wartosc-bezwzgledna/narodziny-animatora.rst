@@ -1,7 +1,7 @@
 Spotkanie 3. - Narodziny Animatora
 **********************************
 
-.. tags:: tresc|poslanie|Posłanie, tresc|sluzba|Służba, tresc|odpowiedzialnosc|Odpowiedzialność, tresc|czas|Czas, metoda|praca_z_tekstem|Praca z~tekstem, metoda|praca_w_grupach|Praca w~grupach, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
+.. tags:: content|mission|Mission, content|service|Service, content|responsibility|Responsibility, content|time|Time, method|text-work|Text work, method|group-work|Group work, method|discussion|Discussion, type|formative|Formative
 
 Cel Spotkania
 =============

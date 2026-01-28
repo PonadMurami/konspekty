@@ -1,7 +1,7 @@
 Spotkanie 3. - Przejawy Nowej Kultury w~życiu chrześcijańskim
 *************************************************************
 
-.. tags:: tresc|milosc|Miłość, tresc|wspolnota|Wspólnota, tresc|wolnosc|Wolność, metoda|praca_z_tekstem|Praca z~tekstem, metoda|praca_z_symbolami|Praca z~symbolami, metoda|praca_w_grupach|Praca w~grupach, metoda|dyskusja|Dyskusja, typ|ewangelizacyjne|Ewangelizacyjne
+.. tags:: content|love|Love, content|community|Community, content|freedom|Freedom, method|text-work|Text work, method|symbols-work|Symbols work, method|group-work|Group work, method|discussion|Discussion, type|evangelistic|Evangelistic
 
 Cel
 ===

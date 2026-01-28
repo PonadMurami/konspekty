@@ -1,7 +1,7 @@
 Spotkanie 3. - Jestem *Christianoi*
 ***********************************
 
-.. tags:: tresc|poslanie|Posłanie, tresc|odpowiedzialnosc|Odpowiedzialność, tresc|decyzje|Decyzje, metoda|praca_z_tekstem|Praca z~tekstem, metoda|praca_z_obrazem|Praca z~obrazem, metoda|praca_w_grupach|Praca w~grupach, metoda|pytania_do_dzielenia|Pytania do dzielenia, typ|ewangelizacyjne|Ewangelizacyjne
+.. tags:: content|mission|Mission, content|responsibility|Responsibility, content|decisions|Decisions, method|text-work|Text work, method|image-work|Image work, method|group-work|Group work, method|sharing-questions|Sharing questions, type|evangelistic|Evangelistic
 
 Cele
 ====

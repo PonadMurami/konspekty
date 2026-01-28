@@ -1,7 +1,7 @@
 Spotkanie 2. - "Będę żyć dla Niego"
 ***********************************
 
-.. tags:: tresc|krzyz|Krzyż, tresc|zmartwychwstanie|Zmartwychwstanie, tresc|grzech|Grzech, tresc|nawrocenie|Nawrócenie, tresc|slowo_boze|Słowo Boże, metoda|praca_z_tekstem|Praca z~tekstem, metoda|pytania_do_dzielenia|Pytania do dzielenia, typ|biblijne|Biblijne
+.. tags:: tresc|krzyz|Krzyż, tresc|zmartwychwstanie|Zmartwychwstanie, tresc|grzech|Grzech, tresc|nawrocenie|Nawrócenie, tresc|slowo-boze|Słowo Boże, metoda|praca-z-tekstem|Praca z~tekstem, metoda|pytania-do-dzielenia|Pytania do dzielenia, typ|biblijne|Biblijne
 
 Cel spotkania + wprowadzenie dla animatora
 ==========================================

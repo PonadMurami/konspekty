@@ -1,7 +1,7 @@
 Spotkanie 2. - Bardziej być niż mieć
 ************************************
 
-.. tags:: tresc|sluzba|Służba, tresc|milosc|Miłość, tresc|wolnosc|Wolność, metoda|praca_z_obrazem|Praca z~obrazem, metoda|praca_w_grupach|Praca w~grupach, metoda|pytania_do_dzielenia|Pytania do dzielenia, typ|formacyjne|Formacyjne
+.. tags:: tresc|sluzba|Służba, tresc|milosc|Miłość, tresc|wolnosc|Wolność, metoda|praca-z-obrazem|Praca z~obrazem, metoda|praca-w-grupach|Praca w~grupach, metoda|pytania-do-dzielenia|Pytania do dzielenia, typ|formacyjne|Formacyjne
 
 Cel spotkania + wprowadzenie dla animatora
 ==========================================

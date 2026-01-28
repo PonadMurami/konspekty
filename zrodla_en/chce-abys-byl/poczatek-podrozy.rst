@@ -1,7 +1,7 @@
 Spotkanie 1. - Początek podróży
 *******************************
 
-.. tags:: tresc|powolanie|Powołanie, tresc|pragnienia|Pragnienia, tresc|decyzje|Decyzje, tresc|wola_boza|Wola Boża, metoda|praca_z_tekstem|Praca z~tekstem, metoda|pytania_do_dzielenia|Pytania do dzielenia, typ|integracyjne|Integracyjne
+.. tags:: content|vocation|Vocation, content|desires|Desires, content|decisions|Decisions, content|gods-will|God's will, method|text-work|Text work, method|sharing-questions|Sharing questions, type|integrative|Integrative
 
 Cel spotkania i~wprowadzenie dla animatora
 ==========================================

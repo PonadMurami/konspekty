@@ -1,7 +1,7 @@
 Spotkanie 2. - Poszukując pytań
 *******************************
 
-.. tags:: tresc|poszukiwanie|Poszukiwanie, tresc|prawda|Prawda, tresc|wolnosc|Wolność, tresc|duch_swiety|Duch Święty, tresc|tradycje_zydowskie|Tradycje żydowskie, metoda|praca_w_grupach|Praca w~grupach, metoda|praca_z_tekstem|Praca z~tekstem, typ|warsztatowe|Warsztatowe
+.. tags:: tresc|poszukiwanie|Poszukiwanie, tresc|prawda|Prawda, tresc|wolnosc|Wolność, tresc|duch-swiety|Duch Święty, tresc|tradycje-zydowskie|Tradycje żydowskie, metoda|praca-w-grupach|Praca w~grupach, metoda|praca-z-tekstem|Praca z~tekstem, typ|warsztatowe|Warsztatowe
 
 Wprowadzenie dla animatora
 ==========================

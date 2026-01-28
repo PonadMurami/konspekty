@@ -1,7 +1,7 @@
 Spotkanie 1. - "Nie zadręczajcie się"
 *************************************
 
-.. tags:: tresc|krolestwo_boze|Królestwo Boże, tresc|czas|Czas, tresc|decyzje|Decyzje, metoda|praca_przestrzenna|Praca przestrzenna, metoda|praca_z_tekstem|Praca z~tekstem, metoda|dyskusja|Dyskusja, typ|integracyjne|Integracyjne
+.. tags:: tresc|krolestwo-boze|Królestwo Boże, tresc|czas|Czas, tresc|decyzje|Decyzje, metoda|praca-przestrzenna|Praca przestrzenna, metoda|praca-z-tekstem|Praca z~tekstem, metoda|dyskusja|Dyskusja, typ|integracyjne|Integracyjne
 
 Cel spotkania + wprowadzenie dla animatora
 ==========================================

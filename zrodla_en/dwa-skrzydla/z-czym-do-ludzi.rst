@@ -1,7 +1,7 @@
 Spotkanie 3. - Z~czym do ludzi?
 *******************************
 
-.. tags:: tresc|poslanie|Posłanie, tresc|odpowiedzialnosc|Odpowiedzialność, tresc|komunikacja|Komunikacja, tresc|wolnosc|Wolność, metoda|praca_z_tekstem|Praca z~tekstem, metoda|pytania_do_dzielenia|Pytania do dzielenia, typ|formacyjne|Formacyjne
+.. tags:: content|mission|Mission, content|responsibility|Responsibility, content|communication|Communication, content|freedom|Freedom, method|text-work|Text work, method|sharing-questions|Sharing questions, type|formative|Formative
 
 Cel spotkania - wprowadzenie dla animatora
 ==========================================

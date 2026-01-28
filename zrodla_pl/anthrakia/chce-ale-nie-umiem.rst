@@ -1,7 +1,7 @@
 Spotkanie 3. - "Chcę, ale nie umiem"
 ************************************
 
-.. tags:: tresc|modlitwa|Modlitwa, tresc|prawda|Prawda, tresc|dojrzalosc|Dojrzałość, tresc|krzyz|Krzyż, metoda|praca_z_tekstem|Praca z~tekstem, metoda|praca_z_obrazem|Praca z~obrazem, typ|biblijne|Biblijne
+.. tags:: tresc|modlitwa|Modlitwa, tresc|prawda|Prawda, tresc|dojrzalosc|Dojrzałość, tresc|krzyz|Krzyż, metoda|praca-z-tekstem|Praca z~tekstem, metoda|praca-z-obrazem|Praca z~obrazem, typ|biblijne|Biblijne
 
 Credo
 =====

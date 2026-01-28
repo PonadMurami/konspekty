@@ -1,7 +1,7 @@
 Spotkanie 3. - Przewodnicy w~wierze
 ***********************************
 
-.. tags:: tresc|poslanie|Posłanie, tresc|odpowiedzialnosc|Odpowiedzialność, tresc|relacje|Relacje, tresc|slowo_boze|Słowo Boże, tresc|tradycje_zydowskie|Tradycje żydowskie, metoda|praca_z_tekstem|Praca z~tekstem, metoda|praca_z_obrazem|Praca z~obrazem, typ|mistagogiczne|Mistagogiczne
+.. tags:: content|mission|Mission, content|responsibility|Responsibility, content|relationships|Relationships, content|word-of-god|Word of God, content|jewish-traditions|Jewish traditions, method|text-work|Text work, method|image-work|Image work, type|mystagogical|Mystagogical
 
 Wprowadzenie dla animatora
 ==========================

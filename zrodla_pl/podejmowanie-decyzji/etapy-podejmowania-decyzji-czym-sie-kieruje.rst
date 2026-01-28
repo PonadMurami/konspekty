@@ -1,7 +1,7 @@
 Spotkanie 2. - Etapy podejmowania decyzji – czym się kieruję?
 *************************************************************
 
-.. tags:: tresc|decyzje|Decyzje, tresc|rozeznawanie|Rozeznawanie, tresc|wolnosc|Wolność, metoda|praca_z_definicja|Praca z~definicją, metoda|dyskusja|Dyskusja, typ|warsztatowe|Warsztatowe
+.. tags:: tresc|decyzje|Decyzje, tresc|rozeznawanie|Rozeznawanie, tresc|wolnosc|Wolność, metoda|praca-z-definicja|Praca z~definicją, metoda|dyskusja|Dyskusja, typ|warsztatowe|Warsztatowe
 
 Cel
 ===

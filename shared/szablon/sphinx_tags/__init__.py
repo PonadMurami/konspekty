@@ -620,10 +620,15 @@ def tag_category_page(
     extension,
     tags_index_head: str,
     filename_base: str,
+    page_title_template: str = None,
 ):
     """Creates a category-specific tag overview page (filtered tag list)."""
 
     tags = list(tags)
+
+    if page_title_template is None:
+        page_title_template = "Tagi w kategorii: {category}"
+    page_title = page_title_template.format(category=title)
 
     if "md" in extension:
         content = []
@@ -633,7 +638,7 @@ def tag_category_page(
         content.append("")
         content.append(f"({filename_base})=")
         content.append("")
-        content.append(f"# Tagi w kategorii: {title}")
+        content.append(f"# {page_title}")
         content.append("")
         content.append("```{toctree}")
         content.append("---")
@@ -648,8 +653,8 @@ def tag_category_page(
         content = []
         content.append(":orphan:")
         content.append("")
-        content.append(f"Tagi w kategorii: {title}")
-        content.append("#" * textwidth(f"Tagi w kategorii: {title}"))
+        content.append(page_title)
+        content.append("#" * textwidth(page_title))
         content.append("")
         content.append(".. toctree::")
         content.append("    :maxdepth: 1")
@@ -718,11 +723,16 @@ def update_tags(app):
         )
 
         # Create category-specific overview pages for sidebar navigation
-        category_labels = {
+        category_labels = getattr(app.config, "tags_category_labels", None) or {
             "tresc": "Treści",
             "metoda": "Metody",
             "typ": "Charakter spotkania",
         }
+        page_title_template = getattr(app.config, "tags_category_page_title_template", None)
+        basename_template = (
+            getattr(app.config, "tags_category_page_basename_template", None)
+            or "kategoria-{category_key}"
+        )
         outdir = os.path.join(app.srcdir, tags_output_dir)
         for category_key, label in category_labels.items():
             filtered = [t for t in tags.values() if getattr(t, "category", None) == category_key]
@@ -732,7 +742,8 @@ def update_tags(app):
                 label,
                 app.config.tags_extension,
                 app.config.tags_index_head,
-                f"kategoria-{category_key}",
+                basename_template.format(category_key=category_key),
+                page_title_template=page_title_template,
             )
 
         logger.info("Tags updated", color="white")
@@ -758,6 +769,11 @@ def setup(app):
     app.add_config_value("tags_index_head", "Tags", "html")
     app.add_config_value("tags_create_badges", False, "html")
     app.add_config_value("tags_badge_colors", {}, "html")
+    # Optional extras for multilingual/customized installs
+    app.add_config_value("tags_definition_file", None, "html")
+    app.add_config_value("tags_category_labels", None, "html")
+    app.add_config_value("tags_category_page_title_template", None, "html")
+    app.add_config_value("tags_category_page_basename_template", None, "html")
 
     # internal config values
     app.add_config_value(

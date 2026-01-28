@@ -1,7 +1,7 @@
 Spotkanie 2. - “Na Brzegu Znaków”
 *********************************
 
-.. tags:: tresc|duch_swiety|Duch Święty, tresc|dojrzalosc|Dojrzałość, tresc|poszukiwanie|Poszukiwanie, tresc|decyzje|Decyzje, metoda|praca_z_tekstem|Praca z~tekstem, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
+.. tags:: content|holy-spirit|Holy Spirit, content|maturity|Maturity, content|seeking|Seeking, content|decisions|Decisions, method|text-work|Text work, method|discussion|Discussion, type|formative|Formative
 
 Cel spotkania
 =============

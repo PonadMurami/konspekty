@@ -1,7 +1,7 @@
 Spotkanie 1. - "Chcę, ale nie rozumiem"
 ***************************************
 
-.. tags:: tresc|prawda|Prawda, tresc|kosciol|Kościół, tresc|dojrzalosc|Dojrzałość, metoda|praca_z_tekstem|Praca z~tekstem, metoda|pytania_do_dzielenia|Pytania do dzielenia, typ|biblijne|Biblijne
+.. tags:: content|truth|Truth, content|church|Church, content|maturity|Maturity, method|text-work|Text work, method|sharing-questions|Sharing questions, type|biblical|Biblical
 
 Wprowadzenie
 ============

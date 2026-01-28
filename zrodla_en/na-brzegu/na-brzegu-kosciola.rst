@@ -1,7 +1,7 @@
 Spotkanie 3. - “Na Brzegu Kościoła”
 ***********************************
 
-.. tags:: tresc|kosciol|Kościół, tresc|powolanie|Powołanie, tresc|milosc|Miłość, tresc|sluzba|Służba, metoda|praca_z_obrazem|Praca z~obrazem, metoda|dyskusja|Dyskusja, typ|warsztatowe|Warsztatowe
+.. tags:: content|church|Church, content|vocation|Vocation, content|love|Love, content|service|Service, method|image-work|Image work, method|discussion|Discussion, type|workshop|Workshop
 
 Cel spotkania
 =============

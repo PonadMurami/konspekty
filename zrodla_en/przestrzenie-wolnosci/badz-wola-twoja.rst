@@ -1,7 +1,7 @@
 Spotkanie 2. - Bądź wola Twoja
 ******************************
 
-.. tags:: tresc|wola_boza|Wola Boża, tresc|modlitwa|Modlitwa, tresc|wolnosc|Wolność, metoda|praca_z_tekstem|Praca z~tekstem, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
+.. tags:: content|gods-will|God's will, content|prayer|Prayer, content|freedom|Freedom, method|text-work|Text work, method|discussion|Discussion, type|formative|Formative
 
 Cel
 ===

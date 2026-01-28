@@ -1,7 +1,7 @@
 Spotkanie 1. - Jestem
 *********************
 
-.. tags:: tresc|tozsamosc|Tożsamość, tresc|prawda|Prawda, tresc|slowo_boze|Słowo Boże, tresc|stary_testament|Stary Testament, metoda|praca_w_grupach|Praca w~grupach, metoda|praca_z_tekstem|Praca z~tekstem, typ|integracyjne|Integracyjne
+.. tags:: tresc|tozsamosc|Tożsamość, tresc|prawda|Prawda, tresc|slowo-boze|Słowo Boże, tresc|stary-testament|Stary Testament, metoda|praca-w-grupach|Praca w~grupach, metoda|praca-z-tekstem|Praca z~tekstem, typ|integracyjne|Integracyjne
 
 Wprowadzenie dla animatora
 ==========================

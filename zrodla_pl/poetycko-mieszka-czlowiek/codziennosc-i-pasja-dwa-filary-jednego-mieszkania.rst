@@ -1,7 +1,7 @@
 Spotkanie 3. - Codzienność i~pasja - dwa filary jednego mieszkania
 ******************************************************************
 
-.. tags:: tresc|eucharystia|Eucharystia, tresc|duchowosc|Duchowość, tresc|czas|Czas, tresc|dojrzalosc|Dojrzałość, metoda|praca_z_tekstem|Praca z~tekstem, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
+.. tags:: tresc|eucharystia|Eucharystia, tresc|duchowosc|Duchowość, tresc|czas|Czas, tresc|dojrzalosc|Dojrzałość, metoda|praca-z-tekstem|Praca z~tekstem, metoda|dyskusja|Dyskusja, typ|formacyjne|Formacyjne
 
 Cel Spotkania
 =============

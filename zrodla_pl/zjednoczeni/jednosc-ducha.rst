@@ -1,7 +1,7 @@
 Spotkanie 3. - “Jedność Ducha”
 ******************************
 
-.. tags:: tresc|duch_swiety|Duch Święty, tresc|jednosc|Jedność, tresc|modlitwa|Modlitwa, metoda|praca_z_tekstem|Praca z~tekstem, metoda|pytania_do_dzielenia|Pytania do dzielenia, typ|modlitewne|Modlitewne
+.. tags:: tresc|duch-swiety|Duch Święty, tresc|jednosc|Jedność, tresc|modlitwa|Modlitwa, metoda|praca-z-tekstem|Praca z~tekstem, metoda|pytania-do-dzielenia|Pytania do dzielenia, typ|modlitewne|Modlitewne
 
 Cel spotkania
 =============

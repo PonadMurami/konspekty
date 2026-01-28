@@ -1,7 +1,7 @@
 Spotkanie 2. - Jeśli chcemy dojść do celu – to dojdziemy?
 *********************************************************
 
-.. tags:: tresc|pragnienia|Pragnienia, tresc|decyzje|Decyzje, tresc|krolestwo_boze|Królestwo Boże, metoda|praca_z_muzyka|Praca z~muzyką, metoda|praca_z_tekstem|Praca z~tekstem, metoda|pytania_do_dzielenia|Pytania do dzielenia, typ|formacyjne|Formacyjne
+.. tags:: tresc|pragnienia|Pragnienia, tresc|decyzje|Decyzje, tresc|krolestwo-boze|Królestwo Boże, metoda|praca-z-muzyka|Praca z~muzyką, metoda|praca-z-tekstem|Praca z~tekstem, metoda|pytania-do-dzielenia|Pytania do dzielenia, typ|formacyjne|Formacyjne
 
 Cel
 ===

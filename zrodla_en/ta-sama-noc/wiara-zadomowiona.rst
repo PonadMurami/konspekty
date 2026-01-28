@@ -1,7 +1,7 @@
 Spotkanie 3. - Wiara zadomowiona
 ********************************
 
-.. tags:: tresc|kosciol|Kościół, tresc|wspolnota|Wspólnota, tresc|slowo_boze|Słowo Boże, tresc|poszukiwanie|Poszukiwanie, tresc|tradycje_zydowskie|Tradycje żydowskie, metoda|praca_z_symbolami|Praca z~symbolami, metoda|praca_z_tekstem|Praca z~tekstem, metoda|dyskusja|Dyskusja, typ|mistagogiczne|Mistagogiczne
+.. tags:: content|church|Church, content|community|Community, content|word-of-god|Word of God, content|seeking|Seeking, content|jewish-traditions|Jewish traditions, method|symbols-work|Symbols work, method|text-work|Text work, method|discussion|Discussion, type|mystagogical|Mystagogical
 
 Wprowadzenie dla animatora
 ==========================

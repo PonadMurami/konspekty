@@ -1,7 +1,7 @@
 Spotkanie 3. - Doświadczający
 *****************************
 
-.. tags:: tresc|otwartosc|Otwartość, tresc|odpowiedzialnosc|Odpowiedzialność, tresc|kosciol|Kościół, tresc|eucharystia|Eucharystia, tresc|tradycje_zydowskie|Tradycje żydowskie, metoda|praca_z_obrazem|Praca z~obrazem, metoda|praca_w_grupach|Praca w~grupach, typ|warsztatowe|Warsztatowe
+.. tags:: content|openness|Openness, content|responsibility|Responsibility, content|church|Church, content|eucharist|Eucharist, content|jewish-traditions|Jewish traditions, method|image-work|Image work, method|group-work|Group work, type|workshop|Workshop
 
 Wprowadzenie dla animatora
 ==========================
