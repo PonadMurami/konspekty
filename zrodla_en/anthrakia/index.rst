@@ -1,23 +1,23 @@
 Anthrakia
 #########
 
-Czas powstania konspektów:
-    Lato 2021 roku
-Miejsce pierwszych rekolekcji:
-    Racibórz-Miedonia, diecezja opolska
-Miejsce powstania konspektów:
-    Diecezja gliwicka
-Grupa docelowa:
-    Rekolekcje własne dla wspólnoty Ponad Murami
-Opis rekolekcji:
-    BRAK.
+Time of writing:
+    Summer 2021
+Place of the first retreat:
+    Racibórz-Miedonia, Diocese of Opole
+Place of writing:
+    Diocese of Gliwice
+Target group:
+    Internal retreat for the Above the Walls community
+Retreat description:
+    MISSING.
 
 .. only:: html
 
-    .. rubric:: Spis konspektów spotkań w~grupach
+    .. rubric:: List of small-group meeting outlines
 
 .. toctree::
-   chce-ale-nie-rozumiem.rst
-   milosc-musi-byc-prosta.rst
-   chce-ale-nie-umiem.rst
-   chce-i-jestem-poslany.rst
+   i-want-but-do-not-understand.rst
+   love-must-be-simple.rst
+   i-want-but-cannot.rst
+   i-want-and-i-am-sent.rst

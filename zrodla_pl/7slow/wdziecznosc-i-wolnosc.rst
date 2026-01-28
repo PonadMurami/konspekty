@@ -52,7 +52,7 @@ Echo tego pra-kultu znajdujemy także w~Biblii:
 
     Abel był pasterzem trzód, a~Kain uprawiał rolę. Gdy po niejakim czasie Kain składał dla Pana w~ofierze płody roli, zaś Abel składał również pierwociny ze swej trzody i~z ich tłuszczu, Pan wejrzał na Abla i~na jego ofiarę; na Kaina zaś i~na jego ofiarę nie chciał patrzeć. Smuciło to Kaina bardzo i~chodził z~ponurą twarzą.
 
-        -- Rdz 4,2-5
+    -- Rdz 4,2-5
 
 W Księdze Kapłańskiej wyodrębniono 5 rodzajów ofiar. Spróbujmy się im przyjrzeć.
 
@@ -67,12 +67,11 @@ Ofiara przebłagalna (hattat):
 Ofiary biesiadne (zebah szelamim) – komunijne;
     ofiary wspólnotowe lub ofiary pokoju; inna nazwa: ofiary zaspokojone; zawsze były połączone z~rytualną ucztą. Choć nazwa ofiary biesiadnej nie pojawia się przed daniem Prawa na Synaju, to można jednak przypuszczać, że już w~czasach Mojżesza ten typ ofiary był dobrze znany. Dowodem tego jest chociażby bałwochwalcza ofiara biesiadna złożona przez Izraelitów przy okazji ulania złotego cielca (Wj 32,6). Pierwsza wzmianka o~ofierze „szelamim” jest zawarta w~komentarzu do Dekalogu dotyczącym przeznaczenia ołtarza: „Uczynisz Mi ołtarz z~ziemi i~będziesz składał na nim twoje całopalenia, twoje ofiary biesiadne z~twojej trzody i~z bydła na każdym miejscu, gdzie każę ci wspominać moje imię. Przyjdę do ciebie i~będę ci błogosławił.” (Wj 20,24).
 
-
 Ofiary z~pokarmów (minhah)
     to ofiary bezkrwawe z~płodów rolnych. Do każdej ofiary bezkrwawej należały dodatki: olej, którym polewano dar ofiarny albo z~nim go mieszano, a~także sól i~kadzidło. Tylko nieznaczna część tych ofiar była spalana na ołtarzu razem z~kadzidłem jako azkarah, czyli przypomnienie, ponieważ przypominała ofiarującemu łaskawości Jahwe, reszta należała do kapłanów. Ofiary z~pokarmów składane przez kapłanów były w~całości palone, szczególnie ta codzienna (minhah), składana przez arcykapłana. Te ofiary składano na dziedzińcu lub w~miejscu świętym. Do tego typu ofiar należały: codzienna ofiara z~kadzidła, chleby pokładne, ofiara z~wina oraz światła złotego świecznika. Z~ofiar składanych na dziedzińcu szczególnie ważną była ta, którą codziennie składał arcykapłan za siebie samego i~za wszystkich kapłanów, oraz ofiara przebłagalna ubogich, których nie było stać na ofiarę krwawą (Kpł 2; 4,11-13).
 
-Kadzenie wonne (hebr. „ketoreth”
-    od czasownika palić (ofiarę lub kadzidło) – łączy się często z~przymiotnikiem „wonne” (hebr. „sam”). “Każdego zaś ranka będzie spalał Aaron na nim wonne kadzidło, gdy będzie przysposabiał lampy do świecenia. A~gdy Aaron zapali o~zmierzchu lampy, zapali również kadzidło, które będzie spalane ustawicznie przed Panem poprzez wszystkie wasze pokolenia. I~znów powiedział Pan do Mojżesza: «Weź sobie wonności: żywicę pachnącą, muszelki i~galbanum pachnące, i~czyste kadzidło, niech będą w~równej ilości. Mieszając je uczynisz z~tego kadzidło wonne - zrobione tak, jak się robi wonności - posolone, czyste, święte. Zetrzesz na proszek jego części i~położysz przed Świadectwem w~Namiocie Spotkania, gdzie Ja będę spotykał się z~tobą, i~będzie to dla was rzecz bardzo święta. Kadzidła w~ten sposób przygotowanego nie będziecie robić dla siebie, gdyż poświęcone jest ono dla Pana. Ktokolwiek by zrobił podobne, aby się rozkoszować jego wonią, będzie wykluczony ze swego ludu».” (Wj 30,7-8.34-38)
+Kadzenie wonne (hebr. „ketoreth” od czasownika palić (ofiarę lub kadzidło) 
+    łączy się często z~przymiotnikiem „wonne” (hebr. „sam”). “Każdego zaś ranka będzie spalał Aaron na nim wonne kadzidło, gdy będzie przysposabiał lampy do świecenia. A~gdy Aaron zapali o~zmierzchu lampy, zapali również kadzidło, które będzie spalane ustawicznie przed Panem poprzez wszystkie wasze pokolenia. I~znów powiedział Pan do Mojżesza: «Weź sobie wonności: żywicę pachnącą, muszelki i~galbanum pachnące, i~czyste kadzidło, niech będą w~równej ilości. Mieszając je uczynisz z~tego kadzidło wonne - zrobione tak, jak się robi wonności - posolone, czyste, święte. Zetrzesz na proszek jego części i~położysz przed Świadectwem w~Namiocie Spotkania, gdzie Ja będę spotykał się z~tobą, i~będzie to dla was rzecz bardzo święta. Kadzidła w~ten sposób przygotowanego nie będziecie robić dla siebie, gdyż poświęcone jest ono dla Pana. Ktokolwiek by zrobił podobne, aby się rozkoszować jego wonią, będzie wykluczony ze swego ludu».” (Wj 30,7-8.34-38)
 
 - Jaki rodzaj ofiary masz opisany?
 - Na czym ta ofiara polegała?

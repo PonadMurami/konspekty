@@ -1,46 +1,46 @@
 .. epub2mobi: http://calibre-ebook.com
 
-Spis Treści
-===========
+Table of Contents
+=================
 
 .. toctree::
    :maxdepth: 2
 
 
    wprowadzenie/index
-   odpowiedzialnosc-za-wspolnote/index
-   duchowosc-czlowieka/index
-   eucharystia/index
-   ruch-swiatlo-zycie/index
-   wiara-wymaga-pytan/index
-   pragnienia-czlowieka-pragnienia-boga/index
-   bo-jak-smierc-potezna-jest-milosc/index
-   czego-szukam/index
-   podrozowanie-po-pustyni/index
-   podejmowanie-decyzji/index
-   poetycko-mieszka-czlowiek/index
-   przestrzenie-wolnosci/index
-   czy-nie-warto-sie-obudzic/index
-   ty-tez/index
-   ogien-wiary/index
-   re-kreacja/index
-   slowa-niezapomniane/index
-   wartosc-bezwzgledna/index
-   ponad-murami/index
-   poczekalnia/index
-   synowie-gromu/index
-   gora-blogoslawienstw/index
-   dwa-skrzydla/index
-   chce-abys-byl/index
-   wpatrzeni-w-niebo/index
+   responsibility-for-the-community/index
+   human-spirituality/index
+   eucharist/index
+   light-life-movement/index
+   faith-requires-questions/index
+   human-desires-gods-desires/index
+   for-love-is-strong-as-death/index
+   what-am-i-looking-for/index
+   journeying-through-the-desert/index
+   making-decisions/index
+   poetically-man-dwells/index
+   spaces-of-freedom/index
+   is-it-not-worth-waking-up/index
+   you-too/index
+   fire-of-faith/index
+   re-creation/index
+   unforgotten-words/index
+   absolute-value/index
+   over-the-walls/index
+   waiting-room/index
+   sons-of-thunder/index
+   mount-of-beatitudes/index
+   two-wings/index
+   i-want-you-to-be/index
+   gazing-into-heaven/index
    rownowaga/index
-   7slow/index
-   oczekiwany/index
-   zjednoczeni/index
+   seven-words/index
+   the-awaited-one/index
+   united/index
    anthrakia/index
-   na-brzegu/index
-   ta-sama-noc/index
-   jestesmy-z-modlitwy/index
-   dlaczego-ta-noc/index
-   drzwi-otwarte/index
-   chleb-wino-miod/index
+   on-the-shore/index
+   the-same-night/index
+   we-are-from-prayer/index
+   why-this-night/index
+   open-doors/index
+   bread-wine-honey/index

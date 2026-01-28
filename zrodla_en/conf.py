@@ -67,8 +67,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Konspekty spotkań grupowych'
-copyright = u'2026, Diakonia Ponad Murami'
+project = u'Meeting outlines'
+copyright = u'2026, Above the Walls'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -284,9 +284,9 @@ texinfo_documents = [
 
 # Bibliographic Dublin Core info.
 epub_title = u'Meeting outlines'
-epub_author = u'Diakonia Ponad Murami'
-epub_publisher = u'Diakonia Ponad Murami'
-epub_copyright = u'2026, Diakonia Ponad Murami'
+epub_author = u'Above the Walls'
+epub_publisher = u'Above the Walls'
+epub_copyright = u'2026, Above the Walls'
 
 # The basename for the epub file. It defaults to the project name.
 epub_basename = u'konspekty'
