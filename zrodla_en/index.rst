@@ -7,7 +7,7 @@ Table of Contents
    :maxdepth: 2
 
 
-   wprowadzenie/index
+   introduction/index
    responsibility-for-the-community/index
    human-spirituality/index
    eucharist/index
