@@ -10,7 +10,7 @@ Place of creation:
 Target group:
     Open retreat for people aged 13 to 23
 Retreat description:
-    NONE
+    The retreat sensitizes to the power of the everyday word and to the Word of God: from the words we await, through their creative weight, to Christ as the Word incarnate. The last meeting invites to persevere in the fight for the Word -- to listen, inquire, and incarnate it in life.
 
 .. only:: html
 

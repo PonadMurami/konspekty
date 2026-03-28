@@ -10,7 +10,7 @@ Place of writing:
 Target group:
     Open retreat for people from 13 to 32 years old
 Retreat description:
-    NONE.
+    The retreat leads from a hunger for God and genuine seeking, through the disappointments of the path of faith, towards attentiveness so as not to miss the One who is already among us. From knowledge that gives birth to faith and the experience of the Word to the Eucharist and unity in community -- in the spirit of the words: "We have come to know and to believe..."
 
 .. only:: html
 

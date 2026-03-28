@@ -10,7 +10,7 @@ Place of creation of outlines:
 Target group:
     Retreat open for people aged 13 to 23
 Description of the retreat:
-    NONE.
+    The retreat leads through a symbolic journey up the mountain: from a change of perspective in everyday life, through being more rather than having and concrete mercy, to the universal call to service and coming down with concrete love for one's neighbor.
 
 .. only:: html
 

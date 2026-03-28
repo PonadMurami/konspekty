@@ -10,7 +10,7 @@ Place of writing:
 Target group:
     Internal retreat for the Ponad Murami community
 Retreat description:
-    NONE.
+    This community retreat stretches across the High Priestly Prayer: from love and the Spirit of Truth to the realization that eternal life is to know the Father and the Son, through unity and joy in full measure, to the testament of unity upon which -- according to Jesus -- the faith of the world depends.
 
 .. only:: html
 

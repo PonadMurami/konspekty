@@ -10,7 +10,7 @@ Place of creation of outlines:
 Target group:
     Open retreats for people aged 13 to 23
 Retreat description:
-    NONE
+    The retreat leads from true freedom in Christ and the identity given by God the Creator towards life as salt and light, towards a New Culture of love for God and neighbor. At the end, it helps name the masks that prevent us from being ourselves and to summarize the journey experienced.
 
 .. only:: html
 

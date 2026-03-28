@@ -10,7 +10,7 @@ Place of creation:
 Target group:
     Open retreat for people aged 13 to 32
 Description:
-    NONE.
+    The retreat follows the path of Abraham and Sarah: stepping into the unknown, sincere desires expressed to God, and moments of consolation and silence on the path of faith. It seeks to give the experience of being for another and hearing: "I want you to be" -- before God and in relationships with others.
 
 .. only:: html
 
