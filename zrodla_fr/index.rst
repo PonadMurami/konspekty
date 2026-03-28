@@ -36,6 +36,7 @@ Table des matières
    equilibre/index
    7-paroles/index
    l-attendu/index
+   le-glorifie/index
    unis/index
    anthrakia/index
    sur-le-rivage/index
@@ -44,3 +45,4 @@ Table des matières
    pourquoi-cette-nuit/index
    portes-ouvertes/index
    pain-vin-miel/index
+   entre-deux/index

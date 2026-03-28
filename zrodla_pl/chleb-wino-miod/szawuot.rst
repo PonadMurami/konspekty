@@ -231,13 +231,13 @@ Za chwilę każdy z~nas dostanie swój tekst, z~miejscami do uzupełnienia oraz 
        Aby ocalić swój lud
 
 | *Animator odtwarza 1. fragment muzyczny i~rozdaje pierwsze karty pracy.*
-| `👉 Posłuchaj <https://konspekty.ponadmurami.pl/_static/chleb_wino_miod_1.mp3>`_
+| `👉 Posłuchaj <https://konspekty.ponadmurami.pl/_static/chleb_wino_miod_1.mp3>`__
 
 | *Kładziemy karty na środek. Animator odtwarza 2. fragment muzyczny i~rozdaje drugie karty pracy.*
-| `👉 Posłuchaj <https://konspekty.ponadmurami.pl/_static/chleb_wino_miod_2.mp3>`_
+| `👉 Posłuchaj <https://konspekty.ponadmurami.pl/_static/chleb_wino_miod_2.mp3>`__
 
 | *Animator odtwarza 3. fragment muzyczny i~przechodzimy do pytań.*
-| `👉 Posłuchaj <https://konspekty.ponadmurami.pl/_static/chleb_wino_miod_3.mp3>`_
+| `👉 Posłuchaj <https://konspekty.ponadmurami.pl/_static/chleb_wino_miod_3.mp3>`__
 
 Zostawmy na razie kartki, które przygotowaliśmy.
 
@@ -245,7 +245,7 @@ Zostawmy na razie kartki, które przygotowaliśmy.
 - Jak wolę czytać Pismo Święte raczej całymi rozdziałami czy pojedynczymi perykopami?
 
 | *Animator odtwarza 4. fragment muzyczny. Odrywamy kartki post it zasłaniające fragmenty na kartach pracy.*
-| `👉 Posłuchaj <https://konspekty.ponadmurami.pl/_static/chleb_wino_miod_4.mp3>`_
+| `👉 Posłuchaj <https://konspekty.ponadmurami.pl/_static/chleb_wino_miod_4.mp3>`__
 
 Po chwili spontanicznego przeczytania co odsłoniliśmy na kartach przechodzimy od razu do przeczytania:
 

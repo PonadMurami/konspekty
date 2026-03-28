@@ -231,13 +231,13 @@ Dans un instant, chacun de nous recevra son texte, avec des espaces à remplir e
        Pour sauver son peuple
 
 | *L'animateur joue le 1er fragment musical et distribue les premières cartes de travail.*
-| `👉 Écoute <https://konspekty.ponadmurami.pl/_static/chleb_wino_miod_1.mp3>`_
+| `👉 Écoute <https://konspekty.ponadmurami.pl/_static/chleb_wino_miod_1.mp3>`__
 
 | *Nous posons les cartes au centre. L'animateur joue le 2e fragment musical et distribue les deuxièmes cartes de travail.*
-| `👉 Écoute <https://konspekty.ponadmurami.pl/_static/chleb_wino_miod_2.mp3>`_
+| `👉 Écoute <https://konspekty.ponadmurami.pl/_static/chleb_wino_miod_2.mp3>`__
 
 | *L'animateur joue le 3e fragment musical et nous passons aux questions.*
-| `👉 Écoute <https://konspekty.ponadmurami.pl/_static/chleb_wino_miod_3.mp3>`_
+| `👉 Écoute <https://konspekty.ponadmurami.pl/_static/chleb_wino_miod_3.mp3>`__
 
 Laissons pour l'instant les cartes que nous avons préparées.
 
@@ -245,7 +245,7 @@ Laissons pour l'instant les cartes que nous avons préparées.
 - Préfère-je lire l'Écriture Sainte plutôt par chapitres entiers ou par péricopes individuelles ?
 
 | *L'animateur joue le 4e fragment musical. Nous détachons les post-it qui cachent les fragments sur les cartes de travail.*
-| `👉 Écoute <https://konspekty.ponadmurami.pl/_static/chleb_wino_miod_4.mp3>`_
+| `👉 Écoute <https://konspekty.ponadmurami.pl/_static/chleb_wino_miod_4.mp3>`__
 
 Après un moment de lecture spontanée de ce que nous avons découvert sur les cartes, passons immédiatement à la lecture :
 

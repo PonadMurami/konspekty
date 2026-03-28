@@ -36,6 +36,7 @@ Spis Treści
    rownowaga/index
    7slow/index
    oczekiwany/index
+   uwielbiony/index
    zjednoczeni/index
    anthrakia/index
    na-brzegu/index
@@ -44,3 +45,4 @@ Spis Treści
    dlaczego-ta-noc/index
    drzwi-otwarte/index
    chleb-wino-miod/index
+   pomiedzy/index

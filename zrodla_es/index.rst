@@ -36,6 +36,7 @@ Tabla de contenido
    equilibrio/index
    7-palabras/index
    el-esperado/index
+   el-glorificado/index
    unidos/index
    anthrakia/index
    en-la-orilla/index
@@ -44,3 +45,4 @@ Tabla de contenido
    por-que-esta-noche/index
    puertas-abiertas/index
    pan-vino-miel/index
+   en-medio/index

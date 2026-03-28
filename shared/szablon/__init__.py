@@ -8,6 +8,19 @@ BaseTranslatorLatex = sphinx.writers.latex.LaTeXTranslator
 
 SUPPORTED_LANGUAGES = ['pl', 'en', 'es', 'pt', 'fr']
 
+
+def _normalize_lang_code(lang: str) -> str:
+    """Map Sphinx locale codes to the repository language slugs."""
+    normalized = (lang or "en").lower().replace("-", "_")
+    if normalized in SUPPORTED_LANGUAGES:
+        return normalized
+
+    base_lang = normalized.split("_", 1)[0]
+    if base_lang in SUPPORTED_LANGUAGES:
+        return base_lang
+
+    return normalized
+
 class CustomHTMLTranslator(BaseTranslatorHtml):
 
     def visit_Text(self, text):
@@ -29,8 +42,8 @@ class CustomLatexTranslator(BaseTranslatorLatex):
         self.body.append(text)
 
     def visit_attribution(self, node):
-        self.body.append('\mynobreakpar\n\\begin{flushright}\n')
-        self.body.append(' --- ')
+        self.body.append('\\mynobreakpar\n\\begin{flushright}\n')
+        self.body.append(r'\textemdash\ ')
 
 
 def _docname_to_url(baseurl: str, docname: str) -> str:
@@ -108,7 +121,7 @@ def _load_i18n_map(app) -> dict:
 
 def _get_docname_for_lang(app, current_lang: str, target_lang: str, pagename: str) -> str:
     mapping = _load_i18n_map(app)
-    key = f"{current_lang}:{pagename}"
+    key = f"{_normalize_lang_code(current_lang)}:{pagename}"
     
     entry = mapping.get(key)
     if not entry:
@@ -127,7 +140,7 @@ def _get_docname_for_lang(app, current_lang: str, target_lang: str, pagename: st
 
 
 def add_i18n_context(app, pagename, templatename, context, doctree):
-    current_lang = app.config.language or "en"
+    current_lang = _normalize_lang_code(app.config.language or "en")
     
     site_baseurl = _site_baseurl(app)
     current_lang_baseurl = _lang_baseurl(site_baseurl, current_lang)

@@ -231,13 +231,13 @@ Daqui a pouco cada um de nós receberá seu texto, com lugares para preencher e 
        Para salvar seu povo
 
 | *O animador reproduz o 1. fragmento musical e distribui as primeiras cartas de trabalho.*
-| `👉 Ouça <https://konspekty.ponadmurami.pl/_static/chleb_wino_miod_1.mp3>`_
+| `👉 Ouça <https://konspekty.ponadmurami.pl/_static/chleb_wino_miod_1.mp3>`__
 
 | *Colocamos as cartas no centro. O animador reproduz o 2. fragmento musical e distribui as segundas cartas de trabalho.*
-| `👉 Ouça <https://konspekty.ponadmurami.pl/_static/chleb_wino_miod_2.mp3>`_
+| `👉 Ouça <https://konspekty.ponadmurami.pl/_static/chleb_wino_miod_2.mp3>`__
 
 | *O animador reproduz o 3. fragmento musical e passamos às perguntas.*
-| `👉 Ouça <https://konspekty.ponadmurami.pl/_static/chleb_wino_miod_3.mp3>`_
+| `👉 Ouça <https://konspekty.ponadmurami.pl/_static/chleb_wino_miod_3.mp3>`__
 
 Deixemos por enquanto as folhas que preparamos.
 
@@ -245,7 +245,7 @@ Deixemos por enquanto as folhas que preparamos.
 - Prefiro ler a Sagrada Escritura em capítulos inteiros ou em perícopes individuais?
 
 | *O animador reproduz o 4. fragmento musical. Arrancamos os post-its que cobrem os fragmentos nas cartas de trabalho.*
-| `👉 Ouça <https://konspekty.ponadmurami.pl/_static/chleb_wino_miod_4.mp3>`_
+| `👉 Ouça <https://konspekty.ponadmurami.pl/_static/chleb_wino_miod_4.mp3>`__
 
 Após um momento de leitura espontânea do que revelamos nas cartas, passamos imediatamente para a leitura:
 

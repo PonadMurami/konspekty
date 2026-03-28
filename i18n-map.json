@@ -744,6 +744,46 @@
     "pt": "poeticamente-habita-o-homem/a-vida-que-e-apesar-dos-sonhos-maravilhosos"
   },
   {
+    "en": "in-between/deconstruction",
+    "es": "en-medio/deconstruccion",
+    "fr": "entre-deux/deconstruction",
+    "id": "pomiedzy/dekonstrukcja",
+    "pl": "pomiedzy/dekonstrukcja",
+    "pt": "entre/desconstrucao"
+  },
+  {
+    "en": "in-between/index",
+    "es": "en-medio/index",
+    "fr": "entre-deux/index",
+    "id": "pomiedzy/index",
+    "pl": "pomiedzy/index",
+    "pt": "entre/index"
+  },
+  {
+    "en": "in-between/responsibility-for-space",
+    "es": "en-medio/responsabilidad-por-el-espacio",
+    "fr": "entre-deux/responsabilite-pour-lespace",
+    "id": "pomiedzy/odpowiedzialnosc-za-przestrzen",
+    "pl": "pomiedzy/odpowiedzialnosc-za-przestrzen",
+    "pt": "entre/responsabilidade-pelo-espaco"
+  },
+  {
+    "en": "in-between/my-father-our-father",
+    "es": "en-medio/padre-mio-padre-nuestro",
+    "fr": "entre-deux/mon-pere-notre-pere",
+    "id": "pomiedzy/ojcze-moj-ojcze-nasz",
+    "pl": "pomiedzy/ojcze-moj-ojcze-nasz",
+    "pt": "entre/pai-meu-pai-nosso"
+  },
+  {
+    "en": "in-between/the-inhabited-world",
+    "es": "en-medio/el-mundo-habitado",
+    "fr": "entre-deux/le-monde-habite",
+    "id": "pomiedzy/swiat-zamieszkany",
+    "pl": "pomiedzy/swiat-zamieszkany",
+    "pt": "entre/o-mundo-habitado"
+  },
+  {
     "en": "above-the-walls/index",
     "es": "sobre-los-muros/index",
     "fr": "au-dessus-des-murs/index",
@@ -1102,6 +1142,46 @@
     "id": "ty-tez/wspolnota-jest-decyzja",
     "pl": "ty-tez/wspolnota-jest-decyzja",
     "pt": "tu-tambem/a-comunidade-e-uma-decisao"
+  },
+  {
+    "en": "the-glorified-one/what-are-you-looking-for",
+    "es": "el-glorificado/que-buscais",
+    "fr": "le-glorifie/que-cherchez-vous",
+    "id": "uwielbiony/czego-szukacie",
+    "pl": "uwielbiony/czego-szukacie",
+    "pt": "o-glorificado/o-que-procurais"
+  },
+  {
+    "en": "the-glorified-one/index",
+    "es": "el-glorificado/index",
+    "fr": "le-glorifie/index",
+    "id": "uwielbiony/index",
+    "pl": "uwielbiony/index",
+    "pt": "o-glorificado/index"
+  },
+  {
+    "en": "the-glorified-one/speak-to-me-lord",
+    "es": "el-glorificado/hablame-senor",
+    "fr": "le-glorifie/parle-moi-seigneur",
+    "id": "uwielbiony/mow-do-mnie-panie",
+    "pl": "uwielbiony/mow-do-mnie-panie",
+    "pt": "o-glorificado/fala-me-senhor"
+  },
+  {
+    "en": "the-glorified-one/seven-petitions",
+    "es": "el-glorificado/siete-peticiones",
+    "fr": "le-glorifie/sept-demandes",
+    "id": "uwielbiony/siedem-prosb",
+    "pl": "uwielbiony/siedem-prosb",
+    "pt": "o-glorificado/sete-peticoes"
+  },
+  {
+    "en": "the-glorified-one/glorified-or-what",
+    "es": "el-glorificado/glorificado-o-que",
+    "fr": "le-glorifie/glorifie-ou-quoi",
+    "id": "uwielbiony/uwielbiony-czy-cos",
+    "pl": "uwielbiony/uwielbiony-czy-cos",
+    "pt": "o-glorificado/glorificado-ou-o-que"
   },
   {
     "en": "absolute-value/index",

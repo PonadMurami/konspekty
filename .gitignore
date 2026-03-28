@@ -10,3 +10,4 @@ zrodla_es/etiqueta/*
 zrodla_pt/etiqueta/*
 zrodla_fr/etiquette/*
 _build/*
+zrodla_*/_build/

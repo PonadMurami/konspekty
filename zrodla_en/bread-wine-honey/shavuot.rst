@@ -231,13 +231,13 @@ In a moment each of us will get their text, with places to fill in and a covered
        To save his people
 
 | *The animator plays the 1st musical fragment and distributes the first worksheets.*
-| `👉 Listen <https://konspekty.ponadmurami.pl/_static/chleb_wino_miod_1.mp3>`_
+| `👉 Listen <https://konspekty.ponadmurami.pl/_static/chleb_wino_miod_1.mp3>`__
 
 | *We put the cards in the middle. The animator plays the 2nd musical fragment and distributes the second worksheets.*
-| `👉 Listen <https://konspekty.ponadmurami.pl/_static/chleb_wino_miod_2.mp3>`_
+| `👉 Listen <https://konspekty.ponadmurami.pl/_static/chleb_wino_miod_2.mp3>`__
 
 | *The animator plays the 3rd musical fragment and we move to questions.*
-| `👉 Listen <https://konspekty.ponadmurami.pl/_static/chleb_wino_miod_3.mp3>`_
+| `👉 Listen <https://konspekty.ponadmurami.pl/_static/chleb_wino_miod_3.mp3>`__
 
 Let's leave the cards we prepared for now.
 
@@ -245,7 +245,7 @@ Let's leave the cards we prepared for now.
 - How do I prefer to read the Holy Scripture, rather whole chapters or single pericopes?
 
 | *The animator plays the 4th musical fragment. We tear off the post-it notes covering fragments on worksheets.*
-| `👉 Listen <https://konspekty.ponadmurami.pl/_static/chleb_wino_miod_4.mp3>`_
+| `👉 Listen <https://konspekty.ponadmurami.pl/_static/chleb_wino_miod_4.mp3>`__
 
 After a moment of spontaneous reading of what we revealed on the cards we move immediately to reading:
 

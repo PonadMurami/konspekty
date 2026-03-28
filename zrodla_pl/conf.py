@@ -85,7 +85,7 @@ language = 'pl'
 
 # There are two options for replacing |today|: either, you set today to some
 # non-false value, then it is used:
-today = u'Luty 2026'
+today = u'Marzec 2026'
 
 # Else, today_fmt is used as the format for a strftime call.
 #today_fmt = '%m-%d-%Y'
@@ -206,6 +206,8 @@ htmlhelp_basename = 'doc'
 
 f = open(os.path.join(SHARED_SZABLON, 'latex.sty'), 'r', encoding='utf-8')
 PREAMBLE = f.read()
+
+latex_engine = 'xelatex'
 
 latex_elements = {
 	'papersize': 'a5paper',

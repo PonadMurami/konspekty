@@ -10,9 +10,13 @@ RUN apt-get update && \
       make \
       texlive-latex-extra  \
       texlive-fonts-extra \
+      texlive-xetex \
       latexmk  \
       texlive-lang-greek  \
       texlive-lang-polish  \
+      texlive-lang-portuguese \
+      texlive-lang-spanish \
+      texlive-lang-french \
       wget  \
       pandoc \
       libopengl0 \

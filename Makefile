@@ -54,7 +54,7 @@ help:
 	@echo "  devhelp    to make HTML files and a Devhelp project"
 	@echo "  epub       to make an epub"
 	@echo "  latex      to make LaTeX files, you can set PAPER=a4 or PAPER=letter"
-	@echo "  latexpdf   to make LaTeX files and run them through pdflatex"
+	@echo "  latexpdf   to make LaTeX files and run them through xelatex"
 	@echo "  latexpdfja to make LaTeX files and run them through platex/dvipdfmx"
 	@echo "  text       to make text files"
 	@echo "  man        to make manual pages"
@@ -191,7 +191,7 @@ latex:
 	$(SPHINXBUILD) -b latex $(ALLSPHINXOPTS_FR) $(BUILDDIR)/latex/fr
 	@echo
 	@echo "Build finished; the LaTeX files are in $(BUILDDIR)/latex/(pl|en|es|pt|fr)."
-	@echo "Run \`make' in that directory to run these through (pdf)latex" \
+	@echo "Run \`make' in that directory to run these through XeLaTeX" \
 	      "(use \`make latexpdf' here to do that automatically)."
 
 latexpdf:
@@ -200,15 +200,15 @@ latexpdf:
 	$(SPHINXBUILD) -b latex $(ALLSPHINXOPTS_ES) $(BUILDDIR)/latex/es
 	$(SPHINXBUILD) -b latex $(ALLSPHINXOPTS_PT) $(BUILDDIR)/latex/pt
 	$(SPHINXBUILD) -b latex $(ALLSPHINXOPTS_FR) $(BUILDDIR)/latex/fr
-	@echo "Running LaTeX files through pdflatex (pl)..."
+	@echo "Running LaTeX files through xelatex (pl)..."
 	$(MAKE) -C $(BUILDDIR)/latex/pl all-pdf
-	@echo "Running LaTeX files through pdflatex (en)..."
+	@echo "Running LaTeX files through xelatex (en)..."
 	$(MAKE) -C $(BUILDDIR)/latex/en all-pdf
-	@echo "Running LaTeX files through pdflatex (es)..."
+	@echo "Running LaTeX files through xelatex (es)..."
 	$(MAKE) -C $(BUILDDIR)/latex/es all-pdf
-	@echo "Running LaTeX files through pdflatex (pt)..."
+	@echo "Running LaTeX files through xelatex (pt)..."
 	$(MAKE) -C $(BUILDDIR)/latex/pt all-pdf
-	@echo "Running LaTeX files through pdflatex (fr)..."
+	@echo "Running LaTeX files through xelatex (fr)..."
 	$(MAKE) -C $(BUILDDIR)/latex/fr all-pdf
 	@mkdir -p $(HTMLDIR)/pl $(HTMLDIR)/en $(HTMLDIR)/es $(HTMLDIR)/pt $(HTMLDIR)/fr
 	cp -f $(BUILDDIR)/latex/pl/konspekty.pdf $(HTMLDIR)/pl/konspekty.pdf
@@ -216,13 +216,13 @@ latexpdf:
 	cp -f $(BUILDDIR)/latex/es/konspekty.pdf $(HTMLDIR)/es/konspekty.pdf
 	cp -f $(BUILDDIR)/latex/pt/konspekty.pdf $(HTMLDIR)/pt/konspekty.pdf
 	cp -f $(BUILDDIR)/latex/fr/konspekty.pdf $(HTMLDIR)/fr/konspekty.pdf
-	@echo "pdflatex finished; the PDF files are in $(BUILDDIR)/latex/(pl|en|es|pt|fr) and copied to $(HTMLDIR)/(pl|en|es|pt|fr)."
+	@echo "xelatex finished; the PDF files are in $(BUILDDIR)/latex/(pl|en|es|pt|fr) and copied to $(HTMLDIR)/(pl|en|es|pt|fr)."
 
 latexpdfja:
 	$(SPHINXBUILD) -b latex $(ALLSPHINXOPTS) $(BUILDDIR)/latex
 	@echo "Running LaTeX files through platex and dvipdfmx..."
 	$(MAKE) -C $(BUILDDIR)/latex all-pdf-ja
-	@echo "pdflatex finished; the PDF files are in $(BUILDDIR)/latex."
+	@echo "xelatex finished; the PDF files are in $(BUILDDIR)/latex."
 
 text:
 	$(SPHINXBUILD) -b text $(ALLSPHINXOPTS) $(BUILDDIR)/text

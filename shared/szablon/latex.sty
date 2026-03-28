@@ -1,14 +1,17 @@
-\usepackage[LGR,T1]{fontenc}
-\usepackage[utf8]{inputenc}
-\usepackage{textalpha}
-\usepackage{alphabeta}
-\usepackage{polski}
 \usepackage{newunicodechar}
 \usepackage{bbding}
 
 \newunicodechar{👉}{\HandRight}
 \newunicodechar{☑}{\boxed{\checkmark}}
 \newunicodechar{☐}{\boxed{\phantom{\checkmark}}}
+
+% Latin transliteration modifier (U+02BF)
+\newunicodechar{ʿ}{\textquoteleft}
+
+% Auto-switch to a Hebrew-capable font for the Hebrew Unicode block
+\usepackage{ucharclasses}
+\newfontfamily\hebrewfont[Script=Hebrew]{FreeSerif}
+\setTransitionsFor{Hebrew}{\hebrewfont}{\fontfamily{\rmdefault}\selectfont}
 
 
 \pagenumbering{arabic}

@@ -36,6 +36,7 @@ Table of Contents
    equilibrium/index
    seven-words/index
    the-awaited-one/index
+   the-glorified-one/index
    united/index
    anthrakia/index
    on-the-shore/index
@@ -44,3 +45,4 @@ Table of Contents
    why-this-night/index
    open-doors/index
    bread-wine-honey/index
+   in-between/index

@@ -207,6 +207,8 @@ htmlhelp_basename = 'doc'
 f = open(os.path.join(SHARED_SZABLON, 'latex.sty'), 'r', encoding='utf-8')
 PREAMBLE = f.read()
 
+latex_engine = 'xelatex'
+
 latex_elements = {
 	'papersize': 'a5paper',
 	'pointsize': '10pt',

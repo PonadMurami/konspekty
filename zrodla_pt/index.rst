@@ -36,6 +36,7 @@
    equilibrio/index
    7-palavras/index
    o-esperado/index
+   o-glorificado/index
    unidos/index
    anthrakia/index
    na-margem/index
@@ -44,3 +45,4 @@
    por-que-esta-noite/index
    portas-abertas/index
    pao-vinho-mel/index
+   entre/index
