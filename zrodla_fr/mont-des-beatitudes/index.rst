@@ -10,7 +10,7 @@ Lieu de création des schémas :
 Groupe cible :
     Retraite ouverte pour les gens de 13 à 23 ans
 Description de la retraite :
-    MANQUE.
+    La retraite trace une montée symbolique de la montagne : du regard renouvelé sur le quotidien, en passant par davantage être qu'avoir et une miséricorde concrète, jusqu'à la vocation universelle au service. Elle se termine par une descente où l'amour du prochain prend forme dans le concret du quotidien.
 
 .. only:: html
 

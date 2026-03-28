@@ -10,7 +10,7 @@ Miejsce powstania konspektów:
 Grupa docelowa:
     Rekolekcje otwarte dla ludzi od 13 do 23 roku życia
 Opis rekolekcji:
-    BRAK
+    Rekolekcje uwrażliwiają na moc codziennego słowa i~na Słowo Boże: od słów, na które czekamy, przez ich twórczą wagę, aż po Chrystusa jako Słowo wcielone. Ostatnie spotkanie zaprasza do trwania w~walce o~Słowo -- do słuchania, dociekania i~wcielania go w~życie.
 
 .. only:: html
 

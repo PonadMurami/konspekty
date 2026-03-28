@@ -10,7 +10,7 @@ Lugar de creación de los esquemas:
 Grupo destinatario:
     Retiro abierto para personas de 13 a 32 años
 Descripción del retiro:
-    FALTA.
+    El retiro conduce del hambre de Dios y de la búsqueda real, a través de las decepciones del camino de la fe, hacia la atención para no dejar pasar a Aquel que ya está entre nosotros. Desde el conocimiento que engendra la fe y la experiencia de la Palabra hasta la Eucaristía y la unidad en la comunidad, en el espíritu de las palabras: «Hemos conocido y creído...».
 
 .. only:: html
 

@@ -10,7 +10,7 @@ Lugar de creación de los esquemas:
 Grupo destinatario:
     Retiro abierto para personas de 13 a 23 años
 Descripción del retiro:
-    FALTA
+    El retiro ayuda a descubrir la dignidad y el potencial del ser humano ante Dios, y a aprender a defender los propios valores allí donde hace falta mantenerse firme como en Westerplatte. El encuentro final llama a ofrecer responsablemente el tiempo y a compartir con otros los valores recibidos, en el espíritu de la misión de Cristo.
 
 .. only:: html
 

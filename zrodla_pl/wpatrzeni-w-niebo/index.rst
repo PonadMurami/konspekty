@@ -10,7 +10,7 @@ Miejsce powstania konspektów:
 Grupa docelowa:
     Rekolekcje otwarte dla ludzi od 13 do 23 roku życia
 Opis rekolekcji:
-    BRAK
+    Rekolekcje -- od pytania "czemu wpatrujecie się w~niebo?" -- prowadzą od całościowego rozwoju w~codzienności po odkrywanie własnej duchowości i~charyzmatu życia. Kończą się rozważaniem Wieczernika, posłania, Zesłania Ducha Świętego oraz współpracy naszej woli z~działaniem Ducha w~Kościele.
 
 .. only:: html
 

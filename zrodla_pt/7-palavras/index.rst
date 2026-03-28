@@ -10,7 +10,7 @@ Local de criação dos roteiros:
 Grupo alvo:
     Retiros abertos para pessoas de 16 a 35 anos
 Descrição dos retiros:
-    FALTA.
+    O retiro percorre a humanidade de Jesus e a Cruz até às sete últimas palavras de Cristo, acolhidas no silêncio do coração e preparadas na Eucaristia. Fecha com gratidão pelo Sacrifício, com uma síntese das palavras do Gólgota e com o convite a não ficar apenas diante da Cruz, mas a caminhar com ela até aos outros.
 
 .. only:: html
 

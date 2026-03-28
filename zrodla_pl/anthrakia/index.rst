@@ -10,7 +10,7 @@ Miejsce powstania konspektów:
 Grupa docelowa:
     Rekolekcje własne dla wspólnoty Ponad Murami
 Opis rekolekcji:
-    BRAK.
+    Rekolekcje towarzyszą św. Piotrowi od uznania Mesjasza przez pomyłki i~upadki aż po prostą miłość Eucharystii i~posłanie: "paś owce moje". Inspirują się nauką abp. Grzegorza Rysia i~zapraszają do odkrywania wiary jako drogi wzrostu, a~nie jednorazowo zdanych egzaminów.
 
 .. only:: html
 

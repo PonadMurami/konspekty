@@ -10,7 +10,7 @@ Miejsce powstania konspektów:
 Grupa docelowa:
     Rekolekcje otwarte dla ludzi od 13 do 23 roku życia
 Opis rekolekcji:
-    BRAK.
+    Rekolekcje prowadzą przez symboliczną wędrówkę na górę: od zmiany perspektywy w~codzienności, przez bardziej być niż mieć i~konkretne miłosierdzie, po powszechne powołanie do służby i~zejście z~konkretem miłości wobec bliźniego.
 
 .. only:: html
 

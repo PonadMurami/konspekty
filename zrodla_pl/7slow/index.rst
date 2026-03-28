@@ -10,7 +10,7 @@ Miejsce powstania konspektów:
 Grupa docelowa:
     Rekolekcje otwarte dla ludzi od 16 do 35 roku życia
 Opis rekolekcji:
-    BRAK.
+    Rekolekcje prowadzą przez człowieczeństwo Jezusa i~Krzyż ku siedmiu ostatnim słowom Chrystusa, które odczytujemy w~ciszy serca i~przygotowujemy w~Eucharystii. Zamykają się wdzięcznością za Ofiarę, podsumowaniem słów z~Golgoty i~zaproszeniem, by nie zatrzymać się przy widoku Krzyża, lecz iść z~nim do innych.
 
 .. only:: html
 

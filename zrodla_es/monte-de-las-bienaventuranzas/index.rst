@@ -10,7 +10,7 @@ Lugar de creación de los esquemas:
 Grupo destinatario:
     Retiro abierto para personas de 13 a 23 años
 Descripción del retiro:
-    FALTA.
+    El retiro conduce por una subida simbólica al monte: desde el cambio de perspectiva en lo cotidiano, pasando por el ser más que el tener y la misericordia concreta, hasta la llamada universal al servicio. Termina con el descenso, llevando el amor al prójimo hecho vida concreta.
 
 .. only:: html
 

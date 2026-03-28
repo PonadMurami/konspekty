@@ -10,7 +10,7 @@ Miejsce powstania konspektów:
 Grupa docelowa:
     Rekolekcje otwarte dla ludzi od 13 do 23 roku życia
 Opis rekolekcji:
-    BRAK.
+    Rekolekcje pomagają odróżnić prawdziwą wolność od jej iluzji, przejść od świadomego wyboru wiary do odważnego zadawania pytań i~szukania zrozumienia. Kończą się zaproszeniem, by łączyć wolność z~odpowiedzialnością i~nieść odkrytą prawdę do ludzi w~codziennych przestrzeniach życia.
 
 .. only:: html
 

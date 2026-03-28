@@ -10,7 +10,7 @@ Lieu de création des schémas :
 Groupe cible :
     Retraite ouverte pour les personnes de 13 à 23 ans
 Description de la retraite :
-    MANQUE
+    La retraite mène de la vraie liberté en Christ et de l'identité donnée par Dieu Créateur vers une vie comme sel et lumière, vers une Nouvelle Culture de l'amour de Dieu et du prochain. Elle s'achève en aidant à nommer les masques qui empêchent d'être soi-même et à faire le bilan du chemin parcouru.
 
 .. only:: html
 

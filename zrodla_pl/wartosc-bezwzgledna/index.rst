@@ -10,7 +10,7 @@ Miejsce powstania konspektów:
 Grupa docelowa:
     Rekolekcje otwarte dla ludzi od 13 do 23 roku życia
 Opis rekolekcji:
-    BRAK
+    Rekolekcje pomagają odkryć godność i~potencjał człowieka wobec Boga oraz uczą bronić własnych wartości tam, gdzie trzeba trwać jak na Westerplatte. Końcowe spotkanie wzywa do odpowiedzialnego daru czasu i~dzielenia się otrzymanymi wartościami z~innymi, w~duchu posłania Chrystusa.
 
 .. only:: html
 

@@ -10,7 +10,7 @@ Lugar de creación de los esquemas:
 Grupo objetivo:
     Retiros abiertos para personas de 13 a 23 años
 Descripción del retiro:
-    FALTA.
+    El retiro ayuda a distinguir la verdadera libertad de sus ilusiones y a pasar de la elección consciente de la fe a la valentía de preguntar y buscar comprensión. Termina invitando a unir libertad y responsabilidad y a llevar la verdad descubierta a los demás en los espacios cotidianos de la vida.
 
 .. only:: html
 

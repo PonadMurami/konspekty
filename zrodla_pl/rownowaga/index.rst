@@ -10,7 +10,7 @@ Miejsce powstania konspektów:
 Grupa docelowa:
     Rekolekcje otwarte dla ludzi od 13 do 32 roku życia
 Opis rekolekcji:
-    BRAK.
+    Rekolekcje pomagają dostrzec, jak łatwo gubimy się w~sprawach drugorzędnych, i~uczą stawiać na pierwszym miejscu szukanie Królestwa: przez wolność, rozeznawanie i~prawdę w~wyborach, aż po metanoię i~gotowość na Pana w~rytmie Adwentu i~codziennej drogi.
 
 .. only:: html
 

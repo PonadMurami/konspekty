@@ -10,7 +10,7 @@ Lugar de creación de los esquemas:
 Grupo objetivo:
     Retiro propio para la comunidad Ponad Murami
 Descripción del retiro:
-    FALTA.
+    El retiro interno se articula a partir de la Oración sacerdotal: del amor y del Espíritu de la Verdad hacia la vida eterna como conocimiento del Padre y del Hijo, pasando por la unidad y la alegría en plenitud, hasta el testamento de unidad del que -- según Jesús -- depende la fe del mundo.
 
 .. only:: html
 

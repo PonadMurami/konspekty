@@ -10,7 +10,7 @@ Place of writing:
 Target group:
     Open retreat for people aged 16–35
 Retreat description:
-    MISSING.
+    The retreat leads through Jesus' humanity and the Cross to Christ's seven last words, received in the silence of the heart and prepared for in the Eucharist. It closes with gratitude for the Sacrifice, a gathering of the words from Golgotha, and an invitation not to remain at the sight of the Cross, but to carry it to others.
 
 .. only:: html
 

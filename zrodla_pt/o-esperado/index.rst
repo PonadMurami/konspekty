@@ -10,7 +10,7 @@ Local de criação dos esquemas:
 Grupo-alvo:
     Retiro aberto para pessoas de 13 a 32 anos
 Descrição do retiro:
-    FALTA.
+    O retiro conduz da fome de Deus e da busca verdadeira, através das decepções do caminho da fé, à atenção para não deixar passar Aquele que já está entre nós. Do conhecimento que gera a fé e da experiência da Palavra até à Eucaristia e à unidade na comunidade, no espírito das palavras: «Nós conhecemos e cremos...».
 
 .. only:: html
 

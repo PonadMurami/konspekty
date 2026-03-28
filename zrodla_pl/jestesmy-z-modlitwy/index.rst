@@ -10,7 +10,7 @@ Miejsce powstania konspektów:
 Grupa docelowa:
     Rekolekcje własne dla wspólnoty Ponad Murami
 Opis rekolekcji:
-    BRAK.
+    Rekolekcje własne rozpinają się na Modlitwie Arcykapłańskiej: od miłości i~Ducha Prawdy ku temu, że życiem wiecznym jest poznać Ojca i~Syna, przez jedność i~radość w~całej pełni, aż po testament jedności, od której -- według Jezusa -- zależy wiara świata.
 
 .. only:: html
 

@@ -10,7 +10,7 @@ Lugar de criação dos esquemas:
 Grupo alvo:
     Retiro aberto para pessoas de 13 a 23 anos
 Descrição do retiro:
-    FALTA
+    O retiro ajuda a descobrir a dignidade e o potencial da pessoa diante de Deus e a aprender a defender os próprios valores onde é preciso permanecer firme como em Westerplatte. O encontro final convida ao dom responsável do tempo e à partilha com os outros dos valores recebidos, no espírito da missão de Cristo.
 
 .. only:: html
 

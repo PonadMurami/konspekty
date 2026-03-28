@@ -10,7 +10,7 @@ Miejsce powstania konspektów:
 Grupa docelowa:
     Rekolekcje otwarte dla ludzi od 13 do 32 roku życia
 Opis rekolekcji:
-    BRAK.
+    Rekolekcje idą śladem Abrahama i~Sary: wyjście w~nieznane, szczere pragnienia wypowiedziane Bogu oraz chwile pocieszenia i~milczenia na drodze wiary. Chcą dać doświadczenie bycia dla drugiego i~usłyszenia: "chcę, abyś był" -- przed Bogiem i~w relacjach z~ludźmi.
 
 .. only:: html
 

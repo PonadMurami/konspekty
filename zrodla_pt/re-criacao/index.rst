@@ -10,7 +10,7 @@ Local de criação dos esquemas:
 Grupo-alvo:
     Retiro aberto para pessoas de 13 a 23 anos
 Descrição do retiro:
-    FALTA
+    O retiro conduz da verdadeira liberdade em Cristo e da identidade recebida de Deus Criador para uma vida como sal e luz, para uma Nova Cultura de amor a Deus e ao próximo. No final ajuda a nomear as máscaras que impedem de ser quem se é e a recapitular o caminho vivido.
 
 .. only:: html
 

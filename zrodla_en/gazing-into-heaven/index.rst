@@ -10,7 +10,7 @@ Place of writing:
 Target group:
     Open retreat for people aged 13–23
 Retreat description:
-    MISSING
+    Starting from the question, "Why do you stand looking into heaven?", the retreat leads from integral growth in daily life to discovering one's spirituality and personal charism. It ends with the Upper Room, the mission, Pentecost, and our cooperation with the Spirit's work in the Church.
 
 .. only:: html
 

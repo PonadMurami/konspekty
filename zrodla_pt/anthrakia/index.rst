@@ -10,7 +10,7 @@ Local de criação dos esquemas:
 Grupo alvo:
     Retiros próprios para a comunidade "Ponad Murami" (Acima dos Muros)
 Descrição dos retiros:
-    FALTA.
+    O retiro acompanha São Pedro desde o reconhecimento do Messias, passando por erros e quedas, até ao amor simples da Eucaristia e ao envio: «apascenta as minhas ovelhas». Inspirado no ensinamento do arcebispo Grzegorz Rys, convida a descobrir a fé como caminho de crescimento, e não como um exame aprovado de uma vez para sempre.
 
 .. only:: html
 

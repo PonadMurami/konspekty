@@ -10,7 +10,7 @@ Lugar de creación de los esquemas:
 Grupo destinatario:
     Retiros abiertos para personas de 16 a 35 años
 Descripción de los retiros:
-    FALTA.
+    El retiro conduce por la humanidad de Jesús y la Cruz hacia las siete últimas palabras de Cristo, acogidas en el silencio del corazón y preparadas en la Eucaristía. Concluye con gratitud por el Sacrificio, con una síntesis de las palabras del Gólgota y con la invitación a no quedarse solo ante la Cruz, sino a ir con ella hacia los demás.
 
 .. only:: html
 

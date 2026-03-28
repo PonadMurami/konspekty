@@ -10,7 +10,7 @@ Local de criação dos esquemas:
 Grupo alvo:
     Retiro próprio para a comunidade Ponad Murami
 Descrição do retiro:
-    FALTA.
+    Este retiro interno desenrola-se na Oração Sacerdotal: do amor e do Espírito da Verdade para a vida eterna como conhecer o Pai e o Filho, pela unidade e pela alegria em plenitude, até ao testamento da unidade de que -- segundo Jesus -- depende a fé do mundo.
 
 .. only:: html
 
