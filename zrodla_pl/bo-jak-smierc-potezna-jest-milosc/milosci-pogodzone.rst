@@ -15,7 +15,7 @@ Cel Spotkania
 Wprowadzenie dla animatora
 ==========================
 
-Dziś będziemy kontynuować lekturę rozważanie tekstu Pnp. Co do metody dzisiejsze spotkanie się nie zmienia. Nie trzeba jednak dziś części, w~której wyobrażamy sobie poszczególne wydarzenia zbytnio rozbudowywać, ponieważ najważniejszą rzeczą będzie rozmowa na temat całości i~wyciąganie wniosków z~całości lektury.
+Dziś będziemy kontynuować lekturę i~rozważanie tekstu Pnp. Co do metody dzisiejsze spotkanie się nie zmienia. Nie trzeba jednak dziś części, w~której wyobrażamy sobie poszczególne wydarzenia zbytnio rozbudowywać, ponieważ najważniejszą rzeczą będzie rozmowa na temat całości i~wyciąganie wniosków z~całości lektury.
 
 Modlitwa początkowa
 ===================
@@ -25,7 +25,7 @@ Modlitwa do Ducha Św. o~dar zrozumienia jego słowa, o~dar rozumu. I~inne inten
 Analiza tekstu
 ==============
 
-Pierwsza część spotkanie wygląda podobnie jak wczoraj. Czytamy rozdz. od 6 do 8 i~staramy się wyobrażać sobie po kolei poszczególne sceny. Warto zwrócić uwagę na scenę znalezienia po szukaniu na końcu rozdz. 5 i~przeanalizować słowa, które zakochani do siebie wypowiadają. Zwłaszcza oblubieniec, który nie gani swej wybranej za to, że nie otworzyła mu poprzedniego dnia. Znajduje ją pobitą, brudną, bez ubrania (bo szukała swego umiłowanego nocą – patrz Pnp 5,7). Drugim elementem któremu warto poświęcić więcej uwagi jest sam akt zaślubin (pieśń szósta – Pnp od 8,5), w~którym małżonkowie wychwalają miłość. Miłość, która ich całkowicie pochłonęła. (Warto np. podkreślić, że słów "Połóż mię jak pieczęć na twoim sercu, jak pieczęć na twoim ramieniu" nie napisał wcale Rubik, mam nadzieję, że to nie będzie zaskoczenie dla nikogo).
+Pierwsza część spotkania wygląda podobnie jak wczoraj. Czytamy rozdz. od 6 do 8 i~staramy się wyobrażać sobie po kolei poszczególne sceny. Warto zwrócić uwagę na scenę znalezienia po szukaniu na końcu rozdz. 5 i~przeanalizować słowa, które zakochani do siebie wypowiadają. Zwłaszcza oblubieniec, który nie gani swej wybranej za to, że nie otworzyła mu poprzedniego dnia. Znajduje ją pobitą, brudną, bez ubrania (bo szukała swego umiłowanego nocą – patrz Pnp 5,7). Drugim elementem któremu warto poświęcić więcej uwagi jest sam akt zaślubin (pieśń szósta – Pnp od 8,5), w~którym małżonkowie wychwalają miłość. Miłość, która ich całkowicie pochłonęła. (Warto np. podkreślić, że słów "Połóż mię jak pieczęć na twoim sercu, jak pieczęć na twoim ramieniu" nie napisał wcale Rubik, mam nadzieję, że to nie będzie zaskoczenie dla nikogo).
 
 Cechy miłości
 =============
@@ -51,11 +51,11 @@ Miłość w~Pnp nie jest przeciwstawieniem miłości zmysłowej, ludzkiej z~mił
 
 * Co wyrażają te słowa wypowiedziane przez oblubienicę?
 
-Jako syntezę tego punktu można przeczytać komentarz G Ravasiego:
+Jako syntezę tego punktu można przeczytać komentarz G. Ravasiego:
 
    Miłość w~Pnp jest mieszanką eros i~agape w~pełni spotkania między dwiema osobami. Miłość jest egzaltacją i~ekscytującym doświadczeniem piękna, estetyczności, uroku – fizycznego i~duchowego. [...] Potwierdzają to liczne symbole, metafory, obrazy szczęścia, tak charakterystyczne dla Pnp. Co więcej na końcu wszystkie te porównania głoszą całkowitą wyjątkowość, nieporównywalność miłości. [...]
 
-   Dynamika miłości w~ujęciu Pnp, jest jednocześnie posiadaniem i~wolnością. Niepokój, nieobecność i~poszukiwanie, które tu i~tam pojawiają się w~Pnp, poświadczają, że miłość jest tożsamością i~zarazem autonomią, jest posiadaniem i~darem. Ukazuje się w~ten sposób «cecha niemożliwości zawłaszczenia i~i wejścia w~posiadanie jednej osoby przez drugą. Osoba jest kimś, kto przerasta wszelkie miary zawłaszczenia i~panowania, posiadanie i~spełnienia» (Jan Paweł II, 6 VI 1984). Wolny dar jednej osoby dla drugiej przekracza tę niemożliwość.
+   Dynamika miłości w~ujęciu Pnp, jest jednocześnie posiadaniem i~wolnością. Niepokój, nieobecność i~poszukiwanie, które tu i~tam pojawiają się w~Pnp, poświadczają, że miłość jest tożsamością i~zarazem autonomią, jest posiadaniem i~darem. Ukazuje się w~ten sposób «cecha niemożliwości zawłaszczenia i~wejścia w~posiadanie jednej osoby przez drugą. Osoba jest kimś, kto przerasta wszelkie miary zawłaszczenia i~panowania, posiadanie i~spełnienia» (Jan Paweł II, 6 VI 1984). Wolny dar jednej osoby dla drugiej przekracza tę niemożliwość.
 
 To właśnie wyrażają słowa oblubienicy, składa ona dar z~siebie, podobnie jak uczynił to jej ukochany. To samo wyrazi św. Paweł pisząc: *"teraz nie żyję już ja, ale żyje we mnie Chrystus".*
 
@@ -70,16 +70,16 @@ Ponieważ mamy naśladować miłość Boga, dlatego i~my powinniśmy kochać po�
 
 Na koniec spotkań grupowych zapytajmy uczestników o~ich wrażenia z~lektury Pnp. Jak myślą, dlaczego ta księga znalazła się w~Piśmie Świętym? Czego nas uczy?
 
-Można jeszcze powiedzieć, że Pnp jest też księga niezwykłą w~tradycji żydowskiej. Pochwala ona monogamię, która współwystępowała w~tym czasie razem z~poligamią (mężczyzna mógł mieć do 5 żon, król do 18). Zrywa z~rozumieniem małżeństwa jako wymiany handlowej pomiędzy rodzinami. Wreszcie poświęca bardzo dużo uwagi miłości kobiety, jej odczuciom, pragnieniom. Opisuje też w~całym pięknie cielesność kobiety. Jest to niespotykana sytuacja w~piśmiennictwie Izraela. Kobieta w~tej księdze jest najważniejsza, jest ukoronowaniem stworzenia, najpiękniejszym stworzeniem. Ten opis w~Pnp odnosi się bezpośrednio do fragmentu:
+Można jeszcze powiedzieć, że Pnp jest też księgą niezwykłą w~tradycji żydowskiej. Pochwala ona monogamię, która współwystępowała w~tym czasie razem z~poligamią (mężczyzna mógł mieć do 5 żon, król do 18). Zrywa z~rozumieniem małżeństwa jako wymiany handlowej pomiędzy rodzinami. Wreszcie poświęca bardzo dużo uwagi miłości kobiety, jej odczuciom, pragnieniom. Opisuje też w~całym pięknie cielesność kobiety. Jest to niespotykana sytuacja w~piśmiennictwie Izraela. Kobieta w~tej księdze jest najważniejsza, jest ukoronowaniem stworzenia, najpiękniejszym stworzeniem. Ten opis w~Pnp odnosi się bezpośrednio do fragmentu:
 
    Po czym Pan Bóg z~żebra, które wyjął z~mężczyzny, zbudował niewiastę. A~gdy ją przyprowadził do mężczyzny, mężczyzna powiedział: «Ta dopiero jest kością z~moich kości i~ciałem z~mego ciała! Ta będzie się zwała niewiastą, bo ta z~mężczyzny została wzięta». Dlatego to mężczyzna opuszcza ojca swego i~matkę swoją i~łączy się ze swą żoną tak ściśle, że stają się jednym ciałem.
 
    -- Rdz 2,22-24
 
-Zachwyt Adama nad kobietą jest tym samym zachwytem, który wypowiada oblubieniec w~Pnp. W~Rodz. na dodatek, to nie kobieta idzie zamieszkać z~mężem, ale mężczyzna udaje się do domu kobiety. W~pierwsze kulturach to kobiety właśnie pełniły dominujące role w~życiu społecznym i~intrygowały mężczyzn, pociągały, były dla nich tajemnicą. W~Pnp widzimy
+Zachwyt Adama nad kobietą jest tym samym zachwytem, który wypowiada oblubieniec w~Pnp. W~Rodz. na dodatek, to nie kobieta idzie zamieszkać z~mężem, ale mężczyzna udaje się do domu kobiety. W~pierwszych kulturach to kobiety właśnie pełniły dominujące role w~życiu społecznym i~intrygowały mężczyzn, pociągały, były dla nich tajemnicą. W~Pnp widzimy
 już zmianę tradycji jeśli chodzi o~miejsce mieszkania po ślubie, ale to kobieta nadal jest traktowana jako ukoronowanie stworzenia.
 
 Modlitwa końcowa
 ================
 
-Modlitwa końcowa o~owoce tych rekolekcji i~dobre przygotowanie się do Świąt Wielkiej Nocy. Forma wg uznania animatora
+Modlitwa końcowa o~owoce tych rekolekcji i~dobre przygotowanie się do Świąt Wielkiej Nocy. Forma wg uznania animatora.

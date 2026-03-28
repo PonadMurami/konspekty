@@ -73,7 +73,7 @@ Surge a perspectiva de que este dom da vida de que falamos no início tem um obj
 Serviço: atitude a imitar
 =========================
 
-Deus veio à terra como homem para nos ajudar. Mostrou-nos a perfefeição a que devemos aspirar com a nossa vida. Disse muitas vezes que devemos imitá-lo.
+Deus veio à terra como homem para nos ajudar. Mostrou-nos a perfeição a que devemos aspirar com a nossa vida. Disse muitas vezes que devemos imitá-lo.
 
 * Ler Flp 2,5-11
     * Esvaziou-se, assumiu a condição de servo, humilhou-se a si mesmo, foi obediente

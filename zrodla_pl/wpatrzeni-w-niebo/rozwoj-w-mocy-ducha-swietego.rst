@@ -222,7 +222,7 @@ Podsumowanie - moje oczekiwanie na Zesłanie Ducha Świętego
 
 Znajdujemy się w~czasie liturgicznym pomiędzy Zmartwychwstaniem Jezusa, a~Zesłaniem Ducha Świętego. To Liturgia jest naszą inspiracją do prowadzenia tych rekolekcji. Chcemy dzięki tym wspólnym spotkaniom w~małej grupie lepiej odnaleźć się w~życiu Kościoła.
 
-* Z~jaką intencją chcesz  wzywać Ducha Świętego niebawem w~dniu Pięćdziesiątnicy?
+* Z~jaką intencją chcesz wzywać Ducha Świętego niebawem w~dniu Pięćdziesiątnicy?
 
 **Jako zastosowanie z~tego spotkania niech każdy wybierze sobie jedną rzecz w~swoim życiu, w~której spróbuje zastosować metodę apostołów - znajdzie wybór pomiędzy dobrem a~dobrem, a~następnie modląc się i~ufając Bogu sam podejmie decyzje.**
 

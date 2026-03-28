@@ -185,7 +185,7 @@ We add a new element on the card with the inscription “chosen = valuable”:
 
 * Do you agree with this equation?
 
-* do you have your own experience that something that was waited for tasted better?
+* Do you have your own experience that something that was waited for tasted better?
 
 This all sounds quite nice as a theory, but let's not be afraid to confront it with our life:
 

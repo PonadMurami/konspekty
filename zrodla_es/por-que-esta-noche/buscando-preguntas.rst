@@ -56,7 +56,7 @@ Dejar espacio
 
 Ya hemos hablado sobre qué preguntas tenemos, qué aportaron a nuestra vida. Intentamos mirar los contenidos bíblicos con un ojo inquisitivo.
 
-La libertad al hacer preguntas es que las preguntas nos permiten no estar excesivamente apegados a las respuestas. Necesitamos reconocer que estamos en un proceso continuo, que lo que ya hemos descubierto sigue vivo. Si hormigonamos nuestros descubrimientos, nos pesarán, por otro lado, si reconocemos su dinamismo, podremos aprovechar plenamente su potencial. Queda espacio para la acción continua de Dios.
+La libertad al hacer preguntas es que las preguntas nos permiten no estar excesivamente apegados a las respuestas. Necesitamos reconocer que estamos en un proceso continuo, que lo que ya hemos descubierto sigue vivo. Si solidificamos nuestros descubrimientos, nos pesarán, por otro lado, si reconocemos su dinamismo, podremos aprovechar plenamente su potencial. Queda espacio para la acción continua de Dios.
 
 Leamos:
 

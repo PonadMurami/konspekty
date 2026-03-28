@@ -7,7 +7,7 @@ Spotkanie 2. - Ludzie wieczernika
 Pomoce
 ==================================
 
-Karteczki z~wypisanymi porównaniami dotyczącymi wiary - "Przedstawiłbyś to, jaką wiare pragniesz mieć...", mapa myśli "Szanuję Boga więc..." do wypełnienia
+Karteczki z~wypisanymi porównaniami dotyczącymi wiary - "Przedstawiłbyś to, jaką wiarę pragniesz mieć...", mapa myśli "Szanuję Boga więc..." do wypełnienia
 
 ==================================
 Cel
@@ -26,9 +26,9 @@ Dzielenie - uwagi, pytania, sugestie, odczucia - zapamiętać na odprawę dla di
 Wieczernik nie tylko apostołów
 =========================================
 
-Spójrzmy na uczniów i~ich sytuacji po zmartwychwstaniu Jezusa:
+Spójrzmy na uczniów i~ich sytuację po zmartwychwstaniu Jezusa:
 
-	Wieczorem  owego  pierwszego  dnia  tygodnia,  tam  gdzie  przebywali  uczniowie,  gdy  drzwi  były zamknięte z~obawy przed Żydami, przyszedł Jezus, stanął pośrodku i~rzekł do nich: "Pokój wam!"  A~to powiedziawszy, pokazał im ręce i~bok. Uradowali się zatem uczniowie ujrzawszy Pana. A~Jezus znowu rzekł do nich: "Pokój wam! Jak Ojciec Mnie posłał, tak i~Ja was posyłam". Po tych słowach tchnął na nich i~powiedział im: "Weźmijcie Ducha Świętego! Którym odpuścicie grzechy, są im odpuszczone, a~którym zatrzymacie, są im zatrzymane".
+	Wieczorem owego pierwszego dnia tygodnia, tam gdzie przebywali uczniowie, gdy drzwi były zamknięte z~obawy przed Żydami, przyszedł Jezus, stanął pośrodku i~rzekł do nich: "Pokój wam!" A~to powiedziawszy, pokazał im ręce i~bok. Uradowali się zatem uczniowie ujrzawszy Pana. A~Jezus znowu rzekł do nich: "Pokój wam! Jak Ojciec Mnie posłał, tak i~Ja was posyłam". Po tych słowach tchnął na nich i~powiedział im: "Weźmijcie Ducha Świętego! Którym odpuścicie grzechy, są im odpuszczone, a~którym zatrzymacie, są im zatrzymane".
 
 	-- J 20,19-23
 
@@ -52,7 +52,7 @@ Moja wiara to sprawa szalenie osobista. Ciężko z~tego powodu o~niej mówić. M
 	* Przedstawiłbyś to jaką wiarę pragniesz mieć bardziej jako zdobywanie świata czy ucieczkę od świata?
 	* Przedstawiłbyś to jaką wiarę pragniesz mieć bardziej jako jezioro które jest dla innych czy rwący potok torujący drogę poprzez skały?
 	* Przedstawiłbyś to jaką wiarę pragniesz mieć bardziej jako "jesteś Rambo" czy "jesteś pobożny kleryk"?
-	* Przedstawiłbyś to jaką wiarę pragniesz mieć bardziej jako chodzenie po wodzie, czy usługiwaniezięciowi?
+	* Przedstawiłbyś to jaką wiarę pragniesz mieć bardziej jako chodzenie po wodzie, czy usługiwanie zięciowi?
 	* Przedstawiłbyś to jaką wiarę pragniesz mieć bardziej jako Serce czy Rozum?
 	* Przedstawiłbyś to jaką wiarę pragniesz mieć bardziej jako wspinanie się na szczyt, czy oglądanie widoków na szczycie?
 	* Przedstawiłbyś to jaką wiarę pragniesz mieć bardziej jako skrupulatne przestrzeganie prawa czy jego tworzenie, odkrywanie?
@@ -103,7 +103,7 @@ Z przenoszenia gór nie ma za dużego pożytku duchowego. Ciężko stwierdzić c
 
 * Co jest pomiędzy zamknięciem w~wieczerniku a~tą radością z~życia? (Duch! Jego zesłanie!)
 
-Apostołowie, którzy poszli na cały znany im świat i~głosili Jezusa w~językach, których wcześniej nawet nie rozumieli. Nie byli oni doskonali. Skryli w~wieczerniku! Oni nie zrozumieli jego nauki! Rozczarowali mistrza (nie było ich pod krzyżem)! Tak po naszemu mówiąc dali plamę wszędzie tam gdzie się dało. Ale....byli otwarci na Ducha i~byli  **prawdziwi** (np. Tomasz: jak ma wątpliwość to nie szczerzy zębów i~nie potakuje, tylko wali prosto z~mostu - nie uwierzę dopóki nie zobaczę!)
+Apostołowie, którzy poszli na cały znany im świat i~głosili Jezusa w~językach, których wcześniej nawet nie rozumieli. Nie byli oni doskonali. Skryli się w~wieczerniku! Oni nie zrozumieli jego nauki! Rozczarowali mistrza (nie było ich pod krzyżem)! Tak po naszemu mówiąc dali plamę wszędzie tam gdzie się dało. Ale....byli otwarci na Ducha i~byli  **prawdziwi** (np. Tomasz: jak ma wątpliwość to nie szczerzy zębów i~nie potakuje, tylko wali prosto z~mostu - nie uwierzę dopóki nie zobaczę!)
 
 Skoro oni mogli tacy być to  my też możemy. To nie jest nic nienormalnego jak mamy problemy z~wiarą, problemem jest to, że zamykamy się na Sprawcę Wszelkiego Ruchu.
 
@@ -145,7 +145,7 @@ Można być pobożnie zachłannym, dobrze zachłannym w~prośbach. **Wiara domag
 
 * Znana Ci sytuacja czy o. Adam się myli? :)
 
-Co  to  znaczy  dla  nas  tu  i~ teraz  "traktowanie Boga  serio"?  Spróbujmy zrobić  listę  (Mapa skojarzeń - kartka z~napisem "Szanuje Boga więc..." na środku, dopisujemy nasze odpowiedzi). Ale niech to będzie **nasza lista**, a~nie lista "jakichś polaków". Spróbujmy poszukać głębiej, bo czy od usłyszenia "bądź dobrym człowiekiem" stajesz się lepszy? Trzeba konkretu! Spróbujmy spisać konkrety
+Co to znaczy dla nas tu i~teraz "traktowanie Boga serio"? Spróbujmy zrobić listę (Mapa skojarzeń - kartka z~napisem "Szanuję Boga więc..." na środku, dopisujemy nasze odpowiedzi). Ale niech to będzie **nasza lista**, a~nie lista "jakichś polaków". Spróbujmy poszukać głębiej, bo czy od usłyszenia "bądź dobrym człowiekiem" stajesz się lepszy? Trzeba konkretu! Spróbujmy spisać konkrety
 
 [dynamika]
 
@@ -159,9 +159,9 @@ Być sobą - radość
 
 Co jest owocem wiary szczerej i~otwartej? Radość! Bo wiara przestaje być czymś jakby obok naszego życia, czymś jakby trochę nie naszym. Nie mamy dwóch serc: te które myśli swoje i~te które jest poukładane przed Bogiem. Jak nagle w~tak ważnej sferze życia jaką jest duchowość możemy być sobą i~na dodatek ktoś chce, abyśmy tacy byli i~mówi: "No w~końcu Ania/Kasia/ Błażej/Kuba! W~końcu powiedziałeś mi co myślisz, a~nie starałeś się być tym kim nie jesteś!" to nie sposób nie być radosnym.
 
-* Czy przeżyłeś kiedyś radość z~"bycia sobą"? Nie koniecznie przed Bogiem!
+* Czy przeżyłeś kiedyś radość z~"bycia sobą"? Niekoniecznie przed Bogiem!
 
-* Czy próbowałaś/eś już kiedyś wyjść ze swojego wieczernika? Zbuntowałeś/aś się przeciwko temu jak wygląda Twoje życie/wiara?6
+* Czy próbowałaś/eś już kiedyś wyjść ze swojego wieczernika? Zbuntowałeś/aś się przeciwko temu jak wygląda Twoje życie/wiara?
 
 * Czy próbowałeś to robić sam czy z~pomocą Ducha Świętego?
 

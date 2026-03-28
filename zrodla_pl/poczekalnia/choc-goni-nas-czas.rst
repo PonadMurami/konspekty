@@ -73,7 +73,7 @@ Czas umożliwia zmianę
 
 * Jak kiedyś mierzono czas?
 
-    - Gnomon. Wynaleziony prawdopodobnie przez chińczyków. Ok. 2500r. p.n.e..Stanowił pionowo ustawiony słup lub pręt, u~podstawy którego oznaczano godziny. Przesuwający się w~ciągu dnia cień pełnił rolę wskazówki.
+    - Gnomon. Wynaleziony prawdopodobnie przez chińczyków. Ok. 2500r. p.n.e. Stanowił pionowo ustawiony słup lub pręt, u~podstawy którego oznaczano godziny. Przesuwający się w~ciągu dnia cień pełnił rolę wskazówki.
     - Zegar Wodny. Skonstruowany przez Egipcjan. Był urządzeniem prostym, a~zarazem niedokładnym. Składało się z~naczynia napełnionego wodą, z~którego poprzez otwór denny wyciekała woda.
     - Klepsydra. Wynaleźli Grecy. Był oparty na tej samej zasadzie co zegar wodny w~którym miejsce wody zajął piasek. Odznaczał się on większą precyzją.
 
@@ -109,7 +109,7 @@ Zmiana wymaga decyzji. Jeżeli motyw z~decyzją się nie pojawi: Przytyło Ci si
 
 * Jakie rzeczy wymagają zmian?
 
-Jeżli coś wymaga zmiany, to z~definicji nie jest idealne. Jeżeli na ziemi jest czas, a~czas umożliwia zmiany to znaczy, że coś tej zmiany wymaga.
+Jeżeli coś wymaga zmiany, to z~definicji nie jest idealne. Jeżeli na ziemi jest czas, a~czas umożliwia zmiany to znaczy, że coś tej zmiany wymaga.
 
 Podsumowanie - dojrzewanie przez zmianę
 =======================================

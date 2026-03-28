@@ -59,7 +59,7 @@ Let us read:
 
     -- Jn 18:3-11
 
-While a moment ago St. Peter committed a "sin of omission" through lack of activity, now he falls into the other side—activity that is too violent and disordered. St. Peter clearly wants to fill the space that the events of salvation history create for him, but he keeps "applying the chisel in the wrong place."
+While a moment ago St. Peter committed a "sin of omission" through lack of activity, now he falls into the other extreme—activity that is too violent and disordered. St. Peter clearly wants to fill the space that the events of salvation history create for him, but he keeps "applying the chisel in the wrong place."
 
 - What ideas for my activity in life have I rightly extinguished because I recognized that this is not my path?
 - What would I like to do in the Church now so that it would be in accordance with me?
@@ -76,14 +76,14 @@ Let us read:
 
 - What am I afraid of in belonging to the community of believers?
 
-St. Peter once again "wants to love, but cannot." This time he does not err "a little" by choosing the wrong method, but directly denies everything in which he believed. We watch the whole scene with displeasure, because it is almost visible that St. Peter "has no chance" and in a moment will be overwhelmed. Everything falls apart.
+St. Peter once again "wants to love, but cannot." This time he does not err "a little" by choosing the wrong method, but directly denies everything in which he believed. We watch the whole scene with sorrow, because it is almost visible that St. Peter "has no chance" and in a moment will be overwhelmed. Everything falls apart.
 
 St. Peter is alone. Separated from the Master, separated from the disciples. In the night. Do I have an expectation at the level of emotions that "my first pope" would prove to be a hero even in such conditions? I do. However, a "miracle of faith" does not happen, but rather a "consequence of the situation" happens. God does not give a Fiery Angel who disperses the darkness around St. Peter giving him superhuman faith. There is logic, consequence, there is life.
 
 - In what way concretely can we help each other so that we do not often find ourselves in such a difficult situation as St. Peter?
 - Whose faith, love, and light in life do I surround with my care? (this does not mean that I take responsibility for it!)
 
-Let us notice St. Peter's deepening wandering:
+Let us notice St. Peter's deepening straying:
 
 1. He fell asleep instead of watching
 2. He wanted to fight instead of forgive

@@ -107,7 +107,7 @@ Przeczytajmy:
 
 * Gdyby ktoś zapytał Cię w~windzie o~to jaka jest nauka Chrystusa i~miałbyś 60 sekund na odpowiedź - co byś powiedział/powiedziała?
 
-Prawda, o~której jest mowa w~tym fragmencie to grecka aletheia (od a-lethès, „nie ukryte”). Prawda nie jest czymś, co trzeba odkrywać (stwierdzenie “Ukryta prawda” jest wręcz paradoksem). Ona zawsze jest jawna. Tylko to my musimy patrzeć w~odpowiedni sposób, uzyskać perspektywę, która pozwoli ją dostrzec. Z~pewnością pomaga nam w~tym Duch Święty -  nazywany zresztą przez Jezusa Duchem Prawdy. To dzięki Jego działaniu jesteśmy w~stanie spojrzeć na świat przez pryzmat Bożej logiki i~działać zgodnie z~Jego wolą, przyczyniając się do budowania Królestwa.
+Prawda, o~której jest mowa w~tym fragmencie to grecka aletheia (od a-lethès, „nie ukryte”). Prawda nie jest czymś, co trzeba odkrywać (stwierdzenie “Ukryta prawda” jest wręcz paradoksem). Ona zawsze jest jawna. Tylko to my musimy patrzeć w~odpowiedni sposób, uzyskać perspektywę, która pozwoli ją dostrzec. Z~pewnością pomaga nam w~tym Duch Święty - nazywany zresztą przez Jezusa Duchem Prawdy. To dzięki Jego działaniu jesteśmy w~stanie spojrzeć na świat przez pryzmat Bożej logiki i~działać zgodnie z~Jego wolą, przyczyniając się do budowania Królestwa.
 
 Czy Jezus podał nam na tacy rozwiązania jak mamy szukać dobrej decyzji? Nie. Dał nam jednak Swojego Ducha i~Wspólnotę Kościoła, która od 2000 lat uczy się i~doskonali w~rozeznawaniu woli Bożej. Dał też obietnicę, że poznamy Prawdę jeżeli będziemy rzeczywiście Jego uczniami.
 
@@ -130,7 +130,7 @@ Grupa może sama wybrać sprawę do rozeznawania, ale równie dobrze można skor
 
 .. note:: Ordo Caritatis - Najpierw obowiązki wobec Boga, Wobec najbliższych (rodzina), zadania stanu (szkoła, praca zawodowa). [Jeżeli mam wybór pomiędzy przygotowaniem do sprawdzianu, a~przygotowaniem spotkania grupowego powinienem wybrać przygotowanie do sprawdzianu. Jeżeli nie z~powodu mojego zaniedbania staje przed dylematem iść wieczorem w~niedzielę na Mszę Świętą czy nauczyć się do sprawdzianu - powinienem iść na Mszę Świętą]
 
-Nawiązujemy do tego, co mówią uczestnicy i~rozwijamy punkty o~wiedzę z~przypisów. Celem jest, aby uczestnicy spotkania zobaczyli szerzej w~praktyce rozeznawanie duchowe. Jeżeli będą punkty z~powyższej listy do których grupa się nie zbliża,to zapytajmy ich wprost co myślą o~takim elemencie. Unikajmy odczucia “trafiania w~klucz”.
+Nawiązujemy do tego, co mówią uczestnicy i~rozwijamy punkty o~wiedzę z~przypisów. Celem jest, aby uczestnicy spotkania zobaczyli szerzej w~praktyce rozeznawanie duchowe. Jeżeli będą punkty z~powyższej listy do których grupa się nie zbliża, to zapytajmy ich wprost co myślą o~takim elemencie. Unikajmy odczucia “trafiania w~klucz”.
 
 Proponowane dylematy:
      - Wyjechać z~przyjaciółmi w~góry na weekend czy uczestniczyć w~Wigilii Zesłania Ducha Świętego w~parafii.
@@ -154,7 +154,7 @@ Szczera motywacja
 
 W procesie rozeznawania i~nie tylko, ważnym elementem jest kwestia naszych motywacji oraz intencji. Często uważamy jakieś rzeczy za ważne tylko dlatego, że wydaje nam się, że powinniśmy tak uważać. Witold Gombrowicz w~Ferdydurke napisał: “Dlaczego Słowacki wzbudza w~nas zachwyt i~miłość? (...) Dlatego, panowie, że Słowacki wielkim poetą był!”. Nasza osobista ważność rzeczy nie może być narzucona z~zewnątrz opinią, zasadą, regułą. Jaką wtedy ma to wartość? Nawet powoływanie się na największe autorytety niczego nie zmieni. Gdy powiemy komuś “kocham Cię, dlatego, że Jezus nakazał mi Cię kochać” brzmi wręcz dotkliwie smutno i~wątpię, aby Jezusowi zależało na tym, by tak realizować Przykazanie Miłości, które nam pozostawił. Najważniejsze rzeczy muszą wychodzić od nas, muszą być szczere, prawdziwe - “Kocham Cię, bo chcę!”.
 
-Przyjrzyjmy się pewnej sytuacji z~Pisma Świętego, która także dotyczyła  ważnego wyboru.
+Przyjrzyjmy się pewnej sytuacji z~Pisma Świętego, która także dotyczyła ważnego wyboru.
 
 Przeczytajmy:
 
@@ -166,15 +166,15 @@ Przeczytajmy:
 
 * Jakie mogły być motywacje Marty, a~jakie Marii? (Np. Czy Marta naprawdę, szczerze chciała służyć ? Czy robić to co wypada? Co wydawało jej się, że powinna robić?)
 
-* Czym różniła się postawa Marty od postawy Marii? (Tu żeby wybrzmiało to, że Marta porównywała się do siostry - “Ja tu haruję, a~ta się obija”, tymczasem  Maria robiła po prostu swoje.)
+* Czym różniła się postawa Marty od postawy Marii? (Tu żeby wybrzmiało to, że Marta porównywała się do siostry - “Ja tu haruję, a~ta się obija”, tymczasem Maria robiła po prostu swoje.)
 
-Troska Marty o~godne ugoszczenie Pana Jezusa nie była niczym złym. Nie kwestionujemy tego, że jej gotowość do służenia, dzięki której inni mogli skupić się na słuchaniu Jezusa, była godna podziwu (pomijając fakt, że w~tamtej kulturze gościnność była tak istotna, że w~sumie to z~punktu widzenia obyczaju, to właśnie Maria postępuje źle...). Być może jednak niepotrzebnie porównywała się do siostry. Mogło to wynikać z~tego, że poczuła się gorsza, bo skupiła się na bardziej przyziemnych rzeczach, albo poczuła się niesprawiedliwe potraktowana, pokrzywdzona. Tymczasem Jezus mówi o~najlepszej cząstce - tym czymś  własnym, co robię szczerze, co jest moje i~nie muszę tego porównywać z~innymi, co nie może mi zostać odebrane.
+Troska Marty o~godne ugoszczenie Pana Jezusa nie była niczym złym. Nie kwestionujemy tego, że jej gotowość do służenia, dzięki której inni mogli skupić się na słuchaniu Jezusa, była godna podziwu (pomijając fakt, że w~tamtej kulturze gościnność była tak istotna, że w~sumie to z~punktu widzenia obyczaju, to właśnie Maria postępuje źle...). Być może jednak niepotrzebnie porównywała się do siostry. Mogło to wynikać z~tego, że poczuła się gorsza, bo skupiła się na bardziej przyziemnych rzeczach, albo poczuła się niesprawiedliwe potraktowana, pokrzywdzona. Tymczasem Jezus mówi o~najlepszej cząstce - tym czymś własnym, co robię szczerze, co jest moje i~nie muszę tego porównywać z~innymi, co nie może mi zostać odebrane.
 
 * Jak często myślę o~swoich motywacjach? Jak często analizuję własne intencje?
 
 * Co jest trudne w~byciu szczerym przed samym sobą?
 
-* Jak może wyglądać nasze oczyszczenie motywacji w~sprawach wiary w~XXIw?
+* Jak może wyglądać nasze oczyszczenie motywacji w~sprawach wiary w~XXI w.?
 
 Klucze jest stawianie sobie często pytania “po co to robię?”. “Dlaczego przychodzę na Oazę?”, Jeżeli naprawdę dla modlitwy to czy gdyby z~Oazy usunąć wszystkie spotkania i~wyjazdy i~zabawy to nadal chodziłbym tak samo chętnie? Służę jako animator, bo chcę naśladować Jezusa Chrystusa czy może ważne jest dla mnie też miano “animatora” i~możliwość dostępu do elitarnego grona? Czytam Pismo Święte, bo chcę poznać historię wiary? O~czym świadczy zatem moje omijanie ksiąg historycznych, a~wyraźna skłonność do poszukiwania cytatów “aforyzmowatych”?
 
@@ -187,7 +187,7 @@ Co ciekawe, w~Ewangelii Jana możemy przeczytać, że podczas namaszczenia w~Bet
 My nadajemy wartość
 ===================
 
-My też na różnych etapach naszego życia musimy się określić co do tego, co jest dla nas najważniejsze. Chcemy jak najbardziej świadomie decydować o~tym, jakimi wartościami się kierujemy i~które z~nich  realizujemy. Nie możemy wychodzić z~założenia, że wszystko jest ważne, bo kiedy wszystko jest ważne, nagle okazuje się, że tak naprawdę nic nie jest (inflacja wartości).
+My też na różnych etapach naszego życia musimy się określić co do tego, co jest dla nas najważniejsze. Chcemy jak najbardziej świadomie decydować o~tym, jakimi wartościami się kierujemy i~które z~nich realizujemy. Nie możemy wychodzić z~założenia, że wszystko jest ważne, bo kiedy wszystko jest ważne, nagle okazuje się, że tak naprawdę nic nie jest (inflacja wartości).
 
 * Po czym poznaję, że coś jest dla mnie ważne?
 
@@ -205,7 +205,7 @@ Przeczytajmy:
 
 Dla św. Pawła wartościowe jest to, co pomaga mu lepiej poznać Jezusa, pogłębić w~jakiś sposób relację z~Nim. To jego kryterium.
 
-* W~jaki sposób i~w jakim stopniu  moja wiara decyduje o~moich wartościach?
+* W~jaki sposób i~w jakim stopniu moja wiara decyduje o~moich wartościach?
 
 Przeczytajmy:
 
@@ -213,7 +213,7 @@ Przeczytajmy:
 
     -- Mt 5, 13-14
 
-Kiedy wartość przestaje być wartościowa - kiedy sól traci swój smak. My jesteśmy solą, my mamy kształtować wartości wokół nas. Musimy być świadomi naszej  własnej wartości, która determinuje wybór tego, co najważniejsze.
+Kiedy wartość przestaje być wartościowa - kiedy sól traci swój smak. My jesteśmy solą, my mamy kształtować wartości wokół nas. Musimy być świadomi naszej własnej wartości, która determinuje wybór tego, co najważniejsze.
 
 Dzisiaj w~czasie ciszy nocnej będziemy chcieli się zastanowić nad naszym nadawaniem wartości. Rozdajemy gotowe arkusze, na których znajduje się koło podzielone na osiem pół-osi, w~które wpisujemy wybrane przez nas wartości. Każda z~nich ma swoją oś z~cyframi od 1 do 10, na której będziemy zaznaczać na ile rzeczywiście realizuję daną wartość na ten moment, oraz to na ile chciałbym ją realizować (można różnymi kolorami).
 

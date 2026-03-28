@@ -22,18 +22,18 @@ Przyjrzyjmy się teraz jeszcze na chwilę bliżej samej tradycji zapraszania go�
 Wiara zapraszająca
 ==================
 
-W tradycji żydowskiej wierzono, że każdego dnia święta  Sukkot odwiedzają szałas duchowi przodkowie narodu żydowskiego, znani jako Ushpizin (z aramejskiego: „goście”).
+W tradycji żydowskiej wierzono, że każdego dnia święta Sukkot odwiedzają szałas duchowi przodkowie narodu żydowskiego, znani jako Ushpizin (z aramejskiego: „goście”).
 
 Abraham na przykład opuścił dom swojego ojca i~udał się do obcej krainy na rozkaz Boga. Józef został sprzedany w~niewolę do Egiptu. A~Mojżesz uciekł z~Egiptu do Midianu, gdzie spotkał Boga w~płonącym krzewie. Tak jak Ushpizin porzucił to, co było znane i~wygodne, w~służbie nakazu Boga, tak my w~Sukkot opuszczamy bezpieczeństwo naszych domów na rzecz nietrwałego schronienia na polecenie Boga. Ta tradycja uczy nas, że prawdziwa wiara jest inkluzywna, otwarta na każdego. Święto Sukkot jest tak zaprojektowane, żeby każdy odnalazł w~nim siebie.
 
 Wiara nie jest zamkniętym kręgiem przeznaczonym tylko dla wybranych – jest otwartym domem, w~którym każdy znajdzie miejsce. To nie my jesteśmy gospodarzami wiary, lecz ona nas przyjmuje, zaprasza i~daje nam przestrzeń do wzrostu. Niezależnie od naszej historii, słabości, wątpliwości czy upadków, wiara przyjmuje nas takimi, jakimi jesteśmy.
 
 - Jak przyjmuje wiarę? Jak w~przestrzeni mojego życia odkrywam jej gościnność?
-- W~jaki sposób mogę uczyć się  przyjmowania wiary jako daru, a~nie jako własności?
+- W~jaki sposób mogę uczyć się przyjmowania wiary jako daru, a~nie jako własności?
 
 Święto Sukkot dla Żydów jest świętem radosnym. Świętowanie, radość z~prawdy objawionej. Źródło wiary samo w~sobie ma stanowić zaproszenie dla każdego, kto tej wiary wciąż poszukuje:
 
-    Będziesz obchodził Święto Namiotów przez siedem dni po zebraniu plonów z~twego klepiska i~tłoczni.  W~to święto będziesz się radował ty, syn twój i~córka, sługa twój i~niewolnica, a~także lewita, przybysz, sierota i~wdowa, którzy są w~twoich bramach. Przez siedem dni będziesz świętować ku czci Pana, Boga swego, w~miejscu, które sobie obierze Pan, za to, że ci błogosławi Pan, Bóg twój, we wszystkich twoich zbiorach, w~każdej pracy twych rąk, abyś był pełen radości.
+    Będziesz obchodził Święto Namiotów przez siedem dni po zebraniu plonów z~twego klepiska i~tłoczni. W~to święto będziesz się radował ty, syn twój i~córka, sługa twój i~niewolnica, a~także lewita, przybysz, sierota i~wdowa, którzy są w~twoich bramach. Przez siedem dni będziesz świętować ku czci Pana, Boga swego, w~miejscu, które sobie obierze Pan, za to, że ci błogosławi Pan, Bóg twój, we wszystkich twoich zbiorach, w~każdej pracy twych rąk, abyś był pełen radości.
 
     -- Pwt 16,13-15
 
@@ -53,14 +53,14 @@ Animator pokazuje przygotowane ilustracje rekwizytów podpisane ich cechami oraz
 
 Obrzęd zbierania czterech rekwizytów Sukkot uświadamia nam, że każdy z~nas, mimo unikalnych cech, doświadczeń i~tradycji, jest nieodłącznym elementem większej wspólnoty. Przypomina to, że różnorodność naszych przekonań i~sposobów życia wzbogaca całość, a~każdy z~nas wnosi istotny wkład w~budowanie harmonijnego i~spójnego świata.
 
-- Jak odbieram wiarę, która przyjmuje nas wierzących jako swoich gości – zarówno tych głęboko oddanych, tych z~tradycji, wykształconych lecz niepraktykujących, jak i~tych, którzy czują się oddaleni od Boga?
+- Jak odbieram wiarę, która przyjmuje nas wierzących jako swoich gości – zarówno tych głęboko oddanych, tych z~tradycji, wykształconych, lecz niepraktykujących, jak i~tych, którzy czują się oddaleni od Boga?
 
-Świętowanie ważnych i~radosnych momentów w~naszym życiu często sprawia, że chcemy je celebrować razem z~jak największą ilością osób. Dobrym tego przykładem może być wesele, na które najczęściej zapraszamy rodzinę bliższą i~dalszą oraz przyjaciół i~znajomych z~różnych środowisk. Wszyscy łączą się w~tym dniu razem z~młodą parą we wspólnej radości. Jak bardzo taka perspektywa w~wierze może zmienić patrzenie choćby na samą Eucharystię, która zdecydowanie bardziej niż zbiorem jakichś rytuałów znanych tylko dla wtajemniczonych, jest przede wszystkim ucztą, która gromadzi nas przy jednym stole.
+Świętowanie ważnych i~radosnych momentów w~naszym życiu często sprawia, że chcemy je celebrować razem z~jak największą liczbą osób. Dobrym tego przykładem może być wesele, na które najczęściej zapraszamy rodzinę bliższą i~dalszą oraz przyjaciół i~znajomych z~różnych środowisk. Wszyscy łączą się w~tym dniu razem z~młodą parą we wspólnej radości. Jak bardzo taka perspektywa w~wierze może zmienić patrzenie choćby na samą Eucharystię, która zdecydowanie bardziej niż zbiorem jakichś rytuałów znanych tylko dla wtajemniczonych, jest przede wszystkim ucztą, która gromadzi nas przy jednym stole.
 
 Wiara wymagająca
 ================
 
-.. note:: Ten punkt bazuje na rozdziale 9 Ewangelii Jana, który opowiada w~całości jedną historię. W~trakcie samego spotkania czytamy jedynie najbardziej kluczowe fragmenty, jednak zachęcamy prowadzących do przeczytania całości w~ramach przygotowania, pozwoli to na szersze złapanie kontekstu
+.. note:: Ten punkt bazuje na rozdziale 9 Ewangelii Jana, który opowiada w~całości jedną historię. W~trakcie samego spotkania czytamy jedynie najbardziej kluczowe fragmenty, jednak zachęcamy prowadzących do przeczytania całości w~ramach przygotowania, pozwoli to na szersze złapanie kontekstu.
 
 Ważnym elementem przeżywania święta Sukkot jest również obrzęd wydobywania wody z~sadzawki Siloe. Kapłan przenosi napełniony dzban do świątyni, by tam polać ołtarz, prosząc przy tym o~deszcz i~urodzaj - obrzęd ten stawał się nie tylko prośbą o~otwarcie bram niebios i~zesłanie obfitych deszczów pory zimowej, ale z~czasem, kiedy wzmagały pragnienia zmiany sytuacji, gdy duchowy głód rósł wśród dzieci Izraela, stawał się wołaniem o~wylanie zdrojów zbawienia, Rucha ha-Kodesz, na spieczoną ziemię ludzkich serc, spraw i~losów. Droga jaką pokonuje kapłan nie jest łatwa i~przyjemna - trasa prowadziła pod górę i~nie była zbyt krótka.
 
@@ -76,13 +76,13 @@ Uzdrowienie osoby niewidomej od urodzenia jest uznawane przez Żydów za jeden z
 - W~jakich przestrzeniach czuję się najbardziej zależny od innych?
 - Co we mnie musi zostać stworzone na nowo?
 
-Historia tego niewidomego opisana w~Ewangelii nie kończy się na samym uzdrowieniu. Ze względu na to, jak wielką wagę miało i~w to w~dodatku dokonane w~szabat,  wzbudza spore zainteresowanie wśród faryzeuszów, którzy wzywają tego człowieka oraz jego rodziców na przesłuchanie. Chcą podważyć wiarygodność i~zakwestionować zdolność Jezusa do dokonania tak wielkiego cudu, jednak przesłuchiwany oświadcza, że jego uzdrowiciel musi pochodzić od Boga, bo inaczej nie mógłby przywrócić mu wzroku. Skutkuje to ostatecznie wyrzuceniem go z~synagogi, a~co za tym idzie, wykluczeniem ze społeczności. Wcześniej wyobcowany ze względu na niepełnosprawność, teraz odrzucony ze względu na wiarę w~Jezusa, spotyka się z~nim ponownie - przeczytajmy:
+Historia tego niewidomego opisana w~Ewangelii nie kończy się na samym uzdrowieniu. Ze względu na to, jak wielką wagę miało i~to w~dodatku dokonane w~szabat, wzbudza spore zainteresowanie wśród faryzeuszów, którzy wzywają tego człowieka oraz jego rodziców na przesłuchanie. Chcą podważyć wiarygodność i~zakwestionować zdolność Jezusa do dokonania tak wielkiego cudu, jednak przesłuchiwany oświadcza, że jego uzdrowiciel musi pochodzić od Boga, bo inaczej nie mógłby przywrócić mu wzroku. Skutkuje to ostatecznie wyrzuceniem go z~synagogi, a~co za tym idzie, wykluczeniem ze społeczności. Wcześniej wyobcowany ze względu na niepełnosprawność, teraz odrzucony ze względu na wiarę w~Jezusa, spotyka się z~nim ponownie - przeczytajmy:
 
     Jezus dowiedział się, że go wyrzucono. Gdy więc go spotkał, zapytał: „Czy wierzysz w~Syna Człowieczego?”.On zaś powiedział: „A kto to jest, Panie, abym w~Niego uwierzył?”. Wówczas Jezus oświadczył: „To jest Ten, którego zobaczyłeś i~który z~tobą rozmawia”. Na co on rzekł: „Wierzę, Panie”, po czym oddał Mu głęboki pokłon. A~Jezus powiedział: „Przyszedłem na ten świat, aby sądzić: Ci, którzy nie widzą, odzyskają wzrok, ci zaś, którzy widzą, staną się ślepcami”.
 
     -- J 9,35-39
 
-Jest to jeden z~niewielu przypadków opisanych w~Ewangelii, kiedy Jezus ponownie spotyka osobę, którą uzdrowił. Syn Człowieczy nie jest już dla tego człowieka nieosiągalnym, anonimowym Mesjaszem, ale kimś, kogo poznał i~doświadczył Jego działania.Teraz, kiedy przejrzał, ma w~sobie gotowość, żeby zaryzykować i~postawić wszystko na Tego, który go uzdrowił.
+Jest to jeden z~niewielu przypadków opisanych w~Ewangelii, kiedy Jezus ponownie spotyka osobę, którą uzdrowił. Syn Człowieczy nie jest już dla tego człowieka nieosiągalnym, anonimowym Mesjaszem, ale kimś, kogo poznał i~doświadczył Jego działania. Teraz, kiedy przejrzał, ma w~sobie gotowość, żeby zaryzykować i~postawić wszystko na Tego, który go uzdrowił.
 
 - Kiedy Jezus stał się dla mnie tym, którego zobaczyłem?
 - W~jakich kwestiach najtrudniej jest mi zaufać Bogu?
@@ -112,7 +112,7 @@ Ta reinterpretacja podkreśla, że wiara, która uwalnia, nie polega jedynie na 
 Podsumowanie i~zastosowanie
 ===========================
 
-Przechodząc poprzez tradycje żydowskie spotkaliśmy się z~trzema aspektami naszej wiary: gościnnym, wymagającym oraz uwalniającym. Wiara jest darem, który otrzymaliśmy. Każdy z~nas przeżywa swoją wiarę w~inny sposób. Przygotowywując się do zbliżającej się konferencji zadajmy sobie pytania:
+Przechodząc poprzez tradycje żydowskie spotkaliśmy się z~trzema aspektami naszej wiary: gościnnym, wymagającym oraz uwalniającym. Wiara jest darem, który otrzymaliśmy. Każdy z~nas przeżywa swoją wiarę w~inny sposób. Przygotowując się do zbliżającej się konferencji, zadajmy sobie pytania:
 
 - Za który z~aspektów jestem Bogu najbardziej wdzięczny?
 - Który aspekt mojej wiary wymaga ode mnie szczególnej pracy?

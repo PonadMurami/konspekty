@@ -66,7 +66,7 @@ Każdy zabiera po kawałku plasteliny, zostaje jeden kawałek, aby można było 
 
 #. Powtórz to jeszcze raz - figurka przechodzi do kolejnej osoby, która znów ma 2 minuty na modyfikację - ponownie ta sama zasada odnośnie zmiany.
 
-#. Na końcu figurki wracają do swoich pierwotnych twórców. Każda osoba ma dodatkowe 2 minuty na cofnięcie lub dodanie jakiś modyfikacji.
+#. Na końcu figurki wracają do swoich pierwotnych twórców. Każda osoba ma dodatkowe 2 minuty na cofnięcie lub dodanie jakichś modyfikacji.
 
 Refleksja i~podsumowanie
 ========================
@@ -89,7 +89,7 @@ GOŚCINNOŚĆ nie oznacza akceptowania wszystkiego bezmyślnie, ale umiejętnoś
 
     -- Mt 10,40
 
-Gościnność jako mądrości serca
+Gościnność jako mądrość serca
 ==============================
 
 Przeczytajmy:
@@ -109,7 +109,7 @@ Animator zaczyna od pytania:
 
 - Co może nas blokować w~byciu gościnnym?
 
-Wysłuchaj odpowiedzi. Jeśli nie padnie odpowiedź dotycząca braku zasobów (nie mamy się czym podzielić) - zasugeruj taką odpowiedź zapytaj czy może nas to blokować.
+Wysłuchaj odpowiedzi. Jeśli nie padnie odpowiedź dotycząca braku zasobów (nie mamy się czym podzielić) - zasugeruj taką odpowiedź i~zapytaj, czy może nas to blokować.
 
 .. note:: Wyciągamy pierwszy obrazek z~wdową
 

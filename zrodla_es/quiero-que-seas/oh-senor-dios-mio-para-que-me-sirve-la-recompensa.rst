@@ -6,7 +6,7 @@ Encuentro 2. - "Oh Señor, Dios mío, ¿para qué me sirve la recompensa?"
 Objetivo del encuentro + introducción para el animador
 ======================================================
 
-El objetivo del encuentro es convencerse de que mis deseos son importantes y no tengo que esconderlos ante nadie. Queremos ver en la actitud de Abram, que dice a Dios con pretensión "Dios, ¿para qué me sirve la recompensa?", algo bueno y hermoso, porque es verdadero. Nuestros deseos nos dicen mucho sobre nosotros mismos. Son importantes para los demás, importantes Para Dios. El encuentro requiere que encuentres en este tema tus propias experiencias y la convicción de que la fe está viva cuando no intentamos fingir en la oración ser otros de los que somos fuera de ella - de esta manera conduces a tu grupo al contenido del encuentro del domingo. Una línea fuerte es la historia de Abram - no omitas los fragmentos del libro del génesis. El esquema tiene muchas preguntas para compartir y tal carácter da también a todo el encuentro.
+El objetivo del encuentro es convencerse de que mis deseos son importantes y no tengo que esconderlos ante nadie. Queremos ver en la actitud de Abram, que dice a Dios con pretensión "Dios, ¿para qué me sirve la recompensa?", algo bueno y hermoso, porque es verdadero. Nuestros deseos nos dicen mucho sobre nosotros mismos. Son importantes para los demás, importantes para Dios. El encuentro requiere que encuentres en este tema tus propias experiencias y la convicción de que la fe está viva cuando no intentamos fingir en la oración ser otros de los que somos fuera de ella - de esta manera conduces a tu grupo al contenido del encuentro del domingo. Una línea fuerte es la historia de Abram - no omitas los fragmentos del libro del génesis. El esquema tiene muchas preguntas para compartir y tal carácter da también a todo el encuentro.
 
 .. note::  Si en el encuentro participan 7 personas con el animador, esto significa que el intento de realizar el esquema de cabo a rabo contendrá 210 declaraciones de la gente. Asumiendo que cada una dura un minuto, esto superará el doble del tiempo para el encuentro. ¡Abordadlo con sensatez!
 
@@ -131,7 +131,7 @@ Abram conocía la promesa dada por Dios. Sin embargo, esto no le impidió "grita
 
 * ¿Alguna vez le has dicho a Dios lo que yace en el fondo de tu corazón? ¿Qué hay de difícil en ello?
 
-Abram se rompió, espontáneamente se dirigió a Dios con lo que es y lo que llevaba dentro. No pensó en si Dios le reprocharía "¡pues hago tanto por ti Abram!". Es la mejor manera posible de aprovechar el tiempo de desolación. Los deseos se pueden susurrar a Dios, se pueden gritar - no vale la pena guardarlos dentro.
+Abram se sobrepuso, espontáneamente se dirigió a Dios con lo que es y lo que llevaba dentro. No pensó en si Dios le reprocharía "¡pues hago tanto por ti Abram!". Es la mejor manera posible de aprovechar el tiempo de desolación. Los deseos se pueden susurrar a Dios, se pueden gritar - no vale la pena guardarlos dentro.
 
 
 Mis deseos
@@ -145,7 +145,7 @@ Leamos:
 
 * ¿Qué consejo práctico puedes sacar de esta frase para ti aquí y ahora?
 
-* ¿Tienes en ti esa inquietud del corazón? ¿Por qué la reconoces?
+* ¿Tienes en ti esa inquietud del corazón? ¿En qué la reconoces?
 
 Nuestro deseo final es conocer a Dios cara a cara. Ese será el lugar donde encontraremos la paz. Cómo será nuestro camino hacia ese lugar es ya un asunto tremendamente más individual. El viaje de Abram es un tiempo en el que pudo conocer lo que para él es realmente importante. Experimentó mucho - vio una tierra lejana de la que antes solo había oído hablar, acumuló una enorme riqueza, se rodeó de una familia amorosa. Sin embargo, algo permanecía en él todavía insatisfecho - el deseo de tener un hijo.
 

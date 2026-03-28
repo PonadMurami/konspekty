@@ -28,11 +28,11 @@ O Espírito Santo no AT:
 
    A terra, porém, estava informe e vazia, e as trevas cobriam a face do abismo, e o Espírito de Deus movia-se sobre a face das águas.
 
-   -- Gn 1,22
+   -- Gn 1,2
 
    Deus lembrou-se de Noé e de todos os animais selvagens e domésticos que estavam com ele na arca. Deus fez passar um vento sobre a terra, e as águas baixaram.
 
-   -- Gn 8,13
+   -- Gn 8,1
 
    Então Samuel tomou o chifre do azeite, e ungiu-o no meio de seus irmãos; e desde aquele dia em diante o Espírito do SENHOR se apoderou de David; então Samuel se levantou, e voltou a Ramá.
 

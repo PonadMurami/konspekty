@@ -11,7 +11,7 @@ Showing the value of time, emphasizing its role, understanding its influence and
 Tips for the animator
 =======================
 
-This outline is quite short and at the same time concise. It is important that it is not just a talk about various definitions of time - we want to get to know its real influence and action. Fears: treating the outline not as a whole, but as a set of points that need to be ticked off one by one. Due to limited time, try to maintain the dynamic fluidity of this meeting. Below is a suggestion/proposal for conducting it. If something doesn't suit you, you get lost, etc. look at the goal of the meeting. It may happen that participants' answers will not agree with the "expected" ones, you can guide them slightly, but not force our way of thinking.
+This outline is quite short and at the same time concise. It is important that it is not just a talk about various definitions of time - we want to get to know its real influence and action. Fears: treating the outline not as a whole, but as a set of points that need to be ticked off one by one. Due to limited time, try to maintain the dynamic fluidity of this meeting. Below is a suggestion/proposal for conducting it. If something doesn't suit you, you get lost, etc., look at the goal of the meeting. It may happen that participants' answers will not agree with the "expected" ones, you can guide them slightly, but not force our way of thinking.
 
 In the outlines, some chapters have an approximate duration of this point of the meeting marked in brackets. It is solely a suggestion of the outline author - the animator being at the meeting and seeing its development will best adjust the time accents.
 
@@ -159,11 +159,11 @@ Let's read:
 
 * Can we insert “maturity” instead of “wise heart”? How to understand this?
 
-* Can I say “From today I am not aging.”? (No, everyone is dependent on time. Stay on earth is a path in which everyone participates.)
+* Can I say “From today I am not aging.”? (No, everyone is dependent on time. A stay on earth is a path in which everyone participates.)
 
 .. centered:: time: decision → change → maturing
 
-Stay on earth is quite a field to show off. We get the opportunity to change something for the better, maturing - you don't change something that is ideal. From the top we are not ideal, we landed in a world that gives the possibility of changes. But we are not to moan because of this, just get to work. You can ask each participant to summarize in one sentence/share what spoke to him most.
+A stay on earth is quite a field to show off. We get the opportunity to change something for the better, maturing - you don't change something that is ideal. From the top we are not ideal, we landed in a world that gives the possibility of changes. But we are not to moan because of this, just get to work. You can ask each participant to summarize in one sentence/share what spoke to him most.
 
 Prayer + application
 =======================

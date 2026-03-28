@@ -35,7 +35,7 @@ Za nami wieczór sederowy - szczytowy punkt rekolekcji. Chcieliśmy przez kolacj
 +------+------+------+
 
 
-Weszliśmy w~te rekolekcje rozbudzając w~sobie uważność i~ciekawość. Spróbujmy zatem na tym spotkaniu “zbierać” to, co leży przed nami.  Pierwsza przestrzeń, którą chcemy rozpatrzyć, to Seder-Eucharystia.
+Weszliśmy w~te rekolekcje rozbudzając w~sobie uważność i~ciekawość. Spróbujmy zatem na tym spotkaniu “zbierać” to, co leży przed nami. Pierwsza przestrzeń, którą chcemy rozpatrzyć, to Seder-Eucharystia.
 
 - Co w~samym Sederze było dla mnie żywe?
 - Jaka wartość płynie dla mnie z~połączenia Seder-Eucharystia?
@@ -54,7 +54,7 @@ To Haggada - wzajemnie opowiadaliśmy sobie o~wielkich dziełach naszego Boga! T
 
 Otwórzcie notatnik na wstępie. Znajduje się tam deklaracja diakonii Ponad Murami, że tworzymy te rekolekcje z~głęboką nadzieją, że Dobry Bóg pozwoli nam tutaj połączyć zasłuchanie w~proroków i~apostołów, i~że tylko poprzez akt łączenia możemy przybliżyć się do Boga-Wspólnoty.
 
-W ostatnim wierszu pierwszego akapitu brakuje kropki, prawda? To nasz celowy zabieg. Jeśli chcesz to dopisz tam po przecinku teraz swoje imię i/lubi zakończ kropką.
+W ostatnim wierszu pierwszego akapitu brakuje kropki, prawda? To nasz celowy zabieg. Jeśli chcesz, to dopisz tam po przecinku teraz swoje imię i/lub zakończ kropką.
 
 .. note:: Można nawiązać do zaproszeń na rekolekcje. Umieszczaliśmy cytaty, pytając, czy powiedział to ktoś z~diakonii czy ktoś “mądry i~sławny” (jak Benedykt XVI czy św. Teresa od Krzyża). Było to trudne doświadczenie dla wielu z~nas, aby “pozwolić sobie” nawet na możliwość pomyślenia, że ktoś może pomylić nasze słowa z~“kimś tak wielkim”.
 
@@ -64,7 +64,7 @@ W ostatnim wierszu pierwszego akapitu brakuje kropki, prawda? To nasz celowy zab
 Klej
 ====
 
-Trzecią przestrzenią jest Stary Testament i~Nowy Testament. Medytowaliśmy dzisiaj obraz starca i~młodzieńca. Relacja Stary-Nowy jest dla nas bardzo ważna. Jest w~niej pokusa, aby odruchowo uznać, że “nowe jest lepsze! Po co zajmować się tym co stare?”
+Trzecią przestrzenią jest Stary Testament i~Nowy Testament. Medytowaliśmy dzisiaj obraz starca i~młodzieńca. Relacja Stary-Nowy jest dla nas bardzo ważna. Jest w~niej pokusa, aby odruchowo uznać, że “nowe jest lepsze! Po co zajmować się tym, co stare?”
 
 Przeczytajmy:
 
@@ -111,7 +111,7 @@ Kościół jest “cały utkany” z~łączenia! Na Mszy czytamy Stary i~Nowy Te
 Zanurzyć się w~śmierci
 ======================
 
-Łączenie jest trudne! Trudno jest pozbyć się oceniania, pokusy wybierania i~promowania. Ciężko mi widzieć siebie zarówno w~młodzieńcu, jak i~mędrcu **na raz**. Być może cały czas gdzieś czujemy imperatyw, aby “zająć stronę”. Co na to Jezus?
+Łączenie jest trudne! Trudno jest pozbyć się oceniania, pokusy wybierania i~promowania. Ciężko mi widzieć siebie zarówno w~młodzieńcu, jak i~mędrcu **naraz**. Być może cały czas gdzieś czujemy imperatyw, aby “zająć stronę”. Co na to Jezus?
 
 Przyjrzyjmy się ikonie:
 

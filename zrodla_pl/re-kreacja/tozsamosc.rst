@@ -29,7 +29,7 @@ Robimy mały eksperyment na wyobraźnię:
 "Obywatel Wszechświata":
    Rozdajemy uczestnikom kartki. Na kartkach mają za zadanie narysować to, kim są, w~koncepcji "Obywatela Wszechświata" tzn. rysują okręgi, i~przy każdym okręgu, piszą kim są. Okręgi im są mniejsze, tym odzwierciedlają większe uszczegółowienie tego, jak można siebie nazwać.
 
-.. warning:: ważna jest  kolejność podawania nazw. Ilość okręgów nie jest narzucona z~góry- każdy może mieć inną- ale zachęcamy, aby nie była to zachęta do olania zadania.
+.. warning:: ważna jest kolejność podawania nazw. Ilość okręgów nie jest narzucona z~góry- każdy może mieć inną- ale zachęcamy, aby nie była to zachęta do olania zadania.
 
 Rysunek poglądowy:
 
@@ -169,7 +169,7 @@ Zakończenie
 ===========
 
 Podsumowanie:
-   Jestem stworzeniem Bożym; Bóg jako mój Stwórca najlepiej wie, kim jestem; pozwalając Mu wejść w~relację ze Mną, a~tym samym przyjmując Jego imię dla mnie, mogę odkrywać swoja prawdziwa wartość i~to, kim jestem.
+   Jestem stworzeniem Bożym; Bóg jako mój Stwórca najlepiej wie, kim jestem; pozwalając Mu wejść w~relację ze Mną, a~tym samym przyjmując Jego imię dla mnie, mogę odkrywać swoją prawdziwą wartość i~to, kim jestem.
 
 Pozostawić ich z~pytaniem:
    Czy chcę, aby to Pan Bóg był tym, który mnie nazywa? Aby to On był tym, kto określa, kim jestem?

@@ -12,13 +12,13 @@ The main part of this meeting is a workshop teaching how to ask questions. The w
 Questions in my life
 ====================
 
-Various contents in life arouse questions in us. Through asking questions we also seek truth and own understanding, that is why questions constitute such an important part of our life.
+Various contents in life arouse questions in us. Through asking questions we also seek truth and our own understanding, that is why questions constitute such an important part of our life.
 
 - When in my life did I discover the most questions?
 - When in my life did I discover the most answers?
 - What event, experience caused the discovery of a question?
 
-Sharing questions is relationship-creating. It is them that we often share with loved ones and friends in the most intimate conversations. Questions often build our faith, because they "work" in us, have a certain kind of movement in them, by nature are underdefined. Often in this movement, we meet another person. In these moments we can meet with their questions and show them ours. This is one of the more important aspects of testimony given to each other. Sharing faith is also, and maybe even primarily, sharing one's questions.
+Sharing questions is relationship-creating. It is them that we often share with loved ones and friends in the most intimate conversations. Questions often build our faith, because they "work" in us, have a certain kind of movement in them, by nature are indefinite. Often in this movement, we meet another person. In these moments we can meet with their questions and show them ours. This is one of the more important aspects of testimony given to each other. Sharing faith is also, and maybe even primarily, sharing one's questions.
 
 .. note:: "[...] faith enables me to enter this story [gospel] and agree to not only be delighted by it, but also process it, in this way the truth of this story reveals itself to me" T. Halik "Time of empty churches"
 
@@ -35,7 +35,7 @@ Let us read:
 
 Nicodemus asks Jesus questions and noticing that he does not understand the answer asks further. Finally Jesus explains to him that he will not fully understand what he asks about without EXPERIENCE. He clearly indicates that no one has ascended into heaven but he who descended from heaven, the Son of man. Jesus shows that sometimes, even possessing answers, we are not able to accept them due to lack of experience.
 
-Therefore searching for experience, relationship with Christ, questions are indispensable to us. It is they that allow us not to stray from the path leading to experience. Sometimes however we must wait patiently for a change of perspective, to understand better, differently, anew.
+Therefore, in searching for experience and relationship with Christ, questions are indispensable to us. It is they that allow us not to stray from the path leading to experience. Sometimes however we must wait patiently for a change of perspective, to understand better, differently, anew.
 
 - To which of my questions do I find an answer in faith?
 - What is a living question in me now?
@@ -54,9 +54,9 @@ Leaving space
 
 .. note:: At the end of the meeting we will pray the prayer of St. Ignatius of Loyola. It emphasizes the role of attachment primarily to the grace and love of God. In this context let's talk about attachments in faith.
 
-We have already said about what questions we have, what they brought into our life. We tried to look at biblical contents with a questioning eye.
+We have already talked about what questions we have, what they brought into our life. We tried to look at biblical contents with a questioning eye.
 
-The freedom in asking questions is that questions allow us not to be excessively attached to answers. We need to recognize that we are in a continuous process, that what we have already discovered is still alive. If we concrete our discoveries, they will weigh us down, on the other hand if we recognize their dynamism, we will be able to fully use their potential. Space remains for the continuous action of God.
+The freedom in asking questions is that questions allow us not to be excessively attached to answers. We need to recognize that we are in a continuous process, that what we have already discovered is still alive. If we cement our discoveries, they will weigh us down, on the other hand if we recognize their dynamism, we will be able to fully use their potential. Space remains for the continuous action of God.
 
 Let us read:
 

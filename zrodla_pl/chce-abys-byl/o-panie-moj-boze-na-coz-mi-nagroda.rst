@@ -6,7 +6,7 @@ Spotkanie 2. - "O, Panie, mój Boże, na cóż mi nagroda?"
 Cel spotkania + wprowadzenie dla animatora
 ==========================================
 
-Celem spotkania jest przekonanie się, że moje pragnienia są ważne i~nie muszę ich przed nikim ukrywać. Chcemy zobaczyć w~postawie Abrama, który mówi Bogu z~pretensją “Boże, na cóż mi nagroda?” coś dobrego i~pięknego, bo prawdziwego. Nasze pragnienia wiele nam samym mówią o~nas. Są ważne dla innych, ważne Dla Boga. Spotkanie wymaga Twojego znalezienia w~tym temacie swoich własnych doświadczeń i~przekonania, że wiara jest żywa wtedy gdy nie staramy się na modlitwie udawać innych niż jesteśmy poza nią - podprowadzasz w~ten sposób swoją grupę do treści z~niedzielnego spotkania. Mocną linię stanowi historia Abrama - nie omijaj fragmentów z~księgi rodzaju. Konspekt posiada wiele pytań dzieleniowych i~taki charakter nadaje również całemu spotkaniu.
+Celem spotkania jest przekonanie się, że moje pragnienia są ważne i~nie muszę ich przed nikim ukrywać. Chcemy zobaczyć w~postawie Abrama, który mówi Bogu z~pretensją “Boże, na cóż mi nagroda?” coś dobrego i~pięknego, bo prawdziwego. Nasze pragnienia wiele nam samym mówią o~nas. Są ważne dla innych, ważne dla Boga. Spotkanie wymaga Twojego znalezienia w~tym temacie swoich własnych doświadczeń i~przekonania, że wiara jest żywa wtedy gdy nie staramy się na modlitwie udawać innych niż jesteśmy poza nią - podprowadzasz w~ten sposób swoją grupę do treści z~niedzielnego spotkania. Mocną linię stanowi historia Abrama - nie omijaj fragmentów z~księgi rodzaju. Konspekt posiada wiele pytań dzieleniowych i~taki charakter nadaje również całemu spotkaniu.
 
 .. note::  Jeżeli na spotkaniu uczestniczy z~animatorem 7 osób oznacza to, że próba zrealizowania konspektu od deski do deski będzie zawierała 210 wypowiedzi ludzi. Zakładając, że każda trwa minutę będzie to dwukrotnie przekraczało czas na spotkanie. Podejdźcie do tego rozsądnie!
 
@@ -38,13 +38,13 @@ Przeczytajmy:
 
    | Pan jest moim pasterzem:
    | niczego mi nie braknie,
-   | pozwała mi leżeć
+   | pozwala mi leżeć
    | na zielonych pastwiskach.
    |
    | **Prowadzi mnie** nad wody, gdzie mogę odpocząć,
    | orzeźwia moją duszę.
    | **Wiedzie mnie po właściwych ścieżkach**
-   | przez wzgląd na swoją chwalę.
+   | przez wzgląd na swoją chwałę.
    |
    | **Chociażbym przechodził przez ciemną dolinę**,
    | zła się nie ulęknę, bo Ty jesteś ze mną.
@@ -117,7 +117,7 @@ Abram czuje się z~Bogiem tak blisko, że “pozwala sobie” na wyrażanie swoi
 
 * Czym jest proponowane przez Abrama przekazanie spadku słudze?
 
-Przekazanie spadku słudze to wyraz braku wiary w~to, że będzie mieć syna. Abram chce podjąć decyzję, chce wiedzieć na czym stoi, porządkować sobie rzeczywistość wokół siebie. Abram mówi Bogu: zaczynam układać swoje życie tak, że zakładam, że tego pragnienia serca nie zaspokoje.
+Przekazanie spadku słudze to wyraz braku wiary w~to, że będzie mieć syna. Abram chce podjąć decyzję, chce wiedzieć na czym stoi, porządkować sobie rzeczywistość wokół siebie. Abram mówi Bogu: zaczynam układać swoje życie tak, że zakładam, że tego pragnienia serca nie zaspokoję.
 
 Przeczytajmy:
 
@@ -127,7 +127,7 @@ Przeczytajmy:
 
 * Kiedy ma miejsce ten fragment względem wyrzutu Abrama o~braku potomka? (wcześniej)
 
-Abram znał obietnice daną od Boga. Nie przeszkodziło mu to jednak, aby “wykrzyczeć” Bogu, że on na nią czeka, a~nawet obawia się, że nie będzie spełniona.
+Abram znał obietnicę daną od Boga. Nie przeszkodziło mu to jednak, aby “wykrzyczeć” Bogu, że on na nią czeka, a~nawet obawia się, że nie będzie spełniona.
 
 * Czy jest we mnie pokusa, aby w~strapieniu udawać przed Bogiem, że wszystko jest ok? Skąd się ona bierze?
 
@@ -151,7 +151,7 @@ Przeczytajmy:
 
 Naszym ostatecznym pragnieniem jest poznanie Boga twarzą w~twarz. To będzie miejsce, w~którym znajdziemy pokój. Jaka będzie nasza droga do tego miejsca jest już sprawą szalenie bardziej indywidualną. Wędrówka Abrama to czas w~którym mógł on poznać co dla niego jest naprawdę ważne. Wiele doświadczył - zobaczył daleką krainę o~której wcześniej tylko słyszał, zgromadził ogromne bogactwo, otoczył się kochającą rodziną. Coś jednak pozostawało w~nim wciąż niezaspokojone - pragnienie posiadania syna.
 
-Strapienie porusza nas, aby wyruszyć - to doświadczenie jakiegoś braku, które chcemy zaspokoić. Dodaje nam odwagi, sprawia, że chcemy zmiany, a~zmiana to szanse. Św.Augustyn właśnie w~tym niepokoju widzi naszą dynamikę wiary.
+Strapienie porusza nas, aby wyruszyć - to doświadczenie jakiegoś braku, które chcemy zaspokoić. Dodaje nam odwagi, sprawia, że chcemy zmiany, a~zmiana to szanse. Św. Augustyn właśnie w~tym niepokoju widzi naszą dynamikę wiary.
 
 Wędrówka tworzy przestrzeń, aby znaleźć odpowiedź na pytanie co dla mnie jest ważne. Człowiek wierzący to człowiek poszukujący.
 
@@ -165,7 +165,7 @@ Przeczytajmy:
 
     Wtedy podeszła do Niego matka synów Zebedeusza ze swoimi synami i~oddając Mu pokłon, o~coś Go prosiła. On ją zapytał: «Czego pragniesz?» Rzekła Mu: «Powiedz, żeby ci dwaj moi synowie zasiedli w~Twoim królestwie jeden po prawej, a~drugi po lewej Twej stronie».
 
-    -- Mt 20,21-21
+    -- Mt 20,20-21
 
 * O~co prosiła matka synów Zebedeusza?
 
@@ -229,7 +229,7 @@ Czytamy, że “Abram uwierzył”, ale chwilę później widzimy jego pytanie �
 Zastosowanie
 ============
 
-Dla wielu z~nas taka postawa stawiania Bogu pytań konkretnych, życiowych, pragmatycznych jest ciągle w~sferze jakiegoś “przełamywania się do nich”.  Może to tylko Abram, który jest “chłopem z~krwi i~kości” miał takie podejście, ale inne postacie biblijne już takiej odwagi nie miały?
+Dla wielu z~nas taka postawa stawiania Bogu pytań konkretnych, życiowych, pragmatycznych jest ciągle w~sferze jakiegoś “przełamywania się do nich”. Może to tylko Abram, który jest “chłopem z~krwi i~kości” miał takie podejście, ale inne postacie biblijne już takiej odwagi nie miały?
 
 Przeczytajmy:
 
@@ -241,11 +241,11 @@ Niech te pytania “*O Panie, mój Boże, jak będę mógł się upewnić, że o
 
 Dwa zastosowania:
 
-* Znajdź jedno pytanie tego typu, które chcsz Bogu zadać tu i~teraz
+* Znajdź jedno pytanie tego typu, które chcesz Bogu zadać tu i~teraz
 
 * Nazwij jeden moment w~swoim życiu gdzie tego pytania zabrakło
 
-.. note:: Animatorze przygotuj się do tego, aby w~tym miejscu powiedzieć świadectwo o~tym. Może masz doświadczenie w~swoim życiu momentów w~którym szedłeś w~wierze “siłą bezwładności”. Autor tego konspektu kilka tygodni pytał Boga o~to czy ma przyjąć bycie ojcem chrzestnym i~nie słyszał odpowiedzi. Wszystko się zmieniło gdy zapytał Boga: “zakładając, że się zgodzę - jak mi pomożesz, aby to było na Twoją chwałę?”.
+.. note:: Animatorze przygotuj się do tego, aby w~tym miejscu powiedzieć świadectwo o~tym. Może masz doświadczenie w~swoim życiu momentów w~którym szedłeś w~wierze “siłą bezwładności”. Autor tego konspektu kilka tygodni pytał Boga o~to, czy ma przyjąć bycie ojcem chrzestnym i~nie słyszał odpowiedzi. Wszystko się zmieniło gdy zapytał Boga: “zakładając, że się zgodzę - jak mi pomożesz, aby to było na Twoją chwałę?”.
 
 Podsumowanie i~zastosowanie
 ===========================
@@ -258,7 +258,7 @@ Przeczytajmy:
 
 Na modlitwie wieczornej będzie dzisiaj możliwość takiego zwrócenia się do Boga. Pomódlmy się za siebie nawzajem, abyśmy nie ukrywali swojego niepokoju, niepewności, słabości i~grzeszności lecz byśmy powiedzieli Jezusowi wprost o~naszych pragnieniach.
 
-Zastosowaniem z~tego spotkania niech będzie wypisania sobie w~notatniku konkretnych pragnień.
+Zastosowaniem z~tego spotkania niech będzie wypisanie sobie w~notatniku konkretnych pragnień.
 
 Na zakończenie modlitwy animator czyta fragment:
 

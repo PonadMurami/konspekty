@@ -86,7 +86,7 @@ Las decepciones son una reacción normal a una situación difícil en la que nos
 
 Vale la pena mencionar aquí que podemos distinguir dos tipos de decepción y probablemente ambos son un paso necesario para que nos demos cuenta de dónde estamos en nuestro camino hacia Dios.
 
-La primera decepción es la situación en la que la situación cambia, pero completamente no según nuestro pensamiento.
+La primera decepción es la situación en la que la situación cambia, pero de manera completamente distinta a lo que pensábamos.
 
 Leamos
 

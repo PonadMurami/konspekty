@@ -70,13 +70,13 @@ Let's look now at the story from the Gospel, in which a certain person had to co
 
     -- Jn 9:1-7
 
-Healing a person blind from birth is considered by Jews as one of the most extraordinary miracles, which requires special intervention of God himself. Jesus first creates clay and puts it on the eyes of the sick person, then orders him to wash in the Pool of Siloam, symbolizing the Holy Spirit, whose sending he announces. Jesus not so much performs healing, as creates this man anew, just as God formed Adam from the dust of the earth and breathed into him the breath of life. Healing did not happen immediately, the blind man first had to cover the way to the pool, to then return changed. First he had to experience weakness and total dependence on others, to be able to see. Faith requires from us confrontation with own sinfulness and is a path to cross, which although exciting and joyful, can also be difficult and demanding.
+Healing a person blind from birth is considered by Jews as one of the most extraordinary miracles, which requires special intervention of God himself. Jesus first creates clay and puts it on the eyes of the sick person, then orders him to wash in the Pool of Siloam, symbolizing the Holy Spirit, whose sending he announces. Jesus not so much performs healing, as creates this man anew, just as God formed Adam from the dust of the earth and breathed into him the breath of life. Healing did not happen immediately, the blind man first had to cover the way to the pool, to then return changed. First he had to experience weakness and total dependence on others, to be able to see. Faith requires from us confrontation with our own sinfulness and is a path to cross, which although exciting and joyful, can also be difficult and demanding.
 
 - In what way would I describe my spiritual development? What was most difficult for me on this path?
 - In what spaces do I feel most dependent on others?
 - What in me must be created anew?
 
-The story of this blind man described in the Gospel does not end with the healing itself. Due to how great importance it had and in addition performed on Sabbath, it arouses considerable interest among Pharisees, who summon this man and his parents for questioning. They want to undermine credibility and question Jesus' ability to perform such a great miracle, however the questioned declares that his healer must come from God, because otherwise he could not restore his sight. This ultimately results in throwing him out of the synagogue, and thus, exclusion from the community. Previously alienated due to disability, now rejected due to faith in Jesus, he meets him again - let us read:
+The story of this blind man described in the Gospel does not end with the healing itself. Due to its great importance and moreover being performed on the Sabbath, it arouses considerable interest among Pharisees, who summon this man and his parents for questioning. They want to undermine credibility and question Jesus' ability to perform such a great miracle, however the questioned declares that his healer must come from God, because otherwise he could not restore his sight. This ultimately results in throwing him out of the synagogue, and thus, exclusion from the community. Previously alienated due to disability, now rejected due to faith in Jesus, he meets him again - let us read:
 
     Jesus heard that they had cast him out, and having found him he said, “Do you believe in the Son of man?” He answered, “And who is he, sir, that I may believe in him?” Jesus said to him, “You have seen him, and it is he who speaks to you.” He said, “Lord, I believe”; and he worshiped him. Jesus said, “For judgment I came into this world, that those who do not see may see, and that those who see may become blind.”
 
@@ -93,7 +93,7 @@ The rite of carrying water from the pool of Siloam to the temple is repeated for
 Liberating faith
 ================
 
-A special moment during the celebration of Sukkot was the seventh day - great worship - Hoshelna Rabbah, experienced in great excitement, being at the same time a prayer for salvation from sins and forgiveness. In the Gospel of John we have described an event that took place exactly then:
+A special moment during the celebration of Sukkot was the seventh day - great worship - Hoshana Rabbah, experienced in great excitement, being at the same time a prayer for salvation from sins and forgiveness. In the Gospel of John we have described an event that took place exactly then:
 
     On the last day of the feast, the great day, Jesus stood up and proclaimed, “If any one thirst, let him come to me and drink. He who believes in me, as the scripture has said, ‘Out of his heart shall flow rivers of living water.’” Now this he said about the Spirit, which those who believed in him were to receive; for as yet the Spirit had not been given, because Jesus was not yet glorified.
 
@@ -105,7 +105,7 @@ Jesus does not criticize the practice itself, but points out that the traditiona
 
 This reinterpretation emphasizes that faith that liberates does not consist only in observing rituals, but in opening the heart to the action of the Holy Spirit. This opening brings internal transformation and renewal, which exceed what traditional rites give.
 
-- What differences do you notice between formal observance of rituals and authentic experience of transformation of heart? What are Your reflections on this subject?
+- What differences do you notice between formal observance of rituals and authentic experience of transformation of heart? What are your reflections on this subject?
 - In what way caring for preserving rituals can I experience living faith?
 - How do you interpret the concept of "living water" in your life?
 

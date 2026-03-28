@@ -6,7 +6,7 @@ Encontro 2 - "Ó Senhor meu Deus, para que me serve a recompensa?"
 Objetivo do encontro + introdução para o animador
 =================================================
 
-O objetivo do encontro é convencer-se de que os meus desejos são importantes e não preciso escondê-los de ninguém. Queremos ver na atitude de Abrão, que diz a Deus com pretensão "Ó Senhor Deus, para que me serve a recompensa?", algo bom e belo, porque verdadeiro. Nossos desejos nos dizem muito sobre nós mesmos. São importantes para os outros, importantes Para Deus. O encontro requer que você encontre neste tema suas próprias experiências e a convicção de que a fé é viva quando não tentamos fingir na oração ser diferentes do que somos fora dela - desta forma você conduz o seu grupo para o conteúdo do encontro de domingo. Uma linha forte é a história de Abrão - não pule os fragmentos do Livro do Gênesis. O roteiro possui muitas perguntas para partilha e tal caráter dá também a todo o encontro.
+O objetivo do encontro é convencer-se de que os meus desejos são importantes e não preciso escondê-los de ninguém. Queremos ver na atitude de Abrão, que diz a Deus com pretensão "Ó Senhor Deus, para que me serve a recompensa?", algo bom e belo, porque verdadeiro. Nossos desejos nos dizem muito sobre nós mesmos. São importantes para os outros, importantes para Deus. O encontro requer que você encontre neste tema suas próprias experiências e a convicção de que a fé é viva quando não tentamos fingir na oração ser diferentes do que somos fora dela - desta forma você conduz o seu grupo para o conteúdo do encontro de domingo. Uma linha forte é a história de Abrão - não pule os fragmentos do Livro do Gênesis. O roteiro possui muitas perguntas para partilha e tal caráter dá também a todo o encontro.
 
 .. note::  Se no encontro participam 7 pessoas com o animador, isso significa que a tentativa de realizar o roteiro de cabo a rabo conterá 210 declarações das pessoas. Supondo que cada uma dure um minuto, isso excederá o tempo do encontro em duas vezes. Abordem isso com sensatez!
 
@@ -132,7 +132,7 @@ Abrão conhecia as promessas dadas por Deus. No entanto, isso não o impediu de 
 
 * Você já disse alguma vez a Deus o que está no fundo do seu coração? O que há de difícil nisso?
 
-Abrão quebrou-se, dirigiu-se espontaneamente a Deus com o que ele é e o que carregava em si. Não pensou se Deus não o repreenderia "afinal faço tanto por você Abrão!". Esta é a melhor maneira possível de aproveitar o tempo de desolação. Os desejos podem ser sussurrados a Deus, podem ser gritados - não vale a pena guardá-los para si.
+Abrão decidiu-se, dirigiu-se espontaneamente a Deus com o que ele é e o que carregava em si. Não pensou se Deus não o repreenderia "afinal faço tanto por você Abrão!". Esta é a melhor maneira possível de aproveitar o tempo de desolação. Os desejos podem ser sussurrados a Deus, podem ser gritados - não vale a pena guardá-los para si.
 
 
 Meus desejos
@@ -164,7 +164,7 @@ Vamos ler:
 
     Então aproximou-se de Jesus a mãe dos filhos de Zebedeu com os seus filhos e prostrou-se para Lhe fazer um pedido. Ele perguntou-lhe: «Que desejas?» Ela respondeu: «Ordena que estes meus dois filhos se sentem no teu Reino um à tua direita e outro à tua esquerda».
 
-    -- Mt 20,20-21 (referência corrigida)
+    -- Mt 20,20-21
 
 * O que a mãe dos filhos de Zebedeu pediu?
 

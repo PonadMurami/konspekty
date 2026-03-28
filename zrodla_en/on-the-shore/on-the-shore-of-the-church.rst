@@ -13,7 +13,7 @@ Today's prayer is the prayer of the faithful for vocations. We want to ask God f
 Community bonding - what is a "vocation"?
 =========================================
 
-Vocation usually associates for us with priesthood, or broadly understood consecrated life, however when we think about it deeper, we will notice that the issue of vocation concerns each of us.
+We usually associate vocation with priesthood, or broadly understood consecrated life; however, when we think about it more deeply, we will notice that the issue of vocation concerns each of us.
 
 * What is a vocation?
 
@@ -51,7 +51,7 @@ Man is born with the capacity for love implanted at the moment of creation. God 
 
 We can realize love in things as simple as reading various statements on the internet. Let's try to read selected posts of various public figures and share our thoughts focusing on the positive things we see in the statements.
 
-.. note:: Goal of the task - showing that appreciating is building up, on the example of content that we can meet every day. Participants read posts/tweets, and try to refer to them positively, e.g. appreciate the author's perceptiveness, his sensitivity to a topic, choice of words. It is not about whether the content itself is good, because we tried to choose positive content, but about referring to the whole. Below are the original statements selected for this workshop, the animator should familiarize themselves with them before the group meeting in order to obtain full context.
+.. note:: Goal of the task - showing that appreciating is building up, on the example of content that we can encounter every day. Participants read posts/tweets, and try to refer to them positively, e.g. appreciate the author's perceptiveness, his sensitivity to a topic, choice of words. It is not about whether the content itself is good, because we tried to choose positive content, but about referring to the whole. Below are the original statements selected for this workshop, the animator should familiarize themselves with them before the group meeting in order to obtain full context.
 
 **Statement number 1**
 
@@ -76,9 +76,9 @@ We can realize love in things as simple as reading various statements on the int
    :align: center
 
 
-* What positive do I see in this content? What can I appreciate in them?
+* What positive things do I see in this content? What can I appreciate in them?
 
-* What does my sensitivity to the good in the content I experience look like on a daily basis? Do I see positives or negatives easier?
+* What does my sensitivity to the good in the content I experience look like on a daily basis? Do I see positives or negatives more easily?
 
 .. note:: we reveal the authors
 
@@ -90,16 +90,16 @@ authors of tweets:
 
 After revealing the authors it is recommended to read the questions below to help participants formulate their statements summarizing the workshop. The animator can start by sharing their observations.
 
-* Knowing the author of the tweet would I evaluate them similarly?
+* Knowing the author of the tweet, would I evaluate them similarly?
 
 * Would it be harder/easier/irrelevant for me?
 
-* When I read statements do I first wonder where to assign a given person, and then read what they said?
+* When I read statements, do I first wonder where to assign a given person, and then read what they said?
 
 Building the Church
 ===================
 
-Through daily realization of love we build the Church as a **community of believers**. Lay people constitute the greater part of the Church and have a real chance to change it for the better. However, we are not always aware of our importance and possibilities and responsibility; that we REALLY, DAILY build this community.
+Through daily realization of love we build the Church as a **community of believers**. Lay people constitute the greater part of the Church and have a real chance to change it for the better. However, we are not always aware of our importance, possibilities, and responsibility; that we REALLY, DAILY build this community.
 
 Let's read:
 
@@ -141,7 +141,7 @@ Jesus immediately afterwards speaks to the disciples about their task:
     |
     | -- cf. Mt 5:13-16
 
-We are to be the salt of the earth, people of hope who live the Good News. Are we actually them? Let's wonder if people around us can discover that the goal of our aspirations is really residing with God and all the saved.
+We are to be the salt of the earth, people of hope who live the Good News. Are we actually them? Let us consider whether people around us can discover that the goal of our aspirations is really residing with God and all the saved.
 
 * How do you understand living by beatitudes?
 

@@ -6,7 +6,7 @@ Spotkanie 2. - Etapy podejmowania decyzji – czym się kieruję?
 Cel
 ===
 
-Zobaczyć różne motywację w~podejmowaniu decyzji (na podstawie czego podejmuje decyzje?)
+Zobaczyć różne motywacje w~podejmowaniu decyzji (na podstawie czego podejmuje decyzje?)
 
 Modlitwa
 ========
@@ -16,11 +16,11 @@ Dostosowana do możliwości grupy.
 Wprowadzenie
 ============
 
-Wczoraj mówiliśmy, że wybór nie jest rzeczą łatwą. Tak naprawdę gdy stoimy przed dylematem wyboru oznacza to, że  jest już za nami droga "zobaczenia możliwości"! Mówiliśmy o~tym na rekolekcjach adwentowych – chodzi o~poszukiwanie, o~widzenie dróg. Jesteśmy zatem po wykonaniu pewnej pracy i~możemy być zmęczeni. Wybór jawi się nam często jako obowiązek, który jest "ostatnią przeszkodą", aby mieć tzw. "święty spokój". Spróbujmy się nad nim zastanowić!
+Wczoraj mówiliśmy, że wybór nie jest rzeczą łatwą. Tak naprawdę gdy stoimy przed dylematem wyboru oznacza to, że jest już za nami droga "zobaczenia możliwości"! Mówiliśmy o~tym na rekolekcjach adwentowych – chodzi o~poszukiwanie, o~widzenie dróg. Jesteśmy zatem po wykonaniu pewnej pracy i~możemy być zmęczeni. Wybór jawi się nam często jako obowiązek, który jest "ostatnią przeszkodą", aby mieć tzw. "święty spokój". Spróbujmy się nad nim zastanowić!
 
 * Czy podejmowanie decyzji przychodziło mi łatwo?
 
-* Czy czuliśmy presję, że nie wiedzieliśmy co wybrać, ale musieliśmy coś zaznaczy?
+* Czy czuliśmy presję, że nie wiedzieliśmy co wybrać, ale musieliśmy coś zaznaczyć?
 
 Dokonywać wyboru/mieć coś wybranego
 ===================================
@@ -83,7 +83,7 @@ Analizujemy po kolei 14 pytań ks. Jarka. Przy każdym zadajemy pytania:
 
 * Co odegrało największą rolę? Serce? Rozum? Sumienie? Poczucie sprawiedliwości? itd.
 
-.. warning:: Jest to zasadnicza część spotkania i~powinna się przerodzić w~swobodną rozmowę, jednak prowadzoną według takiego schematu, którego obowiązek utrzymania ma animator. Jeżeli grupa będzie ambitna a~czas pozwoli niech sama stworzy kolejne sytuacje tzw. "trudne tematy" np.  In-vitro, antykoncepcja, eutanazja, popularyzowanie wiary itd. Nie koncentrujmy się jednak, jak to zwykle bywa, na samej treści i~argumentach stron lecz na analizie wyboru i~istoty dylematu!
+.. warning:: Jest to zasadnicza część spotkania i~powinna się przerodzić w~swobodną rozmowę, jednak prowadzoną według takiego schematu, którego obowiązek utrzymania ma animator. Jeżeli grupa będzie ambitna a~czas pozwoli niech sama stworzy kolejne sytuacje tzw. "trudne tematy" np. In-vitro, antykoncepcja, eutanazja, popularyzowanie wiary itd. Nie koncentrujmy się jednak, jak to zwykle bywa, na samej treści i~argumentach stron lecz na analizie wyboru i~istoty dylematu!
 
 Przykład, abyście jako animatorzy zobaczyli jak odkrywcze to mogą być rozmowy:
 
@@ -91,13 +91,13 @@ Przykład, abyście jako animatorzy zobaczyli jak odkrywcze to mogą być rozmow
 
    * Dylemat na poziomie rozumu? Serca? Sumienia?
 
-   * Opieramy się na czym? Na humane Vitae? Naprawdę? Ile osób to czytało?
+   * Opieramy się na czym? Na Humanae Vitae? Naprawdę? Ile osób to czytało?
 
    * Opieramy się może zatem na tym co ks. Proboszcz mówi?
 
    * Na czym polega DLA NAS dylemat? Na tym, że coś jest złe czy na tym, że jesteśmy nieposłuszni Kościołowi?
 
-   * Dlaczego dla niektórych osób odpowiedź na tą sprawę jest tak oczywista?
+   * Dlaczego dla niektórych osób odpowiedź na tę sprawę jest tak oczywista?
 
 .. note:: **Oczywiście** należy odpowiednio balansować między osobistymi odpowiedziami, a~"ogólnym analizowaniem" w~zależności od intymności tematu (to tyczy się też pytań ks. Jarka!)
 

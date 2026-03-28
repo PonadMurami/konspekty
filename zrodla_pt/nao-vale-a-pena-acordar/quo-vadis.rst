@@ -94,7 +94,7 @@ Em que momentos frequentemente perdemos este sentido em assuntos tão cotidianos
 * Validamos o bilhete no ônibus para que o fiscal não nos pegue ou para pagar pelo serviço?
 * [atenção-exemplo para maiores] Não tens relações com tua namorada porque é mau ou porque terias que te confessar?
 
-Veamos a que pode levar sucessivamente perder o sentido:
+Vejamos a que pode levar sucessivamente perder o sentido:
 
 * Varro a poeira debaixo do tapete então de qualquer forma depois a inalo nos pulmões
 * Então por que copio?
@@ -239,7 +239,7 @@ Lemos (ouvimos) juntos:
    | Já tenho bordas e forro
    |
    | Construí a Arca antes do dilúvio!
-   | Sacaí para isso todas vossas forças!
+   | Sacai para isso todas vossas forças!
    | Construí a Arca antes do dilúvio!
    | Ainda que a multidão zombe de vosso trabalho!
    | É preciso salvar o mais precioso

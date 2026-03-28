@@ -107,7 +107,7 @@ Jeśli przyjmujemy Jezusa nasze życie musi się zmienić. Nie możemy żyć jak
 
 * Czy chciałbym zmiany? Czy jestem na nią gotowy?
 
-* Czy chce wyruszać w~tą podróż, o~której tyle tutaj gadamy?
+* Czy chce wyruszać w~tę podróż, o~której tyle tutaj gadamy?
 
 * Jakiej zmiany najbardziej się boję? Czy mam odwagę  podjąć wyzwanie?
 
@@ -187,7 +187,7 @@ Rozwinięcie dla animatora, aby serce jego z~radością wiedziało, że do naucz
 
 * Co ten obraz mówi o~wspólnocie?
 
-Jeśli animator uzna za słuszne można przeczytać grupie fragmenty Konstytuscji Dogmatycznej o~Kościele Lumen Gentium, konstytucja, czyli dokument teologiczny najwyższej rangi doktrynalnej uchwalony 21 listopada 1964 roku przez sobór watykański II. Konstytucja, czerpiąc ze źródeł biblijnych i~patrystycznych oraz z~myśli wybitnych współczesnych teologów, na nowo ukazała najważniejsze wymiary tajemnicy Kościoła i~jego posłannictwa.
+Jeśli animator uzna za słuszne można przeczytać grupie fragmenty Konstytucji Dogmatycznej o~Kościele Lumen Gentium, konstytucja, czyli dokument teologiczny najwyższej rangi doktrynalnej uchwalony 21 listopada 1964 roku przez sobór watykański II. Konstytucja, czerpiąc ze źródeł biblijnych i~patrystycznych oraz z~myśli wybitnych współczesnych teologów, na nowo ukazała najważniejsze wymiary tajemnicy Kościoła i~jego posłannictwa.
 
 Animator wykłada napisane na kartkach różne obrazu wspólnoty i~staramy się każdy przeanalizować (według kolejności wskazanej przez grupę):
 
@@ -230,7 +230,7 @@ Podpowiedzi dla animatora:
    miasto, które zgromadzi wszystkich sprawiedliwych świata. Miasto jest miejscem życia, czymś "na stałe". Miasto jest zbudowane wokół czegoś - rynku/katedry co je zespala. Równocześnie jego "budulcem" są nie pomniki lecz domy rodzinne - pomniki w~mieście to afirmacja tego, co dzieje się w~domach mieszkańców. Miasto jest otwarte na podróżujących i~przyjmuje ich pozwalając zachwycić się sobą i~"czytać" swoją historie i~dziedzictwo.
 
 **Ciało Chrystusa:**
-   gdy boli mnie  noga, to cała jestem smutna i~źle się czuję, gdy jeden z~ nas cierpli inni powinni odczuwać. Jeden członek nie wejdzie na Mont Everest - tylko współpraca wszystkich członków ciała do tego doprowadzi.
+   gdy boli mnie  noga, to cała jestem smutna i~źle się czuję, gdy jeden z~nas cierpi inni powinni odczuwać. Jeden członek nie wejdzie na Mont Everest - tylko współpraca wszystkich członków ciała do tego doprowadzi.
 
 * Co możemy wywnioskować na podstawie tych obrazów?
 

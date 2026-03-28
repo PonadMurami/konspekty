@@ -81,7 +81,7 @@ When one gets to know something and becomes an expert in it, one becomes more aw
 
 Let us try in this context to look at Jesus in the Upper Room. Jesus is undoubtedly aware of all the complexity of love between people, but he nevertheless decided to "simplify" it in the gesture of washing feet.
 
-- In what matters is it easy for me to unnecessarily "complicate" faith? (Or as St. Paul would say, "is sick with disputes and word battles" 1 Tim 6:4)
+- In what matters is it easy for me to unnecessarily "complicate" faith? (Or as St. Paul would say, "is sick with disputes and quarrels about words" 1 Tim 6:4)
 
 - Do I feel the need to simplify faith and love in my immediate surroundings? Where? In what way?
 
@@ -92,7 +92,7 @@ Jesus chose simple bread, the most common activity on earth, which is eating. He
 
 - What in my experience of faith is "bread"—something most basic?
 
-Simplicity is not just an aesthetic category or preference. The more complicated systems we create, the harder it will be for us to check what is common between them. Simplifying faith is the way (and in practice the only possibility) to seek what is common (!). It will probably be very difficult for me to agree with each person in the group on how to read God's will, but fortunately we do not need to have this vision consistent. We will, however, easily agree that washing each other's feet is love.
+Simplicity is not just an aesthetic category or preference. The more complicated systems we create, the harder it will be for us to check what is common between them. Simplifying faith is the way (and in practice the only possibility) to seek what is common (!). It will probably be very difficult for me to agree with each person in the group on how to read God's will, but fortunately we do not need this vision to be consistent. We will, however, easily agree that washing each other's feet is love.
 
 - In what experience of faith does it seem to me that it will be easiest for me to find a "common language" with the person next to me?
 - What, according to my subjective view in faith, do we share among ourselves in Ponad Murami?

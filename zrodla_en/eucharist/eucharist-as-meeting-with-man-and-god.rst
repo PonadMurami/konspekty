@@ -31,7 +31,7 @@ First let's read such a sentence. Perhaps we will agree with it or not – it wi
 
     -- Martin Buber
 
-It is worth asking yourself a question about the quality of our meetings (all kinds). Try to find in your life such real conversations/meetings. It is worth writing them down on some piece of paper (everyone for themselves).
+It is worth asking ourselves a question about the quality of our meetings (all kinds). Try to find in your life such real conversations/meetings. It is worth writing them down on some piece of paper (everyone for themselves).
 
 * Do we have experiences of such a real meeting with another person?
 
@@ -47,14 +47,14 @@ A meeting is a gift. Something absolutely amazing. If we have few entries on our
 
 * Have we thanked anyone for a meeting? Is it not so that we have not expressed our gratitude for conversation to many people?
 
-Resolution: A great opportunity to "thank" for this "miracle of meeting" to people who appeared in our life is tomorrow's Eucharist! Let this be the first fruit of this meeting (if anyone wants) – to offer tomorrow's Eucharist in their intention.
+Resolution: A great opportunity to "thank" the people who appeared in our life for this "miracle of meeting" is tomorrow's Eucharist! Let this be the first fruit of this meeting (if anyone wants) – to offer tomorrow's Eucharist in their intention.
 
 Features of True Meeting
 ========================
 
 The question arises:
 
-* Why is there so little Conversation/Meetings in our life?
+* Why are there so few Conversations/Meetings in our life?
 
 * Why is it inconvenient for the world?
 
@@ -74,7 +74,7 @@ Participants can expand this list!!!
 
     * Conversation by its nature is fruitful. Conversation bears fruit... creates someone else in us, we discover ourselves more in it...
 
-    * The main condition for the existence of a real conversation is that everyone considers their partner as this, precisely this person. I perceive him, I perceive that he is different, essentially different than me, in this specific, only proper to him and unrepeatable way essentially different than me, and I accept this person whom I perceived, so that I can seriously direct my words to him, precisely to him.
+    * The main condition for the existence of a real conversation is that everyone considers their partner as this, precisely this person. I perceive him, I perceive that he is different, essentially different from me, in this specific, only proper to him and unrepeatable way essentially different from me, and I accept this person whom I perceived, so that I can seriously direct my words to him, precisely to him.
 
     * In interpersonal contacts today, an analytical, reducing and deriving view dominates. It is analytical – or rather pseudo-analytical – because it treats the whole bodily-spiritual being as complex, and therefore decomposable;(...) The view is reductive because it wants to reduce the diversity of the person (...) to schematic and repeating structures everywhere.
 
@@ -91,16 +91,16 @@ Man is created this way. We search... The longer we live in the world, the more 
 
 * When you felt this specific kind of "loneliness of the soul", did you think that the Eucharist is exactly the answer? (I don't know if it's not too personal)
 
-*Actually at this moment maybe we should even stop the meeting. Not even answer these questions aloud. Stay in such amazement – there is something I feel and what I am looking for... God knows about what sits deep inside me.... He knew already before He created me and prepared the Plan of Salvation in such a way that He gave us the Eucharist... Simply Love.*
+*Actually at this moment maybe we should even stop the meeting. Not even answer these questions aloud. Stay in such amazement – there is something I feel and am looking for... God knows about what sits deep inside me.... He knew already before He created me and prepared the Plan of Salvation in such a way that He gave us the Eucharist... Simply Love.*
 
 Strengthening in discovery and application
 ==========================================
 
 .. warning:: This is not a part of the meeting "at the end" but a very important point for which an appropriate amount of time must be foreseen if the meeting is to have meaning greater than text exercises!
 
-We know how it is - the Eucharist is difficult. Life goes on and it is not easy to think in such categories about the Holy Mass especially if something else is to be done at this moment. Sometimes we simply have many human doubts about what is happening on the Altar. This is normal. These retreats are an opportunity to try to make some effort to try to deepen one's own experience and looking at the Eucharist. We want the Holy Mass to be for us just such a desired Meeting. How will we strive for this?
+We know how it is - the Eucharist is difficult. Life goes on and it is not easy to think in such categories about the Holy Mass especially if something else is to be done at this moment. Sometimes we simply have many human doubts about what is happening on the Altar. This is normal. These retreats are an opportunity to try to make some effort to try to deepen one's own experience and view of the Eucharist. We want the Holy Mass to be for us just such a desired Meeting. How will we strive for this?
 
-We create a group..... a group that is just MEETING with each other. We can help each other. We will not list various tips "from textbooks" now! Let's create such a list of things ourselves that will be supposed to help us.
+We create a group..... a group that is just MEETING with each other. We can help each other. We will not list various tips "from textbooks" now! Let's create such a list of things ourselves that will help us.
 
 1. **Each participant writes on one common card things (resolutions) to which they commit to help each other experience this time well in terms of discovering the Eucharist. (meeting with Man)**
 

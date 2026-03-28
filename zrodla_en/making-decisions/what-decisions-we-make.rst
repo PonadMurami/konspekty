@@ -131,7 +131,7 @@ Mark only one answer next to each question. Write the answers both on the questi
 * I once met a girl who liked to repeat: "I will lose weight, but from tomorrow" and "tomorrow" never became "today".
 
    * You take up work on yourself only in Lent.
-   * Work on yourself is the everyday life of your life.
+   * Working on yourself is the everyday reality of your life.
    * Work on yourself ends with plans and promises.
 * Aneta is better at English, but you know that she once stole a phone top-up coupon.
 
@@ -158,7 +158,7 @@ Mark only one answer next to each question. Write the answers both on the questi
    * You tell the truth how it was.
    * You say nothing, because it's a closed past after all.
    * You mention that you weren't "saint", but you don't go into details.
-* Your parents succeeded. You have money and friends with money, for whom the poor are resourceful, uneducated suckers. There is a boy in your class – a cool guy, but he can't afford too much.
+* Your parents succeeded. You have money and friends with money, for whom the poor are helpless, uneducated suckers. There is a boy in your class – a cool guy, but he can't afford too much.
 
    * You don't care about him, he stands out from your environment.
    * You give him a chance to earn, when he relieves You from more difficult tasks.

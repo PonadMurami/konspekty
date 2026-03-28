@@ -11,7 +11,7 @@ Medytowaliśmy dzisiaj Credo. Tekst zasadniczy dla naszej wiary, ale równocześ
 - Jakie pytania stawia mi Credo?
 - Co odkryłem/odkryłam w~czasie dzisiejszej medytacji?
 
-Po doświadczeniu ostatniej wieczerzy, która możnaby powiedzieć była miejscem “nauki” przechodzimy ze św. Piotrem do Ogrodu Oliwnego i~do domu arcykapłana. Jest to miejsce “praktyki” gdzie św. Piotr mierzy się z~zastosowaniem usłyszanego Słowa w~życiu.
+Po doświadczeniu Ostatniej Wieczerzy, która, można by powiedzieć, była miejscem “nauki”, przechodzimy ze św. Piotrem do Ogrodu Oliwnego i~do domu arcykapłana. Jest to miejsce “praktyki”, gdzie św. Piotr mierzy się z~zastosowaniem usłyszanego Słowa w~życiu.
 
 Zapowiedź - On wie
 ==================
@@ -46,9 +46,9 @@ Przeczytajmy:
 
 - Co w~tym obrazie obecnie najbardziej rezonuje z~moim życiem?
 
-Bardzo często powyższy fragment interpretuje się w~kluczu wytrwałości w~modlitwie. Spróbujmy jednak popatrzeć na niego przez pryzmat relacji z~Jezusem. Wiemy, że Jezus odczuwał ogromną trwogę w~Ogrójcu. Oznacza to, że uczniowie zupełnie “nie wyczuli” napięcia Jezusa z~którym przecież dzielili większość chwil swojego życia i~którego szczerze kochali!
+Bardzo często powyższy fragment interpretuje się w~kluczu wytrwałości w~modlitwie. Spróbujmy jednak popatrzeć na niego przez pryzmat relacji z~Jezusem. Wiemy, że Jezus odczuwał ogromną trwogę w~Ogrójcu. Oznacza to, że uczniowie zupełnie “nie wyczuli” napięcia Jezusa, z~którym przecież dzielili większość chwil swojego życia i~którego szczerze kochali!
 
-- Jak często czuje się “samotny pośród bliskich”?
+- Jak często czuję się “samotny pośród bliskich”?
 
 Miecz
 =====
@@ -59,11 +59,11 @@ Przeczytajmy:
 
     -- J 18,3-11
 
-O ile przed chwilą św. Piotr popełnił “grzech zaniedbania” poprzez brak aktywności tak teraz wpada w~drugą stronę - aktywności zbyt gwałtownej i~nieuporządkowanej. Św. Piotr wyraźnie chce wypełnić przestrzeń, którą stwarzają dla niego wydarzenia historii zbawienia, ale ciągle “przykłada dłuto w~złym miejscu”.
+O ile przed chwilą św. Piotr popełnił “grzech zaniedbania” poprzez brak aktywności, tak teraz wpada w~drugą stronę - aktywności zbyt gwałtownej i~nieuporządkowanej. Św. Piotr wyraźnie chce wypełnić przestrzeń, którą stwarzają dla niego wydarzenia historii zbawienia, ale ciągle “przykłada dłuto w~złym miejscu”.
 
 - Jakie pomysły na moją aktywność w~życiu słusznie wygasiłem, bo uznałem/uznałam, że to nie jest moja droga?
 - Co chciałbym/chciałabym w~Kościele teraz robić, aby było to w~zgodzie ze mną?
-- Jak możemy sobie pomóc w~ocenie czy mój wybór nie jest zbyt gwałtowny (miecz) ani zbyt pasywny (“trwanie przy Jezusie jako spanie”)?
+- Jak możemy sobie pomóc w~ocenie, czy mój wybór nie jest zbyt gwałtowny (miecz) ani zbyt pasywny (“trwanie przy Jezusie jako spanie”)?
 
 Ognisko
 =======
@@ -76,9 +76,9 @@ Przeczytajmy:
 
 - Czego się boję w~przynależeniu do wspólnoty wierzących?
 
-Św. Piotr kolejny raz “chce kochać, ale nie potrafi”. Tym razem nie myli się “trochę” wybierając złą metodę lecz wprost zaprzecza wszystkiemu w~co wierzył. Ogląda się całą scenę z~przykrością, bo niemalże widać, że św. Piotr “nie ma szans” i~za chwilę zostanie pogrążony. Wszystko się rozsypuje.
+Św. Piotr kolejny raz “chce kochać, ale nie potrafi”. Tym razem nie myli się “trochę” wybierając złą metodę, lecz wprost zaprzecza wszystkiemu, w~co wierzył. Ogląda się całą scenę z~przykrością, bo niemalże widać, że św. Piotr “nie ma szans” i~za chwilę zostanie pogrążony. Wszystko się rozsypuje.
 
-Św. Piotr jest sam. Oddzielony od Mistrza, oddzielony od uczniów. W~nocy. Czy mam oczekiwanie na poziomie emocji, aby “mój pierwszy papież” nawet w~takich warunkach okazał się herosem? Mam. Nie dzieje się jednak “cud wiary” lecz dzieje się “konsekwencja sytuacji”. Bóg nie daje Ognistego Anioła, który rozprasza mrok wokół św. Piotra dając mu nadludzką wiarę. Jest logika, konsekwencja, jest życie.
+Św. Piotr jest sam. Oddzielony od Mistrza, oddzielony od uczniów. W~nocy. Czy mam oczekiwanie na poziomie emocji, aby “mój pierwszy papież” nawet w~takich warunkach okazał się herosem? Mam. Nie dzieje się jednak “cud wiary”, lecz dzieje się “konsekwencja sytuacji”. Bóg nie daje Ognistego Anioła, który rozprasza mrok wokół św. Piotra dając mu nadludzką wiarę. Jest logika, konsekwencja, jest życie.
 
 - W~jaki sposób konkretnie możemy pomóc sobie w~tym, abyśmy nie znajdywali się często w~tak trudnej sytuacji jak św. Piotr?
 - Czyją wiarę, miłość i~światło w~życiu otaczam swoją troską? (to nie znaczy, że biorę za nią odpowiedzialność!)
@@ -89,7 +89,7 @@ Zauważmy pogłębiające się błądzenie św. Piotra:
 2. Chciał walczyć zamiast wybaczać
 3. Chciał być wierzącym, a~równocześnie kłamał
 
-Jeżeli tak jak na początku powiedzieliśmy, że wieczernik był miejscem “nauki” a~Ogród Oliwny i~dom arcykapłana miejscem “egzaminu praktycznego” to św. Piotr egzaminu tego nie zdał. To doświadczenie swojego niedorastania, skruszenia wyobrażenia na swój temat jest kluczowym doświadczeniem w~wierze.
+Jeżeli tak jak na początku powiedzieliśmy, że wieczernik był miejscem “nauki”, a~Ogród Oliwny i~dom arcykapłana miejscem “egzaminu praktycznego”, to św. Piotr egzaminu tego nie zdał. To doświadczenie swojego niedorastania, skruszenia wyobrażenia na swój temat jest kluczowym doświadczeniem w~wierze.
 
 Pusty grób
 ==========
@@ -104,17 +104,17 @@ Nie jesteśmy wierzącymi dlatego, że zdaliśmy Boży egzamin z~wyróżnieniem.
 
 - Co w~wierze mnie ostatnio zaskoczyło, przekroczyło horyzont moich wyobrażeń?
 
-Pusty grób jest konfrontacyjny, ale w~taki sposób, że zmusza św. Piotra do połączenia wszystkiego co od Jezusa słyszał w~całość. To otwarcie na wiarę, która wywraca do góry nogami dotychczasowy sposób myślenia, a~przez to zmienia serce.
+Pusty grób jest konfrontacyjny, ale w~taki sposób, że zmusza św. Piotra do połączenia wszystkiego, co od Jezusa słyszał w~całość. To otwarcie na wiarę, która wywraca do góry nogami dotychczasowy sposób myślenia, a~przez to zmienia serce.
 
 - Jakie doświadczenie w~mojej duchowości mogłoby być odpowiednikiem “pustego grobu”?
 
-Dzisiaj wieczorem będziemy dzielić się doświadczeniem spotkania Zmartwychwstałego. Będziemy z~definicji zatem starali się opowiedzieć o~czymś co jest ciężkie do uchwycenia i~co przekracza nasze wyobrażenia.
+Dzisiaj wieczorem będziemy dzielić się doświadczeniem spotkania Zmartwychwstałego. Będziemy z~definicji zatem starali się opowiedzieć o~czymś, co jest ciężkie do uchwycenia i~co przekracza nasze wyobrażenia.
 
 - Dlaczego dzielimy się wzajemnie wiarą w~Jezusa Chrystusa? Co to daje?
 
 Zastosowanie
 ============
 
-Nie chcemy narzucać uczestnikom zastosowania z~tego spotkania. **Mamy jednak tym razem prośbę, abyśmy w~czasie dzisiejszego opowiadania o~spotkaniu Jezusa Chrystusa przez każdego z~nas potraktować ten czas jako czas Głoszenia, a~więc czas duchowy/modlitewny. Oznacza to na przykład, że w~trakcie gdy słuchamy kogoś, kto opowiada, równocześnie jesteśmy mu życzliwi i~powierzamy go Najwyższemu**.
+Nie chcemy narzucać uczestnikom zastosowania z~tego spotkania. **Mamy jednak tym razem prośbę, abyśmy w~czasie dzisiejszego opowiadania o~spotkaniu Jezusa Chrystusa przez każdego z~nas potraktowali ten czas jako czas Głoszenia, a~więc czas duchowy/modlitewny. Oznacza to na przykład, że w~trakcie gdy słuchamy kogoś, kto opowiada, równocześnie jesteśmy mu życzliwi i~powierzamy go Najwyższemu**.
 
 Autor konspektu zauważa równocześnie znaczące korzyści z~poszukiwania zastosowania możliwego do zrealizowania w~przeciągu najbliższych 48h.

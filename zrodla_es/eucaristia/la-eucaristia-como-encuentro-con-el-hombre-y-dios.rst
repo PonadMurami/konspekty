@@ -11,7 +11,7 @@ Dirigir a las personas a mirar la Eucaristía como un Encuentro. Hacer conscient
 Introducción para el Animador
 ==============================
 
-Tales palabras para reflexionar — para darse cuenta de qué es el encuentro. En grupos más mayores quizás valga la pena leerlas como introducción.
+Tales palabras para reflexionar — para darse cuenta de qué es el encuentro. En grupos mayores quizás valga la pena leerlas como introducción.
 
     El Bien tiene en el mundo su nombre, y no su apellido. Es: Adán, Eva, Abraham (...)" — escribe el padre Tischner. Pero ¿qué significa esto exactamente? Si el Bien es algo tan radicalmente no-objetivo, algo que no tiene apellido, algo que aparece solo bajo la forma de personas concretas, ¿cómo podemos medirlo? ¿Cómo se puede evaluar realmente si un acto dado es bueno, mejor, peor? ¿Dónde está la medida a la que deberíamos referir la conducta de Adán, Abraham, Eva? Y más: ¿qué une a Adán, Abraham, Eva? Viendo al hombre, parece sugerirnos el padre Tischner, deberíamos experimentar la iluminación de que ante nosotros ha aparecido alguien infinitamente digno de ser amado.
 
@@ -58,7 +58,7 @@ Surge la pregunta:
 
 * ¿Por qué es incómodo para el mundo?
 
-Se querría preguntar: qué nos impide el Encuentro. Reflexionaremos qué condiciones son necesarias para que pueda tener lugar el Encuentro.
+Se querría preguntar: qué nos impide el Encuentro. Reflexionaremos sobre qué condiciones son necesarias para que pueda tener lugar el Encuentro.
 
 El animador mostrará los "requisitos" individuales (lee, y luego coloca la tarjeta en el centro! Los puntos para "cortar con tijeras" se encuentran en la última página del esquema) y los participantes los traducirán al lenguaje de la cotidianidad y la concreción de la vida — pueden dar ejemplos, explicar con su propio lenguaje (deben explicarse a sí mismos). Para entender mejor cada punto, que presenten una situación en la que en el Encuentro olvidamos una cosa dada (qué frases pueden entonces ser pronunciadas, qué situaciones pueden ocurrir)
 
@@ -78,7 +78,7 @@ El animador mostrará los "requisitos" individuales (lee, y luego coloca la tarj
 
     * En los contactos interpersonales domina hoy la mirada analítica, reductora y derivativa. Es analítica — o más bien pseudoanalítica — porque trata todo el ser cuerpo-espíritu como compuesto, y por tanto descomponible;(...) La mirada es reductora, porque la diversidad de la persona (...) quiere reducir a estructuras esquemáticas y repetitivas en todas partes.
 
-**¡El animador DEBE cambiar estos DOS últimos citas si lo considera apropiado para el grupo!!!**
+**¡El animador DEBE cambiar estas DOS últimas citas si lo considera apropiado para el grupo!!!**
 
 En busca del Encuentro
 ======================
@@ -99,7 +99,7 @@ Fortalecimiento en el descubrimiento y aplicación
 
 .. warning:: Esta no es una parte del encuentro "al final" sino un punto muy importante al que hay que prever la cantidad adecuada de tiempo si el encuentro ha de tener un sentido mayor que ejercicios con texto!
 
-Se sabe cómo es — la Eucaristía es difícil. La vida transcurre y no es fácil pensar en tales categorías sobre la Santa Misa especialmente si algo diferente en este momento está por hacer. A veces simplemente tenemos muchas dudas humanas sobre lo que sucede en el Altar. Es normal. Estos retiros son una oportunidad para intentar hacer algún esfuerzo, para intentar profundizar nuestra propia vivencia y mirada sobre la Eucaristía. Queremos que la Santa Misa sea para nosotros precisamente ese Encuentro tan anhelado. ¿Cómo nos esforzaremos por esto?
+Se sabe cómo es — la Eucaristía es difícil. La vida transcurre y no es fácil pensar en tales categorías sobre la Santa Misa, especialmente si algo diferente en este momento está por hacer. A veces simplemente tenemos muchas dudas humanas sobre lo que sucede en el Altar. Es normal. Estos retiros son una oportunidad para intentar hacer algún esfuerzo, para intentar profundizar nuestra propia vivencia y mirada sobre la Eucaristía. Queremos que la Santa Misa sea para nosotros precisamente ese Encuentro tan anhelado. ¿Cómo nos esforzaremos por esto?
 
 Creamos un grupo..... un grupo que precisamente se ENCUENTRA entre sí. Podemos ayudarnos mutuamente. No enumeraremos ahora varios consejos "de manuales"! Creemos nosotros mismos tal lista de cosas que nos ayudará.
 

@@ -11,7 +11,7 @@ Pokazać dobrą stronę doświadczenia codzienności – jest dla nas darem, kt�
 Modlitwa
 ========
 
-Modlitwa o~umiejętność patrzenia na nasze życie w~Prawdzie. Akcent nie w~kierunku rozliczania się z~czegoś, wprost przeciwnie - prosimy o~to, abyśmy właśnie umieć widzieć to jak wygląda nasze życie, a~nie jakie są jego plusy i~minusy.
+Modlitwa o~umiejętność patrzenia na nasze życie w~Prawdzie. Akcent nie w~kierunku rozliczania się z~czegoś, wprost przeciwnie - prosimy o~to, abyśmy właśnie umieli widzieć to jak wygląda nasze życie, a~nie jakie są jego plusy i~minusy.
 
 Wprowadzenie
 ============
@@ -33,7 +33,7 @@ Wypiszmy na kartce rzeczy "niezwykłe" jakie przeżyliście (w jakich uczestnicz
 
 Odpowiedzieć na ostatnie pytanie jest bardzo trudno. Możemy jednak poszukać jakiejś wskazówki. Przeczytajmy:
 
-   W~ten sposób zostały ukończone niebo i~ziemia oraz wszystkie jej zastępy [stworzeń].  A~gdy Bóg ukończył w~dniu szóstym swe dzieło, nad którym pracował, odpoczął dnia siódmego po całym swym trudzie, jaki podjął. Wtedy Bóg pobłogosławił ów siódmy dzień i~uczynił go świętym; w~tym bowiem dniu odpoczął po całej swej pracy, którą wykonał stwarzając. Oto są dzieje początków po stworzeniu nieba i~ziemi.
+   W~ten sposób zostały ukończone niebo i~ziemia oraz wszystkie jej zastępy [stworzeń]. A~gdy Bóg ukończył w~dniu szóstym swe dzieło, nad którym pracował, odpoczął dnia siódmego po całym swym trudzie, jaki podjął. Wtedy Bóg pobłogosławił ów siódmy dzień i~uczynił go świętym; w~tym bowiem dniu odpoczął po całej swej pracy, którą wykonał stwarzając. Oto są dzieje początków po stworzeniu nieba i~ziemi.
 
    -- Rdz 2,1-4
 
@@ -58,7 +58,7 @@ Zapiszmy na karteczkach jedną lub kilka rzeczy, które są częścią naszego p
 
 .. warning:: Potrzebne na modlitwę wieczorną - nie wolno ominąć!
 
-Codzienność jest powiązana z~rutyną. Z~jednej strony monotonia, może wprowadzać wypalenie, zniechęcenie, ale z~drugiej strony jest niezmienna, możemy się jej uczepić w~chwilach załamania, daje poczucie bezpieczeństwa. Może nawet uratować życie.
+Codzienność jest powiązana z~rutyną. Z~jednej strony monotonia może wprowadzać wypalenie, zniechęcenie, ale z~drugiej strony jest niezmienna, możemy się jej uczepić w~chwilach załamania, daje poczucie bezpieczeństwa. Może nawet uratować życie.
 
 Przeczytać:
 
@@ -81,7 +81,7 @@ Przeczytać (można nieco ironicznie)
 
 Wróćmy do naszego miasta, które zbudowaliśmy wczoraj. Powołując się na Księgę Rodzaju brakuje w~nim jeszcze 6/7 miejsc i~budynków, aby można było je nazwać miastem w~którym naprawdę mieszkamy. W~czasie trwania dzisiejszego dnia, aż do modlitwy wieczornej jest czas, aby uzupełnić to miasto. Niech każdy doda do niego to co tym razem "zwyczajne, ale jednak ważne". Można to robić w~każdej chwili czasu wolnego. Spróbujmy jednak w~ramach naszej grupy już teraz się tym podzielić:
 
-* Jakie rzeczy dla nas są ważne mimo, że całkowicie zwyczajne? Dlaczego akurat te?
+* Jakie rzeczy dla nas są ważne mimo że całkowicie zwyczajne? Dlaczego akurat te?
 
 .. note:: Zdecydowanie ważne pytanie dzieleniowe – nie odpuścić i~dać sporo czasu
 
@@ -119,7 +119,7 @@ Można mocniej...ile serc posiada człowiek? Czy zdrowe jest bycie w~kilku świa
 
 * Co jest najtrudniejsze w~wyobrażeniu sobie takiej sytuacji?
 
-.. note:: To dobry moment, żeby to sobie przypomnieć (lub powiedzieć po raz pierwszy jakby ktoś na wprowadzeniu do dnia zapomniał :) ) - dzisiejszy dzień zmierza ku temu, aby na wieczornej modlitwie oddać Bogu tą "walkę".
+.. note:: To dobry moment, żeby to sobie przypomnieć (lub powiedzieć po raz pierwszy jakby ktoś na wprowadzeniu do dnia zapomniał :) ) - dzisiejszy dzień zmierza ku temu, aby na wieczornej modlitwie oddać Bogu tę "walkę".
 
 Codzienność uświęcona
 =====================
@@ -135,7 +135,7 @@ Spróbujemy zakończyć to spotkanie z~odpowiednim nastawieniem do dzisiejszego 
 Podsumowanie
 ============
 
-Chyba każdy z~nas miał taki czas kiedy w~"szarej codzienności" przypominał sobie z~nostalgia chwile zachwytu, ważne dla niego spotkania, to wszystko co było "bardzo ważne"... Jednak wtedy najbardziej nie zauważamy tego co jest ważne dla nas a~jest częścią naszej codzienności. To tak jak spotkanie z~przyjacielem po wielu miesiącach, choćby upłynęło na rozmowie o~pogodzie - będzie cudownym wspomnieniem do którego będziemy wracać myślami, natomiast jeśli nasz przyjaciel jest obok, siedzi z~nami w~jednej ławce, wspólnie spędzamy razem wiele godzin, to nawet jeśli nasza rozmowa będzie o~istotnych sprawach, to stanie się dla nas "tylko" elementem codzienności.
+Chyba każdy z~nas miał taki czas kiedy w~"szarej codzienności" przypominał sobie z~nostalgią chwile zachwytu, ważne dla niego spotkania, to wszystko co było "bardzo ważne"... Jednak wtedy najbardziej nie zauważamy tego co jest ważne dla nas a~jest częścią naszej codzienności. To tak jak spotkanie z~przyjacielem po wielu miesiącach, choćby upłynęło na rozmowie o~pogodzie - będzie cudownym wspomnieniem do którego będziemy wracać myślami, natomiast jeśli nasz przyjaciel jest obok, siedzi z~nami w~jednej ławce, wspólnie spędzamy razem wiele godzin, to nawet jeśli nasza rozmowa będzie o~istotnych sprawach, to stanie się dla nas "tylko" elementem codzienności.
 
 Spróbujmy zastanowić się czy w~naszej codzienności nie zatraciliśmy jakiegoś niesamowitego skarbu, którego jedyną "winą" jest to, że jest nam dany w~obfitości. Czy potrafimy za ten dar podziękować? Czy potrafimy zachwycić się tu i~teraz, a~nie tylko nostalgicznie wspominać to co było? Przynieśmy ze sobą ten skarb na modlitwę wieczorną.
 

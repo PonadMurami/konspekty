@@ -164,7 +164,7 @@ Dieu nous garantit qu'au ciel en communion avec lui nous ne désirerons plus rie
 Application – rôle de la communauté
 ===================================
 
-En fait – entreprendre l'effort d'une telle vie avec Dieu "à 1oo%" est très difficile. Mais littéralement nous ne sommes pas seuls dans cette difficulté – nous nous avons nous. Nous voudrions ici dans cette retraite "toucher" ce qu'est notre communauté.
+En fait – entreprendre l'effort d'une telle vie avec Dieu "à 100%" est très difficile. Mais littéralement nous ne sommes pas seuls dans cette difficulté – nous nous avons les uns les autres. Nous voudrions ici dans cette retraite "toucher" ce qu'est notre communauté.
 
 **Les participants se donnent eux-mêmes des tâches pour la journée d'aujourd'hui, chacun deux – une très pratique, une spirituelle. Les tâches doivent avoir un lien avec le thème de la retraite. Quand j'invente les tâches, je demande à ce que deux personnes du groupe les acceptent (l'animateur veille à ce que les gens reçoivent "équitablement"). Objectif de ce point – aide mutuelle (en responsabilité) pour connaître de mieux en mieux le Christ.**
 

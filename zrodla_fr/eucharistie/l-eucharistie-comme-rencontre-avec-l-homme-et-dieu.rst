@@ -39,7 +39,7 @@ Il vaut la peine de se poser la question sur la qualité de nos rencontres (tout
 
 La rencontre est un don. Quelque chose d'absolument extraordinaire. Si nous avons peu d'inscriptions sur nos feuilles, nous le comprenons parfaitement car nous "aspirons" probablement à une vraie conversation. Si nos feuilles sont remplies, nous avons probablement vécu cela et nous apprécions ces moments.
 
-    On cherche aujourd'hui non seulement à "désenchanter" les contacts interpersonnels — avec quoi on pourrait même être d'accord — mais aussi à les dévoiler radicalement. Ce qui est personnel, constamment proche du mystère, autrefois fondement des plus silencieuses extases, subit la nivellement.
+    On cherche aujourd'hui non seulement à "désenchanter" les contacts interpersonnels — avec quoi on pourrait même être d'accord — mais aussi à les dévoiler radicalement. Ce qui est personnel, constamment proche du mystère, autrefois fondement des plus silencieuses extases, subit le nivellement.
 
     -- Martin Buber
 
@@ -60,7 +60,7 @@ La question se pose :
 
 On voudrait demander : qu'est-ce qui nous empêche dans la Rencontre. Nous réfléchirons quelles conditions sont nécessaires pour qu'une Rencontre puisse avoir lieu.
 
-L'animateur montrera les différents "exigences" (lit, puis pose la feuille au centre ! Les points à "couper aux ciseaux" se trouvent sur la dernière page du schéma) et les participants les traduiront dans le langage du quotidien et du concret de la vie — ils peuvent donner des exemples, expliquer dans leur propre langage (ils devraient se traduire eux-mêmes). Pour mieux comprendre chaque point, qu'ils présentent une situation dans laquelle dans la Rencontre nous oublions une chose donnée (quelles phrases peuvent alors être prononcées, quelles situations peuvent survenir)
+L'animateur montrera les différentes "exigences" (lit, puis pose la feuille au centre ! Les points à "couper aux ciseaux" se trouvent sur la dernière page du schéma) et les participants les traduiront dans le langage du quotidien et du concret de la vie — ils peuvent donner des exemples, expliquer dans leur propre langage (ils devraient se traduire eux-mêmes). Pour mieux comprendre chaque point, qu'ils présentent une situation dans laquelle dans la Rencontre nous oublions une chose donnée (quelles phrases peuvent alors être prononcées, quelles situations peuvent survenir)
 
 Les participants peuvent étendre cette liste !!!
 
@@ -74,7 +74,7 @@ Les participants peuvent étendre cette liste !!!
 
     * La conversation par sa nature est féconde. La conversation porte des fruits... crée en nous quelqu'un d'autre, nous nous découvrons nous-mêmes en elle davantage...
 
-    * La condition principale pour qu'une vraie conversation ait lieu est que chacun considère son partenaire comme cette, précisément cette personne. Je la perçois, je perçois qu'elle est autre, essentiellement autre que moi, de cette manière déterminée, qui lui est seulement propre et unique, essentiellement autre que moi, et j'accepte cette personne que j'ai perçue, de sorte que je peux avec toute la gravité m'adresser à elle, précisément à elle, mes paroles.
+    * La condition principale pour qu'une vraie conversation ait lieu est que chacun considère son partenaire comme cette, précisément cette personne. Je la perçois, je perçois qu'elle est autre, essentiellement autre que moi, de cette manière déterminée, qui lui est seulement propre et unique, essentiellement autre que moi, et j'accepte cette personne que j'ai perçue, de sorte que je peux avec toute la gravité lui adresser, précisément à elle, mes paroles.
 
     * Dans les contacts interpersonnels domine aujourd'hui le regard analytique, réducteur et dérivant. Il est analytique — ou plutôt pseudo-analytique — car il traite tout l'être corps-esprit comme composé, et donc décomposable ; (...) Le regard est réducteur, car la diversité de la personne (...) veut réduire à des structures schématiques et répétitives partout.
 
@@ -85,7 +85,7 @@ Les participants peuvent étendre cette liste !!!
 
 Nous savons que nous nous rencontrons vraiment de moins en moins. Nous savons par quoi de telles rencontres devraient se caractériser et ce qui doit être rempli pour qu'elles puissent avoir lieu. Est-ce que cela nous suffit cependant pour pouvoir les vivre ? C'est certainement utile, peut-être même indispensable — donc cela valait la peine. Cependant, beaucoup d'entre nous marchent dans le monde avec l'aspiration à la Vraie Rencontre.
 
-L'homme est ainsi créé. Nous cherchons... Plus nous vivons longtemps dans le monde, plus l'homme éprouve que ses différents types de rencontres ne touchent pas la plénitude (ou même ne touchent pas la surface ?). Nous nous approchons à ce moment du thème de nos retraites... de l'Eucharistie.... réponse de Dieu à ce notre énorme désir de Vraie Rencontre....
+L'homme est ainsi créé. Nous cherchons... Plus nous vivons longtemps dans le monde, plus l'homme éprouve que ses différents types de rencontres ne touchent pas la plénitude (ou même ne touchent pas la surface ?). Nous nous approchons à ce moment du thème de nos retraites... de l'Eucharistie.... réponse de Dieu à notre énorme désir de Vraie Rencontre....
 
 * Avez-vous déjà regardé l'Eucharistie de cette manière ?
 

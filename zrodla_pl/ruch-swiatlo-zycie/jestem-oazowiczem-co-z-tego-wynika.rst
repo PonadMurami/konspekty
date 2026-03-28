@@ -6,7 +6,7 @@ Spotkanie 3. - Jestem Oazowiczem – co z~tego wynika?
 Cel i~metoda spotkania
 ======================
 
-W trzecim dniu rekolekcji  uczestnicy  już zdają sobie sprawę z~tego, że oaza  to coś więcej niż "kółko religijne". Znają też w~zarysie wizję ks. F. Blachnickiego, dotyczącą zadań i~metod Ruchu Światło-Życie. Nadszedł  więc czas na podjęcie konkretnych działań, dotyczących własnych parafialnych wspólnot oazowych. To spotkanie ma im pomóc w~odkryciu potrzeb tych wspólnot i~sposobów ich zaspokojenia.
+W trzecim dniu rekolekcji  uczestnicy już zdają sobie sprawę z~tego, że oaza  to coś więcej niż "kółko religijne". Znają też w~zarysie wizję ks. F. Blachnickiego, dotyczącą zadań i~metod Ruchu Światło-Życie. Nadszedł  więc czas na podjęcie konkretnych działań, dotyczących własnych parafialnych wspólnot oazowych. To spotkanie ma im pomóc w~odkryciu potrzeb tych wspólnot i~sposobów ich zaspokojenia.
 
 Na spotkanie przeznaczone jest półtorej godziny. Będzie przeprowadzone metodą Ewangelicznej Rewizji Życia, więc będzie się składać z~trzech części, o~następujących celach:
 
@@ -19,9 +19,9 @@ Na spotkanie przeznaczone jest półtorej godziny. Będzie przeprowadzone metod�
 Przygotowanie animatora
 =======================
 
-Fragment Rz 12,2–18 należy wcześniej przeczytać i~rozważyć, a~najlepiej przemodlić i~spróbować odnieść go do realiów wspólnot oazowych. Proponuję zrobić to przed przeczytaniem  dalszej części konspektu.
+Fragment Rz 12,2–18 należy wcześniej przeczytać i~rozważyć, a~najlepiej przemodlić i~spróbować odnieść go do realiów wspólnot oazowych. Proponuję zrobić to przed przeczytaniem dalszej części konspektu.
 
-W przygotowaniu  mogą być też pomocne pozostałe fragmenty, wypisane dalej, mimo że wększość  z~nich nie będzie prawdopodobnie  wykorzystana  na spotkaniu. Warto też zapoznać się z~materiałami dodatkowymi na końcu konspektu.
+W przygotowaniu  mogą być też pomocne pozostałe fragmenty, wypisane dalej, mimo że większość  z~nich nie będzie prawdopodobnie  wykorzystana  na spotkaniu. Warto też zapoznać się z~materiałami dodatkowymi na końcu konspektu.
 
 Modlitwa
 ========
@@ -35,7 +35,7 @@ Każdy z~uczestników opowiada o~swojej wspólnocie. Bardziej wskazana jest tu f
 
 Bardzo ważne jest, aby mówić zarówno o~dobrych aspektach życia konkretnej wspólnoty, jak i~o złych. Celem spotkania nie jest narzekanie, jak to źle jest w~naszych oazach, jak bardzo są one słabe i~niedoskonałe. Spotkanie ma pomóc uczestnikom odkryć prawdę o~ich wspólnotach. Konieczne jest mówienie o~sukcesach i~osiągnięciach w~poszczególnych parafiach. Ma to ubogacić wszystkich uczestników, umocnić nadzieję na poprawę pewnych wad i~może wskazać drogi wyjścia z~nich, sprawdzone w~innych oazach.
 
-Jeżeli uczestnicy będą przejawiać przeciwną tendencję, a~więc twierdzić że wszystko jest  dobrze, nie jest  to na razie takie  groźne. Odkrycie wad jest  celem drugiej części spotkania,  choć dobrze by było, aby uczestnicy sami pewne rzeczy zauważali. Jeżeli nie zauważą, w~drugiej części pomoże im w~tym Pismo Święte.
+Jeżeli uczestnicy będą przejawiać przeciwną tendencję, a~więc twierdzić że wszystko jest  dobrze, nie jest to na razie takie groźne. Odkrycie wad jest  celem drugiej części spotkania,  choć dobrze by było, aby uczestnicy sami pewne rzeczy zauważali. Jeżeli nie zauważą, w~drugiej części pomoże im w~tym Pismo Święte.
 
 Pytania, które można zadawać uczestnikom:
 
@@ -62,7 +62,7 @@ Osądzić
 
 Ta część  spotkania opierać się będzie na fragmencie  listu św. Pawła do Rzymian Rz  12,2–18. Jest to dość długi tekst, poruszający  zwięźle wiele kwestii. Nie we wszystko należy się wgłębiać, raczej skupić się na tym, w~czym niedomagają poszczególne wspólnoty. Jednocześnie trzeba być ostrożnym, aby nie przeoczyć ważnych kwestii, takich jak Eucharystia czy modlitwa, których ten fragment dotyka trzema słowami. Można odczytywać tekst fragmentami i~rozważać je kolejno, np. Rz 12,2.3–8.9–12.13–18.
 
-Nie chcę narzucać interpretacji tekstu. Ważne jest to, co uczestnicy sami wywnioskują. Ponadto animator może widzieć potrzebę zaakcentowania pewnych kwestii, wedle swojego rozeznania. Dlatego poniższych rozważań (do końca części Osądzić) nie trzeba w~ogóle brać pod uwagę. Chciałbym jednak podzielić  się własnymi spostrzeżeniami, które być może okażą się pomocne. Jest ich z~pewnością za dużo, przedstawiam  je po to, by było w~czym wybierać. Pogrubieniem wyróżniłem jednak tematy, które, moim zdaniem, powinny zostać poruszone:
+Nie chcę narzucać interpretacji tekstu. Ważne jest to, co uczestnicy sami wywnioskują. Ponadto animator może widzieć potrzebę zaakcentowania pewnych kwestii, wedle swojego rozeznania. Dlatego poniższych rozważań (do końca części Osądzić) nie trzeba w~ogóle brać pod uwagę. Chciałbym jednak podzielić się własnymi spostrzeżeniami, które być może okażą się pomocne. Jest ich z~pewnością za dużo, przedstawiam je po to, by było w~czym wybierać. Pogrubieniem wyróżniłem jednak tematy, które, moim zdaniem, powinny zostać poruszone:
 
 * **Rz 12, 2** - Święty Paweł nie wypisał  tych  wszystkich wskazówek w~losowej kolejności. Zaczyna więc od podstaw: szukanie woli Bożej i~metanoia . Bez tego nie istnieje chrześcijańska wspólnota.  Jednocześnie trzeba mieć otwarty umysł, aby nie budować na wzorcach, zaczerpniętych z~tego świata, ale opierać się na Bożym planie, który często bywa zaskakujący i~wymagający.
 
@@ -80,7 +80,7 @@ Nie chcę narzucać interpretacji tekstu. Ważne jest to, co uczestnicy sami wyw
 
     * rozdawanie, uczynki miłosierdzia – Oaza, a~przynajmniej  oazowicze, ma służyć potrzebującym. Nie chodzi o~to, by zastępować parafialny oddział Caritas, ale raczej by z~nim współpracować. Dobrze, jeśli wspólnota jako całość angażuje się w~jakieś dzieła miłosierdzia. Jeżeli nie jest to możliwe, to oczywiście każdy członek Oazy powinien gdzieś jakoś komuś służyć. Wiara, jeśli nie byłaby połączona  z~uczynkami,  martwa jest sama w~sobie. (por. Jk~2,14–19)
 
-* **Rz 12, 9–12** - Lista zasad, którymi należy się kierować w~życiu wspólnotowym. Każda z~niech jest ważna. Większość daje się prosto przełożyć na nasze realia, skomentuję więc tylko kilka:
+* **Rz 12, 9–12** - Lista zasad, którymi należy się kierować w~życiu wspólnotowym. Każda z~nich jest ważna. Większość daje się prosto przełożyć na nasze realia, skomentuję więc tylko kilka:
 
     * Pełnijcie służbę Panu – Jest to chyba jedyne w~całym tekście bezpośrednie odniesienie do liturgii. Tymczasem Eucharystia powinna być nieodłącznym elementem życia wspólnotowego, o~czym mówią inne teksty Pawłowe (por. np. 1 Kor 11,17–34). W~miarę możliwości oaza powinna gromadzić się co tydzień na wspólnej Mszy Św.
 
@@ -88,7 +88,7 @@ Nie chcę narzucać interpretacji tekstu. Ważne jest to, co uczestnicy sami wyw
 
     * W~modlitwie [bądźcie] wytrwali – Modlitwa wspólnotowa jest konieczna w~każdej wspólnocie, w~której Bóg ma stać w~centrum. Jej braku w~zasadzie nie ma czym usprawiedliwić. Potrzebne jest zarówno dziękczynienie, jak i~modlitwa błagalna w~intencjach  poszczególnych członków, całej wspólnoty parafialnej, całego Ruchu, a~także za parafię, Ojczyznę, Kościół i~świat. Konieczna jest też modlitwa indywidualna poszczególnych członków za wspólnotę.
 
-* **Rz 12, 13–18** -  Dalsze zasady, tym razem mówiące o~stosunkach wspólnoty  ze "światem zewnętrznym". Po opisie życia wewnętrznego wspólnoty, św. Paweł przechodzi do działań na zewnątrz i~relacji z~innymi ludźmi. Tu my także dochodzimy do głównego celu spotkania, bo ta część życia wspólnotowego  często w~Oazie wykazuje braki. W~ zasadzie wszystkie poruszane tu tematy  są ważne:
+* **Rz 12, 13–18** -  Dalsze zasady, tym razem mówiące o~stosunkach wspólnoty  ze "światem zewnętrznym". Po opisie życia wewnętrznego wspólnoty, św. Paweł przechodzi do działań na zewnątrz i~relacji z~innymi ludźmi. Tu my także dochodzimy do głównego celu spotkania, bo ta część życia wspólnotowego  często w~Oazie wykazuje braki. W~zasadzie wszystkie poruszane tu tematy  są ważne:
 
     * Zaradzajcie potrzebom świętych – Św. Paweł mówi o~materialnym wspieraniu Kościoła. My możemy sobie zadać dodatkowo pytanie, czy i~jak dbamy o~finanse wspólnoty oraz całego Ruchu.
 
@@ -102,7 +102,7 @@ Nie chcę narzucać interpretacji tekstu. Ważne jest to, co uczestnicy sami wyw
 
     * Starajcie się dobrze czynić wszystkim ludziom – Wracamy do tematu uczynków miłosierdzia.
 
-    * Żyjcie w~zgodzie ze wszystkimi  ludźmi – Trzeba dbać po pierwsze o~to, żeby oaza nie inicjowała żadnych sporów. Po drugie oaza powinna działać na rzecz łagodzenia wszelkich sporów. Nie tylko tych, które jej bezpośrednio dotyczą, ale także czasem w~roli mediatora. Oczywiście z~wyczuciem i~nie wbrew komu kolwiek.
+    * Żyjcie w~zgodzie ze wszystkimi  ludźmi – Trzeba dbać po pierwsze o~to, żeby oaza nie inicjowała żadnych sporów. Po drugie oaza powinna działać na rzecz łagodzenia wszelkich sporów. Nie tylko tych, które jej bezpośrednio dotyczą, ale także czasem w~roli mediatora. Oczywiście z~wyczuciem i~nie wbrew komukolwiek.
 
 Jak już wspomniałem wcześniej, animator może uznać niektóre sprawy za wymagające większej uwagi. Wtedy może wesprzeć się którymś z~następujących tekstów:
 
@@ -117,7 +117,7 @@ Działać
 
 Po stwierdzeniu jak jest (część I) i~jak powinno być (część II), uczestnicy powinni podjąć wysiłek, aby odkryć możliwości poprawy życia wspólnotowego. Pewne pomysły mogły pojawić się już w~trakcie poprzednich  części. Należy je teraz powtórzyć, sprecyzować i~ocenić możliwości wprowadzenia ich w~życie. Trzeba też zastanowić  się nad tymi problemami, których rozwiązania nie narzucają się od razu.
 
-Przebieg tej części zależy od pozostałego  czasu i~możliwości grupy. Jeżeli pomysłów będzie za dużo, należy raczej skupić się na niektórych i~omówić je bardziej szczegółowo. Jeżeli będzie za mało, można spróbować zmobilizować  uczestników do krótkiej "burzy mózgów", aby wszyscy zastanowili  się nad konkretnym problemem wybranej wspólnoty.
+Przebieg tej części zależy od pozostałego  czasu i~możliwości grupy. Jeżeli pomysłów będzie za dużo, należy raczej skupić się na niektórych i~omówić je bardziej szczegółowo. Jeżeli będzie za mało, można spróbować zmobilizować uczestników do krótkiej "burzy mózgów", aby wszyscy zastanowili  się nad konkretnym problemem wybranej wspólnoty.
 
 Najlepszym  owocem tego spotkania, będą deklaracje uczestników podjęcia konkretnych działań. Oczywiście powinny być one spontaniczne, nie można dopuścić do wytworzenia atmosfery nacisku. Jeżeli takich deklaracji nie będzie, wystarczy,  żeby uczestnicy wynieśli ze spotkania  poczucie odpowiedzialności za wspólnotę.
 

@@ -47,7 +47,7 @@ Przeczytajmy:
 
 * Jaki “głód” najczęściej towarzyszy mi w~sprawach duchowych? (wiedzy, prawdy, sensu?)
 
-„Fizyczne pragnienie wyraża pragnienie czegoś, ale tak silne, że umieramy, jeśli jesteśmy tego pozbawieni”. Słowa św. Teresy z~Avila z~“Drogi doskonałości” pozwalają nam zrozumieć, dlaczego pragnienie i~głód, pierwsze i~najważniejsze doświadczenie bytu fizycznego, stały się uniwersalnym symbolem pragnienia i~głodu przede wszystkim duchowego (mówimy na przykład „głód wiedzy”.
+„Fizyczne pragnienie wyraża pragnienie czegoś, ale tak silne, że umieramy, jeśli jesteśmy tego pozbawieni”. Słowa św. Teresy z~Avila z~“Drogi doskonałości” pozwalają nam zrozumieć, dlaczego pragnienie i~głód, pierwsze i~najważniejsze doświadczenie bytu fizycznego, stały się uniwersalnym symbolem pragnienia i~głodu przede wszystkim duchowego (mówimy na przykład „głód wiedzy”).
 
 W tym miejscu możemy dostrzec jak idealnie łączą się dwa światy - fizyczny i~duchowy: rano jestem głodny i~spragniony, a~od świtu moją duszę – mówi Psalmista – szarpie pragnienie Boga, źródła mojego wewnętrznego życia. Dlatego czuje się on jak wyschła ziemia, której spękania są jak otwarte gardła i~usta wzdychające do ożywczej wody.
 
@@ -64,9 +64,9 @@ Pragnienie - poszukiwanie - aktywność
 
 Aktywność, która będzie efektem poszukiwania Boga prędzej czy później doprowadzi nas do momentu, w~którym będziemy rozczarowani rzeczywistością. Rozczarowanie to efekt, który osiągamy, kiedy nasze oczekiwania zostają boleśnie zweryfikowane.
 
-Warto w~tym momencie podkreślić, że rozczarowanie będzie obowiązkowym elementem na drodze do prawdy. Na drodze naszej relacji z~Bogiem rozczarowania będą nam się przytrafiały. Postarajmy się wykorzystać do lepszego poznania zarówno Boga jak i~siebie.
+Warto w~tym momencie podkreślić, że rozczarowanie będzie obowiązkowym elementem na drodze do prawdy. Na drodze naszej relacji z~Bogiem rozczarowania będą nam się przytrafiały. Postarajmy się wykorzystać do lepszego poznania zarówno Boga, jak i~siebie.
 
-Na początku przyjrzyjmy się samemu słowu “rozczarowanie”. Czyż nie jest ono ciekawe? Oznacza ono nie mniej ni więcej lecz pozbawienie czaru, magii.
+Na początku przyjrzyjmy się samemu słowu “rozczarowanie”. Czyż nie jest ono ciekawe? Oznacza ono nie mniej ni więcej, lecz pozbawienie czaru, magii.
 
 Przeczytajmy:
 
@@ -129,7 +129,7 @@ Przeczytajmy wiersz ks. Jana Twardowskiego:
 Pokora w~poszukiwaniu oraz zastosowanie
 =======================================
 
-Ten punkt ma nam uświadomić rolę pokory w~naszym poszukiwaniu Boga oraz pozwolić nam dobrze wejść w~kolejne elementy rekolekcji. O~zagadnienie pokory oparte będzie także zastosowanie tego spotkania. Nie pomijajmy tej zależności - pokora to dobry punkt na dyskusję
+Ten punkt ma nam uświadomić rolę pokory w~naszym poszukiwaniu Boga oraz pozwolić nam dobrze wejść w~kolejne elementy rekolekcji. O~zagadnienie pokory oparte będzie także zastosowanie tego spotkania. Nie pomijajmy tej zależności - pokora to dobry punkt na dyskusję.
 
 * Cóż to jest pokora?
 

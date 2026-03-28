@@ -109,7 +109,7 @@ El animador comienza con la pregunta:
 
 - ¿Qué puede bloquearnos en ser hospitalarios?
 
-Escucha las respuestas. Si no sale una respuesta sobre la falta de recursos (no tenemos qué compartir) - sugiere tal respuesta pregunta si puede bloquearnos.
+Escucha las respuestas. Si no sale una respuesta sobre la falta de recursos (no tenemos qué compartir) - sugiere tal respuesta y pregunta si puede bloquearnos.
 
 .. note:: Sacamos la primera imagen con la viuda
 

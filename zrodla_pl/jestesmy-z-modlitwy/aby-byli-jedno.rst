@@ -68,7 +68,7 @@ Pragnieniem Jezusa jest jedność. Jedność o~skali i~głębokości przekraczaj
 
 - Co w~Jedności jest dla mnie trudne?
 
-Kluczowe dla nas jest słowo “pragnienie”. Jezus tak po ludzku jest motywowany pragnieniem jedności, ją czyni, o~nią się stara, o~nią się modli, za nią oddaje życie. Jest Jego marzeniem, którą zostawia nam w~testamencie. Zabezpiecza dla nas środki, abyśmy mieli szansę jej dotknąć - Błogosławieństwo Ojca i~obecność Ducha Świętego..
+Kluczowe dla nas jest słowo “pragnienie”. Jezus tak po ludzku jest motywowany pragnieniem jedności, ją czyni, o~nią się stara, o~nią się modli, za nią oddaje życie. Jest Jego marzeniem, którą zostawia nam w~testamencie. Zabezpiecza dla nas środki, abyśmy mieli szansę jej dotknąć - Błogosławieństwo Ojca i~obecność Ducha Świętego.
 
 - Gdzie i~kiedy doświadczyłem tej jedności, której pragnie dla mnie Jezus?
 
@@ -90,7 +90,7 @@ Jedność chce być sprawcza. Ostatecznym owocem jedności ma być rozpoznanie J
 
 Zazwyczaj na końcu spotkania ustalamy zastosowanie do realizacji w~późniejszym czasie, na przykład po tym, jak już wrócimy z~rekolekcji. Dzisiaj chcemy, żeby treści, o~których rozmawialiśmy, zaowocowały w~nas już teraz. W~trakcie tych rekolekcji skupiliśmy się na fragmencie, który mówił o~pragnieniach Jezusa względem uczniów, względem Kościoła, względem nas. Na koniec, chcąc pogłębić jedność między nami, podzielmy się między sobą naszymi pragnieniami.
 
-.. note:: W~tych pytaniach kluczowe jest, aby każdy z~uczestników znalazł odpowiedni dla siebie poziom “odsłonięcia się” przed innymi. Nie zachęcamy w~żadnym stopniu do przekraczania swoich granic komfortu. Z~punktu widzenia rekolekcji osiągnięciem jest sama obecności takich pytań między nami.
+.. note:: W~tych pytaniach kluczowe jest, aby każdy z~uczestników znalazł odpowiedni dla siebie poziom “odsłonięcia się” przed innymi. Nie zachęcamy w~żadnym stopniu do przekraczania swoich granic komfortu. Z~punktu widzenia rekolekcji osiągnięciem jest sama obecność takich pytań między nami.
 
 - O~co się aktualnie najczęściej modlę?
 

@@ -8,7 +8,7 @@ Cel spotkania
 
 Spotkania w~grupach “Na Brzegu” mają stworzyć przede wszystkim przestrzeń dialogu i~wzajemnego wsłuchiwania się w~głos innych członków Kościoła. Temu celowi zostały podporządkowane konferencje poprzedzające spotkania - by zainspirować, stworzyć wspólne doświadczenie, do którego teraz razem będziemy mogli się odnieść.
 
-Dzisiejsza modlitwa to modlitwa wiernych o~powołania. Chcemy poprosić Boga o~nowe powołania, a~także podziękować mu zarówno za powołania do różnych zawodów, profesji oraz zainteresowań, a~także za powołanie do miłości, realizowane w~życiu małżeńskim, konsekrowanym lub indywidualnym.
+Dzisiejsza modlitwa to modlitwa wiernych o~powołania. Chcemy poprosić Boga o~nowe powołania, a~także podziękować mu zarówno za powołania do różnych zawodów, profesji oraz zainteresowań, jak i~za powołanie do miłości, realizowane w~życiu małżeńskim, konsekrowanym lub indywidualnym.
 
 Zawiązanie wspólnoty - co to jest “powołanie”?
 ==============================================
@@ -28,11 +28,11 @@ Powołanie do świętości
 
 Przeczytajmy:
 
-    W~Nim [Chrystusie] bowiem wybrał nas przez założeniem świata, abyśmy byli święci i~nieskalani przed Jego obliczem. Z~miłości przeznaczył nas dla siebie jako przybranych synów przez Jezusa Chrystusa, według postanowienia swej woli, ku chwale majestatu swej łaski, którą obdarzył nas w~Umiłowanym.
+    W~Nim [Chrystusie] bowiem wybrał nas przed założeniem świata, abyśmy byli święci i~nieskalani przed Jego obliczem. Z~miłości przeznaczył nas dla siebie jako przybranych synów przez Jezusa Chrystusa, według postanowienia swej woli, ku chwale majestatu swej łaski, którą obdarzył nas w~Umiłowanym.
 
     -- Ef 1,4-6
 
-Z tych słów św. Pawła jasno wynika, że wolą Boga jest byśmy przez Chrystusa byli jego dziećmi. Jedyną rzeczą do jakiej wzywa ta relacja jest podobieństwo do Ojca i~odzwierciedlanie jego świętości. Natomiast konkretny sposób w~jaki odpowiemy na to wezwanie, pozostawiony jest twórczej wolności człowieka. Oczywiście w~przypadku człowieka nie jest to tworzenie z~niczego. Odbywa się ono na podstawie tego kim jesteśmy, naszego temperamentu, naszych pragnień i~uzdolnień, naszej wrażliwości na otaczający nas świat i~wydarzenia, w~których uczestniczymy. Wola Boga nie jest z~góry szczegółowo zapisanym planem określającym kształt naszego życia.
+Z tych słów św. Pawła jasno wynika, że wolą Boga jest, byśmy przez Chrystusa byli jego dziećmi. Jedyną rzeczą, do jakiej wzywa ta relacja jest podobieństwo do Ojca i~odzwierciedlanie jego świętości. Natomiast konkretny sposób, w~jaki odpowiemy na to wezwanie, pozostawiony jest twórczej wolności człowieka. Oczywiście w~przypadku człowieka nie jest to tworzenie z~niczego. Odbywa się ono na podstawie tego, kim jesteśmy, naszego temperamentu, naszych pragnień i~uzdolnień, naszej wrażliwości na otaczający nas świat i~wydarzenia, w~których uczestniczymy. Wola Boga nie jest z~góry szczegółowo zapisanym planem określającym kształt naszego życia.
 
 * Jak rozumiesz powołanie w~kontekście wolnej woli?
 
@@ -49,7 +49,7 @@ Człowiek rodzi się ze zdolnością do miłości wszczepioną w~momencie stwo­
 
     -- Mk 12, 30-31
 
-Miłość możemy realizować w~rzeczach tak prostych jak czytanie różnych wypowiedzi w~internecie. Spróbujmy przeczytać wybrane posty różnych osób publicznych i~podzielmy się naszymi przemyśleniami skupiając się na rzeczach pozytywnych, które dostrzegamy w~wypowiedziach.
+Miłość możemy realizować w~rzeczach tak prostych jak czytanie różnych wypowiedzi w~internecie. Spróbujmy przeczytać wybrane posty różnych osób publicznych i~podzielmy się naszymi przemyśleniami, skupiając się na rzeczach pozytywnych, które dostrzegamy w~wypowiedziach.
 
 .. note:: Cel zadania - pokazanie, że docenianie jest budujące, na przykładzie treści, które możemy spotkać codziennie. Uczestnicy czytają posty/tweety, i~starają się do nich odnieść pozytywnie, np. docenić spostrzegawczość autora, jego wrażliwość na jakiś temat, dobór słów. Nie chodzi o~to czy sama treść jest dobra, bo staraliśmy się wybrać treści pozytywne, ale o~odniesienie do całości. Poniżej znajdują się oryginalne wypowiedzi wybrane do tego warsztatu, animator powinien się z~nimi zapoznać przed spotkaniem grupowym w~celu uzyskania pełnego kontekstu.
 
@@ -94,7 +94,7 @@ Po ujawnieniu autorów rekomenduje się odczytanie poniższych pytań, żeby pom
 
 * Czy byłoby to dla mnie trudniejsze/łatwiejsze/bez znaczenia?
 
-* Czy kiedy czytam wypowiedzi najpierw zastanawiam się nad tym gdzie przyporządkować daną osobę, a~potem czytać co powiedziała?
+* Czy kiedy czytam wypowiedzi najpierw zastanawiam się nad tym gdzie przyporządkować daną osobę, a~potem czytam, co powiedziała?
 
 Budowanie Kościoła
 ==================
@@ -111,7 +111,7 @@ Przeczytajmy:
 
 * Co dla człowieka wiary oznacza “bycie szczęśliwym”?
 
-* Co musiałoby się zmienić żebym był bardziej szczęśliwy?
+* Co musiałoby się zmienić, żebym był bardziej szczęśliwy?
 
 * Co możemy jako świeccy zrobić w~kierunku budowania szczęścia w~Kościele?
 
@@ -143,7 +143,7 @@ Jezus zaraz potem mówi uczniom o~ich zadaniu:
     |
     | -- por. Mt 5,13-16
 
-Mamy być solą ziemi, ludźmi nadziei, którzy żyją Dobrą Nowiną. Czy faktycznie nimi jesteśmy? Zastanówmy się nad tym czy ludzie wokół nas mogą odkryć, że celem naszych dążeń jest rzeczywiście przebywanie z~Bogiem oraz wszystkimi zbawionymi.
+Mamy być solą ziemi, ludźmi nadziei, którzy żyją Dobrą Nowiną. Czy faktycznie nimi jesteśmy? Zastanówmy się nad tym, czy ludzie wokół nas mogą odkryć, że celem naszych dążeń jest rzeczywiście przebywanie z~Bogiem oraz wszystkimi zbawionymi.
 
 * Jak rozumiesz życie błogosławieństwami?
 

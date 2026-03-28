@@ -28,11 +28,11 @@ Le Saint-Esprit dans l'AT :
 
    La terre était déserte et vide, et la ténèbre à la surface de l’abîme ; le souffle de Dieu planait à la surface des eaux
 
-   -- Gn 1, 22
+   -- Gn 1, 2
 
    Mais Dieu se souvint de Noé, de toutes les bêtes sauvages et de tous les bestiaux qui étaient avec lui dans l’arche ; Dieu fit passer un souffle sur la terre, et les eaux baissèrent.
 
-   -- Gn 8, 13
+   -- Gn 8, 1
 
    Le Seigneur dit : « Lève-toi, donne-lui l’onction : c’est lui ! » Samuel prit la corne pleine d’huile, et lui donna l’onction au milieu de ses frères. L’esprit du Seigneur s’empara de David à partir de ce jour-là. Quant à Samuel, il se mit en route et s’en retourna à Rama.
 

@@ -60,7 +60,7 @@ La méthode, comme son nom l'indique, consiste à réfléchir aux mots qui sont 
 * Est-ce que je me souviens d'autres fragments de l'Écriture Sainte dans lesquels ces mots apparaissent ? Si oui, lesquels ?
 * Quelle est la sonorité de ces mots ? Quelle résonance ont-ils ?
 
-Si tu as une forme préférée de méditation de l'Écriture Sainte, tu peux aussi la partager avec les participants (et en même temps témoigner comment grâce à elle tu construis ta relation avec Dieu !). Si une personne du groupe a sa manière préférée et éprouvée, elle peut bien sûr aussi s'y tenir. Bien que d'essayer quelque chose de nouveau puisse s'avérer fructueux ;) Il vaut la peine d'encourager chacun, quelle que soit la méthode, à laisser une trace sous forme d'observations écrites, de pensées, de notes. Cela facilitera le partage dans la partie ultérieure de la rencontre.
+Si tu as une forme préférée de méditation de l'Écriture Sainte, tu peux aussi la partager avec les participants (et en même temps témoigner comment grâce à elle tu construis ta relation avec Dieu !). Si une personne du groupe a sa manière préférée et éprouvée, elle peut bien sûr aussi s'y tenir. Bien qu'essayer quelque chose de nouveau puisse s'avérer fructueux ;) Il vaut la peine d'encourager chacun, quelle que soit la méthode, à laisser une trace sous forme d'observations écrites, de pensées, de notes. Cela facilitera le partage dans la partie ultérieure de la rencontre.
 
 Un moment avec la Parole
 ========================

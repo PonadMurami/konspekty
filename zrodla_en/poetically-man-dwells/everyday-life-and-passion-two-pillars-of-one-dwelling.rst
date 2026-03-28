@@ -141,7 +141,7 @@ We must make the effort of asking questions, searching. Our passions will not de
 
 .. note:: This is not about pushing that theater is better than cinema, if someone is fascinated by cinema, it will be better for them. Going to a stupid film is also not bad
 
-The most depends on these simplest, smallest and most everyday matters and choices. At every moment, at every moment of our life we can choose good, beauty and truth.
+These simplest, smallest and most everyday matters and choices matter the most. At every moment of our life we can choose good, beauty and truth.
 
 Summary
 =======

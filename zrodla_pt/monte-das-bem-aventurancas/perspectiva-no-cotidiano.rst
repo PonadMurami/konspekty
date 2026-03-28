@@ -6,7 +6,7 @@ Encontro 1. - Perspectiva no cotidiano
 Objetivo do encontro e introdução para o animador
 =================================================
 
-Durante este encontro queremos mostrar que a mudança de perspectiva deve acompanhar-nos no dia a dia. Damos exemplos muito práticos e universais que confirmam esta tese para cada esfera da vida, não apenas religiosa. É uma introdução à continuação do retiro, onde mudaremos a perspectiva ligada a elementos concretos do desenvolvimento espiritual. A compreensão do sentido das mudanças na forma de olhar para diferentes coisas é, portanto, a chave para introduzir bem os conteúdos seguintes. O encontro realiza-se no final do dia, por isso o seu caráter deve ser na medida do possível descontraído, mas ao mesmo tempo dinâmico e forçando à reflexão de maneira discreta. No final do encontro vale a pena introduzir lentamente o fato de que Jesus foi uma pessoa que indubitavelmente mudava a perspectiva a muitas pessoas (ver oração final).
+Durante este encontro queremos mostrar que a mudança de perspectiva deve acompanhar-nos no dia a dia. Damos exemplos muito práticos e universais que confirmam esta tese para cada esfera da vida, não apenas religiosa. É uma introdução à continuação do retiro, onde mudaremos a perspectiva ligada a elementos concretos do desenvolvimento espiritual. A compreensão do sentido das mudanças na forma de olhar para diferentes coisas é, portanto, a chave para introduzir bem os conteúdos seguintes. O encontro realiza-se no final do dia, por isso o seu caráter deve ser na medida do possível descontraído, mas ao mesmo tempo dinâmico e forçando à reflexão de maneira discreta. No final do encontro vale a pena introduzir lentamente o facto de que Jesus foi uma pessoa que indubitavelmente mudava a perspectiva a muitas pessoas (ver oração final).
 
 Conhecimento do grupo
 =====================
@@ -124,7 +124,7 @@ O objetivo deste ponto é um breve resumo e a apresentação de porque é que um
 
 * Que elemento do encontro de hoje foi para vós o mais valioso?
 
-* Estamos no início do retiro. Como abordais o fato de descobrir algo novo, de tirar deste tempo o máximo possível?
+* Estamos no início do retiro. Como abordais o facto de descobrir algo novo, de tirar deste tempo o máximo possível?
 
 * Estais prontos para olhar já hoje na oração da noite para a vossa vida de uma perspectiva um pouco diferente? (Se houver tempo, o animador pode encorajar à incorporação o mais plena possível na oração da noite. De nós os animadores depende como os participantes entrarão no retiro).
 

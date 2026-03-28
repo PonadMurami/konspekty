@@ -47,7 +47,7 @@ If undertaking such a way is madness.... Why did He undertake it? The obvious an
 
 * Do I rejoice more in what is good or lament over what didn't work out?
 
-We have a tendency to settle evil and to ignore total good. We ignore it as if it was so natural that it is transparent. We assume that if somewhere there is no "bad deed" then there must be good. Well yes "when we go forward we do not go backward" is true. The sentence "when we go backward we do not go forward" is also true.
+We have a tendency to account for evil and to completely overlook good. We ignore it as if it was so natural that it is transparent. We assume that if somewhere there is no "bad deed" then there must be good. Well yes "when we go forward we do not go backward" is true. The sentence "when we go backward we do not go forward" is also true.
 
 Where is the problem?... one can neither go forward, nor backward. The state of stagnation, lack of movement, escapes us in this our thinking about the way. And often it fills a huge space of our time.
 

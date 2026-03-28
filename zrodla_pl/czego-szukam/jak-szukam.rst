@@ -11,7 +11,7 @@ Podzielenie się doświadczeniem własnego poszukiwania. Odkrycie iluzji pomięd
 Uwagi dla animatora
 ===================
 
-Dzisiejsze spotkanie koncentruje się mimo wszystko na poszukiwaniu duchowym. Utożsamiam to pojęcie z~"poszukiwaniem w~wierze" bardzo świadomie. Wątki "metodologii poszukiwania" w~ogólnych przypadkach zostały rozważone wyczerpująco na wczorajszej drugiej konferencji. Robię także pewne analogie pomiędzy szukaniem a~oczekiwaniem – mimo, że są to jakościowo odrębne sprawy to są ze sobą powiązane. Jeżeli szukam na poważnie to muszę mieć świadomość, że nie wszystkie odpowiedzi przyjdą od razu (część uczestników może/powinna być na takim właśnie etapie).  Spotkanie wydawać się może krótkie, ale posiada około 10 pytań dzieleniowych uczestników jest około 8 a~minut 90. To daje minutę na osobę gdyby na spotkaniu się nic nie działo więcej.
+Dzisiejsze spotkanie koncentruje się mimo wszystko na poszukiwaniu duchowym. Utożsamiam to pojęcie z~"poszukiwaniem w~wierze" bardzo świadomie. Wątki "metodologii poszukiwania" w~ogólnych przypadkach zostały rozważone wyczerpująco na wczorajszej drugiej konferencji. Robię także pewne analogie pomiędzy szukaniem a~oczekiwaniem – mimo, że są to jakościowo odrębne sprawy to są ze sobą powiązane. Jeżeli szukam na poważnie to muszę mieć świadomość, że nie wszystkie odpowiedzi przyjdą od razu (część uczestników może/powinna być na takim właśnie etapie).  Spotkanie wydawać się może krótkie, ale posiada około 10 pytań dzieleniowych, uczestników jest około 8, a~minut 90. To daje minutę na osobę gdyby na spotkaniu się nic nie działo więcej.
 
 Modlitwa początkowa
 ===================
@@ -50,7 +50,7 @@ Spróbujmy wraz z~uczestnikami przeprowadzić charakterystykę postaw wymieniony
 
 Przeczytajmy wypowiedź pewnego księdza:
 
-   Paul Tilisch uważał, że najważniejsza granica nie przebiega między tymi, którzy mają się za wierzących, a~tymi, którzy uważają się za ateistów, lecz między grupą tych, którzy do pytań, jakie nasuwa wiara, odnoszą się obojętnie – czy chodzi o~konwencjonalnych ateistów, czy konwencjonalnych wierzących – a~tych, którzy te pytania poruszają – czy będą to wierzący, dla których wiara nie przestaje być "niezwykła przygodą poszukiwania", czy ateiści, którzy w~ten czy inny sposób "mocują się z~Bogiem".
+   Paul Tillich uważał, że najważniejsza granica nie przebiega między tymi, którzy mają się za wierzących, a~tymi, którzy uważają się za ateistów, lecz między grupą tych, którzy do pytań, jakie nasuwa wiara, odnoszą się obojętnie – czy chodzi o~konwencjonalnych ateistów, czy konwencjonalnych wierzących – a~tych, którzy te pytania poruszają – czy będą to wierzący, dla których wiara nie przestaje być "niezwykła przygodą poszukiwania", czy ateiści, którzy w~ten czy inny sposób "mocują się z~Bogiem".
 
    -- ks. Tomasz Halik
 
@@ -63,7 +63,7 @@ Człowiek letni, to człowiek próbujący ukryć swoje wątpliwości i~pytania. 
 O wartości poszukiwania
 =======================
 
-Nasze poszukiwania wzbudzają wiele rożnych emocji – mówiliśmy o~tym wczoraj. Często jest to zniecierpliwienie, zaniepokojenie, może nawet złość, czasami radość. Nie są one przypisane do tego czy szukamy czegoś materialnego czy duchowego. Można się cieszyć biorąc udział w~poszukiwaniu skarbu w~grze terenowej, można się cieszyć z~rozgryzania Pisma Świętego. Można także się denerwować skrajnie nie potrafiąc znaleźć ważnego dokumentu w~mieszkaniu lub kompletnie nie umiejąc odpowiedzieć sobie na pytanie o~własne powołanie.
+Nasze poszukiwania wzbudzają wiele różnych emocji – mówiliśmy o~tym wczoraj. Często jest to zniecierpliwienie, zaniepokojenie, może nawet złość, czasami radość. Nie są one przypisane do tego czy szukamy czegoś materialnego czy duchowego. Można się cieszyć biorąc udział w~poszukiwaniu skarbu w~grze terenowej, można się cieszyć z~rozgryzania Pisma Świętego. Można także się denerwować skrajnie nie potrafiąc znaleźć ważnego dokumentu w~mieszkaniu lub kompletnie nie umiejąc odpowiedzieć sobie na pytanie o~własne powołanie.
 
 *Należy wyraźnie rozróżnić radość z~szukania i~znalezienia! To zupełnie różne rzeczy.*
 
@@ -77,7 +77,7 @@ Tak naprawdę odpowiedź na to pytanie odkrywa przed nami to na ile potrafimy pr
 
 * Czy potrafimy cieszyć się z~samej wędrówki na szczyt góry oraz widoku na końcu czy może uznajemy wędrówkę jako "zło konieczne", które jednak warto podjąć z~powodu pięknego widoku?
 
-Spróbujmy dotrzeć do "piękna szukania/poszukiwania/oczekiwania". Wyobraźmy sobie inny przykład. Każdy z~was pewno doświadczył czegoś takiego, że gdy wracał późno do domu widział już z~dala w~oknie odsłoniętą lekko firanę i~postać swojej mamy wypatrującej naszego powrotu.  Tutaj celem jest przyjście nasze do domu. Wyczekiwanie mamy w~oknie – szukaniem naszej sylwetki w~mroku.
+Spróbujmy dotrzeć do "piękna szukania/poszukiwania/oczekiwania". Wyobraźmy sobie inny przykład. Każdy z~was pewno doświadczył czegoś takiego, że gdy wracał późno do domu widział już z~dala w~oknie odsłoniętą lekko firanę i~postać swojej mamy wypatrującej naszego powrotu. Tutaj celem jest przyjście nasze do domu. Wyczekiwanie mamy w~oknie – szukaniem naszej sylwetki w~mroku.
 
 * O~czym świadczy to, że ktoś czegoś/kogoś szuka?
 
@@ -100,7 +100,7 @@ Nasze poszukiwania są zatem czymś niezmiernie ważnym. Chcielibyśmy zatem, ab
 
    -- Jan Paweł II -- Encyklika "Fides et Ratio"
 
-* W~jaki sposób szukamy odpowiedzi na pytanie, które nasuwa nam wiara? Gdzie sięgamy?  Kogo słuchamy? Czy działamy zupełnie samodzielnie?
+* W~jaki sposób szukamy odpowiedzi na pytanie, które nasuwa nam wiara? Gdzie sięgamy? Kogo słuchamy? Czy działamy zupełnie samodzielnie?
 
 * Czy mamy jakieś swoje "ulubione źródła informacji"? (np. pisma św. Franciszka, Katechizm Podręczny, Encykliki, znajomy ksiądz, Google, animator)
 

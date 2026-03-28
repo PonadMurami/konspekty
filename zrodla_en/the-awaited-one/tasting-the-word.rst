@@ -28,7 +28,7 @@ Then we ask that each of them choose exactly that reading which attracts them th
 
 This method consists in reading a given fragment and marking in it thoughts that:
 
-1. wonder us, are incomprehensible – next to them we put a **question mark**
+1. puzzle us, are incomprehensible – next to them we put a **question mark**
 2. move us in a special way, are some discovery – next to them we put an **exclamation mark**
 3. we read as a personal call for us for this moment – next to them we put an **arrow**.
 
@@ -82,7 +82,7 @@ After the designated time has passed, we move to sharing what we wrote down, dis
 
 * I experienced the Word which...
 
-Optional questions for the task:
+Optional questions to ask:
 
 * What did I discover in this fragment?
 

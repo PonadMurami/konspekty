@@ -75,7 +75,7 @@ Leamos:
 - [A todos] ¿Sugiere San Pablo que estando en el NT todo está ya descubierto?
 - ¿Qué me dice esto?
 
-El Antiguo Testamento no trata sobre algo completamente diferente que el Nuevo Testamento. ¡De manera similar, la vida en la tierra como pueblo peregrino no consiste en algo drásticamente diferente que estar en el cielo! Hay diferencias importantes de las que vale la pena darse cuenta: ¿no es cierto, sin embargo, que hay muchas más similitudes que se nos "escapan"? Vemos y miramos lo mismo, solo que el grado en que somos capaces de hacerlo es diferente (vemos oscuramente).
+El Antiguo Testamento no trata sobre algo completamente diferente del Nuevo Testamento. ¡De manera similar, la vida en la tierra como pueblo peregrino no consiste en algo drásticamente diferente que estar en el cielo! Hay diferencias importantes de las que vale la pena darse cuenta: ¿no es cierto, sin embargo, que hay muchas más similitudes que se nos "escapan"? Vemos y miramos lo mismo, solo que el grado en que somos capaces de hacerlo es diferente (vemos oscuramente).
 
 - ¿Qué significado tiene para mí la continuidad en la fe?
 

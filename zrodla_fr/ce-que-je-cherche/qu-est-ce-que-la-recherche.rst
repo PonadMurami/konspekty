@@ -96,7 +96,7 @@ Motifs de recherche dans le cinéma
    Il se glissa vers l'arbre pour attraper l'oiseau. Mais quand il l'eut presque dans ses mains, l'oiseau battit des ailes, s'éleva dans les airs et s'assit sur les branches d'un sapin. Le désir du berger, qui voulait posséder cet oiseau, était si énorme qu'il décida de le suivre. Quand il s'approcha du sapin, l'oiseau s'envola à nouveau. À cet endroit, le berger trouva un merle blessé qui était en danger, car un chat le guettait. Il chassa donc le chat et au même moment aperçut l'oiseau coloré au bord de l'étang. Quand le berger y arriva, l'oiseau s'envola. À sa place, il ne trouva qu'un poisson pris dans les filets, qui lui demanda de l'aide. Quand il eut libéré le poisson, il aperçut l'oiseau au sommet d'une colline. Il y courut, et quand il fut très proche, l'oiseau s'envola à nouveau. À sa place, le berger trouva une fleur desséchée par la sécheresse, qui lui demanda de l'aide. Il l'arrosa et un instant plus tard aperçut l'oiseau au bord de la mer. Mais quand le berger y arriva, l'oiseau s'éleva et s'envola au-dessus de l'eau vers le soleil couchant.
    "Ah - pensa le berger - cet oiseau a fait de moi un imbécile". Déçu, il se mit en route pour retourner à ses moutons. Alors qu'il marchait sur la colline, une fleur magnifique apparut à ses yeux. Au bord de l'étang, un poisson l'attendait, qui se réjouissait de pouvoir continuer à vivre. Et dans la couronne du sapin, le merle l'accueillit d'un chant joyeux. Alors le berger comprit quel sens avait l'aspiration à la perfection qui dure toute la vie, même si on ne peut pas la saisir dans ses mains.
 
-   -- Willia Hoffsümmer -- Le Désir de perfection
+   -- Willi Hoffsümmer -- Le Désir de perfection
 
 * Que cherchait le berger ?
 

@@ -54,7 +54,7 @@ Przeczytajmy:
 
 * Kiedy mam takie momenty, gdy nie jestem w~stanie Jemu uwierzyć na 100%?
 
-Nie ważne ile mamy lat, ile z~Bogiem przeszliśmy i~na ile Go poznaliśmy. Może nam się wydawać, że nasza relacja po przekroczeniu pewnego “stopnia zażyłości” będzie pozostawała na tym samym stabilnym poziomie i~nic nas nie zaskoczy. A~jednak, Bóg lubi zdumiewać i~robi to w~całkiem niezłym stylu. Nie ma się przed czym bronić, warto być tak zaskoczonym.
+Nieważne ile mamy lat, ile z~Bogiem przeszliśmy i~na ile Go poznaliśmy. Może nam się wydawać, że nasza relacja po przekroczeniu pewnego “stopnia zażyłości” będzie pozostawała na tym samym stabilnym poziomie i~nic nas nie zaskoczy. A~jednak, Bóg lubi zdumiewać i~robi to w~całkiem niezłym stylu. Nie ma się przed czym bronić, warto być tak zaskoczonym.
 
 **Temperament w~wierze**
 
@@ -82,9 +82,9 @@ Jeśli nie przyznam przed Bogiem swojej grzeszności/słabości, to nigdy nie b�
 
 * Czy czuję się wystarczająco godny wobec Boga, by mówić przy nim totalnie szczerze, być sobą ze wszystkimi moimi wadami i~zaletami? Dlaczego tak/nie?
 
-* Moglibyśmy nawet zaryzykować stwierdzenie, że Bogu bardziej zależy na prawdzie niż pobożności?. Co to dla mnie znaczy?
+* Moglibyśmy nawet zaryzykować stwierdzenie, że Bogu bardziej zależy na prawdzie niż pobożności? Co to dla mnie znaczy?
 
-Jestem taki a~nie inny nie bez powodu. Nie po to mnie takiego stworzył, bym przed Nim udawał kogoś innego. Jaki temperament, charakter- taka relacja z~Bogiem. Jeśli jestem bardzo wrażliwy, jaki jest sens udawania przed Bogiem (co nie zwalnia nas oczywiście z~pracy nad sobą, ona z~owego przyznania, powinna wynikać), że nic mnie nie rusza? Relacja z~Bogiem jest odzwierciedleniem prawdy o~nas.
+Jestem taki a~nie inny nie bez powodu. Nie po to mnie takiego stworzył, bym przed Nim udawał kogoś innego. Jaki temperament, charakter - taka relacja z~Bogiem. Jeśli jestem bardzo wrażliwy, jaki jest sens udawania przed Bogiem (co nie zwalnia nas oczywiście z~pracy nad sobą, ona z~owego przyznania, powinna wynikać), że nic mnie nie rusza? Relacja z~Bogiem jest odzwierciedleniem prawdy o~nas.
 
 Sodoma i~Gomora
 ===============
@@ -111,7 +111,7 @@ Widzimy co z~takiej prawdy wynika. Bóg z~Abrahamem są na takim stopniu zażył
 
 * Jak wyglądają u~mnie kłótnie z~innymi osobami? Jak się wtedy zachowuję?
 
-Bóg dotrzymał danego słowa , ponieważ ostatecznie, Bóg niszczy miasto, ale Lot, jedyny sprawiedliwy jaki tam mieszkał, opuszcza Sodomę i~przeżywa..
+Bóg dotrzymał danego słowa, ponieważ ostatecznie, Bóg niszczy miasto, ale Lot, jedyny sprawiedliwy jaki tam mieszkał, opuszcza Sodomę i~przeżywa.
 
 Bóg jest wierny. Daj się Bogu zaskoczyć.
 ========================================
@@ -124,7 +124,7 @@ Przeczytajmy:
 
 * Jak długo Abraham czekał na spełnienie obietnicy? Co to dla niego znaczyło?
 
-25 lat - pierwsza obietnica gdy miał 75, ale tak naprawdę pragnienie posiadania syna było już w~nim zakorzenione wcześniej. W~tym momencie ma 100lat.
+25 lat - pierwsza obietnica gdy miał 75, ale tak naprawdę pragnienie posiadania syna było już w~nim zakorzenione wcześniej. W~tym momencie ma 100 lat.
 
 * Jakie znaczenie dla Abrahama miały narodziny syna?
 

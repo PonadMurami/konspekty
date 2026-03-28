@@ -217,7 +217,7 @@ Nous avons parlé des soi-disant "Grandes questions". Elles sont nécessaires, m
 
 Lisons :
 
-    Fides querens intellectum" (la foi cherche l'intelligence)
+    "Fides quaerens intellectum" (la foi cherche l'intelligence)
 
     saint Anselme de Canterbury
 

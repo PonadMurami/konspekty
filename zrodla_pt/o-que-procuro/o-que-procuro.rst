@@ -6,7 +6,7 @@ Encontro 2. - O que procuro?
 Objetivo do Encontro
 ====================
 
-Partilhar a experiência da própria busca. Descobrir a ilusão entre a declaração de busca e a busca factual. O objetivo educativo é colocar a cada um dos participantes a pergunta fundamental: o que procuras?
+Partilhar a experiência da própria busca. Descobrir a ilusão entre a declaração de busca e a busca efetiva. O objetivo educativo é colocar a cada um dos participantes a pergunta fundamental: o que procuras?
 
 Introdução para o animador
 ===========================
@@ -100,7 +100,7 @@ A diferença é enorme! A busca incessante é criar uma relação dinâmica, que
 
 .. warning:: Esta é uma pergunta muito pessoal de partilha. Simultaneamente é um dos momentos-chave do encontro – a realização do seu objetivo. O animador deve planear para ela tempo adequadamente suficiente. O significado-chave para a partilha do grupo terá o testemunho pessoal do Animador.
 
-A nossa procura está, no entanto, muito ameaçada. Fácilmente é manipulada pelo mundo, mas também por nós mesmos.
+A nossa procura está, no entanto, muito ameaçada. Facilmente é manipulada pelo mundo, mas também por nós mesmos.
 
 Procuro, porque me disseram que quero isso
 ===========================================

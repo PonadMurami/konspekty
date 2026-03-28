@@ -88,7 +88,7 @@ Let's summarize:
 
    -- Lk 11,9
 
-Ok..I ask but I don't receive..
+Ok... I ask but I don't receive...
 
    You do not receive because you ask with wrong motives
 

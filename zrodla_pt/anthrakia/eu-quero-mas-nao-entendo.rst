@@ -12,7 +12,7 @@ Normalmente, no primeiro esquema dos retiros, há um ponto para o grupo se conhe
 
 Que cada um de nós escreva numa folha três frases sobre a sua vida. Que duas delas sejam verdadeiras e uma falsa. Vamos tentar adivinhar juntos qual delas é mentira.
 
-.. note::  É necessário escrever as frases para ler cada uma delas com a mesma desenvoltura e velocidade. Caso contrário, a frase inventada pode ser fácil de reconhecer pela forma como é apresentada.
+.. note:: É necessário escrever as frases para ler cada uma delas com a mesma desenvoltura e velocidade. Caso contrário, a frase inventada pode ser fácil de reconhecer pela forma como é apresentada.
 
 - Que conhecimento adquirido sobre outra pessoa do grupo mais me surpreendeu? Porquê?
 - Se tivesses que nomear o evento mais importante da tua vida no último ano, qual indicarias?

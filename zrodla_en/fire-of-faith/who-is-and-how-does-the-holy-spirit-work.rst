@@ -91,7 +91,7 @@ Participants while discovering subsequent puzzle pieces will probably try to arr
 Here participants can go very different ways in interpretation. It's cool if heresies don't fall (e.g. "The Holy Scripture is not complete" :D) - then correct. Two thoughts that we catch or guide to:
 
    * The experience of the Holy Spirit is missing here. One can read a lot about the Spirit, but one can know Him only in experience and this is an important "feature of the Spirit"
-   * Some puzzle pieces are missing here because no one knows what shape they have and what they are. The Holy Spirit has one important feature - He is elusive. Even the Church does not know everything about Him. There is a mystery in Him. He constantly eludes our attempt to systematize knowledge about Him. That is why He enlivens and surprises, because He brings the New and unknown.
+   * Some puzzle pieces are missing here because no one knows what shape they have and what they are. The Holy Spirit has one important feature - He is elusive. Even the Church does not know everything about Him. There is a mystery in Him. He constantly eludes our attempts to systematize knowledge about Him. That is why He enlivens and surprises, because He brings the New and unknown.
 
 * How do you understand this? (inconspicuous question, but key!)
 

@@ -29,7 +29,7 @@ Prawdopodobne odpowiedzi: Namiot spotkania, Eucharystia, Rekolekcje, Krościenko
 Co to znaczy być Oazowiczem? – dzielenie się życiem
 ===================================================
 
-Ponieważ spotkania mają charakter zieleniowy teraz i~my chcemy się właśnie podzielić naszym życiem.
+Ponieważ spotkania mają charakter dzieleniowy teraz i~my chcemy się właśnie podzielić naszym życiem.
 
 Animator w~odpowiednim (wcześniej wybranym) miejscu rozciąga na ziemi sznurek (co najmniej 3 metry) i~zaznacza na nim 3 punkty:
 
@@ -43,7 +43,7 @@ Refleksja nad jakością własnego przeżywania Ruchu
 
 *Zastanówmy się czy czuliśmy się gorsi musząc stawać bliżej "minusa"?(indywidualnie, nie na forum)*
 
-Czasami tak po prostu jest. Ważne, aby rozróżniać rzeczy które są "fakultatywne" a~które są podstawowe. Inna sprawa, że nie można prawdopodobnie uniknąć tego, że w~pewnych momentach naszego życia (krótszych lub dłuższych) pewne rzeczy będą dla nas "obojętne". Najważniejsza jest jednak nasza postawa! Czy próbujemy coś z~ tym zrobić, czy staramy się wytrwać.
+Czasami tak po prostu jest. Ważne, aby rozróżniać rzeczy które są "fakultatywne" a~które są podstawowe. Inna sprawa, że nie można prawdopodobnie uniknąć tego, że w~pewnych momentach naszego życia (krótszych lub dłuższych) pewne rzeczy będą dla nas "obojętne". Najważniejsza jest jednak nasza postawa! Czy próbujemy coś z~tym zrobić, czy staramy się wytrwać.
 
 Hipoteza:
     *"Dużo gorzej gdybyśmy zamiast przyznawania się przed sobą do tego ze coś jest "na minusie" wyrzucali te rzeczy z~świadomości starając się łudzić, że wszystko jest na plus"*

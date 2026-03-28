@@ -15,9 +15,9 @@ Cel Spotkania
 Wprowadzenie dla animatora
 ==========================
 
-Na spotkanie jest bardzo mało czasu, bo tylko 45minut. Z~konspektu trzeba wybrać to co wydaję się, że najbardziej "zadziała" lub robić pokolei z~nastawieniem, że z~jutrzejszego (trwającego 1.5h) spotkania początek poświęci się na dokończenie. Nie można, absolutnie pominąć zastosowania!
+Na spotkanie jest bardzo mało czasu, bo tylko 45 minut. Z~konspektu trzeba wybrać to, co wydaje się, że najbardziej "zadziała" lub robić po kolei z~nastawieniem, że z~jutrzejszego (trwającego 1.5h) spotkania początek poświęci się na dokończenie. Nie można, absolutnie pominąć zastosowania!
 
-Zapoznanie się w~grupie proszę potraktować bardzo technicznie (dlatego nie uwzględnia go ten konspekt) i~zamiast "gadać o~tym kim jesteśmy" pokażmy to po prostu idąć na głęboką wodę.
+Zapoznanie się w~grupie proszę potraktować bardzo technicznie (dlatego nie uwzględnia go ten konspekt) i~zamiast "gadać o~tym kim jesteśmy" pokażmy to po prostu idąc na głęboką wodę.
 
 Modlitwa początkowa
 ===================
@@ -47,9 +47,9 @@ Przyjrzenie się bliżej strukturze naszych pragnień
 
 * Dlaczego takie pragnienia nie znalazły się u~nas na kartce?
 
-* Dlaczego tak nprawdę mam takie pragnienie?
+* Dlaczego tak naprawdę mam takie pragnienie?
 
-*Cel: Uświadomić grupie, że małe pragnienia są zaszczepione w~tych większych np. To, że pragnę się napić jest elementem mojego pragnienie podtrzymania swojego życia. Animator musi się w~tym punkcie wykazać właśną inwencją, aby dostosować się do grupy i~do niej trafić!*
+*Cel: Uświadomić grupie, że małe pragnienia są zaszczepione w~tych większych np. To, że pragnę się napić jest elementem mojego pragnienie podtrzymania swojego życia. Animator musi się w~tym punkcie wykazać własną inwencją, aby dostosować się do grupy i~do niej trafić!*
 
 Spróbujmy na naszym rysunku wyróżnić (kolorem, ramką, podkreśleniem itp.) główne pragnienia wskazując, które mogłyby być tymi "zaszczepionymi". Jeżeli zachodzi taka potrzeba można jeszcze dopisać jakieś nowe.
 
@@ -60,13 +60,13 @@ Popatrzmy jak wiele z~tych pragnień nie może zostać zaspokojonych. Gdy pragn�
 
 * (dyskusyjne) Czy pragnienia zmuszają człowieka do nieustannej gonitwy i~szamotania się w~swoim życiu?
 
-.. note:: na tym pytaniu być, może należy "postawić spotkanie" - jeżeli tylko grupa je pociągnie to nie należy im przeszkadzać i~gonić z~konspektem!
+.. note:: na tym pytaniu być może należy "postawić spotkanie" - jeżeli tylko grupa je pociągnie to nie należy im przeszkadzać i~gonić z~konspektem!
 
-* Czy zauważacie tą ciągłą gonitwę za zaspokojeniem swoich pragnień w~waszym życiu? W~życiu dookoła was?
+* Czy zauważacie tę ciągłą gonitwę za zaspokojeniem swoich pragnień w~waszym życiu? W~życiu dookoła was?
 
 .. note:: Można tutaj opowiedzieć o~współczesnych reklamach, które nas przekonują, że ciągle jeszcze czegoś powinniśmy pragnąć, abyśmy nieustannie chcieli więcej.... aby gospodarka się rozwijała
 
-Odpowiedź na tą sytuację, która jest pytaniem (!)
+Odpowiedź na tę sytuację, która jest pytaniem (!)
 =================================================
 
 Zagrać scenkę, przeczytać z~podziałem na role lub coś takiego:
@@ -86,7 +86,7 @@ Rodzi się pytanie: Dlaczego pragnienia są istotne? (grupa może spróbować sa
 
 Animator podaje tezy, a~grupa każdą z~nich stara się wyjaśnić podając konkretny przykład. Na koniec animator podaje swój przykład.
 
-* Pragnienia są dobre, bo obserwacja tego jakie pragnienia się w~nas rodzą dużo nam mówi o~nas samych. ["Kurcze chcę mieć rower taki jak Kuba mimo, że dla mnie taki sprzęt jest bezużyteczny!"]
+* Pragnienia są dobre, bo obserwacja tego jakie pragnienia się w~nas rodzą dużo nam mówi o~nas samych. ["Kurcze chcę mieć rower taki jak Kuba, mimo że dla mnie taki sprzęt jest bezużyteczny!"]
 
 * Pragnienia są dobre, bo nasza reakcja na nie dużo nam mówi o~nas samych. [Rdz 18,9-15]
 

@@ -6,7 +6,7 @@ Tempo de criação dos esquemas:
 Local dos primeiros retiros:
     Monte de Santa Ana
 Local de criação dos esquemas:
-    Diocese de Gliwice, Arquidiocese de Czestochowa
+    Diocese de Gliwice, Arquidiocese de Częstochowa
 Grupo-alvo:
     Pessoas não pertencentes ao Movimento Luz e Vida desde o ensino médio até estudantes universitários
 Descrição dos retiros:

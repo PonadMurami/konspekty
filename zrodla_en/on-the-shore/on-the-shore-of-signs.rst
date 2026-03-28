@@ -105,14 +105,14 @@ The sacrament of maturity is confirmation. It is a sacrament often "undervalued"
 
     Almighty God, grant full Christian maturity to those whom you have showered with the gifts of Your Spirit and fed with the Body of Your Son, † that they may constantly show to the world the freedom of Your adopted children * and by their holiness fulfill the prophetic office of Your people. Through Christ our Lord.
 
-* Which fragment of this prayer seems to me most hitting my current life situation? Why?
+* Which fragment of this prayer seems to me most relevant to my current life situation? Why?
 
 * In what way does the Holy Spirit help us in making life decisions?
 
 Introduction to evening prayer (Akathist)
 =========================================
 
-The Akathist is a prayer being **on the shore** of the Eastern and Western Church. Its name comes from Greek from the word a - "without", kathiden - "to sit", this hymn is sung standing.
+The Akathist is a prayer being **on the shore** of the Eastern and Western Church. Its name comes from the Greek words a - "without", kathiden - "to sit", this hymn is sung standing.
 
 We will pray using the Akathist. It is rich in content and a certain (perhaps new?) sensitivity to the Holy Spirit. We think that a quite common experience of believers is that we have a certain difficulty in focusing on the content of sung prayers.
 
@@ -136,7 +136,7 @@ Let's read now together selected fragments of this prayer and share them.
 
 * The Akathist is an airing of our way of thinking about the Third Person of the Holy Trinity. Have you ever before thought about him like above?
 
-Depending on the time of the meeting we propose in this place to read other fragments of the Akathist - they can be randomly selected by someone from the group. To each of them we ask exactly the same questions as those above.
+Depending on the time of the meeting we propose at this point to read other fragments of the Akathist - they can be randomly selected by someone from the group. To each of them we ask exactly the same questions as those above.
 
 Application
 ===========

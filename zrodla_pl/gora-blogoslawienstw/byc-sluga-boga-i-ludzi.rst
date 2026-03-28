@@ -76,7 +76,7 @@ Niech każda z~grup wybierze swoje 10 przestrzeni zapisując to na kartce tak, a
 
 * Gdzie w~środowisku w~którym żyjesz najbardziej potrzebna jest posługa miłosierdzia? Na czym ona by polegała?
 
-* Jak Ty możesz  “spalać się dla innych” w~tym zakresie?
+* Jak Ty możesz “spalać się dla innych” w~tym zakresie?
 
 .. note:: Jest to miejsce w~którym jako animatorzy możemy zaświadczyć o~tym “odnajdywaniu w~sobie obrazu Tego, który nas powołał” w~diakonii. Jest to osobiste, ale chyba niezbędne.
 
@@ -132,7 +132,7 @@ Przeczytajmy:
 
 Bycie dobrym to nie jest ogromny wysiłek. “Błogosławieni” mają wpisane to w~swoje DNA, są tacy “mimochodem”. Jak inaczej mogliby być szczęśliwi gdyby każdy ich uśmiech, podanie ręki czy inna pomoc była wysiłkiem z~potem na czole. Dostaliśmy świecę, która się spala. To spalanie się w~chrześcijaństwie jest radosne, jest naturalne. Inaczej nikt nie byłby chrześcijaninem dłużej niż kilka lat z~powodów wykończenia psychicznego :).
 
-.. note:: Niech każdy animator znajdzie tutaj swój własny przykład. Ja podaje KWC, bo jest powszechnie znany.
+.. note:: Niech każdy animator znajdzie tutaj swój własny przykład. Ja podaję KWC, bo jest powszechnie znany.
 
 Kluczem jest właśnie zmiana perspektywy z~piątku. Ktoś z~pracy mi kiedyś powiedział: “Ja Cię podziwiam za ten wysiłek nie picia alkoholu od 17 lat. Musisz mieć jakieś niesamowite i~skomplikowane techniki motywacyjne”. Sęk w~tym, że nie mam. Chrześcijaństwo nie jest skomplikowane, nie ma zaawansowanych mechanizmów. To co z~perspektywy świeckiej wygląda jak skomplikowana maszyneria można zobaczyć wyjątkowo prosto. Zmieńmy na chwilę perspektywę i~zobaczmy w~każdym alkoholiku Jezusa (albo po prostu człowieka z~taką samą godnością jak moja mama) i~pomyślmy, że można mu pomóc nie pijąc. Więc nie pije.
 

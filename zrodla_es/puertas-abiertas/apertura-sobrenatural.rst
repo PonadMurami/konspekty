@@ -40,7 +40,7 @@ Inclinémonos sobre la apertura una vez más y veamos que se puede dividir (o m�
     3. Disminuyó a la mitad
     4. Aumentó en un 50%
 
-¿Cómo crees que cuántos voluntarios en el país están involucrados en organizaciones eclesiales?
+¿Cuántos voluntarios en el país crees que están involucrados en organizaciones eclesiales?
     1. 25%
     2. 50%
     3. 75%

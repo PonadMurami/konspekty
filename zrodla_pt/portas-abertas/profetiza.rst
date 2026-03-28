@@ -72,7 +72,7 @@ Leiamos:
 * Onde gostarias de o encontrar na cotidianidade?
 * Onde está o Evangelho mesmo que não ouças sintonia e o nome de Jesus?
 
-O mesmo não vem. A imersão é uma etapa difícil que exige esforço da nossa parte. No entanto, a Igreja fá-lo sempre. Enviamos as crianças para um curso teológico de 5 anos sobre a Eucaristia antes de irem à Missa, ou antes permitimos-lhes participar imediatamente? Começamos a aprendizagem da oração desde a teoria ou antes convidamos alguém para se sentar ao nosso lado?
+Isso não vem por si só. A imersão é uma etapa difícil que exige esforço da nossa parte. No entanto, a Igreja fá-lo sempre. Enviamos as crianças para um curso teológico de 5 anos sobre a Eucaristia antes de irem à Missa, ou antes permitimos-lhes participar imediatamente? Começamos a aprendizagem da oração desde a teoria ou antes convidamos alguém para se sentar ao nosso lado?
 
 * Como podes aprender a mergulhar-te?
 

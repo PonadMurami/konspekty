@@ -17,7 +17,7 @@ Ce texte exprime tout ce dont nous voulons parler ce jour-là.
 Introduction
 =============
 
-Hier, nous avons parlé toute la journée de la condition spirituelle de l'homme. Nous avons essayé de nous regarder nous-mêmes attentivement et de réfléchir à qui nous sommes. Le soir, nous avons commencé à parler déjà de Dieu qui entre dans cette vie de nous. Nous voulons maintenant nous regarder encore une fois nous-mêmes, mais en nous posant la question : qu'est-ce que la « présence de Dieu » change dans les réflexions d'hier.
+Hier, nous avons parlé toute la journée de la condition spirituelle de l'homme. Nous avons essayé de nous regarder nous-mêmes attentivement et de réfléchir à qui nous sommes. Le soir, nous avons commencé à parler déjà de Dieu qui entre dans notre vie. Nous voulons maintenant nous regarder encore une fois nous-mêmes, mais en nous posant la question : qu'est-ce que la « présence de Dieu » change dans les réflexions d'hier.
 
 *Nous lisons le texte de l'introduction - fragment de l'encyclique Redemptor Hominis.*
 
@@ -55,7 +55,7 @@ Découverte de la vérité profonde sur soi
 
 * Avons-nous l'expérience d'un tel rapprochement ouvert vers le Christ tout entier ?
 
-C'est de cela dont nous avons parlé hier : l'homme qui a déjà découvert son inquiétude, son incertitude, sa faiblesse, son péché ne sait toujours pas comprendre le sens de sa propre vie, a plus de questions que de réponses. C'est précisément à ce stade qu'il faut particulièrement se tourner vers Jésus... Seul il nous donnera la possibilité de chercher des réponses à nos questions plus profondément. Il ne faut pas avoir honte de faire cela pour « se connaître ».
+C'est de cela que nous avons parlé hier : l'homme qui a déjà découvert son inquiétude, son incertitude, sa faiblesse, son péché ne sait toujours pas comprendre le sens de sa propre vie, a plus de questions que de réponses. C'est précisément à ce stade qu'il faut particulièrement se tourner vers Jésus... Seul il nous donnera la possibilité de chercher des réponses à nos questions plus profondément. Il ne faut pas avoir honte de faire cela pour « se connaître ».
 
 Méditation sur soi-même
 ========================
@@ -75,7 +75,7 @@ L'amour de Dieu, son immensité, peut parfois nous accabler. Comme nous l'avons 
 
 La souffrance est inscrite dans l'amour (au moins celle ici sur terre). Fuir cette souffrance implique fuir l'accueil de la plénitude de l'amour. Dans la vie de chaque homme doit arriver un moment de décision difficile, pour commencer à aimer (s'ouvrir à ce que quelqu'un nous aime).
 
-* Comment nous gérons-nous avec cette décision ? Sommes-nous capables d'accueillir notre situation avec optimisme, sérénité ?
+* Comment gérons-nous cette décision ? Sommes-nous capables d'accueillir notre situation avec optimisme, sérénité ?
 
 Lisons :
 

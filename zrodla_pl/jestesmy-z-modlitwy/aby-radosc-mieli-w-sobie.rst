@@ -82,7 +82,7 @@ Nie powinniśmy słowa “poznanie” rozumieć zawężająco - jedynie intelekt
 
 Jezus mówi, że “objawił imię Boga ludziom”. Żeby pogłębić rozumienie co to dla nas znaczy powinniśmy spojrzeć na to w~kontekście w~którym znajduje się Jezus, a~jest to kontekst żydowski. Przeczytajmy:
 
-    A~jedenastu talmidim poszło na wzgórze w~Galil, gdzie Jeszua kazał im się udać. Kiedy Go zobaczyli, padli przed Nim na twarz, ale niektórzy wahali się. Jeszua pod szedł i~rozmawiał z~nimi. Powiedział: „Dana mi jest wszelka władza na niebie i~na ziemi. **Dlatego idźcie i~z ludzi spośród wszystkich narodów czyńcie talmidim, zanurzając ich w~rzeczywistość Ojca, Syna i~Ruach Ha-Kodesz** i~nauczając ich posłuszeństwa wszystkie mu, co wam nakazałem. I~pamiętajcie! Będę z~wami zawsze, tak, aż do końca tej epoki". (Mt 28, 16-20)
+    A~jedenastu talmidim poszło na wzgórze w~Galil, gdzie Jeszua kazał im się udać. Kiedy Go zobaczyli, padli przed Nim na twarz, ale niektórzy wahali się. Jeszua podszedł i~rozmawiał z~nimi. Powiedział: „Dana mi jest wszelka władza na niebie i~na ziemi. **Dlatego idźcie i~z ludzi spośród wszystkich narodów czyńcie talmidim, zanurzając ich w~rzeczywistość Ojca, Syna i~Ruach Ha-Kodesz** i~nauczając ich posłuszeństwa wszystkie mu, co wam nakazałem. I~pamiętajcie! Będę z~wami zawsze, tak, aż do końca tej epoki". (Mt 28, 16-20)
 
     Komentarz:
     **Zanurzając ich w~rzeczywistość Ojca, Syna i~Ruach Ha-Kodesz**. Biblia Tysiąclecia ma w~tym miejscu: “Udzielając im chrztu w~imię Ojca i~Syna, i~Ducha Świętego". Chrześcijanie przywykli traktować te słowa jako formułę chrztu, którą należy wypowiadać podczas czyjegoś chrztu. Takie rozumienie tego fragmentu rodzi wiele pytań, np. jak brzmi owo imię Ojca, Syna i~Ducha? Jahwe, Jehowa? Jezus (por. Dz 2,38; 8,16)? Czy może jeszcze inaczej? Czy żeby chrzest był ważny, trzeba koniecznie wymienić wszystkie trzy Osoby Boskie?
@@ -160,7 +160,7 @@ Jezus nie nakazał nikomu jedności, On prosił Ojca o~jedność, ponieważ wied
 
     -- Chiara Lubich. "Jedność", str. 49
 
-- Czy i~w jaki sposób w~różnorodności duchowej wrażliwości i~odmiennych spojrzeń na tę sama rzeczywistość, w~samym Kościele Katolickim możliwa jest dziś jedność?
+- Czy i~w jaki sposób w~różnorodności duchowej wrażliwości i~odmiennych spojrzeń na tę samą rzeczywistość, w~samym Kościele Katolickim możliwa jest dziś jedność?
 
 Jedność nie została przekazana jednostce, ale wspólnocie apostołów w~wieczerniku. Także po zmartwychwstaniu Jezus wraca do tych samych ludzi, w~tym samym miejscu…aby przekazać im sakrament JEDNANIA. To wyraźny klucz!
 

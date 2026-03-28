@@ -33,7 +33,7 @@ Note : Les participants peuvent bien sûr déjà être d'accord avec cette phras
 
 * Pourquoi le monde regarde-t-il une telle description de cette manière ?
 
-Si quelqu'un est chercheur pendant longtemps, cela signifie qu'il est un raté, qu'il ne sait pas trouver, qu'il est inefficace. "Au XXIe siècle, on ne cherche pas, au XXIe siècle, on se retrouve".
+Si quelqu'un est chercheur pendant longtemps, cela signifie qu'il est un raté, qu'il ne sait pas trouver, qu'il est inefficace. "Au XXIe siècle, on ne cherche pas, au XXIe siècle, on trouve".
 
 La réponse du monde à notre recherche
 ======================================

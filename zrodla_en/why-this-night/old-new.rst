@@ -13,7 +13,7 @@ Introduction
 
 Behind us is the seder evening - the peak point of the retreat. We wanted through the seder supper to experience deep connection of Eucharist and Seder. However, this was not the only "connection" that we wanted to experience! Our entire retreat orbits around three spaces.
 
-.. note:: The animator pulls out cards with written passwords on the table: Old Testament, New Testament, Seder, Eucharist, Prophets and Apostles.
+.. note:: The animator pulls out cards with written labels on the table: Old Testament, New Testament, Seder, Eucharist, Prophets and Apostles.
 
 .. |d1| image:: seder.jpg
    :scale: 33%
@@ -54,7 +54,7 @@ It's Haggadah - we told each other about the great works of our God! This is exa
 
 Open your notebook at the introduction. There is a declaration of the Ponad Murami diaconia there that we create this retreat with deep hope that the Good God will allow us here to connect listening to prophets and apostles, and that only through the act of connecting can we get closer to God-Community.
 
-In the last line of the first paragraph a dot is missing, right? This is our intentional procedure. If you want, add your name there after the comma now and/or end with a dot.
+In the last line of the first paragraph a dot is missing, right? This is deliberate on our part. If you want, add your name there after the comma now and/or end with a dot.
 
 .. note:: One can refer to invitations to the retreat. We placed quotes, asking if someone from the diaconia said it or someone "wise and famous" (like Benedict XVI or St. Teresa Benedicta of the Cross). It was a difficult experience for many of us to "allow ourselves" even for the possibility of thinking that someone might confuse our words with "someone so great".
 

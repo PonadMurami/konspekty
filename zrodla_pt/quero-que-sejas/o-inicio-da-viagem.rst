@@ -56,7 +56,7 @@ Vamos ler um trecho pouco antes do início da nossa história:
 
     Terá tomou o seu filho Abrão, o seu neto Ló, filho de Harã, e a sua nora Sarai, mulher do seu filho Abrão, e juntos partiram de Ur dos caldeus para a terra de Canaã. Mas, chegando a Harã, estabeleceram-se ali. Terá viveu duzentos e cinco anos e morreu em Harã.
 
-    -- Gn 11,31-32 (nota: referência corrigida do original polonês que estava errada como 1 Kor 9,1)
+    -- Gn 11,31-32
 
 Canaã é a "Terra Prometida" bíblica. O pai de Abrão também queria chegar lá, mas não conseguiu, porque ao chegar a Harã decidiu que ali estava "bom o suficiente". Ele se contentou com um meio-termo, mas em Abrão permaneceu o desejo de chegar ao destino original da viagem, sonhou com isso ainda muito tempo depois. A vocação de Deus não surge do nada, baseia-se sempre em algum desejo que já está em nós há muito tempo, mas talvez nem sempre percebamos isso.
 

@@ -23,7 +23,7 @@ Goals
 
 1. Introduction to the Song of Songs; presenting this book as extraordinary and unparalleled in all of Holy Scripture.
 
-2. An attempt to reflect on seeking love. Both in the dimension of person – person, and person – God. What are we seeking? What does seeking look like? Conclusion: to find love, one must seek it (seems banal). And this seeking entails toil and effort.
+2. An attempt to reflect on seeking love both in the dimension of person – person, and person – God. What are we seeking? What does seeking look like? Conclusion: to find love, one must seek it (seems banal). And this seeking entails toil and effort.
 
 3. Love carries with it the drama of separation, pain – without this, one cannot find love and value it.
 
@@ -32,8 +32,8 @@ Prayer
 
 Any prayer to the Holy Spirit for His gifts during this meeting and the entire retreat.
 
-Introduction to the Book of Song of Songs and Text Analysis
-============================================================
+Introduction to the Book of the Song of Songs and Text Analysis
+================================================================
 
 Let us begin a conversation with participants on the topic:
 
@@ -90,7 +90,7 @@ Questions for participants. In the dimension person – person:
 
 * Do we believe fairy tales too much, wanting to see love as it is described in them?
 
-* Can we connect the word "love" with the words "work", "toil", "effort", or does it only associate with us as a state of happiness that falls upon us and requires no work from us?
+* Can we connect the word "love" with the words "work", "toil", "effort", or do we only associate it with a state of happiness that falls upon us and requires no work from us?
 
 In the dimension person – God:
 

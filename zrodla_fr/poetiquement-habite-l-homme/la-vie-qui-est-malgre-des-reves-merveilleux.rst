@@ -113,7 +113,7 @@ Voyons le témoignage de vie d'une personne vivant en Pologne à l'époque actue
 
 Il y a en nous un désir de choses insolites. C'est précisément pour cela que nous regardons si volontiers des films où existe la magie, on sauve le monde, on possède des pouvoirs extraordinaires, il existe des phénomènes paranormaux. On peut le nier, mais quand on regarde le programme télévisé ou le répertoire de cinéma, une grande partie est précisément ainsi. Une lutte se déroule en nous. Nous fuyons ce qui est notre quotidien. Nous appelons même ainsi nos passions, hobbies, intérêts - une évasion de la réalité, n'est-ce pas ? Cela n'aidera pas à supprimer cette friction dans le cœur, cela ne fera que l'approfondir.
 
-On peut plus fort... combien de cœurs possède l'homme ? Est-il sain d'être dans plusieurs mondes simultáneamente ? Et est-ce chrétien ? Jésus-Christ est venu sur terre donner la paix. Est-elle en moi entre le désir de l'"extraordinaire" et le "quotidien" ?
+On peut plus fort... combien de cœurs possède l'homme ? Est-il sain d'être dans plusieurs mondes simultanément ? Et est-ce chrétien ? Jésus-Christ est venu sur terre donner la paix. Est-elle en moi entre le désir de l'"extraordinaire" et le "quotidien" ?
 
 * Crois-tu qu'il est possible que dans ta vie tu possèdes une harmonie entre le quotidien et ce qui est extraordinaire ?
 

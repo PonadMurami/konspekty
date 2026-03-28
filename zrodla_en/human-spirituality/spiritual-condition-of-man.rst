@@ -118,7 +118,7 @@ Application
 The Light-Life Movement method does not allow us to remain only at the level of knowledge and information. Each meeting should end with
 "application", i.e. concrete introduction of content into life.
 
-Proposal for each of us to make now one small resolution in connection with the discussed topic, which they count on being able to realize still at this retreat.
+Proposal for each of us to make now one small resolution in connection with the discussed topic, which we hope to be able to realize still during this retreat.
 
 Final prayer
 ============

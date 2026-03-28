@@ -12,7 +12,7 @@ O objetivo do encontro de hoje é:
 2. mostrar a unidade das pessoas através do prisma da recepção do Corpo e Sangue de Cristo;
 3. mostrar a Eucaristia como fonte de atitudes que devemos praticar em nossa vida cotidiana.
 
-O encontro de hoje acontece após a Eucaristia de domingo, por isso as conclusões e propostas se referirão a cada missa seguinte após o retorno para casa, sem a comunidade retiro. Por isso, a coisa mais importante é conscientizarmos os participantes sobre essas novas comunidades, muitas vezes pessoas casuais, para que antes de tudo mostremos no encontro de hoje a unidade e igualdade das pessoas que participam da missa e se alimentam do Corpo e Sangue de Cristo. O segundo ponto importante é mostrar a missa como fonte de atitudes e modelo a seguir em nossa vida cotidiana, mostrar a Eucaristia, onde acontece a comunidade perfeita das pessoas em Deus, que devemos buscar criar também fora da igreja.
+O encontro de hoje acontece após a Eucaristia de domingo, por isso as conclusões e propostas se referirão a cada missa seguinte após o retorno para casa, sem a comunidade de retiro. Por isso, a coisa mais importante é conscientizarmos os participantes sobre essas novas comunidades, muitas vezes pessoas casuais, para que antes de tudo mostremos no encontro de hoje a unidade e igualdade das pessoas que participam da missa e se alimentam do Corpo e Sangue de Cristo. O segundo ponto importante é mostrar a missa como fonte de atitudes e modelo a seguir em nossa vida cotidiana, mostrar a Eucaristia, onde acontece a comunidade perfeita das pessoas em Deus, que devemos buscar criar também fora da igreja.
 
 Hoje o mais importante é referir-se às vivências, sentimentos dos participantes. Que contem como viveram essas missas durante estes retiros, se diferiam de outras até então por eles vividas. Esta reflexão pode seguir segundo as perguntas no esquema, mas também pode abordar outros momentos da missa. A coisa mais importante nesta parte é extrair atitudes concretas que vamos buscar introduzir em nossa vida após o retorno. Este encontro tem antes de tudo caráter de partilha. É preciso "ajudar" os participantes a lembrar fragmentos importantes da Eucaristia, e até buscar pelo em ovo, provocar a expressão de sua opinião.
 
@@ -37,7 +37,7 @@ Leiamos:
 
     -- Comentário de São João Crisóstomo
 
-Através da Eucaristia, e especialmente recebendo Jesus na Comunhão, faz com que nos tornemos um com todos que recebem este Corpo. Nossa diversidade constrói a comunidade.
+A Eucaristia, e especialmente receber Jesus na Comunhão, faz com que nos tornemos um com todos que recebem este Corpo. Nossa diversidade constrói a comunidade.
 
 * Qual é minha relação, atitude para com os demais participantes da Missa?
 

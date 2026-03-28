@@ -60,7 +60,7 @@ Celebrar momentos importantes y alegres en nuestra vida a menudo hace que queram
 Fe que exige
 ================
 
-.. note:: Este punto se basa en el capítulo 9 del Evangelio de Juan, que cuenta en su totalidad una historia. Durante el encuentro mismo leemos solo los fragmentos más clave, sin embargo, animamos a los líderes a leer el todo en preparación, permitirá captar el contexto de manera más amplia
+.. note:: Este punto se basa en el capítulo 9 del Evangelio de Juan, que cuenta en su totalidad una historia. Durante el encuentro mismo leemos solo los fragmentos más clave, sin embargo, animamos a los líderes a leer el todo en preparación, permitirá captar el contexto de manera más amplia.
 
 Un elemento importante de la celebración de la fiesta de Sukkot es también el rito de extraer agua del estanque de Siloé. El sacerdote transporta una jarra llena al templo para derramarla sobre el altar, pidiendo lluvia y cosecha – este rito se convertía no solo en una súplica para abrir las puertas del cielo y enviar abundantes lluvias de la temporada invernal, sino que con el tiempo, cuando aumentaban los anhelos de cambio de situación, cuando el hambre espiritual crecía entre los hijos de Israel, se convertía en un clamor por el derramamiento de las fuentes de salvación, Rucha ha-Kodesz, sobre la tierra reseca de los corazones humanos, asuntos y destinos. El camino que recorre el sacerdote no es fácil ni agradable – la ruta conducía cuesta arriba y no era demasiado corta.
 

@@ -57,7 +57,7 @@ Proponujemy przeprowadzenie kilku ćwiczeń, w~celu pokazania naszych teorii w~p
 
 **Spojrzenie na różne wydarzenia z~perspektywy różnego położenia w~czasie (czyli na przykład będąc dorosłym, dzieckiem itd.).**
 
-Całe ćwiczenie polega na tym, żebyśmy potrafili spojrzeć na określoną sytuację stawiając się w~innej roli. Dobrze jest to sobie zwizualizować, więc można stworzyć na podłodze oś czasu. Okreslamy początek i~koniec oraz wiek, np. gdzie na osi znajduje się 18. rok życia. Następnie prosimy chętnego uczestnika, by przemieszczał się po osi, wcielając się w~różne role (10-latka, 50-latka lub 75-latka) i~opisywał, jak widzi tę sytuację w~danym momencie. Dwa pierwsze przykłady będą lepsze dla młodszych grup, a~dwa kolejne dla starszych.
+Całe ćwiczenie polega na tym, żebyśmy potrafili spojrzeć na określoną sytuację stawiając się w~innej roli. Dobrze jest to sobie zwizualizować, więc można stworzyć na podłodze oś czasu. Określamy początek i~koniec oraz wiek, np. gdzie na osi znajduje się 18. rok życia. Następnie prosimy chętnego uczestnika, by przemieszczał się po osi, wcielając się w~różne role (10-latka, 50-latka lub 75-latka) i~opisywał, jak widzi tę sytuację w~danym momencie. Dwa pierwsze przykłady będą lepsze dla młodszych grup, a~dwa kolejne dla starszych.
 
 * Sytuacja 1.
     16-letnia Marta chce iść na imprezę w~towarzystwie swojej koleżanki. Na miejsce muszą dojechać autobusem i~tak samo wrócić nad ranem. Przykładowe role: 16~lat -- sama Marta lub jej koleżanka, 40~lat -- na przykład ich rodzice, 65~lat -- dziadek, 7~lat -- młodszy brat.
@@ -105,7 +105,7 @@ Do wykonania ćwiczenia potrzebne są cztery osoby. Dwie będą w~jakimś konfli
     #. na koniec wszyscy wchodzą i~pomocnicy relacjonują jak widzą sytuację, która się wydarzyła.
 
 * Temat scenki:
-    Podczas spaceru  Michała i~Natalii wyniknął spór. Okazało się, że Natalia chciałaby iść z~Michałem w~sobotni wieczór na urodziny znajomego, a~Michał w~tym czasie chce iść z~nią do teatru na spektakl, który jest odgrywany tylko tego dnia. W~trakcie kłótni używają odpowiedniej argumentacji, ale wywlekają też wiele brudów z~przeszłości.
+    Podczas spaceru Michała i~Natalii wyniknął spór. Okazało się, że Natalia chciałaby iść z~Michałem w~sobotni wieczór na urodziny znajomego, a~Michał w~tym czasie chce iść z~nią do teatru na spektakl, który jest odgrywany tylko tego dnia. W~trakcie kłótni używają odpowiedniej argumentacji, ale wywlekają też wiele brudów z~przeszłości.
 
 
 
@@ -146,6 +146,6 @@ Jako wstęp do modlitwy proponujemy przeczytanie fragmentu o~cudzołożnicy, by 
 
 Fragment do modlitwy:
 
-    Jezus natomiast udał się na Górę Oliwną, ale o~brzasku zjawił się znów w~świątyni. Cały lud schodził się do Niego, a~On usiadłszy nauczał ich. Wówczas uczeni w~Piśmie i~faryzeusze przyprowadzili do Niego kobietę którą pochwycono na cudzołóstwie, a~postawiwszy ją pośrodku, powiedzieli do Niego: «Nauczycielu, tę kobietę dopiero pochwycono na cudzołóstwie. W~Prawie Mojżesz nakazał nam takie kamienować. A~Ty co mówisz?» Mówili to wystawiając Go na próbę, aby mieli o~co Go oskarżyć. Lecz Jezus nachyliwszy się pisał palcem po ziemi. A~kiedy w~dalszym ciągu Go pytali, podniósł się i~rzekł do nich: «Kto z~was jest bez grzechu, niech pierwszy rzuci na nią kamień». I~powtórnie nachyliwszy się pisał na ziemi. Kiedy to usłyszeli, wszyscy jeden po drugim zaczęli odchodzić, poczynając od starszych, aż do ostatnich. Pozostał tylko Jezus i~kobieta, stojąca na środku. Wówczas Jezus podniósłszy się rzekł do niej: «Kobieto, gdzież oni są? Nikt cię nie potępił?» A~ona odrzekła: «Nikt, Panie!» Rzekł do niej Jezus: «I Ja ciebie nie potępiam. -- Idź, a~od tej chwili już nie grzesz!».
+    Jezus natomiast udał się na Górę Oliwną, ale o~brzasku zjawił się znów w~świątyni. Cały lud schodził się do Niego, a~On usiadłszy nauczał ich. Wówczas uczeni w~Piśmie i~faryzeusze przyprowadzili do Niego kobietę, którą pochwycono na cudzołóstwie, a~postawiwszy ją pośrodku, powiedzieli do Niego: «Nauczycielu, tę kobietę dopiero pochwycono na cudzołóstwie. W~Prawie Mojżesz nakazał nam takie kamienować. A~Ty co mówisz?» Mówili to wystawiając Go na próbę, aby mieli o~co Go oskarżyć. Lecz Jezus nachyliwszy się pisał palcem po ziemi. A~kiedy w~dalszym ciągu Go pytali, podniósł się i~rzekł do nich: «Kto z~was jest bez grzechu, niech pierwszy rzuci na nią kamień». I~powtórnie nachyliwszy się pisał na ziemi. Kiedy to usłyszeli, wszyscy jeden po drugim zaczęli odchodzić, poczynając od starszych, aż do ostatnich. Pozostał tylko Jezus i~kobieta, stojąca na środku. Wówczas Jezus podniósłszy się rzekł do niej: «Kobieto, gdzież oni są? Nikt cię nie potępił?» A~ona odrzekła: «Nikt, Panie!» Rzekł do niej Jezus: «I Ja ciebie nie potępiam. -- Idź, a~od tej chwili już nie grzesz!».
 
     -- J 8,1-11

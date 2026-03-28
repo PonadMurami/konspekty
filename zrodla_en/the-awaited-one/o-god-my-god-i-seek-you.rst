@@ -86,7 +86,7 @@ Disappointments are a normal reaction to a difficult situation in which we found
 
 It is worth mentioning here that we can distinguish two types of disappointment and probably both are a necessary step to realize where we are on our path to God.
 
-The first disappointment is a situation in which the situation changes, but completely not according to our thought.
+The first disappointment is a situation in which the situation changes, but not at all as we expected.
 
 Let's read
 
@@ -151,7 +151,7 @@ Humility is acceptance of the truth about oneself. It will be a sincere effort i
 
 Humility is a difficult matter - some say that humility is such a virtue that evaporates the moment you realize it. This is a very sobering thought.
 
-In God's matters a humble man must recognize that all good comes only from God, and looking at his innate gifts and talents he knows that he received them from God, therefore even if he were very gifted, he will not feel better and humiliate the less able, while not having any special natural gifts he will not despair and envy others, because he knows that if God did not grant them to him, then apparently they are not needed for him.
+In God's matters a humble man must recognize that all good comes only from God, and looking at his innate gifts and talents he knows that he received them from God, therefore even if he were very gifted, he will not feel better and humiliate the less able, while not having any special natural gifts he will not despair and envy others, because he knows that if God did not grant them to him, then apparently he does not need them.
 
 The application from the meeting is quite simple, and at the same time significant when it comes to our path to holiness. The first thing we should pay attention to is the fact whether we are ready for the truth. Jonah is a good example for us that even when God fulfills what he said, we will still be dissatisfied because our expectations will not be met.
 

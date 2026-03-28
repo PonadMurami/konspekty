@@ -25,7 +25,7 @@ Krótkie podsumowanie animatora na temat tego, co działo się w~poprzednich dni
 
 * Jak przeżyłem sobotnią modlitwę?
 
-* Co z~rzeczy które wydarzyły się do tej pory na rekolekcjach najbardziej zapamiętam? Dlaczego?
+* Co z~rzeczy, które wydarzyły się do tej pory na rekolekcjach najbardziej zapamiętam? Dlaczego?
 
 O drodze
 ========
@@ -109,7 +109,7 @@ Metanoja jest zatem **przemianą umysłu**, niekończącą się pracą nad nasz�
 
 Nawrócenie jest “przekroczeniem”, ale nie zupełnym przekreśleniem tego co było dotąd ważne. Nie należy sprowadzać go też jedynie do odwrócenia się od grzechu i~zła, ale podnieść je wyżej, ku czynieniu większego dobra.
 
-W cyklu metanoi zatem nie odcinam się drastycznie od wszystkiego co w~danym momencie wydaje mi się zbędne, ale kontynuuję cykl przemiany umysłu stopniowo zawężając tak, aby “orbitować” co raz bliżej centrum, czyli **Królestwa**.
+W cyklu metanoi zatem nie odcinam się drastycznie od wszystkiego co w~danym momencie wydaje mi się zbędne, ale kontynuuję cykl przemiany umysłu stopniowo zawężając tak, aby “orbitować” coraz bliżej centrum, czyli **Królestwa**.
 
 * Jakie okazje do nawracania się widzę na swojej drodze (zarówno w~najbliższym czasie jak i~w szerszej perspektywie mojego życia)?
 
@@ -138,7 +138,7 @@ Znaczenie słowa “Adwent”:
     Adwent jest tłumaczeniem greckich słów: epifaneia i~parusia. Termin ten w~Rzymie oznaczał oficjalny przyjazd dygnitarza państwowego i~objęcie urzędu. Natomiast w~języku religijnym oznaczał coroczne przybywanie bóstwa do świątyni. W~chrześcijaństwie termin „adventus” stał się synonimem przyjścia Chrystusa w~sensie jego Wcielenia (epifaneia), jak też powtórnego przyjścia w~chwale (parusia). W~V w. na oznaczenie czasu przygotowania do narodzenia Pańskiego spotykamy także określenie: „ante natale Domini” lub „adventus Domini”.
 
 Historia adwentu:
-    Pierwsze ślady obchodzenia Adwentu spotykamy w~IV w. w~liturgii galijskiej i~hiszpańskiej. W~dziele przypisywanym Hilaremu z~Poitiers znajdujemy wzmiankę o~poszczeniu przed Bożym Narodzeniem. Jest to najstarsze świadectwo o~specjalnym czasie przygotowania do uczczenia tajemnicy Wcielenia. Synod w~Saragossie (389) żądał od wiernych uczęszczania do kościoła od 17 grudnia aż do uroczystości Epifanii. W~Galii biskup Tours, Perpetus wprowadził obowiązek postu w~trzy dni tygodnia (poniedziałki, środy i~piątki) w~ciągu sześciu tygodni od dnia św. Marcina (11 listopada) do Narodzenia Pańskiego.  W~Rzymie okres przygotowania do Bożego Narodzenia został wprowadzony dopiero w~drugiej połowie VI. Pod wpływem liturgii Wschodu, nie poszczono w~soboty, rozpoczynano więc Adwent 1 grudnia bądź nawet 11 listopada, aby uzyskać liczbę 40 dni postu (na wzór Wielkiego Postu). W~VIII i~IX w. okres przygotowania przypadał na 30 października lub nawet 24 czy 14 września. Od czasów Grzegorza Wielkiego (590-604) Adwent w~Rzymie obejmował 4 tygodnie. Był to czas bezpośredniego, liturgicznego przygotowania do obchodów pamiątki przyjścia Chrystusa.
+    Pierwsze ślady obchodzenia Adwentu spotykamy w~IV w. w~liturgii galijskiej i~hiszpańskiej. W~dziele przypisywanym Hilaremu z~Poitiers znajdujemy wzmiankę o~poszczeniu przed Bożym Narodzeniem. Jest to najstarsze świadectwo o~specjalnym czasie przygotowania do uczczenia tajemnicy Wcielenia. Synod w~Saragossie (389) żądał od wiernych uczęszczania do kościoła od 17 grudnia aż do uroczystości Epifanii. W~Galii biskup Tours, Perpetus wprowadził obowiązek postu w~trzy dni tygodnia (poniedziałki, środy i~piątki) w~ciągu sześciu tygodni od dnia św. Marcina (11 listopada) do Narodzenia Pańskiego. W~Rzymie okres przygotowania do Bożego Narodzenia został wprowadzony dopiero w~drugiej połowie VI. Pod wpływem liturgii Wschodu, nie poszczono w~soboty, rozpoczynano więc Adwent 1 grudnia bądź nawet 11 listopada, aby uzyskać liczbę 40 dni postu (na wzór Wielkiego Postu). W~VIII i~IX w. okres przygotowania przypadał na 30 października lub nawet 24 czy 14 września. Od czasów Grzegorza Wielkiego (590-604) Adwent w~Rzymie obejmował 4 tygodnie. Był to czas bezpośredniego, liturgicznego przygotowania do obchodów pamiątki przyjścia Chrystusa.
 
 Historia adwentu:
     Na początku IX w. Adwent nabiera także charakteru eschatologicznego - staje się czasem przygotowania na ostateczne przyjście Chrystusa na końcu czasów. Teksty liturgiczne Adwentu ukazują postacie Starego i~Nowego Testamentu, przez których życie i~działalność Bóg zapowiadał i~przygotowywał świat na przyjście Chrystusa. Adwent to czas radosnego oczekiwania na spotkanie z~Jezusem. Oczekiwanie na przyjście Jezusa jest źródłem radości. Jakkolwiek przygotowanie to polega na oczekiwaniu i~pokucie, stąd fioletowy kolor szat liturgicznych, to jednak pokuta związana jest z~radością. Adwent przypomina nam, że całe nasze życie jest czekaniem.
@@ -236,7 +236,7 @@ Gotowość na przyjście Pana. Ta część łączy wszystko co powiedzieliśmy o
 
 Królestwo Boże to nowy sposób myślenia. Inna perspektywa i~inna logika. Dojście do Królestwa jest możliwe przez zmianę - Metanoię. Ta nowa perspektywa to nie będzie jakiś nowy alternatywny świat, będziemy w~tym samym świecie, tylko ta zmiana zaowocuje przede wszystkim przewartościowaniem. Dopełnijmy to co powiedzieliśmy o~Królestwie innym spojrzeniem z~następnego fragmentu.
 
-    Zapytany przez faryzeuszów, kiedy przyjdzie królestwo Boże, odpowiedział im: «Królestwo Boże nie przyjdzie dostrzegalnie;i nie powiedzą: "Oto tu jest" albo: "Tam". Oto bowiem królestwo Boże pośród was jest». Do uczniów zaś rzekł: «Przyjdzie czas, kiedy zapragniecie ujrzeć choćby jeden z~dni Syna Człowieczego, a~nie zobaczycie. Powiedzą wam: "Oto tam" lub: "Oto tu". Nie chodźcie tam i~nie biegnijcie za nimi! Bo jak błyskawica, gdy zabłyśnie, świeci od jednego krańca widnokręgu aż do drugiego, tak będzie z~Synem Człowieczym w~dniu Jego. Wpierw jednak musi wiele wycierpieć i~być odrzuconym przez to pokolenie.
+    Zapytany przez faryzeuszów, kiedy przyjdzie królestwo Boże, odpowiedział im: «Królestwo Boże nie przyjdzie dostrzegalnie; i~nie powiedzą: "Oto tu jest" albo: "Tam". Oto bowiem królestwo Boże pośród was jest». Do uczniów zaś rzekł: «Przyjdzie czas, kiedy zapragniecie ujrzeć choćby jeden z~dni Syna Człowieczego, a~nie zobaczycie. Powiedzą wam: "Oto tam" lub: "Oto tu". Nie chodźcie tam i~nie biegnijcie za nimi! Bo jak błyskawica, gdy zabłyśnie, świeci od jednego krańca widnokręgu aż do drugiego, tak będzie z~Synem Człowieczym w~dniu Jego. Wpierw jednak musi wiele wycierpieć i~być odrzuconym przez to pokolenie.
 
     -- Łk 17,20-25
 
@@ -254,14 +254,14 @@ Zakładam (może błędnie), że trudno nam było odpowiedzieć jasno i~precyzyj
 
 #. W~judaizmie Królestwo Boże to świat jaki ma nastać jako królestwo samego Boga zwane również jako „Królestwo Wszechmogącego". Żydzi wierzą, że ich powinnością, posłannictwem jest już teraz „doskonalenie świata poprzez Królestwo Wszechmogącego" („L’takken olam b’malkut Szaddaj"). Mówienie w~takim sensie o~Królestwie zakłada, że wszelkie działania Żydów polegające na naprawianiu, doskonaleniu świata (np. etyczne postępowanie względem siebie nawzajem) dokonują się w~odwołaniu do władzy Boga nad światem i~Jego pomocy.
 
-#. Oznacza królowanie, panowanie, władzę Boga w~świecie, który stworzył, a~szczególnie w~mikrokosmosie - w~małym świecie, czyli w~człowieku. Dzięki temu panowaniu Bóg urzeczywistniał ideał sprawiedliwego Króla; panowanie to polegało na opiece nad biednymi, słabymi i~potrzebującymi. To panowanie Boga w~sposób szczególny objawiło się w~Jezusie Chrystusie jako rzeczywistość żywa, dynamiczna i~zbawcza. W~osobie Jezusa, w~Jego słowach i~czynach, ujawniło się panowanie Boga wraz ze wszystkimi mocami zbawczymi. Starochrześcijański pisarz Orygenes nazwał Jezusa Królestwem Boga
+#. Oznacza królowanie, panowanie, władzę Boga w~świecie, który stworzył, a~szczególnie w~mikrokosmosie - w~małym świecie, czyli w~człowieku. Dzięki temu panowaniu Bóg urzeczywistniał ideał sprawiedliwego Króla; panowanie to polegało na opiece nad biednymi, słabymi i~potrzebującymi. To panowanie Boga w~sposób szczególny objawiło się w~Jezusie Chrystusie jako rzeczywistość żywa, dynamiczna i~zbawcza. W~osobie Jezusa, w~Jego słowach i~czynach, ujawniło się panowanie Boga wraz ze wszystkimi mocami zbawczymi. Starochrześcijański pisarz Orygenes nazwał Jezusa Królestwem Boga.
 
 #. Ostateczne objawienie się Boga na końcu czasów jeszcze nie nastąpiło. Chrześcijanie żyją więc, używając teologicznej nomenklatury, w~eschatologicznym napięciu między „już” i~„jeszcze nie” pełni Bożego królestwa.
 
 Co mówi Pismo Święte na temat Królestwa Bożego:
     - “Królestwo niebieskie podobne jest do właściciela winnicy, który o~świcie wyszedł z~domu, by zatrudnić ludzi do pracy.”
     - “Podobne jest królestwo niebieskie do skarbu ukrytego w~roli”.
-    - “Podobne jest do ziarnka gorczycy, które ktoś wziął i~posiał w~swoim ogrodzie. Wyrosło i~stało się wielkim drzewem, tak że ptaki podniebne zagnieździły się na jego gałęziach».I mówił dalej: «Z czym mam porównać królestwo Boże? Podobne jest do zaczynu, który pewna kobieta wzięła i~włożyła w~trzy miary mąki, aż wszystko się zakwasiło”
+    - “Podobne jest do ziarnka gorczycy, które ktoś wziął i~posiał w~swoim ogrodzie. Wyrosło i~stało się wielkim drzewem, tak że ptaki podniebne zagnieździły się na jego gałęziach». I~mówił dalej: «Z czym mam porównać królestwo Boże? Podobne jest do zaczynu, który pewna kobieta wzięła i~włożyła w~trzy miary mąki, aż wszystko się zakwasiło”
     - “Dalej, podobne jest królestwo niebieskie do sieci, zarzuconej w~morze i~zagarniającej ryby wszelkiego rodzaju.”
     - “Królestwo niebieskie podobne jest do króla, który wyprawił ucztę weselną swemu synowi.”
 

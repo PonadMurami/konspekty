@@ -42,7 +42,7 @@ Let's read:
 
 - How do I interpret the fact that God wants our story?
 
-There is a temptation to look for a God who always comes with a clear way of dealing with tasks that stand before us. Our God commissions us a task for us to tell ourselves. He raises us to the rank of guides in faith. He does not choose only some of us - this is a task for everyone.
+There is a temptation to look for a God who always comes with a clear way of dealing with tasks that stand before us. Our God assigns us the task of telling the story ourselves. He raises us to the rank of guides in faith. He does not choose only some of us - this is a task for everyone.
 
 Relationships
 =============

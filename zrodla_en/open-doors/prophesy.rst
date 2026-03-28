@@ -12,7 +12,7 @@ The meeting concentrates around the concept of Christian immersion. Some partici
 
 As an animator please dedicate time to think about where you yourself experience immersion "naturally", and where it is a challenge for You. Key will be Your testimony to show that faith is not watched, nor participated in, only incorporated. My Christianity is not a label, nor even a tattoo - it is in every cell of my body and soul because all this was immersed in the death and resurrection of the Word.
 
-Please let's not skip the last task with writing down one's dream about the Church. One who is subjective dreams, one who cares. And this is the goal of the meeting - not reform of the Church, nor big resolutions but reaching one's dreams, our dreams. And let God bless them.
+Please let's not skip the last task with writing down one's dream about the Church. One who has agency dreams, one who cares. And this is the goal of the meeting - not reform of the Church, nor big resolutions but reaching one's dreams, our dreams. And let God bless them.
 
 Inclusion? Connection?
 ======================
@@ -47,7 +47,7 @@ Let us read:
 * In what situations does "remembering reasons" make it difficult for me to make space in the heart?
 * Do I have an experience of "liberation" from thinking about reasons?
 
-How far Heschel goes speaking about "forgetting all reasons". He talks about the topic of piety, but it is a universal thing. Perhaps someone of us has experience of learning a foreign language when at the beginning they very carefully follow the reason for using every word, analyze its grammatical correctness etc. One can already communicate with others in this way. However, at a certain stage we "forget about reasons" and immerse ourselves in the language so much that "words flow themselves".
+How far Heschel goes speaking about "forgetting all reasons". He talks about the topic of piety, but it is a universal thing. Perhaps someone of us has experience of learning a foreign language when at the beginning they very carefully follow the reason for using every word, analyze its grammatical correctness etc. One can already communicate with others in this way. However, at a certain stage we "forget about reasons" and immerse ourselves in the language so much that "words flow by themselves".
 
 .. note:: For some animators the example of 4 steps of competence may be close here: unconscious incompetence, conscious incompetence, conscious competence, unconscious competence.
 
@@ -70,9 +70,9 @@ Let us read:
 
 * Where in everyday life does "seeking the presence of our Lord" come easiest to You?
 * Where would you like to find him in everyday life?
-* Where is the Gospel even though you do not hear signatures and the name Jesus?
+* Where is the Gospel even though you do not hear jingles and the name of Jesus?
 
-It does not come by itself. Immersion is a difficult stage that requires effort on our part. However, the Church does it all the time. Do we send children for a 5-year theological course about the Eucharist before they are at Mass, or rather immediately allow them to participate? do we start learning prayer from theory or rather invite someone to sit next to us?
+It does not come by itself. Immersion is a difficult stage that requires effort on our part. However, the Church does it all the time. Do we send children for a 5-year theological course about the Eucharist before they are at Mass, or rather immediately allow them to participate? Do we start learning prayer from theory or rather invite someone to sit next to us?
 
 * How can you learn immersion?
 
@@ -90,7 +90,7 @@ Let us read:
 The world needs prophets. It also (primarily?) needs such prophets about whom Pope Paul VI writes. Let's allow ourselves however to "verify" the pope's sentence by our own experience.
 
 * What testimonies of life pull me up?
-* If I feel spiritual distress do I look rather for testimony of word or testimony of life that will "refresh" me?
+* If I feel spiritual distress, do I look rather for testimony of word or testimony of life that will "refresh" me?
 
 The culture of immersion in experience and Christian testimony ceases to be "obvious". Perhaps for many of us it is no longer the "first means of evangelizing". One does not need to be sad because of this. One can see in this a task and grace in which we can participate.
 

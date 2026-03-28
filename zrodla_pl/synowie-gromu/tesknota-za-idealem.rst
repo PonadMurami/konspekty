@@ -196,7 +196,7 @@ Warto w~tym miejscu (jeżeli czas na to pozwala) podyskutować z~grupą podając
 7. Temperatura 38 st. nie jest wystarczającym powodem, by nie pójść do kościoła w~niedzielę - fanatyzm czy pozytywny radykalizm?
 8. Czekanie na zielone światło, choć jezdnia jest pusta. - fanatyzm czy pozytywny radykalizm?
 
-Jeżeli owocem tej części spotkania będzie to, że w~czasie wolnym uczestnicy będą sami  z~sobą dyskutować o~tych przykładach to cel został osiągnięty.
+Jeżeli owocem tej części spotkania będzie to, że w~czasie wolnym uczestnicy będą sami z~sobą dyskutować o~tych przykładach to cel został osiągnięty.
 
 Zastosowanie
 ============

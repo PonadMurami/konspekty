@@ -16,9 +16,9 @@ Dostosowana do możliwości grupy.
 Wprowadzenie
 ============
 
-Zastanawiamy się i~wiemy gdzie jesteśmy (dzień 1). Pytamy się siebie czy i~jak idziemy.  Szukaliśmy własnych ambicji i~celów, sensu (Spotkanie 2). Zostaliśmy wezwani przykładem drogi Jezusa do nie tylko mówienia o~drodze, ale konkretnego kroczenia, bo... to On jest tym, który przychodzi po to, aby nas obudzić i~podnieść do godności naszego powołania (Spotkanie 3), abyśmy budząc się otworzyli oczy i~widzieli więcej (Ewangelia niedzielna). Co teraz?
+Zastanawiamy się i~wiemy gdzie jesteśmy (dzień 1). Pytamy się siebie czy i~jak idziemy. Szukaliśmy własnych ambicji i~celów, sensu (Spotkanie 2). Zostaliśmy wezwani przykładem drogi Jezusa do nie tylko mówienia o~drodze, ale konkretnego kroczenia, bo... to On jest tym, który przychodzi po to, aby nas obudzić i~podnieść do godności naszego powołania (Spotkanie 3), abyśmy budząc się otworzyli oczy i~widzieli więcej (Ewangelia niedzielna). Co teraz?
 
-Jesteśmy razem z~Nim na drodze i~przed nami jedno proste pytanie: "gdzie teraz zrobić następny krok?". Ogólnikowo na to pytanie odpowiedzieć jest łatwo, bo wiele razy słyszeliśmy te odpowiedzi "ku Miłości", "ku Dobru".... ale czy to pomaga mi podjąć decyzję jak spożytkuje jutrzejszy dzień lub dzisiejszy wieczór?
+Jesteśmy razem z~Nim na drodze i~przed nami jedno proste pytanie: "gdzie teraz zrobić następny krok?". Ogólnikowo na to pytanie odpowiedzieć jest łatwo, bo wiele razy słyszeliśmy te odpowiedzi "ku Miłości", "ku Dobru".... ale czy to pomaga mi podjąć decyzję jak spożytkuję jutrzejszy dzień lub dzisiejszy wieczór?
 
 * Jak poszła mi realizacja zastosowania z~ostatniego spotkania? Jak wyglądały pierwsze 45 sek mojego dzisiejszego dnia?
 
@@ -60,13 +60,13 @@ Może rodzić się pytanie – czy planowanie na 10 lat do przodu ma sens? Przec
 
    -- Ap 3,15-17
 
-* Co to znaczy zimny, ani gorący?
+* Co to znaczy ani zimny, ani gorący?
 
 * Co to znaczy troszczyć się o~jutro?
 
 * Jak możemy rozumieć te dwa fragmenty zestawione razem?
 
-Te dwa fragmenty Pisma Świętego znakomicie opisują naszą kondycje duchowa. Z~jednej strony potrzeba nam, abyśmy byli ludźmi głębokiej nadziei, którzy są gotowi do przyjęcia każdego dnia takim jaki go przygotuje dla nas Bóg. Z~drugiej zaś strony Bóg nie chce, abyśmy byli nijacy i~bezbarwni. Oczekuje od nas jasnego określenia się.... On sam nas przecież do tego wzywa.
+Te dwa fragmenty Pisma Świętego znakomicie opisują naszą kondycję duchową. Z~jednej strony potrzeba nam, abyśmy byli ludźmi głębokiej nadziei, którzy są gotowi do przyjęcia każdego dnia takim jaki go przygotuje dla nas Bóg. Z~drugiej zaś strony Bóg nie chce, abyśmy byli nijacy i~bezbarwni. Oczekuje od nas jasnego określenia się.... On sam nas przecież do tego wzywa.
 
 * Czy jest możliwe połączenie obu tych postaw? W~jaki sposób?
 
@@ -92,7 +92,7 @@ W jakich momentach często ten sens gubimy w~takich codziennych sprawach? Może 
 * Sprzątasz pokój dla swojej mamy, czy po to, aby było czysto?
 * Uczysz się po to, aby mieć papier matury czy aby być wykształconym człowiekiem?
 * Kasujemy bilet w~autobusie, aby nas nie złapał kanar czy aby zapłacić za usługę?
-* [uwaga-przykład dla starszych] Nie współżyjesz z~swoją dziewczyną dlatego, że to jest złe czy dlatego, że musiałbyś się z~tego spowiadać ?
+* [uwaga-przykład dla starszych] Nie współżyjesz ze~swoją dziewczyną dlatego, że to jest złe czy dlatego, że musiałbyś się z~tego spowiadać?
 
 Zobaczmy do czego kolejno może prowadzić zgubienie sensu:
 
@@ -109,9 +109,9 @@ Przeczytajmy:
 
    -- 2 Kor 13,5
 
-* Co robie wtedy gdy łapie się na tym, że "zgubiłem sens" jakiegoś mojego działania?
+* Co robię wtedy, gdy łapię się na tym, że "zgubiłem sens" jakiegoś mojego działania?
 
-* Czy mam nawyk pytania się o~moje motywacje podejmowania jakiś działań w~myśl 2 Kor 13,5?
+* Czy mam nawyk pytania się o~moje motywacje podejmowania jakichś działań w~myśl 2 Kor 13,5?
 
 * **Czym się różni zgubienie celu od tego, że się go nie widzi?**
 
@@ -136,13 +136,13 @@ Często tak mamy, że za wszelką cenę chcemy utrzymać się w~"poczuciu sensu"
 
    | Pan jest moim pasterzem:
    | niczego mi nie braknie,
-   | pozwała mi leżeć
+   | pozwala mi leżeć
    | na zielonych pastwiskach.
    |
    | **Prowadzi mnie** nad wody, gdzie mogę odpocząć,
    | orzeźwia moją duszę.
    | **Wiedzie mnie po właściwych ścieżkach**
-   | przez wzgląd na swoją chwalę.
+   | przez wzgląd na swoją chwałę.
    |
    | **Chociażbym przechodził przez ciemną dolinę**,
    | zła się nie ulęknę, bo Ty jesteś ze mną.
@@ -155,11 +155,11 @@ Bóg prowadzi po "właściwych ścieżkach", ale mimo to od razu w~następnej li
 
 * Czym jest ciemna dolina?
 
-.. note:: Jeżeli prowadzi tam Bóg to nie może to być grzech... ciemnością mogą być "slumsy" w~której brakuje światła, bo ludzie nadal czekają np. na mnie abym im pomógł odnaleźć  sens
+.. note:: Jeżeli prowadzi tam Bóg to nie może to być grzech... ciemnością mogą być "slumsy" w~której brakuje światła, bo ludzie nadal czekają np. na mnie abym im pomógł odnaleźć sens
 
 * Co sugeruje takie zestawienie w~psalmie?
 
-.. note:: ciemna dolina może być częścią drogi Pana. Co więcej może to być właściwa ścieżką! Musimy jednak pamiętać "Ty jesteś ze mną" więc światło mnie nie opuściło
+.. note:: ciemna dolina może być częścią drogi Pana. Co więcej może to być właściwą ścieżką! Musimy jednak pamiętać "Ty jesteś ze mną" więc światło mnie nie opuściło
 
 * Czy macie doświadczenie przechodzenia przez "ciemną dolinę", ale właśnie w~obecności Jezusa?
 
@@ -178,7 +178,7 @@ Przeczytajmy:
 Spotkania w~czasie drogi
 ========================
 
-.. note:: Polecam odwtorzyć utwór
+.. note:: Polecam odtworzyć utwór
 
 Przeczytajmy:
 
@@ -286,13 +286,13 @@ Odczytujemy (słuchamy) wspólnie:
 
    -- Jacek Kaczmarski -- Arka Noego
 
-* Czy mam w~sobie determinacje do podjęcia swojej drogi, aby nawet stawiać łódź na suchej ziemi?
+* Czy mam w~sobie determinację do podjęcia swojej drogi, aby nawet stawiać łódź na suchej ziemi?
 
-* Czy to co chce jest dla mnie na tyle ważne, aby nie zrażać się?
+* Czy to, co chcę, jest dla mnie na tyle ważne, aby nie zrażać się?
 
 * "Każdy z~was jest łodzią, w~której może się z~potopem mierzyć cało wyjść z~burzowej chmury musi tylko w~to uwierzyć" co to dla mnie znaczy?
 
-. warning: kluczowe pytanie podsumowania
+.. warning:: kluczowe pytanie podsumowania
 
 * "Ocalić trzeba co najdroższe A~przecież tyle już tego jest!" - czy patrzę na swoje życie jako na coś czego nie można zmarnować z~powodu tego co już w~nim jest? (a nie dlatego co może być)
 
@@ -305,4 +305,4 @@ Chrześcijaństwo to branie byka za rogi, życie pełne pasji, szukania i~znajdo
 Zastosowanie
 ============
 
-Dokąd zatem zmierzam? Nazwijmy to, nie zostawiajmy tego tylko w~głowie. Możemy to powiedzieć odważnie teraz na spotkaniu, możemy zapisać sobie na drugiej stronie kartki z~tabelką i~włożyć do kopert, a~następnie przeczytać za parę miesięcy czy lat. Ale niech odpowiem na to pytanie tak jak czuje i~widzę odpowiedzieć na dzisiejszy dzień.
+Dokąd zatem zmierzam? Nazwijmy to, nie zostawiajmy tego tylko w~głowie. Możemy to powiedzieć odważnie teraz na spotkaniu, możemy zapisać sobie na drugiej stronie kartki z~tabelką i~włożyć do kopert, a~następnie przeczytać za parę miesięcy czy lat. Ale niech odpowiem na to pytanie tak jak czuję i~widzę odpowiedzieć na dzisiejszy dzień.

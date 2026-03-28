@@ -53,9 +53,9 @@ Discovery of profound truth about oneself
 
 * "Enter with all his own self", "assimilate the whole of the reality of the Incarnation and Redemption" - these are incredibly demanding words. Do we feel fear, anxiety hearing such radical sentences? Why?
 
-* Do we have an experience of such open approaching Christ with all ourselves?
+* Do we have an experience of such an open approach to Christ with our whole selves?
 
-This is what we talked about yesterday: a man who has already discovered his unrest, uncertainty, weakness, sinfulness still cannot understand his own meaning of life, has more questions than answers. It is at this stage that one must particularly turn to Jesus... Only he will give us the opportunity to search for answers to our questions deeper. One should not be ashamed that we do it to "know ourselves".
+This is what we talked about yesterday: a man who has already discovered his unrest, uncertainty, weakness, sinfulness still cannot understand his own meaning of life, has more questions than answers. It is at this stage that one must particularly turn to Jesus... Only he will give us the opportunity to search for answers to our questions deeper. We should not be ashamed that we do this to "know ourselves".
 
 Reflection on oneself
 =====================
@@ -85,7 +85,7 @@ Let us read:
 
 * How do we understand these words of the cardinal?
 
-Not by accident loving is compared to a burning candle - we burn ourselves for others. We come to the most important question:
+It is not by accident that loving is compared to a burning candle - we burn ourselves for others. We come to the most important question:
 
 * **Are we able to rejoice more in the light that others receive thanks to this than be sad because of our inconveniences?**
 
@@ -95,7 +95,7 @@ Application
 The Light-Life Movement method does not allow us to remain only at the level of knowledge and information. Each meeting should end with
 "application", i.e. concrete introduction of content into life.
 
-Proposal for each of us to make now one small resolution in connection with the discussed topic, which they count on being able to realize still at this retreat.
+Proposal for each of us to make now one small resolution in connection with the discussed topic, which we hope to be able to realize still during this retreat.
 
 Final prayer
 ============

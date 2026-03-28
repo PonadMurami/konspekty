@@ -77,7 +77,7 @@ Cependant, la personne qui veille sur nous ne le fait pas 24h/24. Il y a des mom
 
 * Ressentons-nous une telle solitude ? Si nous le pouvons, donnons un exemple.
 
-C'est souvent le cas... par exemple, nous allons à une conversation importante pour nous chez notre meilleur ami, nous lui disons ouvertement beaucoup de choses, quand il répond : « je te comprends », nous ne pouvons que sourire amèrement. Quelque part nous sentons que **il ne peut pas comprendre jusqu'au bout, que c'est notre chose personnelle et quoi que nous fassions, cela restera ainsi**. Il y a quelque chose avec quoi nous devons rester seuls.
+C'est souvent le cas... par exemple, nous allons à une conversation importante pour nous chez notre meilleur ami, nous lui disons ouvertement beaucoup de choses, quand il répond : « je te comprends », nous ne pouvons que sourire amèrement. Quelque part nous sentons qu'**il ne peut pas comprendre jusqu'au bout, que c'est notre chose personnelle et quoi que nous fassions, cela restera ainsi**. Il y a quelque chose avec quoi nous devons rester seuls.
 
 * Nous est-il arrivé pendant notre solitude de sortir nous-mêmes vers une autre personne, pour parler avec elle de choses importantes ? De quelle manière ce désir est-il né en nous ? Était-ce « de soi-même » ou plutôt sous l'influence d'une impulsion ?
 
@@ -100,7 +100,7 @@ Il s'agit d'arriver ensemble à ceci : si nous nous tenons aux principes dont no
 
 * Voyons-nous un tel besoin ? Qu'est-ce qui est si dangereux dans ces questions ?
 
-Ce qui est dangereux, c'est la découverte de qui nous sommes vraiment, sans masques. Les questions les plus importantes, devant lesquelles nous nous tenons seuls, doivent découvrir la vérité sur nous. Ce n'est rien d'agréable. Parfois recherchant. C'est « compliquer » sa vie - bien qu'en réalité c'est seulement alors que c'est la véritable existence - car consciente.
+Ce qui est dangereux, c'est la découverte de qui nous sommes vraiment, sans masques. Les questions les plus importantes, devant lesquelles nous nous tenons seuls, doivent découvrir la vérité sur nous. Ce n'est rien d'agréable. Parfois choquant. C'est « compliquer » sa vie - bien qu'en réalité c'est seulement alors que c'est la véritable existence - car consciente.
 
 * Que faisons-nous avec cette vérité sur nous-mêmes ? Avons-nous toujours conscience que nous n'avons jamais connu toute la vérité ? Essayons-nous constamment de nous interroger sur qui nous sommes ?
 

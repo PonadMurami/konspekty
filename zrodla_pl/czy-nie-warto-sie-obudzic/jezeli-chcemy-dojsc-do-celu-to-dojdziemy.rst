@@ -16,7 +16,7 @@ Krótko, spontanicznie. Proponuję uwielbienie, dziękczynienie za podarunek "te
 "Mapy są nam niepotrzebne"
 ==========================
 
-.. note:: możliwość odtworzenia utworu. Każdy uczestnik powinien mieć własną wersje tekstu
+.. note:: możliwość odtworzenia utworu. Każdy uczestnik powinien mieć własną wersję tekstu
 
 Przeczytajmy pewien wiersz:
 
@@ -31,7 +31,7 @@ Przeczytajmy pewien wiersz:
    |
    | I~pójdziemy w~dni nieznane miłosnego źródła szukać
    | Które wszystkim nam jest dane
-   | Tylko trzeba,tylko trzeba, tylko trzeba je odszukać!
+   | Tylko trzeba, tylko trzeba, tylko trzeba je odszukać!
    |
    | Mapy są nam niepotrzebne
    | Przewodniki na bok odłóż
@@ -44,7 +44,7 @@ Przeczytajmy pewien wiersz:
    |
    | I~pójdziemy w~dni nieznane miłosnego źródła szukać
    | Które wszystkim nam jest dane
-   | Tylko trzeba,tylko trzeba, tylko trzeba je odszukać!
+   | Tylko trzeba, tylko trzeba, tylko trzeba je odszukać!
 
    -- Magda Umer -- Mapy są nam niepotrzebne
 
@@ -107,7 +107,7 @@ Odczytajmy fragment:
 
    | I~pójdziemy w~dni nieznane miłosnego źródła szukać
    | Które wszystkim nam jest dane
-   | Tylko trzeba,tylko trzeba, tylko trzeba je odszukać!
+   | Tylko trzeba, tylko trzeba, tylko trzeba je odszukać!
 
 * Jakie są źródła miłości?
 
@@ -135,7 +135,7 @@ Odczytajmy fragment:
    |
    | I~pójdziemy w~dni nieznane miłosnego źródła szukać
    | Które wszystkim nam jest dane
-   | Tylko trzeba,tylko trzeba, tylko trzeba je odszukać!
+   | Tylko trzeba, tylko trzeba, tylko trzeba je odszukać!
 
 * Czy jest we mnie chęć, pragnienie, żeby "usłyszeć głos", "wybrać się w~podróż"?
 

@@ -187,7 +187,7 @@ We remember what situation the apostles are in after the Master's death. They kn
 Summary
 =========================================
 
-Each of us has the right and even the duty to live our life in an extraordinary way. It is not easy and we often return to our own upper room waiting for so-called better times. However, man will be happy only when he is "in his place". Our place is not the upper room - we are to conquer the world. This may be an humble thought... but God behaves in the Holy Scripture as if He was just waiting for us to think so.
+Each of us has the right and even the duty to live our life in an extraordinary way. It is not easy and we often return to our own upper room waiting for so-called better times. However, man will be happy only when he is "in his place". Our place is not the upper room - we are to conquer the world. This may be a bold thought... but God behaves in the Holy Scripture as if He was just waiting for us to think so.
 
 We are therefore "people of the upper room"....but this does not mean that we will spend our whole life in it. Are we ready to leave it?
 

@@ -37,17 +37,17 @@ Na viragem de 1997 e 1998 realizou-se em Roma um congresso dedicado às vocaçõ
 
 Leiamos:
 
-    “Este simples fato de existir deveria antes de tudo encher a todos de assombro e de imensa gratidão para com Aquele que de maneira totalmente gratuita nos chamou do nada, pronunciando o nosso nome. **Compreender, portanto, que a vida é um dom, não deveria apenas despertar uma atitude de reconhecimento, mas lentamente deveria sugerir a primeira grande resposta à pergunta fundamental sobre o seu sentido**: a vida do homem é uma obra-prima do amor criador de Deus e é em si mesma um apelo ao amor. **O dom recebido tende pela sua natureza a tornar-se um bem dado.** O amor é o sentido pleno da vida. Deus amou tanto o homem que deu a sua vida por ele e tornou-o capaz de viver e amar à maneira divina.”
+    “Este simples facto de existir deveria antes de tudo encher a todos de assombro e de imensa gratidão para com Aquele que de maneira totalmente gratuita nos chamou do nada, pronunciando o nosso nome. **Compreender, portanto, que a vida é um dom, não deveria apenas despertar uma atitude de reconhecimento, mas lentamente deveria sugerir a primeira grande resposta à pergunta fundamental sobre o seu sentido**: a vida do homem é uma obra-prima do amor criador de Deus e é em si mesma um apelo ao amor. **O dom recebido tende pela sua natureza a tornar-se um bem dado.** O amor é o sentido pleno da vida. Deus amou tanto o homem que deu a sua vida por ele e tornou-o capaz de viver e amar à maneira divina.”
 
     -- Congresso de Novas Vocações na Europa
 
 * Ao serviço de quem/que gostarias de dedicar atualmente a tua vida? Porquê?
 
-* O que pensas sobre o fato de seres capaz de amar à maneira divina? O que significa isto para ti?
+* O que pensas sobre o facto de seres capaz de amar à maneira divina? O que significa isto para ti?
 
 Leiamos:
 
-    “Assim como a santidade é para todos os batizados em Cristo, assim também **existe uma vocação específica de cada vivente;** assim como a primeira está enxertada no santo Batismo, assim a segunda está ligada ao fato mesmo de existir. A vocação é o pensamento providencial do Criador a respeito de cada criatura, é a sua ideia-projeto, como um certo sonho que está no coração de Deus, porque o destino da criatura lhe importa. **Deus-Pai deseja que seja diferente e específica para cada vivente. O ser humano é na realidade «chamado» à vida e, quando começa a viver, traz e reencontra em si a imagem Daquele que o chamou.**”
+    “Assim como a santidade é para todos os batizados em Cristo, assim também **existe uma vocação específica de cada vivente;** assim como a primeira está enxertada no santo Batismo, assim a segunda está ligada ao facto mesmo de existir. A vocação é o pensamento providencial do Criador a respeito de cada criatura, é a sua ideia-projeto, como um certo sonho que está no coração de Deus, porque o destino da criatura lhe importa. **Deus-Pai deseja que seja diferente e específica para cada vivente. O ser humano é na realidade «chamado» à vida e, quando começa a viver, traz e reencontra em si a imagem Daquele que o chamou.**”
 
     -- Congresso de Novas Vocações na Europa
 
@@ -128,13 +128,13 @@ Leiamos:
 
 * O que muda para o mundo tal perspectiva que Cristo trouxe?
 
-* O que significa o fato de que os justos estavam surpreendidos por tal viragem dos acontecimentos?
+* O que significa o facto de que os justos estavam surpreendidos por tal viragem dos acontecimentos?
 
 Ser bom não é um esforço enorme. Os "bem-aventurados" têm isto inscrito no seu ADN, são assim "de passagem". Como de outra forma poderiam ser felizes se cada sorriso, aperto de mão ou outra ajuda fosse um esforço com suor na testa? Recebemos uma vela que se consome. Esse consumir-se no cristianismo é alegre, é natural. De outra forma ninguém seria cristão mais do que alguns anos por razões de esgotamento mental :).
 
 .. note:: Que cada animador encontre aqui o seu próprio exemplo. Eu dou o da KWC (Cruzada de Libertação do Homem), porque é comumente conhecido.
 
-A chave é precisamente a mudança de perspectiva de sexta-feira. Alguém do trabalho disse-me uma vez: "Admiro-te por esse esforço de não beber álcool há 17 anos. Deves ter umas técnicas de motivação incríveis e complicadas". O fato é que não as tenho. O cristianismo não é complicado, não tem mecanismos avançados. O que da perspectiva secular parece uma maquinaria complicada pode ser visto excepcionalmente simples. Mudemos por um momento a perspectiva e vejamos em cada alcoólico Jesus (ou simplesmente um homem com a mesma dignidade que a minha mãe) e pensemos que se pode ajudá-lo não bebendo. Portanto não bebo.
+A chave é precisamente a mudança de perspectiva de sexta-feira. Alguém do trabalho disse-me uma vez: "Admiro-te por esse esforço de não beber álcool há 17 anos. Deves ter umas técnicas de motivação incríveis e complicadas". O facto é que não as tenho. O cristianismo não é complicado, não tem mecanismos avançados. O que da perspectiva secular parece uma maquinaria complicada pode ser visto excepcionalmente simples. Mudemos por um momento a perspectiva e vejamos em cada alcoólico Jesus (ou simplesmente um homem com a mesma dignidade que a minha mãe) e pensemos que se pode ajudá-lo não bebendo. Portanto não bebo.
 
 * De que maneira a tua fé muda a perspectiva ao olhar para as outras pessoas?
 
@@ -153,7 +153,7 @@ Falamos disto ontem interpretando o símbolo da vela. É fácil perder o ardor. 
 
 * De que maneira podes manter nele o teu ardor?
 
-Como dizia um clássico "são precisos dois para dançar o tango". O simples fato de que nós queiramos estar numa comunidade não basta para que automaticamente o nosso ardor não enfraqueça. É precisa também a abertura dessa comunidade para nos ajudar. Podemos, portanto, colocar-nos do outro lado, certo? Já sabemos mudar de perspectiva! :).
+Como dizia um clássico "são precisos dois para dançar o tango". O simples facto de que nós queiramos estar numa comunidade não basta para que automaticamente o nosso ardor não enfraqueça. É precisa também a abertura dessa comunidade para nos ajudar. Podemos, portanto, colocar-nos do outro lado, certo? Já sabemos mudar de perspectiva! :).
 
 * O que fazes para manter o ardor dos outros na tua comunidade para o serviço?
 

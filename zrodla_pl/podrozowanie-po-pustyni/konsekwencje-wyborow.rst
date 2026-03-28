@@ -20,7 +20,7 @@ Wczoraj z~taką radością mówiliśmy – chcemy podejmować decyzje, chcemy de
 
 Klasycznym przykładem jest tutaj podejmowanie decyzji np. w~polityce. Dużo łatwiej nie musieć decydować o~ważnych reformach kraju, pozwolić, aby zrobili to inni, a~samemu usiąść na wygodnej pozycji krytyki. Aby decydować trzeba mieć odwagę, aby zmierzyć się z~konsekwencjami.
 
-* Czy musiałeś kiedyś się zmierzyć z~"przykrościami" spowodowanymi tym, że podjąłeś jakąś decyzję, gdy mogłeś "równie dobrze" zignorować całą sprawę i~się nie angażować?(i wtedy byłbyś "fajny")
+* Czy musiałeś kiedyś się zmierzyć z~"przykrościami" spowodowanymi tym, że podjąłeś jakąś decyzję, gdy mogłeś "równie dobrze" zignorować całą sprawę i~się nie angażować? (i wtedy byłbyś "fajny")
 
 * Czy masz takie decyzje w~życiu, których sposobu dokonania jesteś na tyle pewien, że nie boisz się jakiejkolwiek krytyki, bo Ty **wiesz**, że wtedy był to najlepszy ruch?
 
@@ -100,7 +100,7 @@ Konsekwentna postawa bierze na serio skutki swoich wcześniejszych wyborów, a~n
 Konsekwencja (jako postawa) to kolejny etap świadczący o~dojrzałości. Gdy już:
 
 1. odpowiedzialnie i~rzetelnie poszukujemy i~znajdujemy (rekolekcje adwentowe)
-2. mamy przed sobą kilka możliwości i~podejmujemy decyzję przemyślana i~opartą na wielu przesłankach (obecne rekolekcje)
+2. mamy przed sobą kilka możliwości i~podejmujemy decyzję przemyślaną i~opartą na wielu przesłankach (obecne rekolekcje)
 3. to nie wyrzucamy tego wszystko do czego tak pieczołowicie dochodziliśmy w~niepamięć po 3 dniach tylko staramy się te dobro trzymać jak najdłużej
 
 * Czy umiemy być konsekwentnymi?
@@ -114,4 +114,4 @@ Podsumowanie
 
 Podejmowanie decyzji, branie na siebie ich konsekwencji to codzienność dorosłego człowieka. Chrześcijanin nie tylko nie ucieka przed tym to jeszcze jest to realizacją jego powołania i~możliwością uświęcania swojego życia. Jestem odpowiedzialny za każdy mój czyn i~słowo a~konsekwencje ich są dla mnie nie do przewidzenia (efekt motyla). Gdy to wszystko sobie uświadamiam powinienem zamknąć się w~swoim pokoju i~bać się w~jakikolwiek sposób wpłynąć na świat. Jako człowiek wierzący jednak wiem, że moje decyzje nie są obojętne Bogu i~on im błogosławi i~prowadzi. Gdy teraz czytam te słowa konspektu ufam, że Bóg nie pozwoli, aby z~tego powodu ktokolwiek na duszy poniósł stratę gdyż rozpocząłem to spotkanie znakiem Krzyża. To daje mi wiara, dlatego nie wycofam się ze świata! – przeciwnie - jak nikt inny mam predyspozycje, aby w~niego wejść i~go przemieniać. Nie mogę zmarnować tak wielkiego potencjalnego dobra, które ktoś mi powierzył.
 
-.. note:: jako animator będziesz wiedział najlepiej w~jaki sposób przedstawić to grupie. Podejmij więc dobrą decyzję a~ja już Bogu dziękuje za dobre jej konsekwencje.
+.. note:: jako animator będziesz wiedział najlepiej w~jaki sposób przedstawić to grupie. Podejmij więc dobrą decyzję a~ja już Bogu dziękuję za dobre jej konsekwencje.

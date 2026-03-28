@@ -130,7 +130,7 @@ Grozi nam utrata intensywności, aromatu, zapachu, smaku. Tak działa bez-warto�
 .. centered:: **Jak rozmawiać to szukając głębi!**
 
 
-Bo są takie rzeczy w~życiu w~których nie chcemy zgodzić się na coś fałszywe  go, niepełnego...
+Bo są takie rzeczy w~życiu w~których nie chcemy zgodzić się na coś fałszywego, niepełnego...
 
 Animator wyciąga dużą kartkę na której wpisywać będziemy te "postulaty" o~co trzeba nam teraz walczyć. Zadaje pytania dopisując:
 

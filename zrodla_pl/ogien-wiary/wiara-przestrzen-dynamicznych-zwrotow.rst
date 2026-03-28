@@ -21,7 +21,7 @@ Spotkanie z~drugim człowiekiem zaczynające się od znaku krzyża jest czymś, 
 Wprowadzenie dla animatora
 ==========================
 
-Z racji, że spotkanie wymaga przekroczenia "ugłaskanego katolicyzmu", trzeba na to uwrażliwić animatorów, że muszą stworzyć taką atmosferę otwartości już od pierwszych minut spotkania, aby ludzie poczuli się zachęceni i~docenili wartość pogadania o~tym jak jest, a~nie o~tym jak powinno być. Warto powiedzieć, że właśnie po to przyjeżdżamy na rekolekcje, że jesteśmy w~takim gronie gdzie ufamy wzajemnie sobie, że gdy ktoś coś mówi to nie dlatego, że nie kocha Boga, tylko dlatego, że chce razem z~grupą szukać odpowiedzi. Ocieramy się moim zdaniem o~jakieś sedno tego czym jest animatorstwo. Duży od animatorów wymagamy. To nie jest konspekt do poprowadzenia czytając go jak scenariusz. W~zasadzie o~tym co tutaj napisałem jest sobota I, ale animatorzy muszą już teraz tworzyć taką atmosferę. Oficjalnym momentem przejścia do tego jest homilia ks. Jarka.
+Z racji, że spotkanie wymaga przekroczenia "ugłaskanego katolicyzmu", trzeba na to uwrażliwić animatorów, że muszą stworzyć taką atmosferę otwartości już od pierwszych minut spotkania, aby ludzie poczuli się zachęceni i~docenili wartość pogadania o~tym jak jest, a~nie o~tym jak powinno być. Warto powiedzieć, że właśnie po to przyjeżdżamy na rekolekcje, że jesteśmy w~takim gronie gdzie ufamy wzajemnie sobie, że gdy ktoś coś mówi to nie dlatego, że nie kocha Boga, tylko dlatego, że chce razem z~grupą szukać odpowiedzi. Ocieramy się moim zdaniem o~jakieś sedno tego czym jest animatorstwo. Dużo od animatorów wymagamy. To nie jest konspekt do poprowadzenia czytając go jak scenariusz. W~zasadzie o~tym co tutaj napisałem jest sobota I, ale animatorzy muszą już teraz tworzyć taką atmosferę. Oficjalnym momentem przejścia do tego jest homilia ks. Jarka.
 
 Wprowadzenie
 ============
@@ -41,7 +41,7 @@ Przykłady wydarzeń z~życia odkrywane dzięki różnym wykresom funkcji ;). Uc
 
 .. note:: Proponujemy rysować te wykresy w~czasie spotkania. Na zasadzie "Gdybym wam narysował coś takiego, to jakbyście mogli to zinterpretować?". Takie podejście ułatwi wam interakcje z~uczestnikami i~spotkanie będzie bardziej dynamiczne niż gdybyście robili im pokaz slajdów.
 
-Przyjrzyjcie się tym wykresom. Wyobraźcie sobie, że one obrazują nasz stosunek  do  różnych  wydarzeń  w~ naszym  życiu.  Ustalmy,  że  gdy  wykres  pnie  się  do góry oznacza to wzrost zainteresowania danym wydarzeniem (przeżywamy je "mocniej"), analogicznie gdy opada następuje spadek zainteresowania. Wykres ponad osią poziomą dodatkowo symbolizuje to, że wydarzenie o~którym mowa jest ważne i~istotne dla nas. Spróbujmy, przyglądając się tym trzem wykresom podać przykłady trzech takich sytuacji.
+Przyjrzyjcie się tym wykresom. Wyobraźcie sobie, że one obrazują nasz stosunek  do  różnych  wydarzeń  w~ naszym  życiu.  Ustalmy, że gdy wykres pnie się do góry oznacza to wzrost zainteresowania danym wydarzeniem (przeżywamy je "mocniej"), analogicznie gdy opada następuje spadek zainteresowania. Wykres ponad osią poziomą dodatkowo symbolizuje to, że wydarzenie o~którym mowa jest ważne i~istotne dla nas. Spróbujmy, przyglądając się tym trzem wykresom podać przykłady trzech takich sytuacji.
 
 .. image:: wykres1.*
    :align: center
@@ -60,7 +60,7 @@ PRZYKŁAD:
    start w~nowej szkole, przekonywania rodziców i~wszystkich dookoła typu "No teraz to się zacznie prawdziwa nauka! Zobaczysz, nie będzie już jak dotychczas"; budujące przekonanie o~tym, że rozpoczyna się nowy, ważniejszy!, etap życia; własne oczekiwania związane z~nowa sytuacją, nowymi ludźmi, obowiązkami ale i~przygodami i...konfrontacja z~rzeczywistością (brak wsparcia ze strony nauczycieli, brak akceptacji wśród rówieśników, słabsze wyniki itp., zawiedzione oczekiwania co do szkolnych "atrakcji" itp.)
 
 PRZYKŁAD:
-   dużo szumu związanego np. z~egzaminem maturalnym i~  jednoczesne zniechęcenie młodych: "Matura to bzdura"; "Twoje miejsce na ziemi tłumaczy zaliczona matura na pięć?" kontra "Co Ty jesteś wart bez matury?"; - wiem, że to ważne ale mam tez poczucie że to i~tak tylko jakiś mały krok, bo co z~tego że dzięki niej dostanę się na studia, skoro i~tak nikt nie da mi pracy? Inni olewają maturą, wyjeżdżają za granicę i~tez żyją...
+   dużo szumu związanego np. z~egzaminem maturalnym i~jednoczesne zniechęcenie młodych: "Matura to bzdura"; "Twoje miejsce na ziemi tłumaczy zaliczona matura na pięć?" kontra "Co Ty jesteś wart bez matury?"; - wiem, że to ważne ale mam też poczucie że to i~tak tylko jakiś mały krok, bo co z~tego że dzięki niej dostanę się na studia, skoro i~tak nikt nie da mi pracy? Inni olewają maturę, wyjeżdżają za granicę i~też żyją...
 
 .. image:: wykres3.*
    :align: center
@@ -101,7 +101,7 @@ Skoro nie to spróbujmy prześledzić jak to wyglądało na przestrzeni 33 lat j
 * itd (inwencja twórcza animatora mile widziana, ale nie streszczajmy całej Ewangelii)
 
 Wniosek dotyczący ostatnich dni Jezusa przed Emaus:
-   Jezus opowiada przypowieści, wskrzesza Łazarza, wjeżdża uroczyście do Jerozolimy,idą za nim tłumy i~kilka dni później jest wyszydzony i~zabity. 180 stopniowy zwrot akcji w~kilka dni, a~historia trwała 3 lata.
+   Jezus opowiada przypowieści, wskrzesza Łazarza, wjeżdża uroczyście do Jerozolimy, idą za nim tłumy i~kilka dni później jest wyszydzony i~zabity. 180 stopniowy zwrot akcji w~kilka dni, a~historia trwała 3 lata.
 
 Dobre rozczarowanie, bo odskocznią w~górę!
 ==========================================
@@ -146,7 +146,7 @@ Trudno nam sobie poradzić ze zmartwychwstaniem. Mamy świadomość doniosłośc
 
 * Czy chcielibyście mocniej i~wyżej?
 
-Od czego zaczyna się zmiany; co powinno być naszym pierwszym krokiem? (*krzyk: nie chcę tak dłużej! Chcę wyjść! Chcę żyć!*)
+Od czego zaczynają się zmiany; co powinno być naszym pierwszym krokiem? (*krzyk: nie chcę tak dłużej! Chcę wyjść! Chcę żyć!*)
 
 Czy jesteś gotowy/a krzyczeć tak do osoby, która potraktuje ten krzyk bardzo serio; do Jezusa? Bo On odpowie.
 

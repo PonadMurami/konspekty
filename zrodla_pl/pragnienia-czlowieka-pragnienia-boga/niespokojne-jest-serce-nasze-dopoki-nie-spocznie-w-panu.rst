@@ -21,7 +21,7 @@ Cel Spotkania
 Wprowadzenie dla animatora
 ==========================
 
-Ostatniego dnia rekolekcje mają naturalną tendencje do "rozluźniania się". Dzisiejszego dnia spotkanie grupowe pełni najważniejszą rolę w~utrzymaniu rekolekcji w~tematyce którą proponujemy. Jeżeli tutaj nie utrzymamy konkretnego analizowania problemu dzisiejszy dzień w~oczach uczestników zatraci "swój rys" i~stanie się po prostu "ostatnim dniem".
+Ostatniego dnia rekolekcje mają naturalną tendencję do "rozluźniania się". Dzisiejszego dnia spotkanie grupowe pełni najważniejszą rolę w~utrzymaniu rekolekcji w~tematyce, którą proponujemy. Jeżeli tutaj nie utrzymamy konkretnego analizowania problemu dzisiejszy dzień w~oczach uczestników zatraci "swój rys" i~stanie się po prostu "ostatnim dniem".
 
 Modlitwa początkowa
 ===================
@@ -44,7 +44,7 @@ Przypomnijmy:
 
    -- św. Augustyn
 
-* Czy od wczoraj nagle wszelkie nasze rozterki serca, pragnienia itd zostały zaspokojone?
+* Czy od wczoraj nagle wszelkie nasze rozterki serca, pragnienia itd. zostały zaspokojone?
 
 * Dlaczego nie wszystko się zmieniło?
 
@@ -53,7 +53,7 @@ Krzyże, które pojawiły się w~labiryncie są tak naprawdę istotą dzisiejsze
 Boże działanie jest mądre
 =========================
 
-Wyobraźcie sobie, że małe dziecko o~prosi was o~wiele rzeczy (pragnie czegoś). Wy możecie na te pragnienia odpowiadać albo po myśli dziecka albo nie. Spróbujmy stworzyć listę powodów dla których moglibyśmy wykonać coś nie według pragnień tego dziecka i~podajmy przykład. (tworzymy razem listę mniej więcej wyglądającą tak):
+Wyobraźcie sobie, że małe dziecko prosi was o~wiele rzeczy (pragnie czegoś). Wy możecie na te pragnienia odpowiadać albo po myśli dziecka albo nie. Spróbujmy stworzyć listę powodów, dla których moglibyśmy wykonać coś nie według pragnień tego dziecka i~podajmy przykład. (tworzymy razem listę mniej więcej wyglądającą tak):
 
 +--------------------------+----------------------------+
 |     Pragnienie dziecka   |    Powód odmowy            |
@@ -78,11 +78,11 @@ Wyobraźcie sobie, że małe dziecko o~prosi was o~wiele rzeczy (pragnie czegoś
 |                          | zostawić miejsce w~brzuchu |
 +--------------------------+----------------------------+
 
-Ważne, aby tak nakierować grupę, aby wyszły co najmniej te 3 powodu odmowy!
+Ważne, aby tak nakierować grupę, aby wyszły co najmniej te 3 powody odmowy!
 
 **Grupa sama próbuje przełożyć te powody odmowy na życie duchowe. TAKŻE podając przykłady.**
 
-Wniosek: Bóg jako nieskończony w~swej mądrości wie lepiej co dla nas jest lepsze.
+Wniosek: Bóg jako nieskończony w~swej mądrości wie lepiej, co dla nas jest lepsze.
 
 Powstaje pytanie:
 
@@ -106,9 +106,9 @@ Aby Bóg działał trzeba najpierw mu powierzyć swoją drogę. Bardzo często p
 
 * Jak Ci się wydaje – oddanie jakich pragnień Bogu jest najtrudniejsze?
 
-* Czy wierzę, że gdyby wszystkie moje pragnienia były ukształtowane przez Boga byłbym człowiekiem szczęśliwym?
+* Czy wierzę, że gdyby wszystkie moje pragnienia były ukształtowane przez Boga, byłbym człowiekiem szczęśliwym?
 
-(Być może ktoś z~grupy ma doświadczenie takiej "pracy z~Bogiem" dotyczącej jakieś swoich pragnień. Jeżeli tak to ogromnym ubogaceniem tego spotkania byłoby jego podzielenie sięz grupą!)
+(Być może ktoś z~grupy ma doświadczenie takiej "pracy z~Bogiem" dotyczącej jakieś swoich pragnień. Jeżeli tak to ogromnym ubogaceniem tego spotkania byłoby jego podzielenie się z~grupą!)
 
 Boże działanie jest w~odpowiedzi na dialog
 ==========================================
@@ -119,7 +119,7 @@ W sprawie pragnień warto opowiedzieć w~tym miejscu taką (znaną) historyjkę.
 
    -- Anonim
 
-Taki jest efekt nierozmawiania o~pragnieniach pomiędzy ludźmi. Między nami a~Bogiem jest podobnie dlatego, że Bóg mimo, że jest wszechwiedzący szanuje naszą wolność i~bez rozmowy z~nami na temat naszych pragnień nie może działać tak jakby chciał.
+Taki jest efekt nierozmawiania o~pragnieniach pomiędzy ludźmi. Między nami a~Bogiem jest podobnie dlatego, że Bóg, mimo że jest wszechwiedzący, szanuje naszą wolność i~bez rozmowy z~nami na temat naszych pragnień nie może działać tak, jakby chciał.
 
 * Czy rozmawiam z~Bogiem na temat moich pragnień?
 
@@ -127,7 +127,7 @@ Taki jest efekt nierozmawiania o~pragnieniach pomiędzy ludźmi. Między nami a~
 
 * Która rozmowa przychodzi mi łatwiej? Dlaczego?
 
-Taka modlitwa jest też "naturalna". Rozmawiamy na niej o~tym co się teraz dzieje u~nas, jest normalną rozmową. To doskonały początek do zagłębienia się w~modlitwę!
+Taka modlitwa jest też "naturalna". Rozmawiamy na niej o~tym, co się teraz dzieje u~nas, jest normalną rozmową. To doskonały początek do zagłębienia się w~modlitwę!
 
 .. note:: **trudny moment spotkania!**
 
@@ -163,7 +163,7 @@ Bóg gwarantuje nam, że w~niebie w~komunii z~nim już nie będziemy niczego pra
 Zastosowanie – rola wspólnoty
 =============================
 
-Faktycznie – podejmowanie wysiłku takiego życia z~Bogiem "na 1oo%" jest bardzo trudne. Ale dosłownie nie jesteśmy sami w~tym trudzie – mamy siebie. Chcielibyśmy tutaj na tych rekolekcjach "dotknąć" tego czym jest nasza wspólnota.
+Faktycznie – podejmowanie wysiłku takiego życia z~Bogiem "na 100%" jest bardzo trudne. Ale dosłownie nie jesteśmy sami w~tym trudzie – mamy siebie. Chcielibyśmy tutaj na tych rekolekcjach "dotknąć" tego czym jest nasza wspólnota.
 
 **Uczestnicy sami sobie dają zadania na dzisiejszy dzień, każdy po dwa – jedno bardzo praktyczne, jedno duchowe. Zadania mają mieć związek z~tematem rekolekcji. Gdy wymyślę zadania to proszę o~ich przyjęcie dwie osoby z~grupy (animator dba, aby ludzie dostawali "po równo"). Cel tego punktu – wzajemna pomoc sobie (w odpowiedzialności) w~poznawaniu coraz lepiej Chrystusa.**
 

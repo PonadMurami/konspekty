@@ -6,7 +6,7 @@ Spotkanie 1. - Czym jest poszukiwanie?
 Wprowadzenie
 ============
 
-Pozwólcie że zaczniemy mniej pobożnie:
+Pozwólcie, że zaczniemy mniej pobożnie:
 
    | Biega, krzyczy pan Hilary:
    | "Gdzie są moje okulary?"
@@ -71,7 +71,7 @@ Zapiszmy nasze odkrycia [zapis na przygotowanej mapce świata]
 Motywy poszukiwania w~literaturze
 =================================
 
-* Czy  znacie jakieś utwory literackie, w~których bohaterowie czegoś poszukują?  [np. "Odyseja" Homera]
+* Czy znacie jakieś utwory literackie, w~których bohaterowie czegoś poszukują?  [np. "Odyseja" Homera]
 
 * Wymienić. Opowiedz, by wszyscy wiedzieli. Czego bohater szukał?
 
@@ -82,13 +82,13 @@ Zapiszmy nasze odkrycia [zapis na przygotowanej mapce świata]
 Motywy poszukiwania w~filmie
 ============================
 
-* A~czy  znacie jakieś filmy, w~których bohaterowie czegoś poszukują?  [np. "Poszukiwacze zaginionej arki", "Uprowadzona", "Tożsamość Bournea" - cała trylogia]
+* A~czy znacie jakieś filmy, w~których bohaterowie czegoś poszukują?  [np. "Poszukiwacze zaginionej arki", "Uprowadzona", "Tożsamość Bournea" - cała trylogia]
 
 * Wymienić. Opowiedz, by wszyscy wiedzieli, o~co w~nim chodziło. Czego bohater szukał?
 
 * Jak sądzisz, dlaczego bohater tego szukał?
 
- Zapiszmy nasze odkrycia [zapis na przygotowanej mapce świata]
+Zapiszmy nasze odkrycia [zapis na przygotowanej mapce świata]
 
 Posłuchajcie teraz tekstu:
 
@@ -96,7 +96,7 @@ Posłuchajcie teraz tekstu:
    Zakradł się do drzewa, aby schwytać ptaka. Ale kiedy miał go już prawie w~dłoniach, ptak zatrzepotał skrzydełkami, uniósł się w~powietrze i~usiadł na gałęziach jodły. Pragnienie pasterza, który chciał posiadać tego ptaka, było tak ogromne, że postanowił iść za nim. Kiedy podszedł do jodły, ptak znowu odleciał. W~tym miejscu pasterz znalazł rannego kosa, który był w~niebezpieczeństwie, ponieważ czyhał na niego kot. Przegonił więc kota i~w tym samym momencie dostrzegł kolorowego ptaka na brzegu sadzawki. Kiedy pasterz tam dotarł, ptak odfrunął. Na jego miejscu znalazł jedynie zaplątaną w~sieci rybę, która poprosiła go o~pomoc. Kiedy uwolnił już rybę, dostrzegł ptaka na szczycie wzniesienia. Pobiegł tam, a~kiedy był już bardzo blisko, ptak ponownie odleciał. Na jego miejscu pasterz znalazł wyschnięty od suszy kwiat, który poprosił go o~pomoc. Podlał go i~po chwili dostrzegł ptaka nad brzegiem morza. Ale kiedy pasterz tam dotarł, ptak uniósł się do góry i~odleciał nad wodą w~stronę zachodzącego słońca.
    "Ach - pomyślał pasterz - ten ptak zrobił ze mnie głupka". Rozczarowany udał się w~drogę powrotną do swoich owiec. Kiedy szedł po wzniesieniu, jego oczom ukazał się przepiękny kwiat. Nad brzegiem sadzawki czekała na niego ryba, która cieszyła się, że może dalej żyć. A~w~koronie jodły kos powitał go radosnym śpiewem. Wtedy pasterz zrozumiał, jaki sens ma trwająca całe życie tęsknota za doskonałością, nawet jeżeli nie można jej schwytać w~dłonie.
 
-   -- Willia Hoffsümmer -- Pragnienie doskonałości
+   -- Willi Hoffsümmer -- Pragnienie doskonałości
 
 * Czego szukał pasterz?
 

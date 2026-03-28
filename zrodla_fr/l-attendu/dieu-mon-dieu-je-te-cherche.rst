@@ -87,7 +87,7 @@ Les déceptions sont une réaction normale à une situation difficile dans laque
 
 Il vaut la peine de mentionner ici que nous pouvons distinguer deux types de déception et probablement les deux sont une étape nécessaire pour que nous nous rendions compte où nous en sommes sur notre chemin vers Dieu.
 
-La première déception est la situation où la situation change, mais complètement pas selon notre pensée.
+La première déception est la situation où la situation change, mais pas du tout comme nous le pensions.
 
 Lisons
 

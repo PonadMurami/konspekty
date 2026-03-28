@@ -57,7 +57,7 @@ Leamos un fragmento un momento antes del comienzo de nuestra historia:
 
     Teraj tomó a su hijo Abram, a su nieto Lot, el hijo de Harán, y a su nuera Saray, la mujer de su hijo Abram, y salieron juntos de Ur de los caldeos, para ir a la tierra de Canaán. Y llegaron hasta Harán y se establecieron allí. Los días de Teraj fueron doscientos cinco años; y murió Teraj en Harán.
 
-    -- Gn 11,31-32 (Nota: corregido a la cita correcta, en PL decía 1 Kor 9,1 que es erróneo o un typo, el texto es de Génesis)
+    -- Gn 11,31-32
 
 Canaán es la bíblica "Tierra Prometida". El padre de Abram también quería llegar allí, pero no lo logró, porque al llegar a Harán decidió que allí estaba "suficientemente bien". Se conformó con una medida a medias, pero en Abram todavía permanecía el deseo de llegar al destino original del viaje, soñaba con ello mucho tiempo después. La vocación de Dios no surge de la nada, siempre se basa en algún deseo que está en nosotros desde hace mucho tiempo, pero quizás no siempre nos damos cuenta de ello.
 

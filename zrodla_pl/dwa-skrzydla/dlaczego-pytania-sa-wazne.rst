@@ -14,7 +14,7 @@ Fragment:
 
 Pytania z~Namiotu Spotkania:
 
-* Przykłady ważnych decyzji z~mojego życia (jakie były w~ostatnim czasi, co mnie jeszcze czeka). Jakie były ich konsekwencje?
+* Przykłady ważnych decyzji z~mojego życia (jakie były w~ostatnim czasie, co mnie jeszcze czeka). Jakie były ich konsekwencje?
 
 * Co wpływa na moje decyzje? Czyich rad słucham, a~czyje od razu odrzucam?
 
@@ -178,7 +178,7 @@ Wiara szuka odpowiedzi na najważniejsze pytania jakie możemy sobie postawić. 
 
 Wyobraźcie sobie, że stoi przed Wami mędrzec, który może Wam udzielić w~100% poprawnej odpowiedzi na pytania. Nie ma jednak dla Was wiele czasu i~możecie zadać mu tylko jedno pytanie. Które wybierzecie?
 
-.. note:: Ten punkt to “plan zapasowy” na wypadek gdyby ktoś na poprzednie pytania o~“ważne pytania” nie umiał żadnego wskazać. Chcemy ukonkretyzować jakiego typu to mogą być pytania. W~pozostałych przypadkach jest to dobra okazja do dzielenia się. W~starszyh grupach można nie robić listy i~od razu przejść do pytania jakie pytanie by zadali sami z~siebie
+.. note:: Ten punkt to “plan zapasowy” na wypadek gdyby ktoś na poprzednie pytania o~“ważne pytania” nie umiał żadnego wskazać. Chcemy ukonkretyzować jakiego typu to mogą być pytania. W~pozostałych przypadkach jest to dobra okazja do dzielenia się. W~starszych grupach można nie robić listy i~od razu przejść do pytania jakie pytanie by zadali sami z~siebie
 
 (Animator czyta listę dwa razy, uczestnicy mówią które wybierają. Listę można dostosować do swojej grupy wiekowej)
 
@@ -247,7 +247,7 @@ Animator wyciąga kartki z~zapisanymi pytaniami z~poniższej listy i~rozkłada n
 
 #. Skąd wiemy co Jezus mówił w~trakcie modlitwy w~Ogrójcu skoro był tam sam?
 
-#. Jak Noe zmieścił tyle zwierząt na arkę zbudowanej z~drewna?
+#. Jak Noe zmieścił tyle zwierząt na arkę zbudowaną z~drewna?
 
 #. Czemu mamy chleb eucharystyczny, a~nie coś innego, np. popcorn?
 
@@ -287,7 +287,7 @@ Nie ma złych pytań. Warto pytania sobie stawiać nawet o~te najmniejsze sprawy
 
 Jako pomoc w~odpowiedzi na pytania gdyby uczestnicy dociekali udostępniamy "ściągę":
 
-.. note:: Animatorzy nie muszą się zgadzać z~przedstawionym tutaj punktem widzenia. Możecie pokazać inne spojrzenie. Ważne żeby na pytnia odpowiadać klarownie i~prosto z~mostu, jak to ostatnio jest popularne: “mówić jak jest”. Taki styl mówienia ma np. o. Adam Szustak. Ludzie chcą informacji, wiedzy, a~nie bajerowania. Wyczuwają bajerowanie na 5 km.
+.. note:: Animatorzy nie muszą się zgadzać z~przedstawionym tutaj punktem widzenia. Możecie pokazać inne spojrzenie. Ważne żeby na pytania odpowiadać klarownie i~prosto z~mostu, jak to ostatnio jest popularne: “mówić jak jest”. Taki styl mówienia ma np. o. Adam Szustak. Ludzie chcą informacji, wiedzy, a~nie bajerowania. Wyczuwają bajerowanie na 5 km.
 
 Dlaczego w~składamy ręce razem a~nie trzymamy się za kolana?
     Taki sposób składania dłoni na modlitwie zaczął się rozpowszechniać od XIII wieku. Zwyczaj ten praktykowany był w~liturgii i~w modlitwach prywatnych. Gest ten wywodzi się z~germańskiej formy oddawania czci, zgodnie z~którą wasal z~tak złożonymi rękami przystępował do swego lennika i~otrzymywał od niego zewnętrzny znak nadania lenna. W~zamian za lenno wasal zobowiązywał się służyć wiernie seniorowi.
@@ -317,13 +317,13 @@ Jak Noe zmieścił tyle zwierząt na arkę zbudowaną z~drewna?
     Sorry, ale nie zmieścił. Księga Rodzaju to Księga alegoryczna w~swoich pierwszych 11 rozdziałach. Jest opowieścią w~której jest Prawda, ale nie dotycząca nauki i~historii tylko wiary. Opowieść o~Noe mówi o~tym, że człowiek jest nadal odpowiedzialny za całe stworzenie (dostał tę odpowiedzialność w~Edenie) i~nie olewa go (dosłownie :D). Mówi też o~tym, że Bóg prosi człowieka czasem o~rzeczy nie do ogarnięcia po ludzku (budować wielką łódź na suchej ziemi?)
 
 Czemu mamy chleb eucharystyczny, a~nie coś innego, np. popcorn?
-    Chleb jest powszedni i~prosty. Każdy go potrzebuje i~ma do niego dostęp. Bóg jest właśnie taki: chce być w~codzienności pod każdym domem, a~nie tylko w~pałacach. Tak wybrał. Ten znak był bardzo wyrazisty dla ludzi z~tego kręgu kulturowego (nawiązanie do Paschy Żyydowskiej). W~Polsce ten aspekt kulturowy mamy wspólny. Chleb jest dla nas tym samym.
+    Chleb jest powszedni i~prosty. Każdy go potrzebuje i~ma do niego dostęp. Bóg jest właśnie taki: chce być w~codzienności pod każdym domem, a~nie tylko w~pałacach. Tak wybrał. Ten znak był bardzo wyrazisty dla ludzi z~tego kręgu kulturowego (nawiązanie do Paschy Żydowskiej). W~Polsce ten aspekt kulturowy mamy wspólny. Chleb jest dla nas tym samym.
 
 Skąd wiara wie tak dużo co się dzieje po śmierci z~człowiekiem?
     Powiedział nam to Duch Święty, a~my słuchamy go intensywnie od 2000 lat. To wystarczająco długi czas, aby popytać go o~różne tematy. Poza tym nasz założyciel umarł i~wrócił do nas. Apostołowie na pewno pytali go “jak tam było”.
 
 Po co robimy znak krzyża wodą święconą wchodząc do kościoła?
-    Woda święcona w~kościele przede wszystkim nawiązuje do wody chrztu. Czyniony nią Znak krzyża jest przypomnieniem sobie, a~zarazem ponowieniem przymierza zawartego na chrzcie z~Chrystusem. Wyznaniem wiary, która jest warunkiem owocnego przeżywania Eucharysti, na która idziemy, czy zanoszonej do Boga modlitwy. Także, by przypomnieć sobie, że wchodzimy do miejsca świętego. Symbolicznie obmyć to, co nie święte i~być gotowym na spotkanie z~Jezusem.
+    Woda święcona w~kościele przede wszystkim nawiązuje do wody chrztu. Czyniony nią Znak krzyża jest przypomnieniem sobie, a~zarazem ponowieniem przymierza zawartego na chrzcie z~Chrystusem. Wyznaniem wiary, która jest warunkiem owocnego przeżywania Eucharystii, na którą idziemy, czy zanoszonej do Boga modlitwy. Także, by przypomnieć sobie, że wchodzimy do miejsca świętego. Symbolicznie obmyć to, co nie święte i~być gotowym na spotkanie z~Jezusem.
 
 Dlaczego na ołtarzu daje się świece, skoro nie jest potrzebne ich światło?
     Światło świecy symbolizuje czuwanie, obecność, a~przede wszystkim zmartwychwstałego Chrystusa, który jest “światłością świata”. Nie będziemy też ukrywać, że jest to po prostu tradycja, która została nam z~czasów gdy elektryczności jeszcze nie ujarzmiliśmy jako ludzkość. Lubimy te świece, pomagają nam. Świeca sama się spala by dawać innym światło i~ciepło - odnajdujemy w~tym ważną prawdę o~powołaniu każdego z~nas.
@@ -335,13 +335,13 @@ Co oznacza “amen”? Czemu nie przetłumaczyli tego na polski?
     z~hebr. amen – „niech się stanie”, „wierność”. Przyjęło się bardzo mocno i~tak już zostało. Fajnie jest też mieć jakieś słowo wspólne mimo mnogości języków, prawda? Buduje to jedność pomiędzy nami. A~dlaczego nie przetłumaczono na polski takich słów jak: fizyka, filozofia, muzyka, kalkulator, komputer, klaun, parasol, studia, nie wspominając o~słowach “młodszych” takich jak czat czy pen-drive? Owszem były, takie próby w~XVIII wieku, ale “nie pykło” bo sprowadzały się mniej więcej do tego, że idąc ich tropem dziś mówilibyśmy “maszyna licząca”, zamiast “kalkulator, albo “mózg elektronowy” zamiast komputer :D
 
 Jaki sens ma powiedzenie 50 razy w~30 minut tej samej modlitwy?
-    Powiedzenie ma mały sens; tylko taki, że ćwiczy się dykcję. Za słowami idą jednak intencje i~medytacja. Różaniec pozwala skoncentrować się na jednej myśli i~szukać w~niej odpowiedzi - ma charakter, rzec by można, medytacyjny. Ale różaniec to nie tylko klepanie “zdrowasiek” - każda dziesiątka to inna Tajemnica opisująca życie Chrystusa - bo wbrew pozorom ta modlitwa jest mocno chrystocentryczna czego dowodem jest “Jezus” w~środku  każdego “Zdrowaś Maryjo”. Jednak tu to życie rozważamy z~perspektywy Maryi, która tak jak my, była zwykłym człowiekiem, który wszystko musiał przyjąć przez wiarę.
+    Powiedzenie ma mały sens; tylko taki, że ćwiczy się dykcję. Za słowami idą jednak intencje i~medytacja. Różaniec pozwala skoncentrować się na jednej myśli i~szukać w~niej odpowiedzi - ma charakter, rzec by można, medytacyjny. Ale różaniec to nie tylko klepanie “zdrowasiek” - każda dziesiątka to inna Tajemnica opisująca życie Chrystusa - bo wbrew pozorom ta modlitwa jest mocno chrystocentryczna czego dowodem jest “Jezus” w~środku każdego “Zdrowaś Maryjo”. Jednak tu to życie rozważamy z~perspektywy Maryi, która tak jak my, była zwykłym człowiekiem, który wszystko musiał przyjąć przez wiarę.
 
 Jak to jest możliwe, że Bóg wszystko wie, a~mimo to ja mam wolną wolę?
     Odpowiedział na to św. Augustyn i~jest to jeden z~ważniejszych owoców jego życia. My żyjemy w~czasie, a~to oznacza, że mamy przeszłość, teraźniejszość i~przyszłość. Bóg i~całe niebo jest poza czasem. Widzi równocześnie przeszłość i~przyszłość. Widzi zatem Twój obecny wybór i~ten którego dokonasz za godzinę. Zmiana punktu obserwacji nie zmienia faktu, że z~perspektywy kogoś żyjącego w~czasie podejmuje on wolne wybory
 
 Czemu w~czasie przeistoczenia ministrant uderza w~gong?
-    Wyobraź sobie długie świątynie w~których Msza odprawiana jest po łacinie. Lud wierny w~tym czasie nie rozumiejąc za wiele modli się tak jak umie po swojemu. Przy długiej świątyni i~słabym oświetleniu nie zawsze wszyscy wiedzieli jaki jest moment akcji liturgicznej. Dzwonki czy gong ułatwiał sprawę. Spodobało nam się to i~zostawiliśmy mimo, że obecnie w~sumie można by z~tego zrezygnować. Bez ogródek: czasami sami lubimy ten gong, bo gdy myśli odpływają (tak! Zaangażowani chrześcijanie nie zawsze na Mszy są na pełnym skupieniu)  to taki gong doprowadza w~momencie do porządku :).
+    Wyobraź sobie długie świątynie w~których Msza odprawiana jest po łacinie. Lud wierny w~tym czasie nie rozumiejąc za wiele modli się tak jak umie po swojemu. Przy długiej świątyni i~słabym oświetleniu nie zawsze wszyscy wiedzieli jaki jest moment akcji liturgicznej. Dzwonki czy gong ułatwiał sprawę. Spodobało nam się to i~zostawiliśmy mimo, że obecnie w~sumie można by z~tego zrezygnować. Bez ogródek: czasami sami lubimy ten gong, bo gdy myśli odpływają (tak! Zaangażowani chrześcijanie nie zawsze na Mszy są na pełnym skupieniu) to taki gong doprowadza w~momencie do porządku :).
 
 Dlaczego nie mogę pójść do nieba ze swoim psem?
     Bo pies nie ma duszy i~nie jest osobą.

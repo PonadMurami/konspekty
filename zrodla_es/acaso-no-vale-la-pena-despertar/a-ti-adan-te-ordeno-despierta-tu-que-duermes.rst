@@ -95,7 +95,7 @@ Resumen y aplicación
 
 Oración común por la intención de los confesores, que servirán en el retiro. Oración por la intención de todos, que se acercarán al sacramento de penitencia y reconciliación.
 
-Mañana por la mañana durante los primeros 45 segundos después de despertar no me levantaré de la cama solo me haré la pregunta: ¿Para qué quiero levantarme de la cama? ¿Cómo quiero aprovechar este día?
+Mañana por la mañana durante los primeros 45 segundos después de despertar no me levantaré de la cama, solo me haré la pregunta: ¿Para qué quiero levantarme de la cama? ¿Cómo quiero aprovechar este día?
 
 Se puede terminar leyendo:
 

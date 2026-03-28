@@ -6,7 +6,7 @@ Spotkanie 1. - Wolność
 Wprowadzenie dla animatora
 ==========================
 
-Treści tego spotkania są kluczowe dla celów dalszej merytoryki rekolekcji. Prawidłowe przeprowadzenie spotkania umożliwi uczestnikom wejście w~rekolekcje od razu - będą zmuszeni do myślenia. Proponuję dokładnie przeanalizować konspekt pod kątem swojej grupy- czy któreś pytania mogą okazać się za trudne, może coś jest zbyt trywialne- tutaj liczę na swego rodzaju "instynkt animatorski". Przeprowadzenie spotkania "z biegu" bez analizy konspektu może być dość problematyczne stąd dobre przygotowanie jest kluczem do prowadzenia spotkania. Zamieszczone zostały dwa istotne fragmenty z~Biblii – proponuję przemodlenie ich w~takcie Namiotu Spotkania. Wynika to z~faktu, że słowa, która wypowiadamy muszą być żywe, musi być zauważalne to, że to o~czym mówimy jest naszą drogą życia bądź celem do którego zmierzamy. Jednocześnie nie należy bad się wypowiadania swoich słabszych stron- radzę wystrzegać się postawy "animatora idealnego". To postawa animatora jest podstawowym czynnikiem to otwierania się grupy.
+Treści tego spotkania są kluczowe dla celów dalszej merytoryki rekolekcji. Prawidłowe przeprowadzenie spotkania umożliwi uczestnikom wejście w~rekolekcje od razu - będą zmuszeni do myślenia. Proponuję dokładnie przeanalizować konspekt pod kątem swojej grupy- czy któreś pytania mogą okazać się za trudne, może coś jest zbyt trywialne- tutaj liczę na swego rodzaju "instynkt animatorski". Przeprowadzenie spotkania "z biegu" bez analizy konspektu może być dość problematyczne stąd dobre przygotowanie jest kluczem do prowadzenia spotkania. Zamieszczone zostały dwa istotne fragmenty z~Biblii – proponuję przemodlenie ich w~takcie Namiotu Spotkania. Wynika to z~faktu, że słowa, która wypowiadamy muszą być żywe, musi być zauważalne to, że to o~czym mówimy jest naszą drogą życia bądź celem do którego zmierzamy. Jednocześnie nie należy bać się wypowiadania swoich słabszych stron- radzę wystrzegać się postawy "animatora idealnego". To postawa animatora jest podstawowym czynnikiem to otwierania się grupy.
 
 Modlitwa
 ========
@@ -75,7 +75,7 @@ Puszczenie piosenki Marka Grechuty pt. Wolność (Jeżeli nie ma możliwości pu
 
 * Czy jakiś fragment piosenki szczególnie wam się spodobał?
 
-* Jak rozumiecie słowa: "Gdy widzisz ptaka w~locie jak wolny jest, jak płynie sobie, aż po nieba kres. Wiedz - niebo bywa pełne wichrów i~burz a~z~lotu ptaka już nie widad róż."?
+* Jak rozumiecie słowa: "Gdy widzisz ptaka w~locie jak wolny jest, jak płynie sobie, aż po nieba kres. Wiedz - niebo bywa pełne wichrów i~burz a~z~lotu ptaka już nie widać róż."?
 
 * Jak rozumiecie słowa: "Wolność to diament do oszlifowania, a~zabłyśnie blaskiem nie do opisania."?
 
@@ -131,7 +131,7 @@ Myślę, że zgodzicie się z~tym, że często nasze decyzje są kierowane tak p
 
 Hasło pod dyskusję: "Chrześcijaństwo – źródło wolności, czy ograniczenia?" (Tutaj pozwalamy na luźne dywagacje. Jeżeli animator dobrze przeprowadzi ten punkt może wywołać się ciekawa dyskusja jednak trzeba pamiętać, ze czas goni.)
 
-Kiedy już uczestnicy co nieco powiedzą można spróbować ich trochę "zagiąć" (tutaj w~zależenie od tego na ile pewnie czuje się animator) stwierdzeniami (przede wszystkim zmuszenie do myślenia- nauka odrzucania schematów, próba przełamania kierunku myślenia "mówię tak, bo taki jest klucz"):
+Kiedy już uczestnicy co nieco powiedzą można spróbować ich trochę "zagiąć" (tutaj w~zależności od tego na ile pewnie czuje się animator) stwierdzeniami (przede wszystkim zmuszenie do myślenia- nauka odrzucania schematów, próba przełamania kierunku myślenia "mówię tak, bo taki jest klucz"):
 
 * Co to za wolność, która ogranicza?
 * Jak można nazwać wolnością gąszcz zakazów i~nakazów obecnych w~chrześcijaństwie?
@@ -196,4 +196,4 @@ Czym jest wolność – czym się różni od takiej, którą powierzchownie moż
 Zastosowanie
 ============
 
-Jako zastosowanie niech każdy z~uczestników się zastanowi czy jest gotów dzisiaj podjąć decyzję o~dążeniu do prawdziwej wolności. Czy jest gotów podjąć trud walki o~nią. Niech tą decyzję "przyniesie" ze sobą na modlitwę wieczorną.
+Jako zastosowanie niech każdy z~uczestników się zastanowi czy jest gotów dzisiaj podjąć decyzję o~dążeniu do prawdziwej wolności. Czy jest gotów podjąć trud walki o~nią. Niech tę decyzję "przyniesie" ze sobą na modlitwę wieczorną.

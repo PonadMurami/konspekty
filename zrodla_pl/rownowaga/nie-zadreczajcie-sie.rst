@@ -69,7 +69,7 @@ Podsumujmy:
 
 * Ile drugorzędne?
 
-* Co to ćwiczenie pomogło mi odkryć?fv
+* Co to ćwiczenie pomogło mi odkryć?
 
 * Jak to się dzieje, że tyle czasu zajmuje mi wszystko inne, a~nie to co określam w~swoim życiu jako “ważne”? Jak to możliwe, że tak łatwo ślepniemy?
 

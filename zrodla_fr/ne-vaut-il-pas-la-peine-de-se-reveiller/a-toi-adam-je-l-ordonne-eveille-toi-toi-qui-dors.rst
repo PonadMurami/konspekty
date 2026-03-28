@@ -95,7 +95,7 @@ Résumé et application
 
 Prière commune pour l'intention des confesseurs, qui serviront dans la retraite. Prière pour l'intention de tous, qui s'approcheront du sacrement de pénitence et réconciliation.
 
-Demain matin pendant les premières 45 secondes après le réveil je ne me lèverai pas du lit seulement je me poserai la question: Pour quoi veux-je me lever du lit? Comment veux-je utiliser ce jour?
+Demain matin pendant les premières 45 secondes après le réveil je ne me lèverai pas du lit, seulement je me poserai la question: Pour quoi veux-je me lever du lit? Comment veux-je utiliser ce jour?
 
 On peut terminer en lisant:
 

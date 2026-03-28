@@ -21,7 +21,7 @@ Lighting the candle: Ps 105:4
 Introduction
 ============
 
-* Did you manage to realize yesterday's resolution? Was it difficult? did it give you something?
+* Did you manage to realize yesterday's resolution? Was it difficult? Did it give you something?
 
 .. note:: participants could give themselves an application that concerns a point of the retreat that has not been yet – then of course they do not answer
 
@@ -112,7 +112,7 @@ Did we list the Holy Spirit? The Holy Spirit is the light of our heart, indicate
 
 * Do you look for an answer in Him or do you look for an answer together with Him? ("replacing oneself with God in my decisions")
 
-.. note:: this question is a slippery matter [God knows all answers so he does not seek them] – I leave them in the outline, because I think you feel what I mean and in case of what you will be able to say it appropriately)
+.. note:: this question is a slippery matter [God knows all answers so he does not seek them] – I leave it in the outline, because I think you feel what I mean and if needed you will be able to say it appropriately)
 
 We spoke yesterday at the meeting about a certain dynamics of seeking. If we seek all the time then we are open to surprises, changes, breaking "what seemed to us". Let us read:
 
@@ -127,7 +127,7 @@ We spoke yesterday at the meeting about a certain dynamics of seeking. If we see
 I seek being open to surprise
 =============================
 
-Being "constantly open" to surprise is being a man of faith. This surprise does not have a negative connotation. Every such "surprise" is a discovery of some truth deeper. See perhaps yourselves!
+Being "constantly open" to surprise is being a man of faith. This surprise does not have a negative connotation. Every such "surprise" is a deeper discovery of some truth. See perhaps yourselves!
 
 * Do you associate any fragment of the Holy Scripture saying that as long as we are on earth then seeking should be something normal for us?
 

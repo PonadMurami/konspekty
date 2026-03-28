@@ -88,7 +88,7 @@ Motivos de búsqueda en el cine
 
 * ¿Cómo crees, por qué el protagonista buscaba eso?
 
- Escribamos nuestros descubrimientos [escritura en el mapa del mundo preparado]
+Escribamos nuestros descubrimientos [escritura en el mapa del mundo preparado]
 
 Escuchen ahora el texto:
 
@@ -96,7 +96,7 @@ Escuchen ahora el texto:
    Se acercó sigilosamente al árbol para atrapar al pájaro. Pero cuando ya casi lo tenía en las manos, el pájaro aleteó, se elevó en el aire y se posó en las ramas del abeto. El deseo del pastor, que quería poseer ese pájaro, era tan enorme que decidió seguirlo. Cuando se acercó al abeto, el pájaro volvió a volar. En ese lugar el pastor encontró un mirlo herido que estaba en peligro porque un gato lo acechaba. Entonces ahuyentó al gato y en ese mismo momento divisó el pájaro colorido en la orilla del estanque. Cuando el pastor llegó allí, el pájaro voló. En su lugar encontró solo un pez enredado en las redes que le pidió ayuda. Cuando ya liberó al pez, divisó el pájaro en la cima de una colina. Corrió allí, y cuando ya estaba muy cerca, el pájaro volvió a volar. En su lugar el pastor encontró una flor seca por la sequía que le pidió ayuda. La regó y al momento divisó el pájaro sobre la orilla del mar. Pero cuando el pastor llegó allí, el pájaro se elevó y voló sobre el agua hacia el sol poniente.
    "Ay - pensó el pastor - este pájaro me hizo tonto". Desilusionado emprendió el camino de regreso a sus ovejas. Cuando caminaba por la colina, sus ojos vieron una flor preciosa. En la orilla del estanque lo esperaba el pez que se alegraba de poder seguir viviendo. Y en la copa del abeto el mirlo lo saludó con un canto alegre. Entonces el pastor entendió qué sentido tiene la añoranza que dura toda la vida por la perfección, incluso si no se puede atrapar en las manos.
 
-   -- Willia Hoffsümmer -- Deseo de perfección
+   -- Willi Hoffsümmer -- Deseo de perfección
 
 * ¿Qué buscaba el pastor?
 

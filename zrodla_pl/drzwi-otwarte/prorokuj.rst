@@ -6,13 +6,13 @@ Spotkanie 4. - Prorokuj!
 Wprowadzenie dla animatora
 ==========================
 
-To ostatnie spotkanie grupowe na rekolekcjach. Nie bójmy się dać więcej przestrzeni uczestnikom jeśli widać potrzebę podsumowania i~syntezy.
+To ostatnie spotkanie grupowe na rekolekcjach. Nie bójmy się dać więcej przestrzeni uczestnikom, jeśli widać potrzebę podsumowania i~syntezy.
 
-Spotkanie koncentruje się wokół koncepcji immersji chrześcijańskiej. Część uczestników może być już za tym etapem, część może pozornie za nim być. Dla innych to może być punkt przełomowy. Nie musimy tego rozstrzygać (nie powinniśmy!). Spotkanie jest tak zaprojektowane, aby miało wartość dla każdego niezależnie od momentu gdzie się znajduje.
+Spotkanie koncentruje się wokół koncepcji immersji chrześcijańskiej. Część uczestników może być już za tym etapem, część może pozornie za nim być. Dla innych to może być punkt przełomowy. Nie musimy tego rozstrzygać (nie powinniśmy!). Spotkanie jest tak zaprojektowane, aby miało wartość dla każdego niezależnie od momentu, w~którym się znajduje.
 
-Jako animator poświęć proszę czas na zastanowienie się gdzie sam/sama doświadczasz zanurzenia “naturalnie”, a~gdzie jest to dla Ciebie wyzwanie. Kluczowe będzie Twoje świadectwo, aby pokazać że wiary się nie ogląda, ani się w~niej nie uczestniczy tylko się ją inkorporuje. Moje chrześcijaństwo nie jest etykietą, ani nawet tatuażem - jest w~każdej komórce mojego ciała i~duszy bo to wszystko zostało zanurzone w~śmierci i~zmartwychwstaniu Słowa.
+Jako animator poświęć proszę czas na zastanowienie się, gdzie sam/sama doświadczasz zanurzenia “naturalnie”, a~gdzie jest to dla Ciebie wyzwanie. Kluczowe będzie Twoje świadectwo, aby pokazać, że wiary się nie ogląda, ani się w~niej nie uczestniczy, tylko się ją inkorporuje. Moje chrześcijaństwo nie jest etykietą, ani nawet tatuażem - jest w~każdej komórce mojego ciała i~duszy, bo to wszystko zostało zanurzone w~śmierci i~zmartwychwstaniu Słowa.
 
-Nie omińmy proszę ostatniego zadania z~spisywaniem swojego marzenia o~Kościele. Marzy ten kto jest podmiotowy, ten któremu zależy. I~to jest celem spotkania - nie reforma Kościoła, ani nie wielkie postanowienia lecz dojście do swoich marzeń, naszych marzeń. I~niech Bóg im błogosławi.
+Nie omińmy proszę ostatniego zadania ze spisywaniem swojego marzenia o~Kościele. Marzy ten, kto jest podmiotowy, ten, któremu zależy. I~to jest celem spotkania - nie reforma Kościoła, ani nie wielkie postanowienia lecz dojście do swoich marzeń, naszych marzeń. I~niech Bóg im błogosławi.
 
 Włączenie? Połączenie?
 ======================
@@ -47,11 +47,11 @@ Przeczytajmy:
 * W~jakich sytuacjach “pamiętanie o~powodach” utrudnia mi zrobienie miejsca w~sercu?
 * Czy mam doświadczenie “uwolnienia” z~myślenia o~powodach?
 
-Jak dalece idzie Heschel mówiąc o~“zapomnieniu o~wszystkich powodach”. Opowiada o~temacie pobożności, ale to rzecz uniwersalna. Być może ktoś z~nas ma doświadczenia nauki języka obcego gdy na początku bardzo uważnie śledzi powód użycia każdego słowa, analizuje jego gramatyczną poprawność itd. Da się już w~taki sposób komunikować z~innymi. Na pewnym etapie jednak “zapominamy o~powodach” i~zanurzamy się w~języku tak bardzo, że “słowa same płyną”.
+Jak dalece idzie Heschel mówiąc o~“zapomnieniu o~wszystkich powodach”. Opowiada o~temacie pobożności, ale to rzecz uniwersalna. Być może ktoś z~nas ma doświadczenia nauki języka obcego, gdy na początku bardzo uważnie śledzi powód użycia każdego słowa, analizuje jego gramatyczną poprawność itd. Da się już w~taki sposób komunikować z~innymi. Na pewnym etapie jednak “zapominamy o~powodach” i~zanurzamy się w~języku tak bardzo, że “słowa same płyną”.
 
-.. note:: Dla  części animatorów może być tutaj bliski przykład 4 kroków kompetencji: nieświadoma niekompetencja, świadoma niekompetencja, świadoma kompetencja, nieświadoma kompetencja.
+.. note:: Dla części animatorów może być tutaj bliski przykład 4 kroków kompetencji: nieświadoma niekompetencja, świadoma niekompetencja, świadoma kompetencja, nieświadoma kompetencja.
 
-Chciejmy takiej duchowości, która przechodzi przez etap troski o~każdy powód, do zanurzenia w~którym się po prostu jest! Gdzie odmawiam różaniec i~nie mam w~myślach wykładu o~tym jak to robić poprawnie. Gdzie widzę w~ołtarzu stół, w~hostii łamany chleb, a~w przekazywaniu znaku pokoju braterstwo.
+Chciejmy takiej duchowości, która przechodzi przez etap troski o~każdy powód, do zanurzenia, w~którym się po prostu jest! Gdzie odmawiam różaniec i~nie mam w~myślach wykładu o~tym, jak to robić poprawnie. Gdzie widzę w~ołtarzu stół, w~hostii łamany chleb, a~w przekazywaniu znaku pokoju braterstwo.
 
 * Jak możemy sobie nawzajem pomóc w~przechodzeniu w~wierze to takiej obecności?
 
@@ -70,16 +70,16 @@ Przeczytajmy:
 
 * Gdzie w~codzienności najłatwiej przychodzi Ci “szukanie obecności naszego Pana”?
 * Gdzie chciałbyś/chciałabyś w~codzienności go znaleźć?
-* Gdzie jest Ewangelia mimo, że nie słyszysz sygnaturek i~imienia Jezus?
+* Gdzie jest Ewangelia, mimo że nie słyszysz sygnaturek i~imienia Jezus?
 
-To samo nie przychodzi. Zanurzenie to trudny etap, który wymaga wysiłku z~naszej strony. Kościół jednak to robi cały czas. Czy wysyłamy dzieci na 5 letni kurs teologiczny o~Eucharystii zanim będą na Mszy, czy raczej od razu pozwalamy im uczestniczyć? Czy naukę modlitwy rozpoczynamy od teorii czy raczej zapraszamy kogoś, aby usiadł obok nas?
+To samo nie przychodzi. Zanurzenie to trudny etap, który wymaga wysiłku z~naszej strony. Kościół jednak to robi cały czas. Czy wysyłamy dzieci na 5-letni kurs teologiczny o~Eucharystii zanim będą na Mszy, czy raczej od razu pozwalamy im uczestniczyć? Czy naukę modlitwy rozpoczynamy od teorii czy raczej zapraszamy kogoś, aby usiadł obok nas?
 
 * Jak możesz uczyć się zanurzania?
 
 Bez kadzidła
 ============
 
-Medytowaliśmy dzisiaj fragment Pisma Świętego o~prowadzeniu życia cichego i~spokojnego.  Spójrzmy na te słowa przez pryzmat encykliki Evangelii nuntiandi:
+Medytowaliśmy dzisiaj fragment Pisma Świętego o~prowadzeniu życia cichego i~spokojnego. Spójrzmy na te słowa przez pryzmat encykliki Evangelii nuntiandi:
 
 Przeczytajmy:
 
@@ -96,7 +96,7 @@ Kultura zanurzenia w~doświadczeniu i~świadectwie chrześcijańskim przestaje b
 
 Bóg widzi w~nas naród królewski, kapłański i~prorocki. Każdy z~nas ma Jego łaskę do podnoszenia innych ludzi w~górę. Bez kadzidła, bez nabożeństwa - piciem herbaty, jedzeniem kolacji, uważnym słuchaniem.
 
-A może nie jesteśmy powołani do “mierzenia”, abyśmy umieli radzić sobie z~szukaniem sensu w~80%. Gdy tak myślimy to na stałe potrzebujemy 20% kroplówki dostarczanej z~zewnątrz. Może jesteśmy powołani by radzić sobie w~150%. Tak, by umieć “wzajemnie brzemiona swoje nosić”, gdy ktoś obok chwilowo traci sens sprzed oczu, a~życie jest zbyt trudne?
+A może nie jesteśmy powołani do “mierzenia”, abyśmy umieli radzić sobie z~szukaniem sensu w~80%. Gdy tak myślimy to na stałe potrzebujemy 20% kroplówki dostarczanej z~zewnątrz. Może jesteśmy powołani, by radzić sobie w~150%. Tak, by umieć “wzajemnie brzemiona swoje nosić”, gdy ktoś obok chwilowo traci sens sprzed oczu, a~życie jest zbyt trudne?
 
 Przeczytajmy:
 

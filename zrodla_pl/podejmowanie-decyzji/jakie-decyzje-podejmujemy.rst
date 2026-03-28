@@ -36,7 +36,7 @@ Zadanie 2 z~pierwszej kartki (góry):
 
 Zadanie 1 z~drugiej kartki (morze):
 
-* Wyobraźcie sobie, że wybieracie się w~rejs do dani, prowadzicie 15 osobową wycieczkę. Jak wygląda wasze przygotowanie do niego?
+* Wyobraźcie sobie, że wybieracie się w~rejs do Danii, prowadzicie 15 osobową wycieczkę. Jak wygląda wasze przygotowanie do niego?
 
 **Cel:**
    Chcemy, aby rejs był udany wszyscy wrócili z~niego zadowoleni i~szczęśliwi.
@@ -78,7 +78,7 @@ Podsumowanie
 
 W życiu na różnych płaszczyznach zostajemy postawieni w~sytuacji, w~której dalsza nasza egzystencja zależy od podjętej decyzji. Od porannego wyboru ubrania po decyzje, w~których poświęcamy własne idee, a~nawet życie. Możliwe, że nawet w~obecnej chwili stoimy przed wyborem.
 
-Decyzje trudne nie są niemożliwe istnieje wiele sposobów, które je ułatwia, lecz czy podejmuję wysiłek zmierzenia się z~ich realizacją?
+Decyzje trudne nie są niemożliwe istnieje wiele sposobów, które je ułatwiają, lecz czy podejmuję wysiłek zmierzenia się z~ich realizacją?
 
    Raz dokonawszy wyboru, ciągle wybierać muszę
 
@@ -125,9 +125,9 @@ Zaznacz tylko jedną odpowiedź przy każdym pytaniu. Odpowiedzi zapisz zarówno
    * Nie przejmujesz się prośbą mamy: "przecież moja przyszłość (wykształcenie) jest dla ciebie mamo najważniejsze – muszę się uczyć".
 * Jesteś oazowiczem, masz za sobą już pewien duży etap formacji, wiesz wiele o~Bogu i~prowadzisz porządne życie (pomagasz innym, nie pijesz alkoholu i~nie palisz, zachowujesz czystość ze swoim chłopakiem / dziewczyną).
 
-   * Jesteś przekonany/nana, że masz lepszy przystęp do Boga i~większe u~niego "chody".
+   * Jesteś przekonany/na, że masz lepszy przystęp do Boga i~większe u~niego "chody".
    * Możesz być z~siebie dumny/na, tak wiele już wypracowałeś/łaś.
-   * Czujesz się zobowiązany/zana do większego świadectwa i~gotowości do pomocy w~wzrastaniu innym.
+   * Czujesz się zobowiązany/a do większego świadectwa i~gotowości do pomocy w~wzrastaniu innym.
 * Spotkałem kiedyś dziewczynę, która lubiła powtarzać: "będę się odchudzać, ale od jutra" i~"jutro" nigdy nie stało się "dziś".
 
    * Podejmujesz pracę nad sobą tylko w~Wielkim Poście.
@@ -138,7 +138,7 @@ Zaznacz tylko jedną odpowiedź przy każdym pytaniu. Odpowiedzi zapisz zarówno
    * Informujesz o~tym Kaśkę – klasową "Wolną Europę" (pewne, że wszyscy się o~tym dowiedzą).
    * Mówisz o~tym, że wiesz Anecie.
    * Uznajesz talent Anety, a~jej przeszłość zachowujesz dla siebie.
-* Cała klasa idzie na wagary, bo nie nauczyła się na sprawdzian. Ty jednak jesteś przygotowany/wana.
+* Cała klasa idzie na wagary, bo nie nauczyła się na sprawdzian. Ty jednak jesteś przygotowany/a.
 
    * Idziesz wraz z~nimi.
    * Zostajesz w~nadziei, że nauczyciel da ci lepszą ocenę gdy sprawdzian wreszcie dojdzie do skutku.
@@ -161,5 +161,5 @@ Zaznacz tylko jedną odpowiedź przy każdym pytaniu. Odpowiedzi zapisz zarówno
 * Twoim rodzicom się powiodło. Masz kasę i~kolegów / koleżanki z~kasą, dla których biedni są niezaradnymi, niedouczonymi frajerami. Jest w~twojej klasie chłopak – fajny gość, ale nie stać go na zbyt wiele.
 
    * Nie przejmujesz się nim, odstaje od twego środowiska.
-   * Dajesz mu zarobić, gdy wyręcz Cię od trudniejszych zadań.
+   * Dajesz mu zarobić, gdy wyręczy Cię od trudniejszych zadań.
    * Finansujesz go na oczach twoich kolegów / koleżanek dając równy start w~rywalizacji o~wyniki.

@@ -19,9 +19,9 @@ Zbliżamy się do punktu szczytowego rekolekcji, jakim będzie Seder przeżyty w
 Pielgrzymowanie
 ===============
 
-Obecnie trudno nam myśleć o~tymczasowości w~kontekście zamieszkania. Nasza kultura i~obyczaje, a~także klimat warunkują, że nasze budynki są zbudowane na mocnych fundamentach z~ trwałych materiałów. Tworzymy miasta i~aglomeracje z~betonu, stali i~szkła.
+Obecnie trudno nam myśleć o~tymczasowości w~kontekście zamieszkania. Nasza kultura i~obyczaje, a~także klimat warunkują, że nasze budynki są zbudowane na mocnych fundamentach z~trwałych materiałów. Tworzymy miasta i~aglomeracje z~betonu, stali i~szkła.
 
-Doświadczenie Sukkot - Święta Szałasów - pokazuje nam, że nie zawsze tak musi być. Namiot/szałas, w~swej konstrukcji, nie jest zbudowany z~trwałych materiałów. Doświadczyliśmy tego sami budując swój namiot z~drewna i~tkanin. Jego konstytucja przypomina Żydom  a~teraz i~nam o~tymczasowości.
+Doświadczenie Sukkot - Święta Szałasów - pokazuje nam, że nie zawsze tak musi być. Namiot/szałas, w~swej konstrukcji, nie jest zbudowany z~trwałych materiałów. Doświadczyliśmy tego sami budując swój namiot z~drewna i~tkanin. Jego konstytucja przypomina Żydom a~teraz i~nam o~tymczasowości.
 
 .. note:: Niektórzy z~nas mieszkają na Śląsku - miejscu gdzie świadomość ulotności życia była obecna na co dzień. Większość społeczeństwa doskonale wiedziała, że dzisiejszy zjazd kogoś z~rodziny może być jego ostatnim. Podobne doświadczenie mają wszelcy ratownicy. To doświadczenie niegdyś powszechne obecnie staje się odleglejsze.
 
@@ -52,7 +52,7 @@ Pielgrzymowanie to cecha osoby wierzącej i~dotyczy zarówno sfery fizycznej, sp
        Jan Nowak
        
        **Wiek**: 15 lat
-       **Motto**:„dużo rzeczy mnie ciekawi…”
+       **Motto**: „dużo rzeczy mnie ciekawi…”
        **Zainteresowania**: trochę piłka nożna i~siatkówka
        **Parafia**: od zeszłego roku lektor
 
@@ -85,7 +85,7 @@ Pielgrzymowanie to cecha osoby wierzącej i~dotyczy zarówno sfery fizycznej, sp
        Elżbieta Wiśniewska
 
        **Wiek**: 64 lat
-       **Motto**:„Jestem na emeryturze, babcia na pełen etat”
+       **Motto**: „Jestem na emeryturze, babcia na pełen etat”
        **Zainteresowania**: ogródek
        **Parafia**: Apostolstwo Margaretka, Róża różańcowa,
 
@@ -118,7 +118,7 @@ Pielgrzymowanie to cecha osoby wierzącej i~dotyczy zarówno sfery fizycznej, sp
        Mateusz Nowakowski
 
        **Wiek**: 31 lat
-       **Motto**:„Korporacja to moja bajka”
+       **Motto**: „Korporacja to moja bajka”
        **Zainteresowania**: anime i~manga, planszówkowe RPG, filozoficzne nurty wschodnie
        **Parafia**: Tydzień temu pierwszy raz sam z~siebie od lat byłem w~spowiedzi
 
@@ -151,7 +151,7 @@ Pielgrzymowanie to cecha osoby wierzącej i~dotyczy zarówno sfery fizycznej, sp
        Leon Jeziorański
 
        **Wiek**: 45 lat
-       **Motto**:„Pracuje dla rodziny, mam żonę i~dwójkę dzieci”
+       **Motto**: „Pracuję dla rodziny, mam żonę i~dwójkę dzieci”
        **Zainteresowania**: sportowe samochody
        **Parafia**: nadzwyczajny szafarz Komunii Św. od 10 lat
 
@@ -231,7 +231,7 @@ oraz:
 
 Przedstawione przykłady i~opis sceny biblijnej ukazują ceremonie jako zewnętrzny znak, akcentowany dla wspólnoty. Jednak dojrzały chrześcijanin nie korzysta tylko z~tego sposobu. Poprzez wykonywanie indywidualnych obrzędów/znaków i~gestów sam pobudza swoje serce. Obrzęd ceremonii zwraca nasz umysł/serce ku Bogu, a~to jest istotą.
 
-.. note:: Gdyby konieczne było opuszczenie wybranej części poniższy fragment można pominąć.. Ten element ma charakter informacyjny (ułatwia zrozumienie części sederu) a~nie dzieleniowy
+.. note:: Gdyby konieczne było opuszczenie wybranej części poniższy fragment można pominąć. Ten element ma charakter informacyjny (ułatwia zrozumienie części sederu) a~nie dzieleniowy
 
 Rytuał przejścia będzie towarzyszył nam podczas uroczystej kolacji sederowej.
 Z wielu obrzędów i~rytuałów chcielibyśmy wskazać na 4 kielichy, które będziemy wznosić.
@@ -258,7 +258,7 @@ Rytuały przejścia pozwolą nam na nadanie właściwego akcentu i~**trwanie w~o
 Obecność
 ========
 
-Będziemy dzisiaj przeżywać pamiątkę Paschy. Dosłowne tłumaczenie to “przejść nad”. Sporo o~“przechodzeniu” już porozmawialiśmy. Żydzi jednak mają wspaniałą intuicję - święto “przechodzenia nad” celebrują…. siedząc przy stole - można by powiedzieć “bardzo statycznie” jak na “przechodzenie”. To nie brak spójności lub wygoda!
+Będziemy dzisiaj przeżywać pamiątkę Paschy. Dosłowne tłumaczenie to “przejść nad”. Sporo o~“przechodzeniu” już porozmawialiśmy. Żydzi jednak mają wspaniałą intuicję - święto “przechodzenia nad” celebrują… siedząc przy stole - można by powiedzieć “bardzo statycznie” jak na “przechodzenie”. To nie brak spójności lub wygoda!
 
 Etapowość nie jest “przykrą koniecznością”. Świadome wybranie, gdzie się jest teraz umożliwia nam poświęcenie temu swojego serca, czasu, umysłu. Możemy być obecni w~naszym przechodzeniu. Tym jest stół sederowy.
 

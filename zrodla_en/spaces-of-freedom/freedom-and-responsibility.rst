@@ -57,7 +57,7 @@ Why is man afraid that he can be the cause of good in his own and someone else's
 Freedom and Happiness...?
 ==========================
 
-Example: I stand before a choice. I see benefits, I see disadvantages of making such and not another decision. I know what decision I should make .. but I don't want to. I know what would be good for others, but I would like to make a decision from my own angle. I know what I would want. Ultimately, however, conscience wins. I choose what I feel I should choose, even though I don't want to.
+Example: I stand before a choice. I see benefits, I see disadvantages of making such and not another decision. I know what decision I should make... but I don't want to. I know what would be good for others, but I would like to make a decision from my own angle. I know what I would want. Ultimately, however, conscience wins. I choose what I feel I should choose, even though I don't want to.
 
 * Am I a free person in such a case?
 

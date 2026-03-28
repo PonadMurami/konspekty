@@ -10,7 +10,7 @@ Miejsce powstania konspektów:
 Grupa docelowa:
     Rekolekcje otwarte dla ludzi od 13 do 23 roku życia
 Opis rekolekcji:
-    Rekolekcje adwentowe skocenrtowane wokół tematu aktywnego oczekiwania na Królestwo Niebieskie.
+    Rekolekcje adwentowe skoncentrowane wokół tematu aktywnego oczekiwania na Królestwo Niebieskie.
 
 .. only:: html
 

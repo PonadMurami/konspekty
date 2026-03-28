@@ -6,12 +6,12 @@ Spotkanie 3. - Tobie, Adamie, rozkazuję: Zbudź się, który śpisz!
 Cel
 ===
 
-Spotkanie jest wentylem bezpieczeństwa. Dzisiejsze popołudnie obfituje w~"ciężki kaliber" – Droga Krzyżowa, rachunek sumienia, świadectwo, spowiedź, modlitwa. Człowiek mimo starań szczerych przeżycia dobrze tego czasu ma swoją zdolność do skupienia. To spotkanie nie ma wprowadzić treści nowych. **Jego celem jest podzielnie się tym co przeżyliśmy**. To także moment, aby **przygotować się do sakramentu pokuty**. To moment w~którym walczymy o~to, aby podejść do niego jak najgłębiej potrafimy.
+Spotkanie jest wentylem bezpieczeństwa. Dzisiejsze popołudnie obfituje w~"ciężki kaliber" – Droga Krzyżowa, rachunek sumienia, świadectwo, spowiedź, modlitwa. Człowiek mimo starań szczerych przeżycia dobrze tego czasu ma swoją zdolność do skupienia. To spotkanie nie ma wprowadzić treści nowych. **Jego celem jest podzielenie się tym co przeżyliśmy**. To także moment, aby **przygotować się do sakramentu pokuty**. To moment w~którym walczymy o~to, aby podejść do niego jak najgłębiej potrafimy.
 
 Modlitwa
 ========
 
-Proponuje raczej krótko. Można poprowadzić myśli w~kierunku światła, abyśmy na spotkaniu mówili o~tym czego doświadczyliśmy naprawdę, a~nie o~tym czego pragnęlibyśmy doświadczyć.
+Proponuję raczej krótko. Można poprowadzić myśli w~kierunku światła, abyśmy na spotkaniu mówili o~tym czego doświadczyliśmy naprawdę, a~nie o~tym czego pragnęlibyśmy doświadczyć.
 
 Wprowadzenie
 ============
@@ -25,9 +25,9 @@ Droga Krzyżowa
 
 * Towarzyszyłeś Jezusowi w~drodze krzyżowej... co zwróciło Twoją uwagę?
 
-* Jakbyś opisał tą wspólną podróż? Nie jaki był Jezus... jaka była **droga**?
+* Jakbyś opisał tę wspólną podróż? Nie jaki był Jezus... jaka była **droga**?
 
-Droga np. była długa, jasno określona, mająca konkretny cel. Była wybrana przez Jezusa mimo, że nie On zaplanował każdy jej szczegół. Nie była wolna od błędów, ale one nigdy nie doprowadziły do rezygnacji. Była brutalna, ale nie samotna. Prowadziła na górę więc z~natury rzeczy nie można było liczyć, że nie będzie kosztować wysiłku.
+Droga np. była długa, jasno określona, mająca konkretny cel. Była wybrana przez Jezusa mimo że nie On zaplanował każdy jej szczegół. Nie była wolna od błędów, ale one nigdy nie doprowadziły do rezygnacji. Była brutalna, ale nie samotna. Prowadziła na górę więc z~natury rzeczy nie można było liczyć, że nie będzie kosztować wysiłku.
 
 Zgodzimy się jednak wszyscy, że była tak wypełniona przykrością i~bólem, że gdybyśmy mieli tylko pomyśleć, że sami mielibyśmy ją podjąć to uważalibyśmy to za szaleństwo.
 
@@ -47,7 +47,7 @@ Jeżeli podjęcie takiej drogi to szaleństwo.... Dlaczego On ją podjął? Nasu
 
 * Bardziej się cieszę z~tego co dobre czy ubolewam nad tym co nie wyszło?
 
-Mamy tendencje do rozliczania zła i~do pomijania całkowitego dobra. Ignorujemy je jakby było tak naturalne, że aż przezroczyste. Zakładamy, że jeżeli gdzieś nie ma "złego czynu" to musi być dobro. No tak "gdy idziemy w~przód to nie idziemy w~tył" jest prawdą. Zdanie "gdy idziemy w~tył to nie idziemy w~przód" również jest prawdą.
+Mamy tendencję do rozliczania zła i~do pomijania całkowitego dobra. Ignorujemy je jakby było tak naturalne, że aż przezroczyste. Zakładamy, że jeżeli gdzieś nie ma "złego czynu" to musi być dobro. No tak "gdy idziemy w~przód to nie idziemy w~tył" jest prawdą. Zdanie "gdy idziemy w~tył to nie idziemy w~przód" również jest prawdą.
 
 Gdzie problem?... można ani iść w~przód, ani w~tył. Stan stagnacji, braku ruchu, ucieka nam w~tym naszym myśleniu o~drodze. A~często wypełnia on ogromną przestrzeń naszego czasu.
 
@@ -57,7 +57,7 @@ Gdzie problem?... można ani iść w~przód, ani w~tył. Stan stagnacji, braku r
 
 Dotyczy to też naszego rachunku sumienia. Czy pytamy się też "o ten czas w~środku", którego na pierwszy rzut oka ani jako "dobry uczynek" ani jako "grzech" uznać nie umiemy?
 
-* Czy traktuje swój czas wolny jako potencjalne dobro, które mogę zmarnować na coś bezużytecznego?
+* Czy traktuję swój czas wolny jako potencjalne dobro, które mogę zmarnować na coś bezużytecznego?
 
 * Ile procent mojego życia to czas "niemożliwy do oceny" czyli zazwyczaj ignorowany w~czasie spowiedzi?
 
@@ -72,11 +72,11 @@ Jest Wielki Post, czas przygotowań. Za kilkanaście dni Kościół z~Liturgii G
 
    -- Liturgia Godzin -- Godzina Czytań Wielkiej Soboty
 
-Przeczytajmy na spokojnie tekst metodą Västerås. Proponuje wersję uproszczoną do dwóch oznaczeń – tego co szczególnie ważne oraz tego co stawia mi pytania.
+Przeczytajmy na spokojnie tekst metodą Västerås. Proponuję wersję uproszczoną do dwóch oznaczeń – tego co szczególnie ważne oraz tego co stawia mi pytania.
 
 .. note:: Każdy uczestnik musi posiadać własną kopię tekstu
 
-* Co zaznaczyłem jako szczególne dla mnie w~tym tekście dlaczego?
+* Co zaznaczyłem jako szczególne dla mnie w~tym tekście, dlaczego?
 
 * Jaki fragment stawia mi jakieś pytania? Jakie?
 
@@ -84,7 +84,7 @@ Przeczytajmy na spokojnie tekst metodą Västerås. Proponuje wersję uproszczon
 
 * "Nie po to bowiem cię stworzyłem, abyś pozostawał spętany w~Otchłani" – po co jestem tutaj na ziemi? Wiem to?
 
-* Czy jestem śpiący? Czy chce podjąć wyzwanie i~wyjść ze snu? Zacząć od nowa?
+* Czy jestem śpiący? Czy chcę podjąć wyzwanie i~wyjść ze snu? Zacząć od nowa?
 
 * **Czy widzę miejsce tego w~czasie sakramentu pokuty i~pojednania?**
 
@@ -95,7 +95,7 @@ Podsumowanie i~zastosowanie
 
 Wspólna modlitwa w~intencji spowiedników, którzy będą posługiwać na rekolekcjach. Modlitwa w~intencji wszystkich, którzy do sakramentu pokuty i~pojednania przystąpią.
 
-Jutro rano w~ciągu pierwszych 45sek po obudzeniu nie zerwę się z~łóżka tylko zadam sobie pytanie: Po co chce wstać z~łóżka? Jak chcę wykorzystać ten dzień?
+Jutro rano w~ciągu pierwszych 45sek po obudzeniu nie zerwę się z~łóżka tylko zadam sobie pytanie: Po co chcę wstać z~łóżka? Jak chcę wykorzystać ten dzień?
 
 Można zakończyć czytając:
 

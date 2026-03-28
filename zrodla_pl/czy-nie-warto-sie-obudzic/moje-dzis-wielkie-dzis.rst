@@ -6,7 +6,7 @@ Spotkanie 1. - Moje dziś, wielkie dziś
 Cel
 ===
 
-Refleksja wprowadzająca w~temat i~atmosferę rekolekcji. Spróbujmy odpowiedzieć sobie na pytania: Czy potrafimy **patrzeć** na swoje życie "własnymi oczami", w~osobisty sposób?  Jak wygląda moje życie "tu i~teraz", w~tym momencie? Jak postrzegam zmiany zachodzące w~moim życiu?
+Refleksja wprowadzająca w~temat i~atmosferę rekolekcji. Spróbujmy odpowiedzieć sobie na pytania: Czy potrafimy **patrzeć** na swoje życie "własnymi oczami", w~osobisty sposób? Jak wygląda moje życie "tu i~teraz", w~tym momencie? Jak postrzegam zmiany zachodzące w~moim życiu?
 
 Modlitwa
 ========
@@ -16,14 +16,14 @@ Wezwanie do Ducha Świętego. Modlitwa prośby o~otwarcie na Jego działanie, ot
 Wprowadzenie
 ============
 
-   "[...] trzeba nam wiary w~siłę oczarowań, jakie mogą nas spotkać, jeżeli tylko gotowi jesteśmy się im poddać. W~chwilach najdrobniejszych, miejscach dobrze nam znanych, pośród tych, którzy są z~nami od lat..., ukryty jest fenomen życia, jego smak. A~wszystko tak naprawdę rozstrzyga się nie w~gabinetach polityków, ale podczas wyboru książki, filmu  w~kinie czy telewizyjnego programu. Wszystko rozstrzyga się w~chwili, gdy decydujemy się na wizytę w~teatrze lub filharmonii, gdy planujemy spacer, wakacje albo wieczór z~przyjaciółmi. To są sprawy najprostsze, najdrobniejsze i~najbardziej codzienne, ale to właśnie od tych chwil i~od tych spraw najprostszych najwięcej zależy. I~dlatego z~pewnością nie żyjemy w~czasach gorszych niż inni. Wręcz przeciwnie, żyjemy w~najwspanialszej chwili naszego życia, bo ona jest naszym »teraz« i~w nim możemy wybrać piękno, dobro i~prawdę
+   "[...] trzeba nam wiary w~siłę oczarowań, jakie mogą nas spotkać, jeżeli tylko gotowi jesteśmy się im poddać. W~chwilach najdrobniejszych, miejscach dobrze nam znanych, pośród tych, którzy są z~nami od lat..., ukryty jest fenomen życia, jego smak. A~wszystko tak naprawdę rozstrzyga się nie w~gabinetach polityków, ale podczas wyboru książki, filmu w~kinie czy telewizyjnego programu. Wszystko rozstrzyga się w~chwili, gdy decydujemy się na wizytę w~teatrze lub filharmonii, gdy planujemy spacer, wakacje albo wieczór z~przyjaciółmi. To są sprawy najprostsze, najdrobniejsze i~najbardziej codzienne, ale to właśnie od tych chwil i~od tych spraw najprostszych najwięcej zależy. I~dlatego z~pewnością nie żyjemy w~czasach gorszych niż inni. Wręcz przeciwnie, żyjemy w~najwspanialszej chwili naszego życia, bo ona jest naszym »teraz« i~w nim możemy wybrać piękno, dobro i~prawdę
 
    -- Jacek Kurek -- W~najwspanialszej chwili naszego życia. Myśli o~Śląsku.
 
 "Moje dziś"
 ===========
 
-.. note:: możliwość odtworzenia utworu. Każdy uczestnik powinien mieć własną wersje tekstu
+.. note:: możliwość odtworzenia utworu. Każdy uczestnik powinien mieć własną wersję tekstu
 
 Przeczytajmy pewien wiersz:
 
@@ -54,7 +54,7 @@ Przeczytajmy pewien wiersz:
    | Choć się rzadko trafia fart
    | lepszy od znaczonych kart
    | Chociaż wczoraj, jutro, dziś
-   | notoryczne dj vu
+   | notoryczne déjà vu
    | Wierzę, że odnajdzie mnie
    | od dni wszystkich inny dzień
    | Moje dziś, wielkie dziś
@@ -102,7 +102,7 @@ Odczytajmy fragment:
 
 * Czy jestem otwarty na zmiany życiowe?
 
-* Czy jestem bardzo przywiązana do "mojego życia", jego stabilności, poczucia bezpieczeństwa?
+* Czy jestem bardzo przywiązany do "mojego życia", jego stabilności, poczucia bezpieczeństwa?
 
 Odczytajmy fragment:
 
@@ -123,9 +123,9 @@ Odczytajmy fragment:
 
 * Czy jestem pogodzony z~przeszłością?
 
-* Czy myśl o~mojej przyszłości budzi w~mnie lęk ?
+* Czy myśl o~mojej przyszłości budzi w~mnie lęk?
 
-* Co przeszkadza mi w~patrzeniu "teraz" ?
+* Co przeszkadza mi w~patrzeniu "teraz"?
 
 Odczytajmy fragment:
 
@@ -133,7 +133,7 @@ Odczytajmy fragment:
    | żeby życiu nadać bieg
    | zanim minie [...]
    | Chociaż wczoraj, jutro, dziś
-   | notoryczne dj vu
+   | notoryczne déjà vu
 
 * Co to znaczy "nadać życiu bieg"?
 

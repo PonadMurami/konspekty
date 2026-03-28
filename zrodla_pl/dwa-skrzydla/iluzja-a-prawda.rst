@@ -68,7 +68,7 @@ Przeczytajmy:
 
     On uwolnił nas spod władzy ciemności i~przeniósł do królestwa swego umiłowanego Syna, w~którym mamy odkupienie - odpuszczenie grzechów.
 
-    -- 1 Kol 1,13-14
+    -- Kol 1,13-14
 
 **Wolność od śmierci:**
 
@@ -153,7 +153,7 @@ Przeczytajmy:
 
     -- 1 Kor 6, 12
 
-* Jak mogłoby brzmieć to zdanie w~inny sposób?Jak rozumiem te słowa?
+* Jak mogłoby brzmieć to zdanie w~inny sposób? Jak rozumiem te słowa?
 
 
 Podsumowanie i~zastosowanie

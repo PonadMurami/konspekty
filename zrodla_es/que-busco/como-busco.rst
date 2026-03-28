@@ -106,7 +106,7 @@ Nuestras búsquedas son entonces algo sumamente importante. Quisiéramos entonce
 
 .. note:: este punto hay que parafrasearlo adecuadamente dependiendo de las respuestas del grupo. Si no mencionaron al Espíritu Santo no hay que señalárselo con el principio "¡ajá! ¡Te tengo!!!!" – no se trata de eso.
 
-¿Mencionamos al Espíritu Santo? El Espíritu Santo es la luz de nuestro corazón, indica el camino, es fuente de inspiraciones en nuestra vida que sugieren en qué dirección debemos ir. Entre las personas creyentes a menudo alrededor del Espíritu Santo hay muchos "paradojas". Por un lado rezamos a él "más frecuentemente", por otro lado a menudo no creemos en su acción real. Tal vez cedemos a la actitud "El Espíritu Santo puede causar movimiento en la oración, pero darme a saber si debería ...... – no, eso es mi asunto".
+¿Mencionamos al Espíritu Santo? El Espíritu Santo es la luz de nuestro corazón, indica el camino, es fuente de inspiraciones en nuestra vida que sugieren en qué dirección debemos ir. Entre las personas creyentes a menudo alrededor del Espíritu Santo hay muchas "paradojas". Por un lado rezamos a él "más frecuentemente", por otro lado a menudo no creemos en su acción real. Tal vez cedemos a la actitud "El Espíritu Santo puede causar movimiento en la oración, pero darme a saber si debería ...... – no, eso es mi asunto".
 
 * ¿Quién es para ustedes el Espíritu Santo? ¿Se dirigen a él con sus búsquedas?
 
@@ -122,7 +122,7 @@ Hablamos ayer en el encuentro sobre cierta dinámica de búsqueda. Si todo el ti
 
 * ¿Por qué los apóstoles dijeron tal frase? (porque dejaron de buscar)
 
-* ¿Experimentaron algo similar, que algo se clasificaron y luego sinceramente se sorprendieron cuando resultó que lo hicieron erróneamente?
+* ¿Experimentaron algo similar, que algo clasificaron y luego sinceramente se sorprendieron cuando resultó que lo hicieron erróneamente?
 
 Busco estando abierto a la sorpresa
 ===================================

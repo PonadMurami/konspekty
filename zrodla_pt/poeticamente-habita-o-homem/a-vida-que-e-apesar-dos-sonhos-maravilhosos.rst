@@ -16,7 +16,7 @@ Oração pela capacidade de olhar para a nossa vida na Verdade. O acento não es
 Introdução
 ==========
 
-Ontem falámos o dia todo sobre o encanto e a paixão. Construímos uma cidade na qual estão "os nossos lugares". Esta cidade, no entanto, ainda não está completa. Esta não é a cidade em que vives tu e eu. A nossa vida não se compõe apenas de momentos de que podemos falar com admiração na voz. O que acontece com esse tempo comum? O facto de ele existir significa que temos de trabalhar muito mais para "aproveitar a vida al máximo"? É disso que tratará a segunda parte do retiro.
+Ontem falámos o dia todo sobre o encanto e a paixão. Construímos uma cidade na qual estão "os nossos lugares". Esta cidade, no entanto, ainda não está completa. Esta não é a cidade em que vives tu e eu. A nossa vida não se compõe apenas de momentos de que podemos falar com admiração na voz. O que acontece com esse tempo comum? O facto de ele existir significa que temos de trabalhar muito mais para "aproveitar a vida ao máximo"? É disso que tratará a segunda parte do retiro.
 
 O que constitui a maioria da minha vida?
 ========================================

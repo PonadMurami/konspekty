@@ -12,7 +12,7 @@ Od ostatniego spotkania grupowego wiele się działo - Seder, Msza z~Biskupem, d
 
 **Celem** tego spotkania jest przejście z~roli odbiorcy treści do bycia głoszącym Ewangelię.
 
-.. note:: Bardzo możliwe, że spora część Twojej grupy to przejście ma za sobą dawno temu i~od lat jest już animatorami. To tylko lepiej! Nie musisz zmieniać tego celu. Potraktujcie to wtedy jako odnowienie zapału, żarliwości i~pasji. Nawet jak ktoś jest animatorem z~funkcji (posługa we wspólnocie czy parafii) to nigdy dość integralności poprzez rozszerzenie animatorstwa z~"salek" do wspólnego picia kawy. A~jeśli masz kogoś na spotkaniu kto jest od lat w~pełnie integralnym animatorem, który zjada na śniadanie Ewangelię - on nie tylko nie będzie miał nic przeciwko takiemu celowi, ale jeszcze Cię w~nim wesprze :).
+.. note:: Bardzo możliwe, że spora część Twojej grupy to przejście ma za sobą dawno temu i~od lat jest już animatorami. To tylko lepiej! Nie musisz zmieniać tego celu. Potraktujcie to wtedy jako odnowienie zapału, żarliwości i~pasji. Nawet jak ktoś jest animatorem z~funkcji (posługa we wspólnocie czy parafii) to nigdy dość integralności poprzez rozszerzenie animatorstwa z~"salek" do wspólnego picia kawy. A~jeśli masz kogoś na spotkaniu kto jest od lat w~pełni integralnym animatorem, który zjada na śniadanie Ewangelię - on nie tylko nie będzie miał nic przeciwko takiemu celowi, ale jeszcze Cię w~nim wesprze :).
 
 To przejście ma dokonać się na tym spotkaniu niejako mimochodem, w~sposób dyskretny i~naturalny. Składają się na nie następujące etapy:
 

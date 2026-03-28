@@ -8,7 +8,7 @@ Wprowadzenie dla animatora + cele spotkania
 
 .. important:: Przed spotkaniem warto wyposażyć się w~długopisy dla członków grupy!
 
-Jest to spotkanie grupowe, które odbędzie się w~trakcie wieczornej części modlitwy - Celebracji Słowa. Jego głównym celem jest podzielenie się tym, w~jaki sposób doświadczamy Boga w~Jego Słowie. Chcemy zatrzymać się i~zastanowić głębiej nad tym, co usłyszeliśmy chwilę wcześniej. Interpretacja jednak nie jest najważniejsza. Bardziej chodzi o~uchwycenie tego, jak konkretne Słowo Boże na mnie działa, “co mi robi”. W~samym konspekcie nie ma  praktycznie żadnych treści. Aby uniknąć oporów i~zniechęcenia wśród uczestników na zasadzie “nie wiem jak mam rozważać”  kluczowe jest ukazanie konkretnych metod medytacji Biblii, które powinny ułatwić dzielenie się własnymi odkryciami.
+Jest to spotkanie grupowe, które odbędzie się w~trakcie wieczornej części modlitwy - Celebracji Słowa. Jego głównym celem jest podzielenie się tym, w~jaki sposób doświadczamy Boga w~Jego Słowie. Chcemy zatrzymać się i~zastanowić głębiej nad tym, co usłyszeliśmy chwilę wcześniej. Interpretacja jednak nie jest najważniejsza. Bardziej chodzi o~uchwycenie tego, jak konkretne Słowo Boże na mnie działa, “co mi robi”. W~samym konspekcie nie ma praktycznie żadnych treści. Aby uniknąć oporów i~zniechęcenia wśród uczestników na zasadzie “nie wiem jak mam rozważać”, kluczowe jest ukazanie konkretnych metod medytacji Biblii, które powinny ułatwić dzielenie się własnymi odkryciami.
 
 Cele spotkania:
     - Zagłębienie się w~jedno wybrane czytanie, które pojawiło się na Celebracji Słowa
@@ -22,7 +22,7 @@ Rozpoczynamy od zapytania uczestników czy któreś z~czytań wysłuchanych na C
 
 * Które z~czytań zapadło mi najbardziej w~pamięć? Czy jestem w~stanie określić dlaczego?
 
-Następnie prosimy o~to, aby każdy z~nich wybrał  właśnie to czytanie, które w~jakiś sposób najbardziej go pociąga. Będziemy chcieli przyjrzeć się mu bliżej. Pobyć chwilę z~tym Słowem. Rozważyć i~wręcz “podotykać” go. Doświadczyć. Można zrobić to na kilka sposobów. Chcemy teraz omówić kilka z~nich.
+Następnie prosimy o~to, aby każdy z~nich wybrał właśnie to czytanie, które w~jakiś sposób najbardziej go pociąga. Będziemy chcieli przyjrzeć się mu bliżej. Pobyć chwilę z~tym Słowem. Rozważyć i~wręcz “podotykać” go. Doświadczyć. Można zrobić to na kilka sposobów. Chcemy teraz omówić kilka z~nich.
 
 **Metoda Vasteras**
 
@@ -38,11 +38,11 @@ Ta metoda polega na tym, że czytamy dany fragment i~oznaczamy w~nim myśli któ
 
 To jest metoda, która polega na bardzo plastycznym wyobrażeniu sobie danej sceny z~Pisma Świętego. Próbujemy ją sobie wręcz “wyreżyserować” w~głowie. Zastanawiamy się nad scenerią, ubiorem, wyglądem, zapachem, dźwiękami, tonem głosu. Staramy się zaangażować wszystkie zmysły. Można rozpisać sobie nawet krótki scenariusz.
 
-* Jakie miejsce jest opisywanie, jaka przestrzeń? Jakie kolory?
+* Jakie miejsce jest opisywane, jaka przestrzeń? Jakie kolory?
 * Jaka pora dnia?
 * Jakie dźwięki można usłyszeć?
 * Jaka jest faktura przedmiotów?
-* Jakie postacie występują,co mówią,co robią, jakie mają relacje/ interakcje  jaki jest ich wygląd, zachowanie, ubiór, sposób mówienia, ton głosu? Kto jest głównym bohaterem? Z~kim utożsamiam się najbardziej?
+* Jakie postacie występują, co mówią, co robią, jakie mają relacje/interakcje, jaki jest ich wygląd, zachowanie, ubiór, sposób mówienia, ton głosu? Kto jest głównym bohaterem? Z~kim utożsamiam się najbardziej?
 * Jak przebiega akcja, co się dzieje?
 * Co jest momentem kulminacyjnym?
 * Co najbardziej rzuca się w~oczy?
@@ -101,4 +101,4 @@ Zastosowanie
 
 Są takie słowa, które zostają w~nas na długo. W~dzieciństwie mogliśmy usłyszeć coś, co bardzo zabolało i~mimo, że upłynęło już dużo czasu, to wciąż do nas wraca i~to w~najtrudniejszych momentach. Jakiś uporczywy głos, który ciągle o~tym przypomina. Z~drugiej strony, kiedy usłyszymy coś pozytywnego na swój temat, również lubimy do tego wracać, pocieszać się tym, powtarzać sobie jak mantrę w~głowie. A~są to najczęściej ludzkie słowa. Jego Słowo ma znacznie większą moc. Jeżeli będziemy zachowywać je w~swoim sercu, ono będzie do nas wracać i~to wtedy, kiedy będzie nam najbardziej potrzebne, będzie przy nas – by dodać odwagi, otuchy, lub powstrzymać przed zrobieniem czegoś głupiego.
 
-Niech zastosowaniem z~tego spotkania będzie wybranie cytatu z~Pisma Świętego, które  który chcemy zachować w~sercu. Niech każdy zapisze go sobie w~notatniku i~wraca do niego jak najczęściej. Można zaproponować, żeby nauczyć się go na pamięć. Niech to słowo w~nas trwa, działa, pracuje i~wydaje owoc.
+Niech zastosowaniem z~tego spotkania będzie wybranie cytatu z~Pisma Świętego, który chcemy zachować w~sercu. Niech każdy zapisze go sobie w~notatniku i~wraca do niego jak najczęściej. Można zaproponować, żeby nauczyć się go na pamięć. Niech to słowo w~nas trwa, działa, pracuje i~wydaje owoc.

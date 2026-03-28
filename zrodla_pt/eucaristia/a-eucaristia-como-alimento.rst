@@ -112,7 +112,7 @@ Não pode ser a Eucaristia fonte e cume da vida do cristão, seu momento mais im
 Resumo
 ======
 
-    Ouvi sobre uma menininha que encontrei em uma das ruas de Calcutá. Tinha talvez seis anos, e pelo seu rosto percebi que estava com fome e não comia há alguns dias. Dei-lhe uma fatia de pão, e ela começou a comê-la, devagar, migalha por migalha. Disse: Come o pão, não tenha medo, come. A criança disse: Tenho medo, porque quando o pão acabar, vou ter fome de novo
+    Ouçam a história de uma menininha que encontrei em uma das ruas de Calcutá. Tinha talvez seis anos, e pelo seu rosto percebi que estava com fome e não comia há alguns dias. Dei-lhe uma fatia de pão, e ela começou a comê-la, devagar, migalha por migalha. Disse: Come o pão, não tenha medo, come. A criança disse: Tenho medo, porque quando o pão acabar, vou ter fome de novo
 
     -- Madre Teresa de Calcutá
 

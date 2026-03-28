@@ -60,7 +60,7 @@ Celebrar momentos importantes e alegres em nossa vida muitas vezes faz com que q
 Fé que exige
 ============
 
-.. note:: Este ponto baseia-se no capítulo 9 do Evangelho de João, que conta inteiramente uma história. Durante o próprio encontro lemos apenas os fragmentos mais importantes, mas encorajamos os líderes a lerem o todo em preparação, isso permitirá captar melhor o contexto
+.. note:: Este ponto baseia-se no capítulo 9 do Evangelho de João, que conta inteiramente uma história. Durante o próprio encontro lemos apenas os fragmentos mais importantes, mas encorajamos os líderes a lerem o todo em preparação, isso permitirá captar melhor o contexto.
 
 Um elemento importante da celebração da festa do Sukkot é também o rito de extrair água da piscina de Siloé. O sacerdote transporta um jarro cheio até o templo, para lá derramar sobre o altar, pedindo chuva e colheita - este rito tornava-se não apenas uma súplica pela abertura das portas do céu e o envio de chuvas abundantes do período de inverno, mas com o tempo, quando aumentavam os anseios por mudança de situação, quando a fome espiritual crescia entre os filhos de Israel, tornava-se um clamor pelo derramamento das fontes da salvação, Rucha ha-Kodesz, sobre a terra ressecada dos corações humanos, dos assuntos e dos destinos. O caminho que o sacerdote percorre não é fácil e agradável - a rota levava subindo e não era muito curta.
 

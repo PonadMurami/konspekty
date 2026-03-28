@@ -87,7 +87,7 @@ As deceções são uma reação normal a uma situação difícil em que nos enco
 
 Vale a pena mencionar aqui que podemos distinguir dois tipos de deceção e provavelmente ambos são um passo necessário para que nos apercebamos onde estamos no nosso caminho para Deus.
 
-A primeira deceção é a situação em que a situação muda, mas completamente não segundo o nosso pensamento.
+A primeira deceção é a situação em que a situação muda, mas de forma completamente diferente do que pensávamos.
 
 Leiamos
 
@@ -163,6 +163,6 @@ Oração final
 
 Leiamos:
 
-    Porque assim diz o SENHOR: Certamente que passados setenta anos em babilónia, eu vos visitarei, e cumprirei sobre vós a minha boa palavra, tornando a trazer-vos a este lugar. Porque eu bem sei os pensamentos que tenho a vosso respeito, diz o SENHOR; pensamentos de paz, e não de mal, para vos dar o fim que esperais. Então me invocareis, e ireis, e orareis a mim, e eu vos ouvirei. E buscar-me-eis, e me achareis, quando me buscardes com todo o vosso coração.
+    Porque assim diz o SENHOR: Certamente que passados setenta anos em Babilónia, eu vos visitarei, e cumprirei sobre vós a minha boa palavra, tornando a trazer-vos a este lugar. Porque eu bem sei os pensamentos que tenho a vosso respeito, diz o SENHOR; pensamentos de paz, e não de mal, para vos dar o fim que esperais. Então me invocareis, e ireis, e orareis a mim, e eu vos ouvirei. E buscar-me-eis, e me achareis, quando me buscardes com todo o vosso coração.
     
     -- Jr 29,10-13

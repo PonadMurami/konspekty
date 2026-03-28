@@ -106,7 +106,7 @@ For God to act, you must first commit your way to Him. Very often we ask about t
 
 * Why is giving Him these matters so difficult?
 
-* How do you think – giving which desires to God is the most difficult?
+* What do you think – which desires are the hardest to give to God?
 
 * Do I believe that if all my desires were shaped by God, I would be a happy person?
 
@@ -129,7 +129,7 @@ This is the effect of not talking about desires between people. It is similar be
 
 * Which conversation comes easier to me? Why?
 
-Such prayer is also "natural". We talk on it about what is happening now with us, it is a normal conversation. This is a perfect beginning for delving deeper into prayer!
+Such prayer is also "natural". In it, we talk about what is happening in our lives; it is a normal conversation. This is a perfect beginning for delving deeper into prayer!
 
 .. note:: **difficult moment of the meeting!**
 

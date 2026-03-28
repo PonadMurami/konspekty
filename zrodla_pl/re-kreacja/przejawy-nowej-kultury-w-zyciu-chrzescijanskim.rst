@@ -22,7 +22,7 @@ To spotkanie nie będzie miało sensu bez osobistego świadectwa animatora, bez 
 POTRZEBNE POMOCE:
 
 * trochę soli – do skosztowania dla wszystkich uczestników
-* karteczki z~napisami "egoista", "maruda", śmieszek", itp...
+* karteczki z~napisami "egoista", "maruda", "śmieszek", itp.
 * kartka z~definicją Nowej Kultury (ostatnia strona)
 
 Wprowadzenie
@@ -30,9 +30,9 @@ Wprowadzenie
 
 Wiemy już, że powołaniem człowieka jest tworzenie i~kształtowanie otaczającego go świata (konferencja), że jest to naszym zadaniem danym nam przez Boga. Rozmawialiśmy o~naszej wolności i~tożsamości, czas zrobić krok dalej i~wcielić to w~życie.
 
-* Jak wygląda życie chrześcijanina w~XXIw.? Pozytywne i~negatywne aspekty.
+* Jak wygląda życie chrześcijanina w~XXI w.? Pozytywne i~negatywne aspekty.
 
-Podane poniżej przykłady służą tylko jako pomoc dla animatora – NIE CZYTAĆ!. Celem nie jest powiedzenie, że "przeciętny" chcrześcijanin jest zły lub dobry, tylko uświadomienie, że życie nie musi być "przeciętne"...)
+Podane poniżej przykłady służą tylko jako pomoc dla animatora – NIE CZYTAĆ!. Celem nie jest powiedzenie, że "przeciętny" chrześcijanin jest zły lub dobry, tylko uświadomienie, że życie nie musi być "przeciętne"...)
 
 1. angażowanie się w~różne inicjatywy parafialne, festyny, zbiórki pieniędzy
 2. życie we wspólnocie
@@ -64,7 +64,7 @@ Tekst Drogowskazu (pierwsza część). Ksiądz Franciszek Blachnicki Nową Kultu
 
 * Co to znaczy i~jak ma się to do Nowej Kultury?
 
-Przez grzech człowiek traci zdolność do tworzenia kultury wg zamysłu Bożego. Gdy człowiek żyje w~grzechu, w~oderwaniu od Boga, nie może tworzyć  rzeczy wolnych od zła i~cierpienia, nawet jeśli nie widać tego na pierwszy rzut oka. Bóg w~raju nakazał ludziom czynić sobie ziemię poddaną, ale w~chwilę później oni popełnili grzech, odłączyli się od Boga, przez co zostali wygnani. Przekształcanie otaczającej rzeczywistości stało się przekleństwem i~wraz  z~grzechem zostało naznaczone piętnem cierpienia i~śmierci
+Przez grzech człowiek traci zdolność do tworzenia kultury wg zamysłu Bożego. Gdy człowiek żyje w~grzechu, w~oderwaniu od Boga, nie może tworzyć rzeczy wolnych od zła i~cierpienia, nawet jeśli nie widać tego na pierwszy rzut oka. Bóg w~raju nakazał ludziom czynić sobie ziemię poddaną, ale w~chwilę później oni popełnili grzech, odłączyli się od Boga, przez co zostali wygnani. Przekształcanie otaczającej rzeczywistości stało się przekleństwem i~wraz z~grzechem zostało naznaczone piętnem cierpienia i~śmierci
 
    Nie będziesz z~niego jeść - przeklęta niech będzie ziemia z~twego powodu: w~trudzie będziesz zdobywał od niej pożywienie dla siebie po wszystkie dni twego życia. Cierń i~oset będzie ci ona rodziła, a~przecież pokarmem twym są płody roli. W~pocie więc oblicza twego będziesz musiał zdobywać pożywienie, póki nie wrócisz do ziemi, z~której zostałeś wzięty; bo prochem jesteś i~w proch się obrócisz!»
 
@@ -110,7 +110,7 @@ Dajemy uczestnikom do skosztowania sól. Pytamy jak wrażenia – sól ma ostry,
 
    -- Mt 5, 13-16
 
-Nasze światło ma świcić przed ludźmi, mamy stać na świeczniku: Nowa Kultura to bardzo potrzebna dzisiaj forma świadectwa i~ewangelizacji, zmiana świata na lepsze. Aby móc wcielać w~życie Nową Kulturę, ona najpierw musi być w~nas, musimy mieć fundament. Musimy być w~100% przekonani co do "słuszności sprawy", że robimy dobrze, że to jest właściwe i~że chcemy tak żyć, inaczej będziemy nieautentyczni, a~to ludzi nie pociąga, a~wręcz odpycha.
+Nasze światło ma świecić przed ludźmi, mamy stać na świeczniku: Nowa Kultura to bardzo potrzebna dzisiaj forma świadectwa i~ewangelizacji, zmiana świata na lepsze. Aby móc wcielać w~życie Nową Kulturę, ona najpierw musi być w~nas, musimy mieć fundament. Musimy być w~100% przekonani co do "słuszności sprawy", że robimy dobrze, że to jest właściwe i~że chcemy tak żyć, inaczej będziemy nieautentyczni, a~to ludzi nie pociąga, a~wręcz odpycha.
 
 Zakładanie masek
 ================
@@ -171,7 +171,7 @@ Bóg daje nam najdoskonalszą odpowiedź:
 
 * Boga mamy miłować ponad wszystko, całym sobą, wszystkimi elementami naszej tożsamości. A~człowieka?
 
-* Bóg jako wzór do miłowania innych ludzi podaje miłość własną, do siebie samego.Dlaczego?
+* Bóg jako wzór do miłowania innych ludzi podaje miłość własną, do siebie samego. Dlaczego?
 
 By móc rozwijać relacje z~innymi ludźmi, trzeba poznać i~zaakceptować siebie, przyjąć siebie ze swoimi ograniczeniami, dobrymi i~złymi stronami. W~przeciwnym razie ciągle będziemy się czuć niepewnie, jakbyśmy byli cały czas atakowani i~odrzucani. To działa w~obie strony – należy przyjąć drugą osobę taką jaką jest, odróżnić grzech od osoby. Głębokie relacje są możliwe tylko przy wzajemnej akceptacji. Dlatego tak ważne jest, żebyśmy pokochali i~zaakceptowali siebie, wtedy będziemy mogli też kochać innych. Największe świadectwo wiary i~największy wkład w~kulturę, jaki możemy dać, zawiera się w~tych dwóch zdaniach – kochać Boga ponad wszystko i~zawierzyć Mu całe swoje życie oraz zaakceptować siebie i~rozwijać relacje z~innymi ludźmi.
 

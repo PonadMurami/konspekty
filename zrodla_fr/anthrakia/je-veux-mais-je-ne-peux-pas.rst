@@ -81,7 +81,7 @@ Saint Pierre, une fois de plus, "veut aimer, mais ne peut pas". Cette fois, il n
 Saint Pierre est seul. Séparé du Maître, séparé des disciples. Dans la nuit. Ai-je l'attente au niveau émotionnel que "mon premier pape", même dans de telles conditions, se révèle être un héros ? Je l'ai. Cependant, il ne se produit pas de "miracle de la foi" mais il se produit la "conséquence de la situation". Dieu ne donne pas un Ange de Feu qui dissipe les ténèbres autour de Saint Pierre en lui donnant une foi surhumaine. Il y a de la logique, de la conséquence, il y a la vie.
 
 - De quelle manière concrète pouvons-nous nous aider à ne pas nous retrouver souvent dans une situation aussi difficile que Saint Pierre ?
-- De qui la foi, l'amour et la lumière entourent-je de mon soin dans ma vie ? (cela ne signifie pas que j'en assume la responsabilité !)
+- La foi, l'amour et la lumière de qui est-ce que j'entoure de mon soin dans ma vie ? (cela ne signifie pas que j'en assume la responsabilité !)
 
 Remarquons l'égarement de plus en plus profond de Saint Pierre :
 
@@ -104,7 +104,7 @@ Nous ne sommes pas croyants parce que nous avons réussi l'examen de Dieu avec m
 
 - Qu'est-ce qui m'a surpris dernièrement dans la foi, a dépassé l'horizon de mes imaginations ?
 
-Le tombeau vide est conflictuel, mais de telle manière qu'il oblige Saint Pierre à relier tout ce qu'il a entendu de Jésus en un tout. C'est une ouverture à la foi, qui bouleverse la façon de penser actuelle, et change ainsi le cœur.
+Le tombeau vide est interpellant, mais de telle manière qu'il oblige Saint Pierre à relier tout ce qu'il a entendu de Jésus en un tout. C'est une ouverture à la foi, qui bouleverse la façon de penser actuelle, et change ainsi le cœur.
 
 - Quelle expérience dans ma spiritualité pourrait être l'équivalent du "tombeau vide" ?
 

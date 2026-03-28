@@ -88,4 +88,4 @@ Zastosowaniem z~tego spotkania będzie udanie się na modlitwę wieczorną z~ref
 Zakończenie
 ===========
 
-Modlitwa  spontaniczna do Ducha Świętego zawierająca dziękczynienie za czas spotkania oraz za dary, które każdy z~nas otrzymał od Boga.
+Modlitwa spontaniczna do Ducha Świętego zawierająca dziękczynienie za czas spotkania oraz za dary, które każdy z~nas otrzymał od Boga.

@@ -39,7 +39,7 @@ Japan
 Egypt
     Christians from the first centuries use the ankh symbol as a sign of life, resurrection. Nowadays it appears on stoles of presbyters and hands of tattooed Christians.
 
-Seeing the beauty of different Churches, we can ask ourselves the question: where was the seed of this wealth? One of the first protagonists of winning people for Christ was St. Paul, called the Apostle of the Nations. He sailed everywhere and to everyone to win many for the Gospel. He admits that to win people he "became all things to all men" (1 Cor 9:20-22). To be one with the other, he consciously made the choice to adapt to the other so that he had a sense of closeness and creating bond.
+Seeing the beauty of different Churches, we can ask ourselves the question: where was the seed of this wealth? One of the first protagonists of winning people for Christ was St. Paul, called the Apostle of the Nations. He sailed everywhere and to everyone to win many for the Gospel. He admits that to win people he "became all things to all men" (1 Cor 9:20-22). To be one with the other, he consciously made the choice to adapt to the other so that he had a sense of closeness and a bond being created.
 
 * How often do I try to walk "in someone's shoes" and listen to the other side? What is most difficult for me in this?
 * Have you heard in your life that you can listen or "heard someone"?
@@ -70,7 +70,7 @@ After reading each of the descriptions the animator asks questions:
 
 * What did Christianity take over from each of them?
 
-Early Christians just like Sadducees celebrated the Eucharist themselves, believed in immortality like Pharisees, created communities and mysticism like Essenes, and recognized the essence of personal freedom like Zealots. Openness and drawing from others are inscribed in our faith by Jesus Christ himself. It is assumed that some apostles were representatives of individual factions - the Gospel gives us for example information about Simon, who had the nickname "zealous" - in Greek zelotes, which may indicate belonging to Zealots, similarly Judas is sometimes included in this group. John the Baptist due to the hermit way of life by some sources is considered an Essene, just like his disciples who later followed Jesus. We also know that Nicodemus was a Pharisee.
+Early Christians, just like Sadducees, celebrated the Eucharist themselves, believed in immortality like Pharisees, created communities and mysticism like Essenes, and recognized the essence of personal freedom like Zealots. Openness and drawing from others are inscribed in our faith by Jesus Christ himself. It is assumed that some apostles were representatives of individual factions - the Gospel gives us for example information about Simon, who had the nickname "zealous" - in Greek zelotes, which may indicate belonging to Zealots, similarly Judas is sometimes included in this group. John the Baptist due to the hermit way of life by some sources is considered an Essene, just like his disciples who later followed Jesus. We also know that Nicodemus was a Pharisee.
 
 * What similarities do I see between contemporary factions and today's Church?
 

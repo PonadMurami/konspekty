@@ -45,7 +45,7 @@ Lisons un certain poème:
    | le plus beau de tous les jours
    | Et ainsi je me réveille depuis des années
    | pour lui donner une nouvelle chance
-   | Matins avec café tte tte
+   | Matins avec café tête-à-tête
    | pour donner de l'élan à la vie
    | avant qu'elle ne passe
    | Tant que ne dérange pas le manque
@@ -129,7 +129,7 @@ Lisons le fragment:
 
 Lisons le fragment:
 
-   | Matins avec café tte tte
+   | Matins avec café tête-à-tête
    | pour donner de l'élan à la vie
    | avant qu'elle ne passe [...]
    | Bien qu'hier, demain, aujourd'hui

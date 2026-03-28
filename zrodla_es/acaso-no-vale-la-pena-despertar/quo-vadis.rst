@@ -60,7 +60,7 @@ Puede surgir la pregunta – ¿tiene sentido planificar para 10 años adelante? 
 
    -- Ap 3,15-17
 
-* ¿Qué significa ser frío ni caliente?
+* ¿Qué significa ser ni frío ni caliente?
 
 * ¿Qué significa preocuparse por el mañana?
 
@@ -170,7 +170,7 @@ Leamos:
 
    -- Mt 5,13-16
 
-* Si realmente somos la luz del mundo (en el evangelio de hoy también aparece esta expresión) ¿no debemos ir precisamente a todo el mundo? ¿No necesitan las valles tenebrosos más que nada ser iluminados?
+* Si realmente somos la luz del mundo (en el evangelio de hoy también aparece esta expresión) ¿no debemos ir precisamente a todo el mundo? ¿No necesitan los valles tenebrosos más que nada ser iluminados?
 
 * ¿Qué significa para mí esta llamada de Jesús?
 

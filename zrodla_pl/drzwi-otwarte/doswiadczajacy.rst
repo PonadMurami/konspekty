@@ -6,7 +6,7 @@ Spotkanie 3. - Doświadczający
 Wprowadzenie dla animatora
 ==========================
 
-To ostatnie grupowe bezpośrednio przed sederem. Jego celem jest nas jak najlepiej przygotować do przeżycia go w~łączności z~Eucharystią. Nie chcemy przekazywać intelektualnej refleksji o~znaczeniu gestów i~słów - koncentrujemy się na uczestnictwie i~doświadczeniu. Seder i~co za tym idzie Eucharystia są angażujące - nasz czas, nasze ciało, nasze zmysły, nasze serce. Są osoby, które jedząc śniadanie czytają gazetę, odpowiadają na wiadomości i~wyskakują do pokoju obok wywiesić pranie - da się tak spożywać posiłki. Nie tak jednak spożywa się seder i~Eucharystię. Siedzenie przy stole może być angażujące, sprawia, że cały świat sprowadza się do tej przestrzeni tu i~teraz, czas płynie inaczej - o~to chodzi! Spotkanie zawiera aż trzy dynamiki. To po to, aby ćwiczyć, doświadczać bardziej niż się uczyć. Praktykujmy, dotykajmy, smakujmy. Nie na niby, nie w~formie syntetycznych warsztatów, ale realnie. Te dynamiki są treścią, a~nie przerywnikiem w~celu utrzymania koncentracji.
+To ostatnie grupowe bezpośrednio przed sederem. Jego celem jest nas jak najlepiej przygotować do przeżycia go w~łączności z~Eucharystią. Nie chcemy przekazywać intelektualnej refleksji o~znaczeniu gestów i~słów - koncentrujemy się na uczestnictwie i~doświadczeniu. Seder i, co za tym idzie, Eucharystia są angażujące - nasz czas, nasze ciało, nasze zmysły, nasze serce. Są osoby, które jedząc śniadanie czytają gazetę, odpowiadają na wiadomości i~wyskakują do pokoju obok wywiesić pranie - da się tak spożywać posiłki. Nie tak jednak spożywa się seder i~Eucharystię. Siedzenie przy stole może być angażujące, sprawia, że cały świat sprowadza się do tej przestrzeni tu i~teraz, czas płynie inaczej - o~to chodzi! Spotkanie zawiera aż trzy dynamiki. To po to, aby ćwiczyć, doświadczać bardziej niż się uczyć. Praktykujmy, dotykajmy, smakujmy. Nie na niby, nie w~formie syntetycznych warsztatów, ale realnie. Te dynamiki są treścią, a~nie przerywnikiem w~celu utrzymania koncentracji.
 
 Odpowiedzialność
 ================
@@ -15,7 +15,7 @@ Jesteśmy po przeżyciu Effathy. Zacznijmy od podzielenia się refleksjami w~tym
 
 * Jak przeżyłem nabożeństwo Effathy? Czym jest dla mnie nadprzyrodzona otwartość?
 
-Jesteśmy świadkami ważnych zmian w~naszym Kościele. Papież Franciszek zwołał synod pod hasłem „Ku Kościołowi synodalnemu: komunia, uczestnictwo misja”. Papież stara się nam przekazać coś ważnego o~naszym rozumieniu swojej roli we wspólnocie. To co opowiada zdaje się czasami napotkać opór i~zamkniętość ze strony wierzących. Spróbujmy w~takim razie z~otwartością pochodzącą z~wysoka przeczytać w~jaki sposób papież nas na tę drogę zapraszał:
+Jesteśmy świadkami ważnych zmian w~naszym Kościele. Papież Franciszek zwołał synod pod hasłem „Ku Kościołowi synodalnemu: komunia, uczestnictwo i~misja”. Papież stara się nam przekazać coś ważnego o~naszym rozumieniu swojej roli we wspólnocie. To, co opowiada, zdaje się czasami napotkać opór i~zamkniętość ze strony wierzących. Spróbujmy w~takim razie z~otwartością pochodzącą z~wysoka przeczytać, w~jaki sposób papież nas na tę drogę zapraszał:
 
     My, pasterze, idziemy z~ludem, czasem na przedzie, czasem pośrodku, czasem z~tyłu. Dobry pasterz musi się poruszać w~ten właśnie sposób: z~przodu, aby prowadzić stado, w~środku, aby zachęcać do drogi i~nie zapomnieć zapachu stada, z~tyłu, bo lud też ma swój „dobry węch”.
 
@@ -27,7 +27,7 @@ Jesteśmy świadkami ważnych zmian w~naszym Kościele. Papież Franciszek zwoł
 Odwaga do rzeczy ważnych
 ========================
 
-Dobrze jest być prowadzonym gdy ufa się temu kto prowadzi. Odkrywamy jednak, że nie to jest naszym wyłącznym powołaniem. Effatha “nie jest po to”, aby być bardziej otwartym na słuchanie poleceń. To my bierzemy odpowiedzialność za obieranie kierunku (synodalność)!
+Dobrze jest być prowadzonym, gdy ufa się temu, kto prowadzi. Odkrywamy jednak, że nie to jest naszym wyłącznym powołaniem. Effatha “nie jest po to”, aby być bardziej otwartym na słuchanie poleceń. To my bierzemy odpowiedzialność za obieranie kierunku (synodalność)!
 
 Zapraszając na rekolekcje opublikowaliśmy materiały przygotowane na zasadzie zestawienia dwóch tekstów - wersji zmienionej przez nas oraz tekstu oryginalnego. Chcieliśmy w~ten sposób uchwycić skoncentrowanie się na zmianie jaka może się dokonać z~odpowiednią otwartością serca. Wróćmy do kilku tych przykładów.
 
@@ -68,10 +68,10 @@ Zapraszając na rekolekcje opublikowaliśmy materiały przygotowane na zasadzie 
 
 Moglibyśmy przed chwilą wyciągnąć 100 kart zamiast kilku albo wybrać 10 kart zamiast jednej. Nie zrobiliśmy tego. Jest w~tym jakieś uzasadnienie?
 
-Co czasami się dzieje gdy wybieramy możliwości wyboru do 100?
-Co może się stać gdy wybieramy 10 kart?
+Co czasami się dzieje, gdy wybieramy możliwości wyboru do 100?
+Co może się stać, gdy wybieramy 10 kart?
 
-Nie chodzi o~to, że nie chcemy zająć się 10 rzeczami. Chodzi o~to że chcemy zająć się na pewno jedną zanim zajmiemy się dziesiątą. Trzeba odwagi, aby zdecydować co jest ważne i~zgodzić się, że będzie to krótka lista. Inaczej nastąpi **inflacja ważności** - gdy wszystko jest ważne nic nie jest. Jest ryzyko też w~drugą stronę **apatii** - nie wiem czy przeczytałem wszystkie karty z~miliona więc dopóki nie przeczytam wszystkich to nie zdecyduje się na żadną. Spróbujmy sobie na tym spotkaniu pomóc w~poszukiwaniu mądrej drogi.
+Nie chodzi o~to, że nie chcemy zająć się 10 rzeczami. Chodzi o~to, że chcemy zająć się na pewno jedną, zanim zajmiemy się dziesiątą. Trzeba odwagi, aby zdecydować, co jest ważne, i~zgodzić się, że będzie to krótka lista. Inaczej nastąpi **inflacja ważności** - gdy wszystko jest ważne, nic nie jest. Jest ryzyko też w~drugą stronę **apatii** - nie wiem, czy przeczytałem wszystkie karty z~miliona, więc dopóki nie przeczytam wszystkich, to nie zdecyduję się na żadną. Spróbujmy sobie na tym spotkaniu pomóc w~poszukiwaniu mądrej drogi.
 
 Przeczytajmy:
 
@@ -79,36 +79,36 @@ Przeczytajmy:
 
     -- Lumen Gentium 12
 
-* W~jaki sposób mam udział w~czymś co jest dla mnie ważne w~duchowej sferze?
+* W~jaki sposób mam udział w~czymś, co jest dla mnie ważne w~duchowej sferze?
 * Za co biorę odpowiedzialność?
 
 Pod powierzchnią
 ================
 
-Wybór przez każdego z~nas za co bierze odpowiedzialność i~co dla niego jest ważne jest kluczowe, aby być gotowym na zanurzenie się i~dotknięcie czegoś co jest głębiej. Przygotowujemy się dzisiaj przez cały dzień do tego.
+Wybór przez każdego z~nas, za co bierze odpowiedzialność i~co dla niego jest ważne, jest kluczowy, aby być gotowym na zanurzenie się i~dotknięcie czegoś, co jest głębiej. Przygotowujemy się dzisiaj przez cały dzień do tego.
 
 Zróbmy jeszcze jedno ćwiczenie, a~niech wprowadzi nas do niego abp. Fulton Sheen:
 
-    Nasz Pan miał boskie poczucie humoru, ponieważ objawił, że cały wszechświat jest sakramentalny. Sakrament, w~szerokim sensie tego słowa, łączy w~sobie dwa elementy: jeden widzialny, drugi niewidzialny; jeden, który można zobaczyć lub usłyszeć, którego można spróbować albo dotknąć; i~drugi - niewidzialny dla oczu. Jest jednak między tymi elementami pewien związek albo wspólna znaczeniowa przestrzeń, która je łączy. Słowo mówione jest rodzajem sakramentu, ponieważ jest w~nim zarówno coś materialnego, co da się wychwycić uchem, jak coś duchowego, czyli znaczenie słowa. Koń słyszy opowiedziany dowcip tak samo jak człowiek. Można nawet przyjąć, że słyszy wypowiadane słowa lepiej. Różnica polega na tym, że gdy człowiek usłyszy dowcip, najczęściej się roześmieje, a~gdy koń go usłyszy - nie wybuchnie końskim śmiechem. Jest tak dlatego, że koń słyszy tylko materialną część “sakramentu”, to znaczy dźwięk, podczas gdy człowiek odbiera również tę niewidzialną albo duchową, czyli sens słów.”
+    Nasz Pan miał boskie poczucie humoru, ponieważ objawił, że cały wszechświat jest sakramentalny. Sakrament, w~szerokim sensie tego słowa, łączy w~sobie dwa elementy: jeden widzialny, drugi niewidzialny; jeden, który można zobaczyć lub usłyszeć, którego można spróbować albo dotknąć; i~drugi - niewidzialny dla oczu. Jest jednak między tymi elementami pewien związek albo wspólna znaczeniowa przestrzeń, która je łączy. Słowo mówione jest rodzajem sakramentu, ponieważ jest w~nim zarówno coś materialnego, co da się wychwycić uchem, jak coś duchowego, czyli znaczenie słowa. Koń słyszy opowiedziany dowcip tak samo jak człowiek. Można nawet przyjąć, że słyszy wypowiadane słowa lepiej. Różnica polega na tym, że gdy człowiek usłyszy dowcip, najczęściej się roześmieje, a~gdy koń go usłyszy - nie wybuchnie końskim śmiechem. Jest tak dlatego, że koń słyszy tylko materialną część “sakramentu”, to znaczy dźwięk, podczas gdy człowiek odbiera również tę niewidzialną albo duchową, czyli sens słów.
 
     -- abp Fulton J. Sheen “Sakramenty”
 
-.. note:: Animator wyciąga karty dixit i~rozkłada na stole. Jest ich o~kilka więcej niż uczestników spotkania. Następnie opowiada zasady dixita: trzeba wybrać w~myśli swoją kartę i~wymyślić do niej takie skojarzenie które nie będzie nazbyt oczywiste by wszyscy nie zgadli, ale nie będzie też tak nietypowe, aby nikt nie odgadł.
+.. note:: Animator wyciąga karty dixit i~rozkłada na stole. Jest ich o~kilka więcej niż uczestników spotkania. Następnie opowiada zasady dixita: trzeba wybrać w~myśli swoją kartę i~wymyślić do niej takie skojarzenie, które nie będzie nazbyt oczywiste, by wszyscy nie zgadli, ale nie będzie też tak nietypowe, aby nikt nie odgadł.
 
 Uczestnicy dzielą się skojarzeniem, a~reszta próbuje odgadnąć co to za karta.
 
 * W~jaki sposób podawanie tego skojarzenia łączy się z~wprowadzeniem abp. Sheena i~naszym tematem?
 * Czym w~życiu wspólnoty byłoby podanie zbyt prostego skojarzenia?
-* Czym w~życiu wspólnoty byłoby podanie skojarzenia którego nikt nie odgadnie?
+* Czym w~życiu wspólnoty byłoby podanie skojarzenia, którego nikt nie odgadnie?
 
-Podanie zbyt oczywistego skojarzenia to najprawdopodobniej minięcie się z~głębią, powiedzenie czegoś powierzchownego. Podanie skojarzenia którego nikt nie odgadnie nie buduje wspólnoty tak jak by mogło. Jako wspólnota wierzących jesteśmy nieustannie “rozpięci” pomiędzy tymi dwoma punktami starając się szukać naszego wspólnego wzrostu.
+Podanie zbyt oczywistego skojarzenia to najprawdopodobniej minięcie się z~głębią, powiedzenie czegoś powierzchownego. Podanie skojarzenia, którego nikt nie odgadnie nie buduje wspólnoty tak jak by mogło. Jako wspólnota wierzących jesteśmy nieustannie “rozpięci” pomiędzy tymi dwoma punktami starając się szukać naszego wspólnego wzrostu.
 
-* W~jakich miejscach czuję, że dotykam czegoś co ważne i~głębokie? Kiedy odkryłem/odkryłam to miejsce?
+* W~jakich miejscach czuję, że dotykam czegoś, co ważne i~głębokie? Kiedy odkryłem/odkryłam to miejsce?
 
 Przełamanie się
 ===============
 
-Piękny plan rysuje się nam na spotkaniu - mamy być otwarci na nowe spojrzenie, zasłuchani w~Papieża który zachęca nas do uczestnictwa, wybierający to co dla nas jest ważne i~głębokie! Czemu patrząc przez okno zdaje się że niewiele z~nas w~ten sposób żyje?
+Piękny plan rysuje się nam na spotkaniu - mamy być otwarci na nowe spojrzenie, zasłuchani w~Papieża, który zachęca nas do uczestnictwa, wybierający to, co dla nas jest ważne i~głębokie! Czemu patrząc przez okno zdaje się, że niewiele z~nas w~ten sposób żyje?
 
 Przeczytajmy:
 
@@ -119,7 +119,7 @@ Przeczytajmy:
 * Do kogo mówi św. Piotr?
 * Do czego zachęca Cię ten fragment?
 
-Jesteśmy powołani do wychodzenia na głębie i~do odważnego stawania się dla samych siebie drabiną do wzrostu. Wiara domaga się maksymalizmu, decyzji uczynienia jest czymś ważnym (tak naprawdę ważnym). To kwestia przełamania się (lub jak kto woli nawrócenia).
+Jesteśmy powołani do wychodzenia na głębie i~do odważnego stawania się dla samych siebie drabiną do wzrostu. Wiara domaga się maksymalizmu, decyzji uczynienia jej czymś ważnym (tak naprawdę ważnym). To kwestia przełamania się (lub jak kto woli nawrócenia).
 
 Przeczytajmy:
 
@@ -127,11 +127,11 @@ Przeczytajmy:
 
     -- ks. Franciszek Blachnicki
 
-To dobre podsumowanie zmiany na którą Kościół (i Jezus) czeka.
+To dobre podsumowanie zmiany, na którą Kościół (i~Jezus) czeka.
 
-To się może wydarzyć poprzez cud. Najczęściej się jednak nie wydarza w~ten sposób, ale to nic złego - można inaczej. Wychodzenie na głębie i~koncentrację na tym co ważne można ćwiczyć. Codziennie, konsekwentnie.
+To się może wydarzyć poprzez cud. Najczęściej się jednak nie wydarza w~ten sposób, ale to nic złego - można inaczej. Wychodzenie na głębie i~koncentrację na tym, co ważne, można ćwiczyć. Codziennie, konsekwentnie.
 
-* Co by mi pomogło co mogliby zrobić inni, abym nie wpadał w~płytkość?
+* Co by mi pomogło, co mogliby zrobić inni, abym nie wpadał w~płytkość?
 * Co możemy zrobić, aby dawać sobie nawzajem siłę nośną w~Kościele?
 
 Doświadczanie
@@ -181,9 +181,9 @@ Wykonajmy teraz ćwiczenie z~tym związane.
 
 * Jaki to smak?
 
-Wyobraźmy sobie, że nigdy nie piliśmy herbaty. Ktoś nalewa ją nam do czarki, widzimy kolor płynu przelewający się do naczynia. Wzrok coś mówi nam o~herbacie. Bierzemy ją w~dłonie i~przybliżamy do siebie czując jej zapach - być może już umiemy rozpoznać z~czego je zrobiono. Gdy przyłożymy ją do ust doświadczenie się pogłębia.
+Wyobraźmy sobie, że nigdy nie piliśmy herbaty. Ktoś nalewa ją nam do czarki, widzimy kolor płynu przelewający się do naczynia. Wzrok coś mówi nam o~herbacie. Bierzemy ją w~dłonie i~przybliżamy do siebie czując jej zapach - być może już umiemy rozpoznać z~czego ją zrobiono. Gdy przyłożymy ją do ust doświadczenie się pogłębia.
 
-Duchowość jest sensualna. Wiara jest sensualna. I~dosłownie - oddziaływuje na wszystkie zmysły i~w przenośni - jest wielowymiarowa i~odpowiedzi są na styku każdego z~wymiarów.
+Duchowość jest sensualna. Wiara jest sensualna. I~dosłownie - oddziałuje na wszystkie zmysły i~w przenośni - jest wielowymiarowa i~odpowiedzi są na styku każdego z~wymiarów.
 
 * Jakie znaczenie dla duchowości ma zmysł dotyku?
 * Jakie znaczenie dla duchowości ma zmysł węchu?
@@ -211,7 +211,7 @@ Przeczytajmy:
 * Dlaczego współcześni Jezusowi mogli myśleć, że chcę coś znieść?
 * Czy jest nam bliska ochota, aby chcieć zobaczyć rzeczy bez łączności z~tym, co było?
 
-Nasza wiara nie spadła z~nieba. Eucharystia nie została objawiona na tablicy kamiennej. Jezus nie wymyślił macy oraz wina. Bóg wchodzi w~świat i~tworzy w~nim nowe połączenia. Bóg tylko tworzy, niczego nie niszczy to dla wielu z~nas jego podstawowa “tożsamość” - jest Stwórcą/Twórcą. Chcemy razem przeżyć dzisiaj seder, aby utworzyć nowe połączenie - w~sercach, duszy i~umyśle.
+Nasza wiara nie spadła z~nieba. Eucharystia nie została objawiona na tablicy kamiennej. Jezus nie wymyślił macy oraz wina. Bóg wchodzi w~świat i~tworzy w~nim nowe połączenia. Bóg tylko tworzy, niczego nie niszczy - to dla wielu z~nas jego podstawowa “tożsamość” - jest Stwórcą/Twórcą. Chcemy razem przeżyć dzisiaj seder, aby utworzyć nowe połączenie - w~sercach, duszy i~umyśle.
 
 * Kto z~nas uczestniczył już w~sederze?
 * Z~jaką nadzieją na niego idziemy?
@@ -219,7 +219,7 @@ Nasza wiara nie spadła z~nieba. Eucharystia nie została objawiona na tablicy k
 
 Zjemy kolację. Będziemy nalewać wino i~przełamywać chleb. Będziemy rozmawiać i~żartować. Będzie prosto, ale nie prostacko. Będzie zwyczajnie, ale pięknie zwyczajnie. To cały czas jedna i~ta sama opowieść Boga względem nas: lekki powiew, a~nie gromy; stajenka, a~nie pałace; zwykły rybak, a~nie uczony; przykazanie miłości bardziej niż 500 zasad.
 
-Jezus nam pokazał, że jedzenie z~kimś kolacji zmienia świat. Zjedzmy razem kolacje tak, aby wzajemnie pociągnąć się w~górę i~wpiszmy się w~tą opowieść Najwyższego.
+Jezus nam pokazał, że jedzenie z~kimś kolacji zmienia świat. Zjedzmy razem kolację tak, aby wzajemnie pociągnąć się w~górę i~wpiszmy się w~tę opowieść Najwyższego.
 
 Modlitwa
 ========
@@ -240,7 +240,7 @@ Zacznijmy modlitwę od:
 
     -- Ps 133
 
-Niech słowa Psalmy zainspirują naszą modlitwę wstawienniczą.
+Niech słowa Psalmu zainspirują naszą modlitwę wstawienniczą.
 
 
 

@@ -37,7 +37,7 @@ Lisons :
 
     -- Commentaire de saint Jean Chrysostome
 
-Par l'Eucharistie, et surtout la réception de Jésus dans la Communion sainte, cela fait que nous devenons un avec tous ceux qui reçoivent ce Corps. Notre diversité construit la communauté.
+L'Eucharistie, et surtout la réception de Jésus dans la Communion sainte, fait que nous devenons un avec tous ceux qui reçoivent ce Corps. Notre diversité construit la communauté.
 
 * Quelle est ma relation, mon attitude envers les autres participants de la Messe Sainte ?
 
@@ -72,7 +72,7 @@ Lisons :
 
     -- Jean-Paul II -- Ecclesia de Eucharistia
 
-*Il vaut la peine ici de demander aux participants les célébrations familiales (ou n'importe quelles autres), qui ont lieu à table. Comment elles se passent, comment se comportent les gens qui y viennent. Comment de telles célébrations sont perçues par nous, par les participants (ne pas aborder le sujet de l'alcool). Qu'est-ce qui fait que les gens s'assoient à une même table, se rassemblent pour la célébration ? Pourquoi le font-ils ? Quel est le but de cette rencontre ? Un but similaire a-t-il le rassemblement eucharistique ? Qu'est-ce qui nous attire pendant celui-ci ? Qu'est-ce qui fait que nous nous rassemblons en un même lieu et temps ?*
+*Il vaut la peine ici d'interroger les participants sur les célébrations familiales (ou n'importe quelles autres), qui ont lieu à table. Comment elles se passent, comment se comportent les gens qui y viennent. Comment de telles célébrations sont perçues par nous, par les participants (ne pas aborder le sujet de l'alcool). Qu'est-ce qui fait que les gens s'assoient à une même table, se rassemblent pour la célébration ? Pourquoi le font-ils ? Quel est le but de cette rencontre ? Un but similaire a-t-il le rassemblement eucharistique ? Qu'est-ce qui nous attire pendant celui-ci ? Qu'est-ce qui fait que nous nous rassemblons en un même lieu et temps ?*
 
 Pendant l'Eucharistie, nous devenons frères, nous nous unissons, pas de nous-mêmes, mais grâce à la participation à un seul Corps et Sang. Le Repas du Seigneur n'est pas un simple repas. Depuis toujours, les gens, pour être plus proches les uns des autres, pour s'unir, organisent des repas. Les événements les plus importants dans la vie de chaque homme, la joie, la tristesse, nous les vivons précisément pendant le repas, le dîner, etc. Là les gens se rencontrent, s'ouvrent mutuellement. Aussi ces rencontres avec la personne la plus proche ont lieu à table. Un des éléments d'un moment parfait, romantique avec l'aimé est précisément le dîner commun.
 
@@ -100,7 +100,7 @@ Demandons :
 
 * Comment change notre attitude après la sortie de la messe sainte ? Combien de temps nous dure cette force pour "supporter" les autres gens dans la communauté ?
 
-* L'Eucharistie a-t-elle des points communs avec notre vie quotidienne ? N'est-elle peut-être pas quelque chose de complètement détachée d'elle, un temps où nous nous comportons complètement différemment que dans la réalité et ne nous efforçons pas de transférer ces valeurs dans notre vie ?
+* L'Eucharistie a-t-elle des points communs avec notre vie quotidienne ? N'est-elle peut-être pas quelque chose de complètement détaché d'elle, un temps où nous nous comportons complètement différemment que dans la réalité et ne nous efforçons pas de transférer ces valeurs dans notre vie ?
 
 * De quelle manière puis-je mieux me préparer à la messe sainte ? Est-ce que je me crée la possibilité d'une telle préparation ?
 

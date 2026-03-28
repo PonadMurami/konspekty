@@ -6,21 +6,21 @@ Meeting 1 — I Am
 Introduction for the facilitator
 ================================
 
-The Friday meeting aims primarily at getting to know the members and forming a community of a small sharing group. It is therefore worth devoting an appropriate amount of time to integration and outlining the character of these meetings so that they constitute a safe space. An important goal is also preparation for evening prayer, therefore substantively the most important issue to address are our ideas about God and sharing a fragment from the Book of Exodus.
+The Friday meeting aims primarily at getting to know the members and forming a community of a small sharing group. It is therefore worth devoting an appropriate amount of time to integration and outlining the character of these meetings so that they constitute a safe space. An important goal is also preparation for evening prayer, therefore substantively the most important issue to address is our ideas about God and sharing a fragment from the Book of Exodus.
 
 Let's get to know each other!
 =============================
 
 We start with prayer, then move on to getting to know the group members.
 
-Proposal for a form of getting to know each other: participants pair up, talk to each other for a moment (approx. 3 min.) telling about themselves. Then on the group forum we present each other - we describe the person we were paired with, saying everything we managed to remember. It is in a sense a test of mindfulness and a starting point for considerations in the topic of the meeting.
+Proposal for a form of getting to know each other: participants pair up, talk to each other for a moment (approx. 3 min.) telling about themselves. Then on the group forum we present each other - we describe the person we were paired with, saying everything we managed to remember. It is in a sense a test of mindfulness and a starting point for reflections on the topic of the meeting.
 
 - What was difficult for me in this exercise?
 - What was my way of remembering information about the other person?
 - What was more important for me: remembering as many details as possible, or paying attention to what I think is most important? Why?
 
 
-Similarly it will be with what we managed to take from the introductory conference, each of us probably remembered something different from it. Some certainly paid attention to what the speaker was wearing, what was their way of speaking, others focused mainly on the content. Regardless of what we "took" from this time for ourselves, we had to show mindfulness to some extent for it to happen.
+Similarly, it will be with what we managed to take from the introductory conference, each of us probably remembered something different from it. Some certainly paid attention to what the speaker was wearing, what was their way of speaking, others focused mainly on the content. Regardless of what we "took" from this time for ourselves, we had to show mindfulness to some extent for it to happen.
 
 Mindfulness in practice
 =======================
@@ -50,7 +50,7 @@ Judas probably overlooked what was happening with Jesus not only because there w
 - What image of God is closest to me currently? How has it changed over time?
 - What influences my way of perceiving God?
 
-Disciples after the resurrection did not immediately recognize Jesus. In the Gospel we have described several meetings in which only after some time they realized that it was Him. Mary Magdalene at the tomb, disciples going to Emmaus, apostles fishing on Lake Tiberias. Most often they realized that it is Jesus after some specific gesture or sign - after the way he says the name, after how he breaks bread, after traces of passion. The more mindful we are, the faster we are able to recognize Him. At the same time we must have readiness in us to accept God as He currently wants to reveal Himself to us.
+The disciples after the resurrection did not immediately recognize Jesus. In the Gospel we have described several meetings in which only after some time they realized that it was Him. Mary Magdalene at the tomb, disciples going to Emmaus, apostles fishing on Lake Tiberias. Most often they realized that it was Jesus after some specific gesture or sign - after the way he says the name, after how he breaks bread, after the traces of the Passion. The more mindful we are, the faster we are able to recognize Him. At the same time we must have readiness in us to accept God as He currently wants to reveal Himself to us.
 
 Let us read:
 
@@ -58,7 +58,7 @@ Let us read:
 
     -- 1 Kgs 19:1-13
 
-This fragment describes one of the more difficult moments in Elijah's life, who doubted the meaning of his vocation, and even generally the meaning of life. Lord God however does not give up on his prophet, cares for him and calls him to Mount Horeb to meet with him there.
+This fragment describes one of the more difficult moments in Elijah's life, who doubted the meaning of his vocation, and even generally the meaning of life. Lord God, however, does not give up on his prophet, cares for him and calls him to Mount Horeb to meet with him there.
 
 - What is the significance of God asking Elijah "What are you doing here?"?
 - What did God want to say about himself, revealing himself to the prophet in such a way?

@@ -67,7 +67,7 @@ Jesus' desire is unity. Unity on a scale and depth exceeding our comprehension. 
 
 - What in Unity is difficult for me?
 
-Crucial for us is the word "desire". Jesus in such a human way is motivated by the desire for unity, he makes it, strives for it, prays for it, gives his life for it. It is His dream, which he leaves us in the testament. He secures means for us so that we have a chance to touch it - the Blessing of the Father and the presence of the Holy Spirit..
+Crucial for us is the word "desire". Jesus in such a human way is motivated by the desire for unity, he makes it, strives for it, prays for it, gives his life for it. It is His dream, which he leaves us in the testament. He secures means for us so that we have a chance to touch it - the Blessing of the Father and the presence of the Holy Spirit.
 
 - Where and when did I experience this unity that Jesus desires for me?
 

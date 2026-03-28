@@ -50,7 +50,7 @@ Judas provavelmente perdeu o que estava acontecendo com Jesus não apenas porque
 - Que imagem de Deus é a mais próxima de mim atualmente? Como ela mudou com o tempo?
 - O que influencia a minha maneira de perceber a Deus?
 
-Os discípulos após a ressurreição não reconheceram Jesus imediatamente. No Evangelho temos descritos vários encontros em que só depois de algum tempo se deram conta de que era Ele. Maria Madalena no túmulo, os discípulos indo para Emaús, os apóstolos pescando no lago de Tiberíades. Na maioria das vezes percebiam que era Jesus após algum gesto ou sinal concreto - pela maneira como pronuncia o nome, por como parte o pão, pelas marcas da paixão. Quanto mais atentos estamos, mais rápido somos capazes de Reconhecê-lo. Ao mesmo tempo, devemos ter em nós a disposição para aceitar a Deus tal como Ele quer se revelar a nós atualmente.
+Os discípulos após a ressurreição não reconheceram Jesus imediatamente. No Evangelho temos descritos vários encontros em que só depois de algum tempo se deram conta de que era Ele. Maria Madalena no túmulo, os discípulos indo para Emaús, os apóstolos pescando no lago de Tiberíades. Na maioria das vezes percebiam que era Jesus após algum gesto ou sinal concreto - pela maneira como pronuncia o nome, por como parte o pão, pelas marcas da paixão. Quanto mais atentos estamos, mais rápido somos capazes de reconhecê-lo. Ao mesmo tempo, devemos ter em nós a disposição para aceitar a Deus tal como Ele quer se revelar a nós atualmente.
 
 Leiamos:
 

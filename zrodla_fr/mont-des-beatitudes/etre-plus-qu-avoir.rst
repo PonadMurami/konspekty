@@ -154,7 +154,7 @@ Lisons : (ou Jn 13, 1-17 (le lavement des pieds))
 
 * Qu'est-ce que le service pour toi ?
 
-* As-tu déjà fait l'expérience de la joie du service ? Si tu peux, racontes-le.
+* As-tu déjà fait l'expérience de la joie du service ? Si tu peux, raconte-le.
 
 * Comment te sens-tu quand tu imagines que d'autres t'appellent par ex. « Camille serviteur des gens » ? Pourquoi ?
 

@@ -141,7 +141,7 @@ Leamos:
 
     -- Ex 15,22-27
 
-**Rapha — el Señor sana.** Caminan tres días sin agua; luego hallan agua amarga. Dios la endulce y después les hace llegar hasta doce fuentes.
+**Rapha — el Señor sana.** Caminan tres días sin agua; luego hallan agua amarga. Dios la endulza y después les hace llegar hasta doce fuentes.
 
 Leamos:
 
@@ -213,4 +213,4 @@ Aplicación
 
 Busca a alguien con quien darse la mano y dar juntos un paso hacia adelante.
 
-No es una broma. Hacia el horizonte!
+No es una broma. ¡Hacia el horizonte!

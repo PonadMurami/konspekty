@@ -129,7 +129,7 @@ Hablamos de la manipulación de nosotros por el "mundo" en cuanto a la direcció
 Ahora discutiremos nuestras diferentes "búsquedas". Cada vez tratemos de ver lo más ampliamente posible qué realmente se puede buscar con ocasión de esta actividad! Tratemos de entender el mecanismo que causa tales discrepancias, que "digo que busco A, y realmente estoy buscando B". **Compartamos principalmente esas asociaciones que conocemos de nuestra propia vida, en las que nosotros mismos nos "agarramos"**. Cada uno de nosotros posee un mecanismo psicológico de defensa natural, que nos sugiere que *"¡después de todo nosotros no! Nosotros siempre cuando pensamos hacemos exactamente lo mismo"*. El trabajo en grupo sobre situaciones particulares puede hacer que alguien más sugiera tal respuesta ante la cual nosotros mismos nos defendemos. Aprovechemos bien entonces las condiciones que tenemos aquí e intentemos notar algo en nuestra vida. Sobre algunos ejemplos se podrá mencionar un millón de ejemplos
 "piadosos" – ¡no los escribamos si no están en nuestra vida!
 
-.. note:: Vale la pena dar aquí un ejemplo: Supongamos que tuviéramos que responder a la pregunta "¿Quién es para mí María?". En verdad la respuesta correcta es "Arca de la alianza" o "Torre de Marfil" (ver. Letanía Lauretana), pero si para ninguno de nosotros estas expresiones no son cercanas al corazón entonces regalémoslas – ¡nos encontramos para compartir nuestra propia experiencia, y no para escribir enciclopedias!
+.. note:: Vale la pena dar aquí un ejemplo: Supongamos que tuviéramos que responder a la pregunta "¿Quién es para mí María?". En verdad la respuesta correcta es "Arca de la alianza" o "Torre de Marfil" (ver. Letanía Lauretana), pero si para ninguno de nosotros estas expresiones son cercanas al corazón entonces regalémoslas – ¡nos encontramos para compartir nuestra propia experiencia, y no para escribir enciclopedias!
 
 Cada vez usamos la forma **"¿Qué buscamos/buscas en.......?"** ¡Esta pregunta debe escucharla cada uno varias veces! Debe confrontarse con encontrarle respuesta! Este es el Objetivo educativo de este encuentro.
 
@@ -138,7 +138,7 @@ A continuación presento **ejemplos propuestos** para discutir. Sugiero de maner
 * Compro Pepsi
    * Busco satisfacer la sed
    * Busco satisfacción "porque soy yo mismo" (alusión al anuncio)
-   * Busco algo que tenga cafeína y hará que no me duerma en la clase
+   * Busco algo que tenga cafeína y haga que no me duerma en la clase
 * En el sermón dominical
    * La palabra "Amén"
    * Error teológico

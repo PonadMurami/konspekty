@@ -12,7 +12,7 @@ Normalement, dans le premier schéma des retraites, il y a un point pour faire c
 
 Que chacun de nous écrive sur une feuille trois phrases concernant sa vie. Que deux d'entre elles soient vraies et une fausse. Essayons de deviner ensemble laquelle est un mensonge.
 
-.. note::  Il est nécessaire d'écrire les phrases pour lire chacune d'elles avec la même aisance et vitesse. Sinon, la phrase inventée peut être facile à reconnaître par la façon dont elle est présentée.
+.. note:: Il est nécessaire d'écrire les phrases pour lire chacune d'elles avec la même aisance et vitesse. Sinon, la phrase inventée peut être facile à reconnaître par la façon dont elle est présentée.
 
 - Quelle connaissance acquise sur quelqu'un d'autre du groupe m'a le plus surpris ? Pourquoi ?
 - Si tu devais nommer l'événement le plus important de ta vie au cours de la dernière année, lequel indiquerais-tu ?

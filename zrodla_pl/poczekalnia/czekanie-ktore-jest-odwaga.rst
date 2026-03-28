@@ -6,12 +6,12 @@ Spotkanie 2. - Czekanie, które jest odwagą
 Cel Spotkania
 =============
 
-Rewizja naszych wątpliwości - analiza ich struktury. Pokazanie, że odważne (nie przemyślane pod każdym kątem) decyzje są lepszą drogą nich paraliż związany z~brakiem decyzyjności. Wprowadzenie do tematu umiejętności czekania na owoce.
+Rewizja naszych wątpliwości - analiza ich struktury. Pokazanie, że odważne (nie przemyślane pod każdym kątem) decyzje są lepszą drogą niż paraliż związany z~brakiem decyzyjności. Wprowadzenie do tematu umiejętności czekania na owoce.
 
 Wprowadzenie dla animatora
 ==========================
 
-Spotkanie ma charakter silnie dzieleniowy. Należy bardzo świadomie kontrolować czas spotkania - **ważniejsze jest, aby ludzie się realnie podzieli swoim życiem niż realizacja nawet ½ tego konspektu**. Konspekt jest obszerny - posiada 39 pytań dzieleniowych (!), wybierz z~nich to, co dla Twojej grupy będzie największą wartością - nie próbuj zadawać ich wszystkich. Może się okazać, że część tych treści zostanie poruszona na konferencjach/świadectwach wcześniej - nie umiemy przewidzieć jak zawieje Duch Święty - ten konspekt jest buforem, który umożliwia dostosowanie lini programowej.
+Spotkanie ma charakter silnie dzieleniowy. Należy bardzo świadomie kontrolować czas spotkania - **ważniejsze jest, aby ludzie się realnie podzielili swoim życiem niż realizacja nawet ½ tego konspektu**. Konspekt jest obszerny - posiada 39 pytań dzieleniowych (!), wybierz z~nich to, co dla Twojej grupy będzie największą wartością - nie próbuj zadawać ich wszystkich. Może się okazać, że część tych treści zostanie poruszona na konferencjach/świadectwach wcześniej - nie umiemy przewidzieć jak zawieje Duch Święty - ten konspekt jest buforem, który umożliwia dostosowanie linii programowej.
 
 Modlitwa początkowa
 ===================
@@ -38,7 +38,7 @@ Wprowadzenie do spotkania
 
 .. note:: ~10 minut
 
-Przeprowadźmy mały eksperyment: niech każdy napisze na trzech kartkach jakieś przestrzenie  życia w~której Waszym zdaniem często ludzie mają wątpliwości i~położy na środku stołu. Np.:
+Przeprowadźmy mały eksperyment: niech każdy napisze na trzech kartkach jakieś przestrzenie życia w~której Waszym zdaniem często ludzie mają wątpliwości i~położy na środku stołu. Np.:
 
 #. Przebieg meczu Polska-Niemcy
 
@@ -105,11 +105,11 @@ Mamy jednak taką naturę, że czasami mówimy/myślimy, że na coś czekamy, al
 
     “Według Gombrowicza narodu obrażanie”, 1993r.
 
-* Załóżmy, że możesz zadać dwa pytania na które otrzymujesz pełną i~wyczerpująca odpowiedź na dowolny temat - jakie pytania zadajesz? Dlaczego?
+* Załóżmy, że możesz zadać dwa pytania na które otrzymujesz pełną i~wyczerpującą odpowiedź na dowolny temat - jakie pytania zadajesz? Dlaczego?
 
 .. note:: Pytanie nie jest trywialne. Pierwszą myślą moją było pytanie: “jak kochać prawdziwie?” - chwilę później było mi bardzo głupio, bo spojrzałem na ponad 1000 stronicową odpowiedź, która leży teraz na moim biurku w~chwili pisania tego konspektu i~do której często zerkam.
 
-Uważajcie, aby ten fragment spotkania nie stał się grą w~“policję i~złodziei” - nie chcemy “chwycić” uczestników na niczym. Proponuje z~tego powodu, aby animator zaczął wyjątkowo jako pierwszy dzielić się swoją odpowiedzią. Dodatkowe założenie dla dociekliwych: zakładając, że odpowiedź będzie tak dostosowana i~przekazana, że ją w~100% zrozumiecie.
+Uważajcie, aby ten fragment spotkania nie stał się grą w~“policję i~złodziei” - nie chcemy “chwycić” uczestników na niczym. Proponuję z~tego powodu, aby animator zaczął wyjątkowo jako pierwszy dzielić się swoją odpowiedzią. Dodatkowe założenie dla dociekliwych: zakładając, że odpowiedź będzie tak dostosowana i~przekazana, że ją w~100% zrozumiecie.
 
 Wybory w~naszym życiu są czymś bardzo ważnym, ale czy nie paraliżują nas one? Czy nie mamy tak, że boimy się zdecydować z~powodu tego, że wyszukujemy tyle pytań, że wątpliwości biorą górę nad wszystkim?
 
@@ -161,7 +161,7 @@ Spróbujmy stworzyć listę rzeczy na które czekamy - wszystkie - świeckie, du
 
 * Co myślisz o~stwierdzeniu: “człowiek, który musi czekać to człowiek słaby”? (Czekają w~kolejce do lekarza ci biedni - bogaci idą prywatnie. Czekają na lotnisku na odprawę mali - inni mają priorytetową odprawę. Czekają na przyjazd pkp ci, którzy nie mają swojego Lamborghini w~garażu itd.)
 
-Jest obecna w~świecie tendencja, aby wyeliminować czekanie - aby wszystko było “instant”. Znamy to dobrze: Książki - tylko metodą szybkiego czytania. Zupka - proszek + wrzątek.  Można się uczyć 4h, ale można też mieć ściągę. I~tak dalej.
+Jest obecna w~świecie tendencja, aby wyeliminować czekanie - aby wszystko było “instant”. Znamy to dobrze: Książki - tylko metodą szybkiego czytania. Zupka - proszek + wrzątek. Można się uczyć 4h, ale można też mieć ściągę. I~tak dalej.
 
 Popatrzcie co robi Kościół (animator wyciąga przygotowane kartki):
 

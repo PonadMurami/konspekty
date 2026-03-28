@@ -72,7 +72,7 @@ Lisons :
 * Où aimerais-tu le trouver dans le quotidien ?
 * Où est l'Évangile même si tu n'entends pas de sonneries et le nom de Jésus ?
 
-Le même ne vient pas. L'immersion est une étape difficile qui exige un effort de notre part. L'Église le fait cependant tout le temps. Envoyons-nous les enfants à un cours théologique de 5 ans sur l'Eucharistie avant qu'ils aillent à la Messe, ou plutôt leur permettons-nous de participer immédiatement ? Commençons-nous l'apprentissage de la prière depuis la théorie ou plutôt invitons-nous quelqu'un à s'asseoir à côté de nous ?
+Cela ne vient pas tout seul. L'immersion est une étape difficile qui exige un effort de notre part. L'Église le fait cependant tout le temps. Envoyons-nous les enfants à un cours théologique de 5 ans sur l'Eucharistie avant qu'ils aillent à la Messe, ou plutôt leur permettons-nous de participer immédiatement ? Commençons-nous l'apprentissage de la prière depuis la théorie ou plutôt invitons-nous quelqu'un à s'asseoir à côté de nous ?
 
 * Comment peux-tu apprendre à t'immerger ?
 

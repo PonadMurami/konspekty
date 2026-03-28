@@ -57,7 +57,7 @@ Lisons un passage juste avant le début de notre histoire :
 
     Térah prit son fils Abram, son petit-fils Lot, fils de Haran, et sa bru Saraï, femme de son fils Abram, qui sortirent avec eux d'Our des Chaldéens pour aller au pays de Canaan. Ils gagnèrent Haran où ils habitèrent. Les jours de Térah furent de deux cent cinq ans, et Térah mourut à Haran.
 
-    -- Gn 11,31-32 (Note: le texte polonais disait 1 Kor 9,1 par erreur, j'ai corrigé la référence biblique pour correspondre au texte, qui est Genèse 11:31-32)
+    -- Gn 11,31-32
 
 Canaan est la « Terre Promise » biblique. Le père d'Abram voulait aussi y arriver, mais il n'a pas réussi, car après être arrivé à Haran, il a estimé que c'était « suffisamment bien » là-bas. Il s'est contenté d'une demi-mesure, mais en Abram est restée l'envie d'atteindre le but initial du voyage, il en rêvait encore longtemps après. L'appel de Dieu ne vient pas de nulle part, il s'appuie toujours sur un désir qui est en nous depuis longtemps, mais dont nous ne nous rendons peut-être pas toujours compte.
 

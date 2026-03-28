@@ -188,7 +188,7 @@ Nous participons à la retraite "Nous sommes de la prière", et nous parlons pre
 
 Lisons la déclaration de Benoît XVI :
 
-    Nous pouvons dire que dans la prière sacerdotale de Jésus se réalise l'institution de l'Église... Précisément ici, lors de la dernière Cène, Jésus crée l'Église. Car qu'est-ce que l'Église, sinon la communauté des disciples qui, par la foi en Jésus-Christ comme envoyé du Père, reçoit son unité et s'implique dans la mission de Jésus de sauver le monde, en le guidant à la connaissance de Dieu ? Ici nous trouvons vraiment une véritable définition de l'Église. L'Église naît de la prière de Jésus. Et cette prière n'est pas seulement une parole : c'est l'acte par lequel il se consagra à lui-même, c'est-à-dire se « sacrifie » pour la vie du monde.
+    Nous pouvons dire que dans la prière sacerdotale de Jésus se réalise l'institution de l'Église... Précisément ici, lors de la dernière Cène, Jésus crée l'Église. Car qu'est-ce que l'Église, sinon la communauté des disciples qui, par la foi en Jésus-Christ comme envoyé du Père, reçoit son unité et s'implique dans la mission de Jésus de sauver le monde, en le guidant à la connaissance de Dieu ? Ici nous trouvons vraiment une véritable définition de l'Église. L'Église naît de la prière de Jésus. Et cette prière n'est pas seulement une parole : c'est l'acte par lequel il se consacre lui-même, c'est-à-dire se « sacrifie » pour la vie du monde.
 
     -- Benoît XVI, Catéchèse lors de l'audience générale 25.01.2012
 

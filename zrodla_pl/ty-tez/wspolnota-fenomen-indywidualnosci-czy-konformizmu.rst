@@ -32,7 +32,7 @@ Jaka jest moja "indywidualność"?
 
 .. note:: Animator przygotowuje dużo kartek z~różnymi napisami: napisane niebieskim kolorem "słoń", podkreślony czarny napis "widelec" itd.
 
-Poprosić grupę  żeby je podzieliła na grupy - jest dużo możliwości (kolor, podkreślenie, kursywa, wytłuszczenie, liczba, liczba ułamkowa, rodzina wyrazów itd.). Żadna kartka nie jest identyczna 1:1.
+Poprosić grupę, żeby je podzieliła na grupy - jest dużo możliwości (kolor, podkreślenie, kursywa, wytłuszczenie, liczba, liczba ułamkowa, rodzina wyrazów itd.). Żadna kartka nie jest identyczna 1:1.
 
 * Czy jakieś dwie kartki są tutaj identyczne?
 

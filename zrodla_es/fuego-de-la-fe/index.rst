@@ -10,7 +10,7 @@ Lugar de creación:
 Grupo destinatario:
     Retiro abierto para personas de 13 a 23 años
 Descripción del retiro:
-    Retiro de Pascua destinado a preparar a la gente para Pentecostés. Se centraron en el Espíritu Santo como Aquel sin el cual es imposible comprender los acontecimientos que vivimos durante la Semana Santa. El momento clave del retiro fue la oración vespertina del sábado, en la que pedimos al Espíritu Santo que nos ayudara a renovar nuestra fe. El hilo conductor del retiro fue la idea de que somos gente del cenáculo: por un lado, discípulos de Jesús que conocen la enseñanza, pero por otro lado, tienen miedo de confesarla, intentando vivir sin el poder del Espíritu Santo.
+    Retiro de Pascua destinado a preparar a la gente para Pentecostés. Se centró en el Espíritu Santo como Aquel sin el cual es imposible comprender los acontecimientos que vivimos durante la Semana Santa. El momento clave del retiro fue la oración vespertina del sábado, en la que pedimos al Espíritu Santo que nos ayudara a renovar nuestra fe. El hilo conductor del retiro fue la idea de que somos gente del cenáculo: por un lado, discípulos de Jesús que conocen la enseñanza, pero por otro lado, tienen miedo de confesarla, intentando vivir sin el poder del Espíritu Santo.
 
 .. only:: html
 

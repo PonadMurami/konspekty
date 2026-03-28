@@ -95,7 +95,7 @@ Są ludzie, którzy mają w~sobie gotowość serca, aby przyjąć Jego osobę i~
 
 Przed rekolekcjami umieszczaliśmy na naszym profilu różne zapowiedzi Mesjasza ze Starego Testamentu.
 
-.. important:: Z~racji oszczędności czasu proponuje, aby jednak animator je przeczytał z~konspektu lub dał komuś do przeczytania - nawigacja w~ST może zabrać nam sporo czasu.
+.. important:: Z~racji oszczędności czasu proponuję, aby jednak animator je przeczytał z~konspektu lub dał komuś do przeczytania - nawigacja w~ST może zabrać nam sporo czasu.
 
 Między innymi takie:
 
@@ -138,11 +138,11 @@ Na naszych rekolekcjach chcemy razem spróbować wejść w~taką gotowość i~ot
 
 .. note:: Obie odpowiedzi są dobre!
 
-Wchodzimy w~trudną przestrzeń wiary gdzie nazywanie rzeczy jest mocno zależne od naszej wrażliwości i~wcześniejszych doświadczeń. Rozwój duchowy opisują w~zależności od perspektywy oba  te obrazy.
+Wchodzimy w~trudną przestrzeń wiary gdzie nazywanie rzeczy jest mocno zależne od naszej wrażliwości i~wcześniejszych doświadczeń. Rozwój duchowy opisują w~zależności od perspektywy oba te obrazy.
 
-Z perspektywy osoby, w~procesie rozwoju często czujemy się jakbyśmy przechodzili z~pokoju do pokoju odkrywając nowe Tajemnice, aspekty, powiązania. Czytamy księgi Starego Testamentu i~nagle odsłania się przed nami typiczność Mojżesza względem Jezusa, Ewy względem Maryi. To jak schodzenie na kolejne kręgi wtajemniczenia, a~każde przejście rozszerza nasze serce i~powoduje większą wdzięczność wobec Planu Zbawienia przez, który Dobry Bóg nas prowadzi.
+Z perspektywy osoby, w~procesie rozwoju często czujemy się jakbyśmy przechodzili z~pokoju do pokoju odkrywając nowe Tajemnice, aspekty, powiązania. Czytamy księgi Starego Testamentu i~nagle odsłania się przed nami typiczność Mojżesza względem Jezusa, Ewy względem Maryi. To jak schodzenie na kolejne kręgi wtajemniczenia, a~każde przejście rozszerza nasze serce i~powoduje większą wdzięczność wobec Planu Zbawienia , przez który Dobry Bóg nas prowadzi.
 
-Z drugiej strony to wszystko odbywa się z~naszym pełnym dostępem do Tajemnicy. Stoimy od razu w~środku katedry i~możemy widzieć i~poznawać wszystko. Nie, nie formujemy chrześcijan tak, że zanim przyjdą na Mszę Święta, wymagamy od nich przejścia przez 50 pokoi i~zrozumienia w~pełni co w~nich się dzieje. Mamy dostęp “od razu” do “Szczytu i~źródła”. Nie ma “Adwentu dla początkujących” i~“Adwentu dla mistyków” - jest Adwent.
+Z drugiej strony to wszystko odbywa się z~naszym pełnym dostępem do Tajemnicy. Stoimy od razu w~środku katedry i~możemy widzieć i~poznawać wszystko. Nie, nie formujemy chrześcijan tak, że zanim przyjdą na Mszę Świętą, wymagamy od nich przejścia przez 50 pokoi i~zrozumienia w~pełni co w~nich się dzieje. Mamy dostęp “od razu” do “Szczytu i~źródła”. Nie ma “Adwentu dla początkujących” i~“Adwentu dla mistyków” - jest Adwent.
 
 Msza, Adwent, Pismo Święte się nie zmienia. Jednak my mamy poczucie, że “przechodzimy dalej” - dlaczego? Coś w~nas się zmienia. Zmienia się właśnie nasza uważność na Tajemnicę. Wchodzimy w~nią, wypływamy na głębię.
 

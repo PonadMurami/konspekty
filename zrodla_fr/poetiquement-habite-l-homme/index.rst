@@ -1,4 +1,4 @@
-"Poéticamente habite l'homme" - Ton quotidien - Tes fascinations
+"Poétiquement habite l'homme" - Ton quotidien - Tes fascinations
 ################################################################
 
 Date de création des schémas :

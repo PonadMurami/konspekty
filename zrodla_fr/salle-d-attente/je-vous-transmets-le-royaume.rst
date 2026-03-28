@@ -111,7 +111,7 @@ En résumant la rencontre, il faut noter que, puisque nous construisons déjà m
     | le pardon là où règne l'offense,
     | l'unité là où règne le doute ;
     | l'espérance là où règne le désespoir ;
-    | la lumière là où règne les ténèbres ;
+    | la lumière là où règnent les ténèbres ;
     | la joie là où règne la tristesse.
     | Fais que nous puissions
     | non tant chercher à être consolés,

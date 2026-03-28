@@ -59,7 +59,7 @@ So what are we waiting for?
 
 Present in time, we wait for the end of this time. This answer should already slowly come to mind for the group. Do we know, however, what it means? What is the Kingdom of God?
 
-To illustrate this, let's first find differences between persons in the group. So let the animator ask questions, e.g.: Are you a humanist or a science person? are you for Real Madrid or FC Barcelona? Do you prefer PS or Xbox? Dress or trousers? Coffee or tea? etc.
+To illustrate this, let's first find differences between persons in the group. So let the animator ask questions, e.g.: Are you a humanist or a science person? Are you for Real Madrid or FC Barcelona? Do you prefer PS or Xbox? Dress or trousers? Coffee or tea? etc.
 
 When we are already divided and a small antagonism wakes up between participants, we read a fragment of Scripture:
 

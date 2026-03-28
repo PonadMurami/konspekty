@@ -6,7 +6,7 @@ Meeting 3 — Experiencing
 Introduction for the facilitator
 ================================
 
-This is the last group meeting immediately before the seder. Its goal is to prepare us as best as possible to experience it in connection with the Eucharist. We do not want to convey intellectual reflection on the meaning of gestures and words - we concentrate on participation and experience. Seder and consequently Eucharist are engaging - our time, our body, our senses, our heart. There are people who eating breakfast read a newspaper, reply to messages and jump to the room next door to hang laundry - one can consume meals like this. However, this is not how one consumes seder and Eucharist. Sitting at the table can be engaging, makes the whole world come down to this space here and now, time flows differently - that's the point! The meeting contains as many as three dynamics. It is to practice, experience more than learn. Let's practice, touch, taste. Not pretend, not in the form of synthetic workshops, but really. These dynamics are content, and not a break to maintain concentration.
+This is the last group meeting immediately before the seder. Its goal is to prepare us as best as possible to experience it in connection with the Eucharist. We do not want to convey intellectual reflection on the meaning of gestures and words - we concentrate on participation and experience. Seder and consequently Eucharist are engaging - our time, our body, our senses, our heart. There are people who, while eating breakfast, read a newspaper, reply to messages and jump to the room next door to hang laundry - one can consume meals like this. However, this is not how one consumes seder and Eucharist. Sitting at the table can be engaging, makes the whole world come down to this space here and now, time flows differently - that's the point! The meeting contains as many as three dynamics. It is to practice, experience more than learn. Let's practice, touch, taste. Not pretend, not in the form of synthetic workshops, but really. These dynamics are content, and not a break to maintain concentration.
 
 Responsibility
 ==============
@@ -15,9 +15,9 @@ We are after experiencing Effatha. Let's start by sharing reflections on this to
 
 * How did I experience the Effatha service? What is supernatural openness for me?
 
-We are witnessing important changes in our Church. Pope Francis convened a synod under the slogan „For a Synodal Church: communion, participation and mission”. The Pope tries to convey something important to us about our understanding of our role in the community. What he tells seems sometimes to encounter resistance and closedness on the part of believers. Let's try then with openness coming from above to read in what way the pope invited us on this path:
+We are witnessing important changes in our Church. Pope Francis convened a synod under the slogan "For a Synodal Church: communion, participation and mission”. The Pope tries to convey something important to us about our understanding of our role in the community. What he says seems sometimes to encounter resistance and closedness on the part of believers. Let's try then with openness coming from above to read in what way the pope invited us on this path:
 
-    We, the shepherds, walk with the people, sometimes in front, sometimes in the middle, sometimes behind. A good shepherd must move in this way: in front to lead the flock, in the middle to encourage on the way and not forget the smell of the flock, behind because the people also have their own „good sense of smell”.
+    We, the shepherds, walk with the people, sometimes in front, sometimes in the middle, sometimes behind. A good shepherd must move in this way: in front to lead the flock, in the middle to encourage on the way and not forget the smell of the flock, behind because the people also have their own "good sense of smell”.
 
     -- Pope Francis September 18, 2021
 
@@ -27,7 +27,7 @@ We are witnessing important changes in our Church. Pope Francis convened a synod
 Courage for important things
 ============================
 
-It is good to be led when one trusts the one who leads. However, we discover that this is not our exclusive vocation. Effatha "is not so that" to be more open to listening to commands. It is us who take responsibility for choosing the direction (synodality)!
+It is good to be led when one trusts the one who leads. However, we discover that this is not our exclusive vocation. Effatha "is not for" being more open to listening to commands. It is us who take responsibility for choosing the direction (synodality)!
 
 Inviting to the retreat we published materials prepared on the principle of juxtaposing two texts - a version changed by us and the original text. We wanted in this way to capture focusing on the change that can take place with appropriate openness of heart. Let's go back to a few of these examples.
 
@@ -68,10 +68,10 @@ Inviting to the retreat we published materials prepared on the principle of juxt
 
 We could have pulled out 100 cards a moment ago instead of a few or chosen 10 cards instead of one. We didn't do that. Is there any justification in this?
 
-What sometimes happens when we choose choice possibilities up to 100?
+What sometimes happens when we increase the choices to 100?
 What can happen when we choose 10 cards?
 
-It's not that we don't want to deal with 10 things. It's about wanting to deal with one for sure before we deal with the tenth. It takes courage to decide what is important and agree that it will be a short list. Otherwise **inflation of importance** will occur - when everything is important nothing is. There is also a risk in the other direction of **apathy** - I don't know if I read all cards out of a million so until I read all I won't decide on any. Let's try at this meeting to help ourselves in searching for a wise path.
+It's not that we don't want to deal with 10 things. It's about wanting to deal with one for sure before we deal with the tenth. It takes courage to decide what is important and agree that it will be a short list. Otherwise **inflation of importance** will occur - when everything is important nothing is. There is also a risk in the other direction of **apathy** - I don't know if I read all cards out of a million so until I read them all, I won't decide on any. Let's try at this meeting to help ourselves in searching for a wise path.
 
 Let us read:
 
@@ -85,11 +85,11 @@ Let us read:
 Below the surface
 =================
 
-Choosing by each of us what they take responsibility for and what is important for them is key to be ready to immerse and touch something that is deeper. We are preparing for this all day today.
+Choosing by each of us what they take responsibility for and what is important for them is key to being ready to immerse and touch something that is deeper. We are preparing for this all day today.
 
 Let's do one more exercise, and let Archbishop Fulton Sheen introduce us to it:
 
-    Our Lord had a divine sense of humor, because he revealed that the whole universe is sacramental. A sacrament, in the broad sense of the word, combines two elements: one visible, the other invisible; one that can be seen or heard, tasted or touched; and the other - invisible to the eyes. There is however between these elements a certain connection or common meaningful space that connects them. Spoken word is a kind of sacrament, because there is in it both something material that can be caught by the ear, as something spiritual, i.e. the meaning of the word. A horse hears a told joke just like a human. One can even assume that it hears the spoken words better. The difference is that when a human hears a joke, they will most often laugh, and when a horse hears it - it will not burst out with horse laughter. This is because the horse hears only the material part of the "sacrament", that is the sound, while the human receives also this invisible or spiritual, i.e. the meaning of words.
+    Our Lord had a divine sense of humor, because he revealed that the whole universe is sacramental. A sacrament, in the broad sense of the word, combines two elements: one visible, the other invisible; one that can be seen or heard, tasted or touched; and the other - invisible to the eyes. There is however between these elements a certain connection or common meaningful space that connects them. Spoken word is a kind of sacrament, because there is in it both something material that can be caught by the ear, and something spiritual, i.e. the meaning of the word. A horse hears a told joke just like a human. One can even assume that it hears the spoken words better. The difference is that when a human hears a joke, they will most often laugh, and when a horse hears it - it will not burst out with horse laughter. This is because the horse hears only the material part of the "sacrament", that is the sound, while the human receives also the invisible or spiritual part, i.e. the meaning of the words.
 
     -- Abp Fulton J. Sheen “Sacraments”
 
@@ -108,7 +108,7 @@ Giving too obvious an association is most likely missing the depth, saying somet
 Breaking through
 ================
 
-A beautiful plan is drawn for us at the meeting - we are to be open to a new look, listening to the Pope who encourages us to participate, choosing what is important and deep for us! Why looking through the window does it seem that few of us live this way?
+A beautiful plan is drawn for us at the meeting - we are to be open to a new look, listening to the Pope who encourages us to participate, choosing what is important and deep for us! Why, looking through the window, does it seem that few of us live this way?
 
 Let us read:
 
@@ -129,9 +129,9 @@ Let us read:
 
 This is a good summary of the change for which the Church (and Jesus) is waiting.
 
-This can happen through a miracle. Most often however it does not happen this way, but that's nothing wrong - one can do differently. Going out into the deep and concentration on what is important can be practiced. Daily, consistently.
+This can happen through a miracle. Most often however it does not happen this way, but there's nothing wrong with that - one can do it differently. Going out into the deep and concentration on what is important can be practiced. Daily, consistently.
 
-* What would help me what others could do so that I do not fall into shallowness?
+* What would help me, what could others do, so that I do not fall into shallowness?
 * What can we do to give each other lifting force in the Church?
 
 Experiencing
@@ -181,7 +181,7 @@ Let's do an exercise related to this now.
 
 * What taste is this?
 
-Let's imagine that we have never drunk tea. Someone pours it for us into a cup, we see the color of the liquid pouring into the vessel. Sight tells us something about tea. We take it in hands and bring it closer to ourselves feeling its scent - perhaps we already know how to recognize what it was made of. When we put it to our lips the experience deepens.
+Let's imagine that we have never drunk tea. Someone pours it for us into a cup, we see the color of the liquid pouring into the vessel. Sight tells us something about tea. We take it in our hands and bring it closer to ourselves feeling its scent - perhaps we already know how to recognize what it was made of. When we put it to our lips the experience deepens.
 
 Spirituality is sensual. Faith is sensual. And literally - affects all senses and figuratively - is multidimensional and answers are at the junction of each of the dimensions.
 
@@ -211,7 +211,7 @@ Let us read:
 * Why could Jesus' contemporaries think that I want to abolish something?
 * Is the desire close to us to want to see things without connection with what was?
 
-Our faith did not fall from the sky. Eucharist was not revealed on a stone tablet. Jesus did not invent matzah and wine. God enters the world and creates new connections in it. God only creates, destroys nothing, this is for many of us his basic "identity" - is Creator. We want to experience seder together today to create a new connection - in hearts, soul and mind.
+Our faith did not fall from the sky. Eucharist was not revealed on a stone tablet. Jesus did not invent matzah and wine. God enters the world and creates new connections in it. God only creates, destroys nothing, this is for many of us his basic "identity" - He is the Creator. We want to experience seder together today to create a new connection - in hearts, soul and mind.
 
 * Who of us has already participated in a seder?
 * With what hope do we go to it?

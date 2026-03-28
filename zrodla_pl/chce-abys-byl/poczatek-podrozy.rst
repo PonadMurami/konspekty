@@ -47,9 +47,9 @@ Wprowadzenie do Księgi Rodzaju
 
 Każdy z~nas na pewno słyszał o~Abrahamie. Jego historia opisana jest w~Księdze Rodzaju, w~rozdziałach od 12 do 25.
 
-**Burza mozgów: co wiemy o~Abrahamie?**
+**Burza mózgów: co wiemy o~Abrahamie?**
 
-.. note:: Uczestnicy mówią co wiedzą, animator dopowiada, można posiłkować się rozpisana historią z~odprawy – załącznik. UWAGA! Mówimy o~kilku najważniejszych wydarzeniach, nie o~wszystkich i~absolutnie nie o~ich interpretacji, bo zaspojlujemy całe rekolekcje :)
+.. note:: Uczestnicy mówią co wiedzą, animator dopowiada, można posiłkować się rozpisaną historią z~odprawy – załącznik. UWAGA! Mówimy o~kilku najważniejszych wydarzeniach, nie o~wszystkich i~absolutnie nie o~ich interpretacji, bo zaspojlujemy całe rekolekcje :)
 
 Abram wychodzi w~podróż w~nieznane – miał ułożone życie, dom, żonę, bogactwo, reputację, ale miał w~sobie pragnienie czegoś więcej.
 
@@ -57,11 +57,11 @@ Przeczytajmy fragment chwilę przed początkiem naszej historii:
 
     Terach, wziąwszy z~sobą swego syna Abrama, Lota - syna Harana, czyli swego wnuka, i~Saraj, swą synową, żonę Abrama, wyruszył z~nimi z~Ur chaldejskiego, aby się udać do kraju Kanaan. Gdy jednak przyszli do Charanu, osiedlili się tam. Terach doczekał dwustu i~pięciu lat życia i~zmarł w~Charanie.
 
-    -- 1 Kor 9,1
+    -- Rdz 11,31-32
 
 Kannan to biblijna „Ziemia Obiecana”. Ojciec Abrama też chciał tam dotrzeć, ale nie udało mu się, ponieważ po dojściu do Charanu uznał, że tam jest „wystarczająco dobrze”. Zadowolił się półśrodkiem, ale w~Abramie nadal pozostała chęć dotarcia do pierwotnego celu podróży, marzył o~tym jeszcze długo później. Boże powołanie nie bierze się znikąd, zawsze opiera się na jakimś pragnieniu, które jest w~nas już od dawna, ale może nie zawsze zdajemy sobie z~tego sprawę.
 
-Mimo, że Abram żył około 3800 lat temu, to jest nam bliższy niż się wydaje. Chodzimy po tej samej ziemi, nad głową mamy te same gwiazdy, a~w sercu te same marzenia, obawy, nadzieje.
+Mimo że Abram żył około 3800 lat temu, to jest nam bliższy niż się wydaje. Chodzimy po tej samej ziemi, nad głową mamy te same gwiazdy, a~w sercu te same marzenia, obawy, nadzieje.
 
 Wiara jest przygodą
 ===================
@@ -95,7 +95,7 @@ Podejmujemy w~życiu wiele decyzji z~różnymi konsekwencjami. Z~niektórych jes
 
 * Jakie decyzje miałem/am niedawno do podjęcia? Co się w~wyniku nich zmieniło? Czy to był łatwy czy trudny wybór?
 
-* Jakie decyzje do podjęcia mam w~niedalekiej przyszłości? Co się z~nimi wiąże?Jakie mam nadzieje i~obawy związane z~nimi?
+* Jakie decyzje do podjęcia mam w~niedalekiej przyszłości? Co się z~nimi wiąże? Jakie mam nadzieje i~obawy związane z~nimi?
 
 Abraham podjął decyzję o~wyruszeniu do Kanaanu, ale okazało się, że w~jego wymarzonej ziemi obiecanej panuje głód, że wcale nie jest tam tak pięknie i~był zmuszony do dalszej wędrówki:
 

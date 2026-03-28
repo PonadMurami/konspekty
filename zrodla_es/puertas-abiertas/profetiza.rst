@@ -8,7 +8,7 @@ Introducción para el animador
 
 Este es el último encuentro grupal de los retiros. No tengamos miedo de dar más espacio a los participantes si se ve la necesidad de síntesis y resumen.
 
-El encuentro se concentra en torno al concepto de inmersión cristiana. Algunos participantes pueden estar ya en esta etapa, otros pueden aparentar estarlo. Para otros puede ser un punto de inflexión. No tenemos que resolverlo (¡no deberíamos!). El encuentro está diseñado para tener valor para todos independientemente del momento en que se encuentren.
+El encuentro se concentra en torno al concepto de inmersión cristiana. Algunos participantes pueden estar ya más allá de esta etapa, otros pueden aparentar estarlo. Para otros puede ser un punto de inflexión. No tenemos que resolverlo (¡no deberíamos!). El encuentro está diseñado para tener valor para todos independientemente del momento en que se encuentren.
 
 Como animador, dedica tiempo a reflexionar dónde experimentas tú mismo/a la inmersión "naturalmente" y dónde es un desafío para ti. Será clave tu testimonio para mostrar que la fe no se observa ni se participa en ella, sino que se incorpora. Mi cristianismo no es una etiqueta, ni siquiera un tatuaje - está en cada célula de mi cuerpo y alma porque todo esto ha sido sumergido en la muerte y resurrección de la Palabra.
 
@@ -22,7 +22,7 @@ Estamos después de vivir la Eucaristía unida al seder. Comencemos compartiendo
 * ¿Qué fue para ti lo que dio crecimiento en la experiencia del seder?
 * ¿Qué descubriste en el mismo concepto de conexión entre la Eucaristía y el Seder?
 
-Muy queríamos vivir este tiempo juntos con vosotros y juntos conectar la experiencia cristiana con la judía. ¡Más conectar que incluir! La inclusión es una acción unidireccional, la conexión es bidireccional. Queríamos encontrarnos con estas experiencias para que se influyeran mutuamente.
+Queríamos mucho vivir este tiempo juntos con vosotros y juntos conectar la experiencia cristiana con la judía. ¡Más conectar que incluir! La inclusión es una acción unidireccional, la conexión es bidireccional. Queríamos encontrarnos con estas experiencias para que se influyeran mutuamente.
 
 Se podría parafrasear a Benoît Vermander SJ:
 
@@ -72,7 +72,7 @@ Leamos:
 * ¿Dónde te gustaría encontrarlo en la cotidianidad?
 * ¿Dónde está el Evangelio aunque no escuches sintonías y el nombre de Jesús?
 
-Lo mismo no viene. La inmersión es una etapa difícil que requiere esfuerzo de nuestra parte. Sin embargo, la Iglesia lo hace todo el tiempo. ¿Enviamos a los niños a un curso teológico de 5 años sobre la Eucaristía antes de que vayan a Misa, o más bien les permitimos participar de inmediato? ¿Comenzamos el aprendizaje de la oración desde la teoría o más bien invitamos a alguien a sentarse junto a nosotros?
+No viene por sí solo. La inmersión es una etapa difícil que requiere esfuerzo de nuestra parte. Sin embargo, la Iglesia lo hace todo el tiempo. ¿Enviamos a los niños a un curso teológico de 5 años sobre la Eucaristía antes de que vayan a Misa, o más bien les permitimos participar de inmediato? ¿Comenzamos el aprendizaje de la oración desde la teoría o más bien invitamos a alguien a sentarse junto a nosotros?
 
 * ¿Cómo puedes aprender a sumergirte?
 
@@ -87,7 +87,7 @@ Leamos:
 
     -- Pablo VI
 
-El mundo necesita profetas. Necesita también (¿sobre todo?) profetas como los que escribe el papa Pablo VI. Sin embargo, permitámonos "verificar" la frase del papa a través de nuestra propia experiencia.
+El mundo necesita profetas. Necesita también (¿sobre todo?) profetas como los que describe el papa Pablo VI. Sin embargo, permitámonos "verificar" la frase del papa a través de nuestra propia experiencia.
 
 * ¿Qué testimonios de vida me atraen hacia arriba?
 * Si siento angustia espiritual, ¿busco más bien el testimonio de la palabra o el testimonio de vida que me "fortalezca"?

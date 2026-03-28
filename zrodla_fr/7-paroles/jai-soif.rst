@@ -195,7 +195,7 @@ Lisons :
     -- Saint Grégoire de Nysse
 
 - Quel est le "sens" de l'existence d'une source ? Que "peut faire" la source ?
-- Le désir de Christ est de satisfaire Tes désirs - comment cette perspective agit-elle sur Ta vie ?
+- Le désir du Christ est de satisfaire Tes désirs - comment cette perspective agit-elle sur Ta vie ?
 
 Lisons :
 

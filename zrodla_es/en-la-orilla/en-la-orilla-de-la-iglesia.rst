@@ -107,7 +107,7 @@ Leamos:
 
     -- Dt 30, 11-16
 
-* ¿Qué es la causa de mi felicidad en la Iglesia?
+* ¿Cuál es la causa de mi felicidad en la Iglesia?
 
 * ¿Qué significa para una persona de fe “ser feliz”?
 
@@ -141,7 +141,7 @@ Jesús inmediatamente después habla a los discípulos sobre su tarea:
     | Vosotros sois la luz del mundo. [...]
     | Brille así vuestra luz ante los hombres, para que vean vuestras buenas obras y den gloria a vuestro Padre que está en los cielos.”
     |
-    | -- por. Mt 5, 13-16
+    | -- cf. Mt 5, 13-16
 
 Debemos ser la sal de la tierra, personas de esperanza que viven la Buena Nueva. ¿Realmente lo somos? Reflexionemos sobre si las personas a nuestro alrededor pueden descubrir que el objetivo de nuestras aspiraciones es realmente estar con Dios y con todos los salvados.
 

@@ -238,7 +238,7 @@ We read (listen) together:
    | Summon all your strength for this!
    | Build the Ark before the flood
    | Even if the crowd mocked your work!
-   | Need to save what is most expensive
+   | Need to save what is most precious
    | And after all there is already so much of it!
    | Build the Ark before the flood
    | Reject today every superfluous gesture
@@ -287,9 +287,9 @@ We read (listen) together:
 
 * "Each of you is a boat in which Can measure with the flood Come out whole from the storm cloud Must only believe in it" what does this mean for me?
 
-. warning: key summary question
+.. warning:: key summary question
 
-* "Need to save what is most expensive And after all there is already so much of it!" - do I look at my life as something that cannot be wasted because of what is already in it? (and not because of what can be)
+* "Need to save what is most precious And after all there is already so much of it!" - do I look at my life as something that cannot be wasted because of what is already in it? (and not because of what can be)
 
 Today we return to homes and life will go on there just as two days ago. Will this retreat change something? Maybe not, maybe yes. Very much depends on us. Life is too precious to escape us on playing online games, watching series and walking around shops. It is easy to call everything that was said here "beautiful, but unrealistic vision" justifying oneself. It is easy to live in dreams and complain about what I have outside the window.
 

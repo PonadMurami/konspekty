@@ -23,7 +23,7 @@ Objetivos
 
 1. Introdução ao Cântico dos Cânticos; apresentação deste livro como extraordinário e sem igual em toda a Sagrada Escritura.
 
-2. Tentativa de refletir sobre a busca do amor. Tanto na dimensão homem – homem, quanto homem – Deus. O que buscamos? Como é a busca? Conclusão: para encontrar o amor, é preciso buscá-lo (parece banal). E essa busca envolve esforço e trabalho.
+2. Tentativa de refletir sobre a busca do amor tanto na dimensão homem – homem, quanto homem – Deus. O que buscamos? Como é a busca? Conclusão: para encontrar o amor, é preciso buscá-lo (parece banal). E essa busca envolve esforço e trabalho.
 
 3. O amor envolve o drama da separação, a dor – sem isso, não se pode encontrar o amor e valorizá-lo.
 

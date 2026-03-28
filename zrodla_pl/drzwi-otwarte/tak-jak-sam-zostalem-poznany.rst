@@ -6,7 +6,7 @@ Spotkanie 1. - Tak, jak sam zostałem poznany
 Wprowadzenie dla animatora
 ==========================
 
-Pierwsze spotkanie grupowe pełni funkcję zapoznawczą i~integrującą, jest łącznikiem pomiędzy pomiędzy pozostałymi punktami piątku - pogłębia treści z~konferencji i~podprowadza pod modlitwę wieczorną. Najważniejszym jego celem jest skonfrontowanie uczestników z~tym, co oznacza otwartość w~praktyce i~podzielenie się tym, jakie wyzwania wiążą się z~takim podejściem.
+Pierwsze spotkanie grupowe pełni funkcję zapoznawczą i~integrującą, jest łącznikiem pomiędzy pozostałymi punktami piątku - pogłębia treści z~konferencji i~podprowadza pod modlitwę wieczorną. Najważniejszym jego celem jest skonfrontowanie uczestników z~tym, co oznacza otwartość w~praktyce i~podzielenie się tym, jakie wyzwania wiążą się z~takim podejściem.
 
 **Na końcu tego konspektu znajdują się materiały do wydrukowania, które będą potrzebne w~trakcie spotkania!**
 
@@ -31,7 +31,7 @@ Maciej Biskup OP w~jednym z~wpisów wytłumaczył etymologię słowa “Kośció
 * Jakie jest moje doświadczenie Kościoła?
 * Który obraz jest mi bliższy - Kościoła twierdzy czy Kościoła, który jest zwołaniem ludu wychodzącym do świata?
 
-Kiedy Kościół został posłany przez Chrystusa na wszystkie strony świata, by zwoływać wszystkich do jego Imienia (Mk 16,15), zaczął się stykać z~nowymi zwyczajami, nowymi kulturami, nowymi prądami myślowymi, które wykraczały poza wewnętrzny świat ówczesnego judaizmu, w~którym zrodziło się chrześcijaństwo. Każde spotkanie było możliwością znalezienia punktów wspólnych, aby jak najprościej ukazać uniwersalność Jezusa wobec wszystkich (Wystąpienie Pawła na Areopagu - Dz 17,16-34). Środowisko nasiąkało nauką Apostołów, zaś nowi wyznawcy łączyli w~sobie swoje dziedzictwo wraz z~ dorobkiem Dobrej Nowiny. Widzimy w~naszych czasach, że inkulturacja, czyli wejście Ewangelii w~życie różnych ludów pozostawia dobre owoce, ale wymaga wytężonej pracy w~“łączeniu światów”. Za przykład możemy podać różne Kościoły, które stworzyły własne zwyczaje na przestrzeni wieków:
+Kiedy Kościół został posłany przez Chrystusa na wszystkie strony świata, by zwoływać wszystkich do jego Imienia (Mk 16,15), zaczął się stykać z~nowymi zwyczajami, nowymi kulturami, nowymi prądami myślowymi, które wykraczały poza wewnętrzny świat ówczesnego judaizmu, w~którym zrodziło się chrześcijaństwo. Każde spotkanie było możliwością znalezienia punktów wspólnych, aby jak najprościej ukazać uniwersalność Jezusa wobec wszystkich (Wystąpienie Pawła na Areopagu - Dz 17,16-34). Środowisko nasiąkało nauką Apostołów, zaś nowi wyznawcy łączyli w~sobie swoje dziedzictwo wraz z~dorobkiem Dobrej Nowiny. Widzimy w~naszych czasach, że inkulturacja, czyli wejście Ewangelii w~życie różnych ludów pozostawia dobre owoce, ale wymaga wytężonej pracy w~“łączeniu światów”. Za przykład możemy podać różne Kościoły, które stworzyły własne zwyczaje na przestrzeni wieków:
 
 Japonia
     Ukryci chrześcijanie (Kakure-kirishitan) podczas dwóch wieków prześladowań (XVII-XVIIIw.), aby podtrzymać tradycję przeżywania Eucharystii, mimo braku prezbiterów, używali ryżu i~sake do odprawiania Dziękczynienia na wspólnie zorganizowanych liturgiach. Aktualnie księża zamiast całować ołtarz, kłaniają się przed nim w~wyrazie najwyższego szacunku.
@@ -41,9 +41,9 @@ Egipt
 
 Widząc piękno różnych Kościołów, możemy zadać sobie pytanie: gdzie był zalążek tego bogactwa? Jednym z~pierwszych protagonistów zdobywania ludzi dla Chrystusa był św. Paweł, nazywany Apostołem Narodów. Płynął wszędzie i~do wszystkich, aby zdobyć wielu dla Ewangelii. Przyznaje się on, żeby zdobyć ludzi “stawał się wszystkim dla wszystkich” (1 Kor 9, 20-22). Aby być jedno z~drugim, świadomie podejmował on wybór dostosowania się do drugiego, aby miał on poczucie bliskości i~tworzącej się więzi.
 
-* Jak często staram się  wejść “w czyjeś buty” i~słuchać drugiej strony? Co jest w~tym dla mnie najtrudniejsze?
+* Jak często staram się wejść “w czyjeś buty” i~słuchać drugiej strony? Co jest w~tym dla mnie najtrudniejsze?
 * Czy usłyszałeś w~swoim życiu, że potrafisz słuchać lub “kogoś usłyszałeś”?
-* Kiedy ostatnio zostałeś z~kimś dłużej na przystanku autobusowym mimo, że tej osoby nie znasz tak dobrze? Kiedy zrobiłeś dla kogoś 2000 kroków zamiast 1000? (Mt 5,41)?
+* Kiedy ostatnio zostałeś z~kimś dłużej na przystanku autobusowym, mimo że tej osoby nie znasz tak dobrze? Kiedy zrobiłeś dla kogoś 2000 kroków zamiast 1000? (Mt 5,41)?
 
 Jezus jako Ten, który jest otwarty
 ==================================

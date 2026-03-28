@@ -27,7 +27,7 @@ Comecemos necessariamente com alguma forma de integração, que introduza imedia
 Exemplos de secundariedade
 ===========================
 
-Em seguida, para aquecer, podemos falar **brevemente** sobre situações geralmente conhecidas, que conhecemos de la vida, aquelas em que alguém se concentra demais em algo secundário, esquecendo o importante. Por exemplo, trata-se de atitudes como:
+Em seguida, para aquecer, podemos falar **brevemente** sobre situações geralmente conhecidas, que conhecemos da vida, aquelas em que alguém se concentra demais em algo secundário, esquecendo o importante. Por exemplo, trata-se de atitudes como:
 
 - preparação escrupulosa da casa e dos pratos, mas esquecendo para que em absoluto convido os hóspedes
 - jardim, do qual tanto cuido que não tenho tempo para me sentar nele e desfrutá-lo

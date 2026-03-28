@@ -29,7 +29,7 @@ Let us read:
 
 * To what reality of faith is it difficult for you to open up? (optional!)
 
-Our retreat is a symbolic expedition to the mountain. Yesterday we climbed it observing how the perspective changes. Today morning we looked from the top at the Old and New Testament seeing various connections. Tomorrow we will descend from this mountain to our homes.
+Our retreat is a symbolic expedition to the mountain. Yesterday we climbed it observing how the perspective changes. This morning we looked from the top at the Old and New Testament seeing various connections. Tomorrow we will descend from this mountain to our homes.
 
 What is before us today? After the first delight with new perspectives, we now want to look more closely at one of them. Assess what is my real attitude towards it, whether I want to change something in it, decide what I want to return home with tomorrow.
 

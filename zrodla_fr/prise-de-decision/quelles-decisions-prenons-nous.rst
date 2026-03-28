@@ -48,7 +48,7 @@ Tâche 2 de la deuxième feuille (mer) :
 Discussion
 ==========
 
-Le premier choix montagne ou mer provient-il du groupe tactico-matérillo-sentimental ? Si le choix concernait les vacances alors : combien d'argent avons-nous, ce qui nous convient le mieux, l'espace temps nous permet de planifier les vacances seulement à cet endroit.
+Le premier choix montagne ou mer provient-il du groupe tactique-matériel-sentimental ? Si le choix concernait les vacances alors : combien d'argent avons-nous, ce qui nous convient le mieux, l'espace temps nous permet de planifier les vacances seulement à cet endroit.
 
 * Les décisions matérielles et tactiques sont l'excursion et la croisière
 

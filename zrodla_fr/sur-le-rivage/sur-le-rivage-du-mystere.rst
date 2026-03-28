@@ -98,7 +98,7 @@ Lisons :
     |
     | -- Is 11, 6-9
 
-* Quelle catégorisation est présente dans ma vie si fortement que j'ai même cessé d'essayer de l'inverser bien que je le voudrais beaucoup ?
+* Quelle catégorisation est présente dans ma vie si fortement que j'ai même cessé d'essayer de l'inverser bien que je le veuille beaucoup ?
 
 * Quelle affectation de catégorie ne nous sert pas dans la vie spirituelle ?
 

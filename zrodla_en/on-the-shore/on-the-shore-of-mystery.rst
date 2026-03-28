@@ -38,7 +38,7 @@ We spoke a lot today about boundaries that we automatically introduce into our l
 .. image:: kolory_gradient.*
    :align: center
 
-* were we able to notice that among 30 squares an important element is missing?
+* Were we able to notice that among 30 squares an important element is missing?
 
 * What experience from private life could we juxtapose with the exercise a moment ago?
 
@@ -48,7 +48,7 @@ When we want to know something, both the view of the whole and of the detail is 
 
 * What from this exercise can we extract for ourselves in the space of our spirituality?
 
-It is the same in the matter of faith and spirituality. If we look at conversations about religion, they most often concern very detailed issues: Should we teach religion in school or catechism rooms? Does taking medicine break the Eucharistic fast? What in the situation if while praying the rosary we skip one Hail Mary?
+It is the same in the matter of faith and spirituality. If we look at conversations about religion, they most often concern very detailed issues: Should we teach religion in school or catechism rooms? Does taking medicine break the Eucharistic fast? What if, while praying the rosary, we skip one Hail Mary?
 Does excessive exploration of such details not increase the chances that something much more important will escape us?
 
 Non-existent boundaries
@@ -78,7 +78,7 @@ The psalmist does not divide his life into "squares". There is no "religious" an
 
 * Over the course of life has our profanum become sacrum? What steps can be taken for this to happen?
 
-Many boundaries that we defined in our life serve us - they are useful. For example, we function better when we set ourselves time for relaxation and rest, because there is a smaller chance that we will resign from it. God himself during the creation of the world made important divisions - he separated waters from land, day from night, weekdays from the seventh day. However, we introduced a part of divisions that no longer serve us - they distance us from wisdom. The longing for the lack of tension resulting from "assignment" can be found in Isaiah:
+Many boundaries that we defined in our life serve us - they are useful. For example, we function better when we set ourselves time for relaxation and rest, because there is a smaller chance that we will forgo it. God himself during the creation of the world made important divisions - he separated waters from land, day from night, weekdays from the seventh day. However, we introduced some divisions that no longer serve us - they distance us from wisdom. The longing for the lack of tension resulting from "assignment" can be found in Isaiah:
 
 Let's read:
 
@@ -139,7 +139,7 @@ Let's read:
 
 * Where do I feel in the Church/Faith "like a child at its mother's breast"? Why do I think so?
 
-* What comes hardest for me to let go in the tension between my image of a believer and the awareness of how it works out for me?
+* What is hardest for me to let go of in the tension between my image of a believer and the awareness of how it works out for me?
 
 This is a good place for the animator's testimony concerning letting go of something in faith which really did not lead us to a deepened relationship with Jesus.
 

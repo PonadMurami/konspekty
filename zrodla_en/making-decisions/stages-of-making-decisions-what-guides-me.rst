@@ -20,7 +20,7 @@ Yesterday we said that choice is not an easy thing. In fact, when we face a choi
 
 * Was making decisions easy for me?
 
-* did we feel pressure that we didn't know what to choose, but we had to mark something?
+* Did we feel pressure that we didn't know what to choose, but we had to mark something?
 
 To make a choice/to have something chosen
 =========================================
@@ -50,9 +50,9 @@ Choice – what can we give thanks to it?
 
 * Do you have an experience of something that is particularly important to you because it was chosen?
 
-On the one hand, we choose those things that have the greatest value - so if something was chosen, it means that it was not "ordinary". We can relate such a category to the world of material things. However, this sentence has a second bottom.
+On the one hand, we choose those things that have the greatest value - so if something was chosen, it means that it was not "ordinary". We can relate such a category to the world of material things. However, this sentence has a deeper meaning.
 
-* what do you think this second bottom is about?
+* What do you think this deeper meaning is about?
 
 .. note:: the group tries to figure it out together
 
@@ -91,7 +91,7 @@ Example, so that you as animators see how revealing conversations can be:
 
    * Dilemma at the level of reason? Heart? Conscience?
 
-   * What do we rely on? On humane Vitae? Really? How many people read it?
+   * What do we rely on? On Humanae Vitae? Really? How many people read it?
 
    * Maybe we rely therefore on what the Parish Priest says?
 

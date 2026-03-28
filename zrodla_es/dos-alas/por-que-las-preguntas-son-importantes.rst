@@ -217,7 +217,7 @@ Hablamos de las llamadas "Grandes preguntas". Son necesarias, pero… a veces pa
 
 Leamos:
 
-    Fides querens intellectum" (la fe busca el entendimiento)
+    "Fides quaerens intellectum" (la fe busca el entendimiento)
 
     san Anselmo de Canterbury
 

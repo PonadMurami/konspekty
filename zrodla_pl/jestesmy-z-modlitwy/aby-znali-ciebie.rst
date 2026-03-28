@@ -100,7 +100,7 @@ Każdy może wybrać dowolne zastosowanie z~tego spotkania. Pozwalamy sobie zapr
 Wariant osób lubiących elektronikę:
     Otwórz swój kalendarz w~telefonie i~ustaw sobie wydarzenie za pół roku/rok o~temacie “Jestem z~modlitwy”. W~opisie tego wydarzenia napiszmy (nawet krótką!) odpowiedź na najważniejsze pytanie dzisiejszego spotkania w~grupie: - Co dla mnie znaczą słowa Jezusa, że życiem wiecznym jest znać Boga i~Jego?
 
-Wariant dla osóby mniej lubiących elektronikę:
+Wariant dla osób mniej lubiących elektronikę:
     Zapiszmy to samo tylko, że w~swoim notatniku/kalendarzu i~pamiętajmy, aby do tego kiedyś wrócić.
 
 Alternatywa:

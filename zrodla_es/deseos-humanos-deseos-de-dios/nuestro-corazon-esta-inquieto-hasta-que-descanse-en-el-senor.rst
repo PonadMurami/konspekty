@@ -163,7 +163,7 @@ Dios nos garantiza que en el cielo en comunión con él ya no desearemos nada �
 Aplicación – papel de la comunidad
 ==================================
 
-De hecho – emprender el esfuerzo de tal vida con Dios "al 1oo%" es muy difícil. Pero literalmente no estamos solos en esta dificultad – nos tenemos a nosotros. Quisiéramos aquí en este retiro "tocar" lo que es nuestra comunidad.
+De hecho – emprender el esfuerzo de tal vida con Dios "al 100%" es muy difícil. Pero literalmente no estamos solos en esta dificultad – nos tenemos a nosotros. Quisiéramos aquí en este retiro "tocar" lo que es nuestra comunidad.
 
 **Los participantes se dan a sí mismos tareas para el día de hoy, cada uno dos – una muy práctica, una espiritual. Las tareas deben tener relación con el tema del retiro. Cuando invente las tareas, pido que las acepten dos personas del grupo (el animador cuida que la gente reciba "por igual"). Objetivo de este punto – ayuda mutua (en responsabilidad) para conocer cada vez mejor a Cristo.**
 

@@ -126,7 +126,7 @@ Leamos:
 
 25 años - la primera promesa cuando tenía 75, pero en realidad el deseo de tener un hijo ya estaba arraigado en él antes. En este momento tiene 100 años.
 
-* ¿Qué significado tuvieron para Abraham el nacimiento del hijo?
+* ¿Qué significado tuvo para Abraham el nacimiento del hijo?
 
 * ¿Por qué llamaron al niño Isaac?
 

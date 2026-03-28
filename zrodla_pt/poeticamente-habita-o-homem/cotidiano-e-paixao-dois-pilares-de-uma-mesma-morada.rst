@@ -39,7 +39,7 @@ Leiamos:
 
    -- Sl 139,1-6
 
-Deus sabe quando me sento e levanto, vê a minha ação e repouso; nesta descrição vê-se a maneira semítica (chamada "polarismo") d e abranger toda a realidade e a vida contida entre dois polos extremos.
+Deus sabe quando me sento e levanto, vê a minha ação e repouso; nesta descrição vê-se a maneira semítica (chamada "polarismo") de abranger toda a realidade e a vida contida entre dois polos extremos.
 
 * Deus escolhe alguma parte da minha vida e age nela e noutras não?
 
@@ -136,7 +136,7 @@ Temos de fazer o esforço de fazer perguntas, de procurar. As nossas paixões n�
 
 * Luto eu para dar sabor à minha vida?
 
-* Que escolhas faço assim no dia a dia (porque estas escolhas também têm influência na forma da minha vida)? Escolho coisas de nível, que me desenvolverão ou tais de "culture inferior"? (Um filme valioso ou um estúpido ou talvez teatro ou filarmonia?)
+* Que escolhas faço assim no dia a dia (porque estas escolhas também têm influência na forma da minha vida)? Escolho coisas de nível, que me desenvolverão ou tais de "cultura inferior"? (Um filme valioso ou um estúpido ou talvez teatro ou filarmonia?)
 
 .. note:: Não se trata aqui de impor que o teatro é melhor que o cinema, se alguém se fascina com o cinema, então este será melhor para ele. Ir a um filme estúpido também não é nada de mau
 
@@ -145,7 +145,7 @@ Destes assuntos e escolhas mais simples, mais pequenos e mais cotidianos depende
 Resumo
 ======
 
-   Acho que a maneira mais bonita de se conhecer a si mesmo e os lugares ao redor é despertar em si mesmo o encanto. Encanto pelo homem que difícil arte, pelo pôr do sol, pela esbelteza da torre, pelo sonho, pelo inverno, pelo nascimento e oxalá nos fosse dado pela morte este encanto é a nossa oportunidade de sobrevivência no mundo. E é um mundo de arrogancia, indiferença, rugido furioso de anúncios, refeições baratas e rápidas, pressa assassina. Confio que isso caracteriza o homem precisamente, que é capaz de sucumbir ao encanto.
+   Acho que a maneira mais bonita de se conhecer a si mesmo e os lugares ao redor é despertar em si mesmo o encanto. Encanto pelo homem que difícil arte, pelo pôr do sol, pela esbelteza da torre, pelo sonho, pelo inverno, pelo nascimento e oxalá nos fosse dado pela morte este encanto é a nossa oportunidade de sobrevivência no mundo. E é um mundo de arrogância, indiferença, rugido furioso de anúncios, refeições baratas e rápidas, pressa assassina. Confio que isso caracteriza o homem precisamente, que é capaz de sucumbir ao encanto.
 
    -- Jacek Kurek
 

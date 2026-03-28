@@ -16,7 +16,7 @@ Adaptada às possibilidades do grupo.
 Introdução
 ==========
 
-Ontem dizíamos que escolher não é coisa fácil. De facto, quando estamos perante um dilema de escolha significa que já temos atrás de nós o caminho de "ver as possibilidades"! Falámos disto nos retiros do Advento – trata-se da busca, de ver caminhos. Estamos portanto depois de realizar certo trabalho e podemos estar cansados. A escolha apresenta-se-nos frequentemente como um dever, que es o "último obstáculo" para ter a chamada "santa paz". Tentemos refletir sobre isso!
+Ontem dizíamos que escolher não é coisa fácil. De facto, quando estamos perante um dilema de escolha significa que já temos atrás de nós o caminho de "ver as possibilidades"! Falámos disto nos retiros do Advento – trata-se da busca, de ver caminhos. Estamos portanto depois de realizar certo trabalho e podemos estar cansados. A escolha apresenta-se-nos frequentemente como um dever, que é o "último obstáculo" para ter a chamada "santa paz". Tentemos refletir sobre isso!
 
 * Era fácil para mim tomar decisões?
 
@@ -25,7 +25,7 @@ Ontem dizíamos que escolher não é coisa fácil. De facto, quando estamos pera
 Fazer uma escolha/ter algo escolhido
 ====================================
 
-O homem pensa com a ajuda de palavras. As associações que temos com as palavras traduzem-se diretamente na forma como tratamos o que significan. Olhemos para as nossas associações!
+O homem pensa com a ajuda de palavras. As associações que temos com as palavras traduzem-se diretamente na forma como tratamos o que significam. Olhemos para as nossas associações!
 
 * Que formulações associais à palavra "escolha"?
 

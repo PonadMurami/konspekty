@@ -8,7 +8,7 @@ Wprowadzenie
 
 .. note:: Spotkanie opiera się na homilii abp. Rysia wygłoszonej do Diakonów Stałych Archidiecezji Łódzkiej, Łódź 2018 [https://youtu.be/yu8yJEa17Uc]
 
-Zacznijmy od podzielenia się tym czego doświadczamy.
+Zacznijmy od podzielenia się tym, czego doświadczamy.
 
 - Co z~tego co mnie wczoraj spotkało było doświadczeniem najprzyjemniejszym?
 - Za co jestem wdzięczny/wdzięczna w~tym czasie rekolekcji?
@@ -18,7 +18,7 @@ Wiara jako ziarno
 
 Co wyciągam z~homilii abpa Rysia dla siebie?
 
-    Darów Bożych nie dostajemy gotowych. Dostajemy je jako pewien niesłychany potencjał, jako niezwykłą szansę, która się może rozwinąć, która może być pomnożona. Ale to jest bardzo ważne, że jak przyjmujemy dary Boże, to decydujemy się na wejście w~pewien dynamiczny bardzo proces. Właśnie nie jest od razu  wszystko dane tak w~całości, ale jest zadane na jakąś drogę, właśnie na jakiś też dłuższy, całożyciowy tak naprawdę, proces współpracy.
+    Darów Bożych nie dostajemy gotowych. Dostajemy je jako pewien niesłychany potencjał, jako niezwykłą szansę, która się może rozwinąć, która może być pomnożona. Ale to jest bardzo ważne, że jak przyjmujemy dary Boże, to decydujemy się na wejście w~pewien dynamiczny bardzo proces. Właśnie nie jest od razu wszystko dane tak w~całości, ale jest zadane na jakąś drogę, właśnie na jakiś też dłuższy, całożyciowy tak naprawdę, proces współpracy.
 
     -- abp Ryś
 
@@ -36,7 +36,7 @@ Przeczytajmy:
 
 Intencją Jezusa w~bardzo wyraźny sposób jest, aby św. Piotr zajmował się wiarą swoich przyjaciół. Zdaje się jednak, że warunkiem otrzymania tej “misji” jest upewnienie się, że św. Piotr ma w~sobie miłość do Jezusa. “Upewnienie się” przez Jezusa, że osoby, które będą “pasły stado” same mają więź miłości ze Stwórcą odsłania nam serce Chrystusa i~Jego pragnienia.
 
-Tekst wielokrotnie w~historii Kościoła odnoszony był do hierarchów, odpowiedzialnych za organizację dusz-pasterstwa. Czy nie ma w~nim jednak uniwersalnego przekazu?
+Tekst wielokrotnie w~historii Kościoła odnoszony był do hierarchów, odpowiedzialnych za organizację duszpasterstwa. Czy nie ma w~nim jednak uniwersalnego przekazu?
 
 - Co oznacza dla mnie usłyszenie polecenia “paś owce moje”?
 - Co jest dla mnie trudne w~podejmowaniu odpowiedzialności za innych w~przestrzeni duchowości?
@@ -58,7 +58,7 @@ Symetria wydarzeń musiała uderzać już samego św. Piotra. Te same słowa, to
 Co mam? Gdzie idę?
 ==================
 
-Normalną metodą w~spotkaniach grupowych jest pytanie “jak to się odnosi do naszego życia?”. Spróbujmy teraz nie tyle o~to pytać co bezpośrednio odnieść nasze rekolekcje do życia.
+Normalną metodą w~spotkaniach grupowych jest pytanie “jak to się odnosi do naszego życia?”. Spróbujmy teraz nie tyle o~to pytać, co bezpośrednio odnieść nasze rekolekcje do życia.
 
 Jezus wraz z~św. Piotrem zapewniają się o~miłości przed dalszą wędrówką. To zapewnienie się o~miłości jest im potrzebne, aby podołać wyzwaniom. W~zasadzie czego więcej potrzebujemy jak to, że kochamy i~jesteśmy kochani? I~to przez Boga!
 
@@ -68,9 +68,9 @@ Wybierzmy kilka kart, które w~jakiś sposób przedstawiają dobro, którego do�
 
 - Co to jest za dobro?
 
-Powiedzenie sobie o~tym czego doświadczamy w~swoim gronie to odpowiednik zapewnienia się o~miłości. To środowisko życia jednak jest “po coś” - Jezus wyraźnie mówi, abyśmy szli.
+Powiedzenie sobie o~tym, czego doświadczamy w~swoim gronie to odpowiednik zapewnienia się o~miłości. To środowisko życia jednak jest “po coś” - Jezus wyraźnie mówi, abyśmy szli.
 
-Wybierzmy kilka karty, które w~jakiś sposób przedstawiają marzenia, które mamy. (Mogą być zarówno bardzo odległe czasowo jak i~takie, które mamy nadzieję, że spełnią się w~najbliższym czasie)
+Wybierzmy kilka kart, które w~jakiś sposób przedstawiają marzenia, które mamy. (Mogą być zarówno bardzo odległe czasowo, jak i~takie, które mamy nadzieję, że spełnią się w~najbliższym czasie)
 
 - Jakie są nasze marzenia?
 
@@ -94,4 +94,4 @@ Pomódlmy się także w~intencji wszystkich członków naszej wspólnoty.
 Zastosowanie rekolekcji
 =======================
 
-Nie chcemy narzucać uczestnikom zastosowania z~tego spotkania. Jeżeli to jednak możliwe dobrze by było, aby każdy znalazł swoje zastosowanie i~podzielił się nim z~resztą grupy.
+Nie chcemy narzucać uczestnikom zastosowania z~tego spotkania. Jeżeli to jednak możliwe, dobrze by było, aby każdy znalazł swoje zastosowanie i~podzielił się nim z~resztą grupy.

@@ -12,7 +12,7 @@ Normalmente, en el primer esquema de los retiros hay un punto para que el grupo 
 
 Que cada uno de nosotros escriba en una hoja tres oraciones sobre su vida. Que dos de ellas sean verdaderas y una falsa. Intentemos adivinar juntos cuál de ellas es mentira.
 
-.. note::  Es necesario escribir las oraciones para leer cada una de ellas con la misma soltura y velocidad. De lo contrario, la oración inventada puede ser fácil de reconocer por la forma en que se presenta.
+.. note:: Es necesario escribir las oraciones para leer cada una de ellas con la misma soltura y velocidad. De lo contrario, la oración inventada puede ser fácil de reconocer por la forma en que se presenta.
 
 - ¿Qué conocimiento adquirido sobre alguien más del grupo me sorprendió más? ¿Por qué?
 - Si tuvieras que nombrar el evento más importante de tu vida en el último año, ¿cuál indicarías?

@@ -149,7 +149,7 @@ Leiamos:
 
     -- Is 7,11-14
 
-**Emmanuel -- Deus conosco.** O~povo, na sua aflição, precisa de um sinal para ter a~certeza da presença de Deus e~recebe o anúncio de que Deus estará no meio deles.
+**Emmanuel -- Deus connosco.** O~povo, na sua aflição, precisa de um sinal para ter a~certeza da presença de Deus e~recebe o anúncio de que Deus estará no meio deles.
 
 *O animador abre a~"caixa 6" e~tira de dentro uma ligadura. Nela há uma inscrição tapada: "Aquele que provê".*
 

@@ -24,7 +24,7 @@ Lisons :
 
     -- Ex 16,1-18.35
 
-Les Israélites murmurent contre le Seigneur, car ils n'ont pas de nourriture, ils n'ont pas de pain. Ils pensent qu'il aurait mieux valu pour eux vivre en Égypte, où au moins ils avaient la nourriture garantie. À cette occasion, il vaut la peine de parler avec les participants de ce à quoi ressemble le pain, de quoi il est fait. En Israël, le pain (galette) était fait d'eau, de sel et de farine (éventuellement encore d'huile). Ce sont les ingrédients de base. Les plus simples. Le pain azyme, utilisé pendant la Pâque, était fait sans levain (c'est-à-dire le reste de pâte resté de la cuisson précédente), seulement d'eau et de farine. Après la cuisson du pain, les participants devraient avoir conscience de la simplicité du pain. Qu'ils partagent au début de cette rencontre leurs expériences, leurs réflexions, ce qu'ils ont ressenti pendant la cuisson du pain. Par cette simplicité, le pain est l'aliment de base de beaucoup de gens, surtout des pauvres (où il est en même temps le seul ingrédient de la nourriture). Demandons ce que les gens pauvres demandent le plus souvent (outre l'argent).
+Les Israélites murmurent contre le Seigneur, car ils n'ont pas de nourriture, ils n'ont pas de pain. Ils pensent qu'il aurait mieux valu pour eux vivre en Égypte, où au moins ils avaient la nourriture garantie. À cette occasion, il vaut la peine de parler avec les participants de ce à quoi ressemble le pain, de quoi il est fait. En Israël, le pain (galette) était fait d'eau, de sel et de farine (éventuellement encore d'huile). Ce sont les ingrédients de base. Les plus simples. Le pain azyme, utilisé pendant la Pâque, était fait sans levain (c'est-à-dire le reste de pâte resté de la cuisson précédente), seulement d'eau et de farine. Après la cuisson du pain, les participants devraient avoir conscience de la simplicité du pain. Qu'ils partagent au début de cette rencontre leurs expériences, leurs réflexions, ce qu'ils ont ressenti pendant la cuisson du pain. Par cette simplicité, le pain est l'aliment de base de beaucoup de gens, surtout des pauvres (où il est en même temps leur seul aliment). Demandons ce que les gens pauvres demandent le plus souvent (outre l'argent).
 
 Ensuite, parlons de la façon dont le pain est traité dans nos maisons.
 
@@ -113,7 +113,7 @@ L'Eucharistie ne peut pas être la source et le sommet de la vie du chrétien, s
 Résumé
 =======
 
-    Écoutez une petite fille que j'ai trouvée dans une des rues de Calcutta. Elle avait peut-être six ans, et à son visage j'ai vu qu'elle avait faim et n'avait pas mangé depuis plusieurs jours. Je lui ai donné une tranche de pain, et elle a commencé à la manger, lentement, miette par miette. J'ai dit : Mange le pain, n'aie pas peur, mange. L'enfant a dit : J'ai peur, car quand le pain sera fini, j'aurai encore faim
+    Écoutez l'histoire d'une petite fille que j'ai trouvée dans une des rues de Calcutta. Elle avait peut-être six ans, et à son visage j'ai vu qu'elle avait faim et n'avait pas mangé depuis plusieurs jours. Je lui ai donné une tranche de pain, et elle a commencé à la manger, lentement, miette par miette. J'ai dit : Mange le pain, n'aie pas peur, mange. L'enfant a dit : J'ai peur, car quand le pain sera fini, j'aurai encore faim
 
     -- Mère Teresa de Calcutta
 

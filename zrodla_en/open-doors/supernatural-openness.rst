@@ -11,7 +11,7 @@ At this meeting we want to go deeper into the topic of openness. Show two of its
 Introduction
 ============
 
-Behind us many interesting contents. We talked about expanding the heart, about God who inspires, about Jesus' openness, we were at evening prayer, where we could in some sense embody Nicodemus, we listened to Ariel's conference. Let's share what so far:
+Behind us are many interesting contents. We talked about expanding the heart, about God who inspires, about Jesus' openness, we were at evening prayer, where we could in some sense embody Nicodemus, we listened to Ariel's conference. Let's share what has resonated so far:
 
 * How did yesterday's prayer affect my spirituality?
 * What moved me in Ariel's conference?
@@ -59,7 +59,7 @@ How many volunteers in the country do you think are involved in church organizat
 * How do I look at the Church, which looks in reality perhaps better than in my beliefs?
 * Which space of my life needs this workshop currently?
 
-**Humanistic openness**, is strictly connected with readiness for new, unexplored things. An open person is prepared for continuous "testing" of their beliefs. As we could notice in the survey, aspects of our life that were natural for us, well known, are not always obvious, and our knowledge over time can become outdated and need a fresh look.
+**Humanistic openness** is closely connected with readiness for new, unexplored things. An open person is prepared for continuous "testing" of their beliefs. As we could notice in the survey, aspects of our life that were natural for us, well known, are not always obvious, and our knowledge over time can become outdated and need a fresh look.
 
 In the survey we could notice barely one of the types of verification of our knowledge and beliefs, namely transforming our pessimism and lack of passion into a new, fresh look at reality. When we reverse the situation given in the survey we will notice that excessive optimism and excessive expectations (when we expect fireworks) can also be verified by reality in quite a clear way.
 
@@ -89,9 +89,9 @@ Let us read:
 
     -- Mk 7:31-37
 
-Jesus heals a deaf-mute. Although in the fragment the expression falls "makes the deaf **hear** and the dumb speak", let's remember that really Jesus **introduces** the healed one into a completely different world.
+Jesus heals a deaf-mute. Although in the fragment the expression appears "makes the deaf **hear** and the dumb speak", let's remember that in reality Jesus **introduces** the healed one into a completely different world.
 
-In addition, he does it with characteristic delicacy and sensitivity, using such impressions that are everyday life for a deaf-mute - touch, warmth, look, sigh. Moreover, he took him "aside from the multitude", to a place that will not overwhelm with sounds(!). Until now, the reality of sounds did not exist in the life of the healed one, moreover, if he could not hear, then the world of spoken language was completely alien to him. Probably he communicated with the environment using sign language, however he was excluded from a significant part of life that happened as if next to him. Jesus does not "restore" hearing to this man, he lets into his life and new reality - gives him hearing, hands it, teaches the whole body what it is like to hear, introduces something from beyond the current world. Until now things had colors, smells, tastes, now they acquired sound. The sense of hearing gives us orientation in space, we hear noises from afar, we orient ourselves at a distance that something is happening, exactly using hearing. Jesus expands the perception of the healed one by unimaginable things, exceeding his experience. Jesus enters where man cannot open himself more - after all the deaf-mute used every other sense to cope in the world, did what he could, he could not do anything more himself - a new dimension was given to him.
+In addition, he does it with characteristic delicacy and sensitivity, using such impressions that are everyday life for a deaf-mute - touch, warmth, look, sigh. Moreover, he took him "aside from the multitude", to a place that will not overwhelm with sounds(!). Until now, the reality of sounds did not exist in the life of the healed one, moreover, if he could not hear, then the world of spoken language was completely alien to him. Probably he communicated with the environment using sign language, however he was excluded from a significant part of life that happened as if next to him. Jesus does not "restore" hearing to this man, he lets into his life a new reality - gives him hearing, hands it, teaches the whole body what it is like to hear, introduces something from beyond the current world. Until now things had colors, smells, tastes, now they acquired sound. The sense of hearing gives us orientation in space, we hear noises from afar, we orient ourselves at a distance that something is happening, exactly using hearing. Jesus expands the perception of the healed one by unimaginable things, exceeding his experience. Jesus enters where man cannot open himself more - after all the deaf-mute used every other sense to cope in the world, did what he could, he could not do anything more himself - a new dimension was given to him.
 
 However, this fragment speaks not only about this. Let's read the commentary:
 

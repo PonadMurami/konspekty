@@ -17,7 +17,7 @@ Objetivos:
 Introducción
 ============
 
-Ayer hablamos de cuántas cosas secundarias ocupamos en nuestra vida. Vimos a Jesús que quiere que nos concentremos en lo que realmente es importante. Le dijimos en la oración vespertina: "Señor, abre mis ojos, mi mente y mi corazón". Esta mañana hablamos de Dios que responde a nuestras peticiones, que coopera con nosotros. Dios respondió. En la Tienda del Encuentro escuchamos claramente: "poned en práctica la palabra y no os contentéis solo con oílla, engañándoos a vosotros mismos". Son palabras gozosas, pero puede surgir en nosotros también inquietud - ¿cómo lo hago? ¿Sé hacerlo? Hoy queremos hablar de cómo reconocer qué es importante, qué es más importante y qué es lo más importante.
+Ayer hablamos de cuántas cosas secundarias ocupamos en nuestra vida. Vimos a Jesús que quiere que nos concentremos en lo que realmente es importante. Le dijimos en la oración vespertina: "Señor, abre mis ojos, mi mente y mi corazón". Esta mañana hablamos de Dios que responde a nuestras peticiones, que coopera con nosotros. Dios respondió. En la Tienda del Encuentro escuchamos claramente: "poned en práctica la palabra y no os contentéis solo con oírla, engañándoos a vosotros mismos". Son palabras gozosas, pero puede surgir en nosotros también inquietud - ¿cómo lo hago? ¿Sé hacerlo? Hoy queremos hablar de cómo reconocer qué es importante, qué es más importante y qué es lo más importante.
 
 * ¿Qué fue lo más importante para ti en los retiros desde el último encuentro? ¿Qué le dio esa categoría?
 
@@ -176,7 +176,7 @@ La preocupación de Marta por recibir dignamente al Señor Jesús no era nada ma
 
 * ¿Cómo puede verse nuestra purificación de motivaciones en asuntos de fe en el siglo XXI?
 
-La clave es hacerse a menudo la pregunta "¿para qué lo hago?". "¿Por qué vengo al Oasis?", Si realmente es por la oración, ¿si del Oasis se eliminaran todos los encuentros y viajes y diversiones, seguiría yendo con la misma disposición? ¿Sirvo como animador porque quiero imitar a Jesucristo o tal vez también es importante para mí el título de "animador" y la posibilidad de acceso a un círculo de élite? ¿Leo la Sagrada Escritura porque quiero conocer la historia de la fe? ¿De qué da testimonio entonces mi evitar los libros históricos y la clara inclinação a buscar citas "aforísticas"?
+La clave es hacerse a menudo la pregunta "¿para qué lo hago?". "¿Por qué vengo al Oasis?", Si realmente es por la oración, ¿si del Oasis se eliminaran todos los encuentros y viajes y diversiones, seguiría yendo con la misma disposición? ¿Sirvo como animador porque quiero imitar a Jesucristo o tal vez también es importante para mí el título de "animador" y la posibilidad de acceso a un círculo de élite? ¿Leo la Sagrada Escritura porque quiero conocer la historia de la fe? ¿De qué da testimonio entonces mi evitar los libros históricos y la clara inclinación a buscar citas "aforísticas"?
 
 Es interesante que en el Evangelio de Juan podemos leer que durante la unción en Betania Marta siguió sirviendo, pero ya no se quejaba de que ella trabajaba y María ungía con aceite. Ocurrió en ella algún cambio, entendió cuál es su mejor parte. Entender esto estaba relacionado sin embargo con emprender algún esfuerzo, algún desarrollo, un trabajo concreto que había que realizar. Podemos suponer que Marta decidió qué es lo más importante para ella y decidió finalmente atenerse a ello.
 

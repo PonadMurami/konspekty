@@ -14,7 +14,7 @@ Cele spotkania:
     - Zapoznanie uczestników i~wprowadzenie w~temat rekolekcji
     - Pokazanie człowieczeństwa Jezusa
     - Pokazanie, że tajemnica krzyża nie kończy się na cierpieniu. Nie zatrzymujemy się na cierpieniu
-    - Wskazanie na wartość ciszy i~milczenia.Trzeba zamilknąć, żeby usłyszeć
+    - Wskazanie na wartość ciszy i~milczenia. Trzeba zamilknąć, żeby usłyszeć
 
 
 Modlitwa i~zapoznanie uczestników
@@ -59,7 +59,7 @@ Rozłożenie na stole kartek z~przykładami tego, o~czym można powiedzieć w~kw
 
 Napisanie w~7 (krótkich, nie złożonych podrzędnie, nadrzędnie ani inaczejrzędnie) zdaniach czegoś o~sobie (im więcej przykładów na kartkach tym lepiej). Chodzi o~przemyślenie (BARDZO KRÓTKIE) i~zdecydowanie, co jest dla mnie ważne/co chcę przekazać innym o~sobie/jak chcę się przedstawić - jedno zdanie powinno zawierać imię!
 
-.. warning:: Trzeba mocno zaznaczyć, że ma to być przedstawienie się i~nie chodzi o~wyciąganie całej swojej życiowej głębi, ale że ktoś patrząc na Alę, wie:  “Ala lubi jeździć autem/motorem/i wszystkim co ma kółka, a~przy tym miłość jest dla niej ważna”. (Tak jak Jezus był człowiekiem (cieślą z~zawodu), a~jednak patrząc na Niego często myślę "krzyż i~zmartwychwstanie").
+.. warning:: Trzeba mocno zaznaczyć, że ma to być przedstawienie się i~nie chodzi o~wyciąganie całej swojej życiowej głębi, ale że ktoś patrząc na Alę, wie: “Ala lubi jeździć autem/motorem/i wszystkim co ma kółka, a~przy tym miłość jest dla niej ważna”. (Tak jak Jezus był człowiekiem (cieślą z~zawodu), a~jednak patrząc na Niego często myślę "krzyż i~zmartwychwstanie").
 
 Przedstawienie się przeczytaniem swoich 7 zdań.
 

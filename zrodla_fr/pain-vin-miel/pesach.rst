@@ -277,7 +277,7 @@ Nous avons préparé pour vous une carte du pays de la spiritualité. Nous n'avo
 
 Demandons :
 
-- Où se trouve actuellement "le lieu de ta résidence" ? Place ton tente là-bas.
+- Où se trouve actuellement "le lieu de ta résidence" ? Place ta tente là-bas.
 
 .. note:: Chaque endroit sur la carte est bon - pas seulement les "lieux forts" qui sont signés.
 

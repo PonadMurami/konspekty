@@ -47,9 +47,9 @@ Bóg wie, kiedy siadam i~wstaję, widzi moje działanie i~spoczynek; w~określen
 
 * Jak Bóg nam daje łaski na co dzień to one są mimo tej codzienności czy może są w~niej?
 
-Taka łaska, Boży dar, jest zawarty w~najzwyklejszych wydarzeniach szarego życia, który trwa dopóty, dopóki trwa ich zwyczajność i~szarość.
+Taka łaska, Boży dar, jest zawarta w~najzwyklejszych wydarzeniach szarego życia, która trwa dopóty, dopóki trwa ich zwyczajność i~szarość.
 
-* Jak Bóg może działać przez codzienność? Czy On wkłada w~tą codzienność jakieś rzeczy, które są niecodzienne, takie cudowne i~dlatego nas poruszą czy właśnie działa posługując się tą codziennością?
+* Jak Bóg może działać przez codzienność? Czy On wkłada w~tę codzienność jakieś rzeczy, które są niecodzienne, takie cudowne i~dlatego nas poruszą czy właśnie działa posługując się tą codziennością?
 
    Bóg kieruje nami za pomocą powszedniego dnia z~niezwykłą celnością
 

@@ -10,7 +10,7 @@ Introduction
 
 Let us begin by sharing what we are experiencing.
 
-- What of what happened to me yesterday was the most pleasant experience?
+- Of what happened to me yesterday, what was the most pleasant experience?
 - What am I grateful for during this time of retreat?
 
 Faith as a Seed
@@ -80,7 +80,7 @@ Let us recall the words from the conference:
 
     -- Archbishop Ryś
 
-Let this not be only romantic and impressive comparisons. Let us help ourselves so that light and life go together in pairs. Let the seed grow!
+Let this not be only romantic and impressive comparisons. Let us help ourselves so that light and life go hand in hand. Let the seed grow!
 
 - What can we as participants of this meeting do to help you achieve these dreams?
 

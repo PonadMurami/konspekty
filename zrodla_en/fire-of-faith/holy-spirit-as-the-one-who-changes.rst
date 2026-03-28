@@ -25,7 +25,7 @@ Sharing what is behind us
 
 Sharing experiences of the previous evening and morning, consistent with the suggestion given in the goal of the meeting - feelings and elations are important and valuable, but if they are absent it does not mean that everything was pointless and gave me nothing. It could have been stupid, cold and boring, but IT WAS, it is a fact and not playback. Since there was a lot of it (prayer and matins!) this part of the meeting may take more time.
 
-We try to draw some second bottom from "normal" observations:
+We try to find a deeper meaning in "normal" observations:
 	* before the light we saw shapes, but they were gray, as if lifeless. Only the Light allowed us to see life as it is.
 	* it was cold. It seemed to me that it was already sunrise and still it was not there. Such waiting is terrible, but rationally I was sure that it must rise!
 

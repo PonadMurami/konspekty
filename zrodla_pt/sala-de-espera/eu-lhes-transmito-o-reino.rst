@@ -48,7 +48,7 @@ Como a Igreja espera?
 
 Vale a pena notar que a Igreja espera de maneira similar às "pessoas comuns" (leigos). Para isso serve cada oração comum, os sacramentos, a leitura da Palavra de Deus, o Advento, a Eucaristia e muitas outras coisas. No encontro anterior falou-se de que a Igreja espera diversas coisas.
 
-* Como segundo eu a Igreja espera a Parusia?
+* Na minha opinião, como a Igreja espera a Parusia?
 
 * Como eu participo desta espera?
 

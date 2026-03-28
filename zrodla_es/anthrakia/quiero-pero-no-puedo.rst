@@ -59,7 +59,7 @@ Leamos:
 
     -- Jn 18, 3-11
 
-Si hace un momento San Pedro cometió un "pecado de omisión" por falta de actividad, ahora cae en el otro lado: actividad demasiado violenta y desordenada. San Pedro claramente quiere llenar el espacio que crean para él los eventos de la historia de la salvación, pero continuamente "aplica el cincel en el lugar equivocado".
+Si hace un momento San Pedro cometió un "pecado de omisión" por falta de actividad, ahora cae en el otro extremo: actividad demasiado violenta y desordenada. San Pedro claramente quiere llenar el espacio que crean para él los eventos de la historia de la salvación, pero continuamente "aplica el cincel en el lugar equivocado".
 
 - ¿Qué ideas para mi actividad en la vida he extinguido con razón, porque consideré que no era mi camino?
 - ¿Qué me gustaría hacer ahora en la Iglesia para que esté en armonía conmigo?

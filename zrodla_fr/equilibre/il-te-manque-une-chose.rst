@@ -109,7 +109,7 @@ Lisons:
 
 La vérité dont il est question dans ce fragment est la grecque aletheia (de a-lethès, "non caché"). La vérité n'est pas quelque chose qu'il faut découvrir (l'affirmation "Vérité cachée" est même un paradoxe). Elle est toujours manifeste. Seulement nous devons regarder de la manière appropriée, obtenir la perspective qui permettra de la percevoir. Certainement le Saint-Esprit nous aide en cela - appelé d'ailleurs par Jésus Esprit de Vérité. Grâce à Son action nous sommes capables de regarder le monde à travers le prisme de la logique de Dieu et d'agir selon Sa volonté, contribuant à construire le Royaume.
 
-Jésus nous a-t-il donné sur un plateau les solutions de comment chercher une bonne décision? Non. Il nous a cependant donné Son Esprit et la Communauté de l'Église, qui depuis 2000 ans apprend et se perfectionne dans le discernement de la volonté de Dieu. Il a aussi donné la promessa de que nous connaîtrons la Vérité si nous sommes vraiment Ses disciples.
+Jésus nous a-t-il donné sur un plateau les solutions de comment chercher une bonne décision? Non. Il nous a cependant donné Son Esprit et la Communauté de l'Église, qui depuis 2000 ans apprend et se perfectionne dans le discernement de la volonté de Dieu. Il a aussi donné la promesse que nous connaîtrons la Vérité si nous sommes vraiment Ses disciples.
 
 * Par quoi reconnais-tu que quelque chose est Vérité? Comment le vérifies-tu?
 

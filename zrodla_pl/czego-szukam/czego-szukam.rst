@@ -35,10 +35,10 @@ Uwaga: Uczestnicy oczywiście mogą się już z~tym zdaniem zgadzać (w końcu m
 
 Jeżeli ktoś jest poszukującym przez dłuższy czas to znaczy, że jest niedorajdą, że nie potrafi znajdować, że jest nieskuteczny. "W~XXIw się nie szuka, w~XXIw się odnajduje".
 
-Odpowiedz  świata na nasze szukanie
+Odpowiedź świata na nasze szukanie
 ===================================
 
-Powstaje  pytanie:
+Powstaje pytanie:
 
 * Czy to znaczy, że człowiek XXIw nie szuka w~ogóle? (Szuka – ale jakie sprawy zabierają mu najwięcej czasu? (nie pytamy jakie są dla niego najważniejsze))
 
@@ -105,7 +105,7 @@ Nasze szukanie jest jednak mocno zagrożone. Łatwo nim manipuluje świat, ale t
 Szukam, bo mi powiedzieli, że tego chcę
 =======================================
 
-.. note:: ten punk, można zreferować. Umieszczam go tutaj ze względu na znaczną rozpiętość wieku naszych uczestników – być może będą grupy gdzie ten temat będzie najowocniejszy
+.. note:: ten punkt można zreferować. Umieszczam go tutaj ze względu na znaczną rozpiętość wieku naszych uczestników – być może będą grupy gdzie ten temat będzie najowocniejszy
 
 Popatrzmy raz jeszcze na listę, którą utworzyliśmy – "czego szuka człowiek XXIw". Ile razy zdarzyło wam się tak, że wchodząc do sklepu wcale nie szukaliście jakiegoś produktu, ale go kupiliście?
 
@@ -113,8 +113,8 @@ Popatrzmy raz jeszcze na listę, którą utworzyliśmy – "czego szuka człowie
 
 Przykłady:
 
-* Lepszego telefonu komórkowego ( mimo, że nie wykorzystuje jego nowych funkcji) Plików MP3 w~Internecie (aby je kolekcjonować - i~tak nie będę ich słuchać, bo mam ich tak dużo)
-* Plotek w~gazetach na temat gwiazd ($#^&!%@ nawet nie jestem wstanie wymyśleć co tu wpisać :D)
+* Lepszego telefonu komórkowego (mimo że nie wykorzystuje jego nowych funkcji) Plików MP3 w~Internecie (aby je kolekcjonować - i~tak nie będę ich słuchać, bo mam ich tak dużo)
+* Plotek w~gazetach na temat gwiazd ($#^&!%@ nawet nie jestem w~stanie wymyśleć co tu wpisać :D)
 * Kosmetyk XYZ (bo dzięki niemu będziesz piękna – tak jakbyś teraz nie była)
 
 Wszystkie te rzeczy bezpośrednio lub mniej polegają na tym, że ktoś nam mówi, że znajdziemy szczęście gdzieś gdzie go nie ma!
@@ -126,19 +126,19 @@ Mówię, że szukam "A", a~wypatruję "B"
 
 Mówiliśmy o~manipulacji nas przez "świat" w~kwestii kierunku naszych poszukiwań. Nie jest to jednak jedyne jej źródło. Istnieje jeszcze jedno, o~wiele trudniejsze do odkrycia – jesteśmy nim my sami.
 
-Będziemy teraz omawiać różne nasze "poszukiwania". Za każdym razem starajmy się zobaczyć maksymalnie szeroko czego tak naprawdę można szukać przy okazji tej czynności! Próbujmy zrozumieć mechanizm, który powoduje takie rozbieżności, że "mówię, że szukam A, a~wypatruję tak naprawdę B". **Podzielmy się głównie takimi skojarzeniami, które znamy z~własnego życia, na których sami się "chwytamy"**.  Każdy z~nas posiada naturalny psychologiczny mechanizm obronny, który sugeruje nam, że *"przecież my nie! My zawsze jak myślimy to dokładnie tak samo robimy"*. Praca w~grupie nad poszczególnymi sytuacjami może sprawić, że ktoś inny zasugeruje taką odpowiedź przed którą my właśnie sami siebie bronimy. Wykorzystajmy zatem dobrze warunki, które mamy tutaj i~spróbujmy coś w~swoim życiu zauważyć. Na część przykładów będzie można było wymienić milion przykładów
-"pobożnych"  - nie wypisujmy ich jeżeli ich nie ma w~naszym życiu!
+Będziemy teraz omawiać różne nasze "poszukiwania". Za każdym razem starajmy się zobaczyć maksymalnie szeroko czego tak naprawdę można szukać przy okazji tej czynności! Próbujmy zrozumieć mechanizm, który powoduje takie rozbieżności, że "mówię, że szukam A, a~wypatruję tak naprawdę B". **Podzielmy się głównie takimi skojarzeniami, które znamy z~własnego życia, na których sami się "chwytamy"**. Każdy z~nas posiada naturalny psychologiczny mechanizm obronny, który sugeruje nam, że *"przecież my nie! My zawsze jak myślimy to dokładnie tak samo robimy"*. Praca w~grupie nad poszczególnymi sytuacjami może sprawić, że ktoś inny zasugeruje taką odpowiedź przed którą my właśnie sami siebie bronimy. Wykorzystajmy zatem dobrze warunki, które mamy tutaj i~spróbujmy coś w~swoim życiu zauważyć. Na część przykładów będzie można było wymienić milion przykładów
+"pobożnych" - nie wypisujmy ich jeżeli ich nie ma w~naszym życiu!
 
 .. note:: Warto podać tutaj przykład: Załóżmy, że mielibyśmy odpowiadać na pytanie "Kim jest dla mnie Maryja?". Zaiste poprawną odpowiedzią jest "Arką przymierza" albo "Wieżą z~Kości Słoniowej" (patrz. Litania Loretańska), ale jeżeli dla nikogo z~nas te określenia nie są bliskie sercu to podarujmy je – spotykaliśmy się po to, aby podzielić się własnym doświadczeniem, a~nie pisać encyklopedie!
 
 Za każdym razem używamy formy **"Czego szukamy/szukasz w~.......?"** To pytanie ma usłyszeć każdy po kilka razy! Musi się skonfrontować z~odnalezieniem na nie odpowiedzi! To Cel wychowawczy tego spotkania.
 
-Poniżej przedstawiam **proponowane przykłady** do omówienia. Sugeruje w~podobny sposób dokonać pewnej ich dynamiki – od "banalnych", które pozwolą zrozumieć o~co biega do istotnych. **Uczestnicy mogą sami dawać przykłady! Jest o~zalecane jeżeli pozwala na to czas**. Jest nawet wskazane, aby ten punkt spotkania przerodził się w~swobodną rozmowę.
+Poniżej przedstawiam **proponowane przykłady** do omówienia. Sugeruję w~podobny sposób dokonać pewnej ich dynamiki – od "banalnych", które pozwolą zrozumieć o~co biega do istotnych. **Uczestnicy mogą sami dawać przykłady! Jest o~zalecane jeżeli pozwala na to czas**. Jest nawet wskazane, aby ten punkt spotkania przerodził się w~swobodną rozmowę.
 
 * Kupuję Pepsi
    * Szukam zaspokojenia pragnienia
    * Szukam zadowolenia "bo jestem sobą" (aluzja do reklamy)
-   *  Szukam czegoś co ma kofeinę i~sprawi, że nie zasnę na wykładzie
+   * Szukam czegoś co ma kofeinę i~sprawi, że nie zasnę na wykładzie
 * W~niedzielnym kazaniu
    * Słowa "Amen"
    * Błędu teologicznego
@@ -212,4 +212,4 @@ Zastosowaniem z~naszego spotkania niech będzie wybranie sobie jednego elementu 
 Modlitwa końcowa
 ================
 
-Zakończmy to spotkanie modlitwą spontaniczną.  Najpierw niech będzie to modlitwa dziękczynienia za to ze jesteśmy **"poszukującymi" Boga i~,poszukiwanymi" przez Boga**. Jeżeli czas pozwoli to później modlitwa prośby w~której poprosimy Ducha Świętego o~prowadzenie w~naszym poszukiwaniu.
+Zakończmy to spotkanie modlitwą spontaniczną. Najpierw niech będzie to modlitwa dziękczynienia za to, że jesteśmy **"poszukującymi" Boga i~"poszukiwanymi" przez Boga**. Jeżeli czas pozwoli to później modlitwa prośby w~której poprosimy Ducha Świętego o~prowadzenie w~naszym poszukiwaniu.

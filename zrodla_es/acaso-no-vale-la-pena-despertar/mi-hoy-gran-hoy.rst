@@ -45,7 +45,7 @@ Leamos cierto poema:
    | el más hermoso de todos los días
    | Y así me despierto desde hace años
    | para darle una nueva oportunidad
-   | Mañanas con café tte tte
+   | Mañanas con café tête-à-tête
    | para darle impulso a la vida
    | antes de que pase
    | Mientras no molesta la falta
@@ -129,7 +129,7 @@ Leamos el fragmento:
 
 Leamos el fragmento:
 
-   | Mañanas con café tte tte
+   | Mañanas con café tête-à-tête
    | para darle impulso a la vida
    | antes de que pase [...]
    | Aunque ayer, mañana, hoy

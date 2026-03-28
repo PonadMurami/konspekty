@@ -107,7 +107,7 @@ Lisons :
 
     -- Dt 30, 11-16
 
-* Qu'est-ce qui est la cause de mon bonheur dans l'Église ?
+* Quelle est la cause de mon bonheur dans l'Église ?
 
 * Qu'est-ce que cela signifie pour une personne de foi “être heureux” ?
 

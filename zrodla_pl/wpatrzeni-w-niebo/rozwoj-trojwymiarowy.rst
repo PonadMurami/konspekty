@@ -199,4 +199,4 @@ Zastosowanie z~tego spotkania chcemy wziąć ze sobą na modlitwę wieczorną. Z
 
 Wykropkowaną lukę uzupełnijmy na modlitwie wieczornej, wpisując w~nią tą przestrzeń, którą odnajdujemy jako swoją, i~w której tak jak w~łodzi rybackiej Szymona, chce być obecny Bóg.
 
-Na zakończenie pomódlmy  się za siebie nawzajem, powierzając jedni drugich Bogu na cały czas tych rekolekcji. Pięknym i~wymownym gestem jest np. położenie ręki na ramieniu osoby po mojej prawej stronie podczas takiej modlitwy.
+Na zakończenie pomódlmy się za siebie nawzajem, powierzając jedni drugich Bogu na cały czas tych rekolekcji. Pięknym i~wymownym gestem jest np. położenie ręki na ramieniu osoby po mojej prawej stronie podczas takiej modlitwy.

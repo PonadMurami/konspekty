@@ -96,7 +96,7 @@ Listen to the text now:
    He sneaked up to the tree to catch the bird. But when he almost had it in his hands, the bird flapped its wings, rose into the air and sat on the branches of a fir tree. The desire of the shepherd who wanted to possess this bird was so huge that he decided to follow it. When he approached the fir tree, the bird flew away again. In this place the shepherd found a wounded blackbird that was in danger because a cat was lurking for it. So he chased the cat away and at the same moment spotted the colorful bird on the bank of the pond. When the shepherd got there, the bird flew away. In its place he found only a fish tangled in nets, which asked him for help. When he had freed the fish, he spotted the bird on the top of the hill. He ran there, and when he was very close, the bird flew away again. In its place the shepherd found a flower dried up from drought, which asked him for help. He watered it and after a moment spotted the bird on the seashore. But when the shepherd got there, the bird rose up and flew away over the water towards the setting sun.
    "Ah - thought the shepherd - this bird made a fool of me". Disappointed, he went back to his sheep. When he walked up the hill, a beautiful flower appeared to his eyes. On the bank of the pond the fish was waiting for him, happy that it could live on. And in the crown of the fir tree the blackbird welcomed him with joyful singing. Then the shepherd understood the sense of the lifelong longing for perfection, even if it cannot be caught in the hands.
 
-   -- Willia Hoffsümmer -- The Desire for Perfection
+   -- Willi Hoffsümmer -- The Desire for Perfection
 
 * What was the shepherd looking for?
 

@@ -23,7 +23,7 @@ Objetivos
 
 1. Introducción al Cantar de los Cantares; presentación de este libro como extraordinario y sin igual en toda la Sagrada Escritura.
 
-2. Intento de reflexionar sobre la búsqueda del amor. Tanto en la dimensión hombre – hombre, como hombre – Dios. ¿Qué buscamos? ¿Cómo se ve la búsqueda? Conclusión: para encontrar el amor hay que buscarlo (parece banal). Y esta búsqueda conlleva esfuerzo y trabajo.
+2. Intento de reflexionar sobre la búsqueda del amor tanto en la dimensión hombre – hombre, como hombre – Dios. ¿Qué buscamos? ¿Cómo se ve la búsqueda? Conclusión: para encontrar el amor hay que buscarlo (parece banal). Y esta búsqueda conlleva esfuerzo y trabajo.
 
 3. El amor conlleva el dramatismo de la separación, el dolor – sin esto no se puede encontrar el amor y valorarlo.
 

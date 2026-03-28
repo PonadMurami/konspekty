@@ -10,7 +10,7 @@ Place of writing:
 Target group:
     Internal retreat for the Above the Walls community
 Retreat description:
-    The retreat accompanies Saint Peter from confessing the Messiah, through mistakes and falls, to the simple love of the Eucharist and the mission, "Feed my sheep." Inspired by Archbishop Grzegorz Rys's teaching, it invites us to discover faith as a path of growth rather than a one-time exam already passed.
+    The retreat accompanies Saint Peter from confessing the Messiah, through mistakes and falls, to the simple love of the Eucharist and the mission, "Feed my sheep." Inspired by Archbishop Grzegorz Ryś's teaching, it invites us to discover faith as a path of growth rather than a one-time exam already passed.
 
 .. only:: html
 

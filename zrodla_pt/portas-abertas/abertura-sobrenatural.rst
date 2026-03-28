@@ -40,7 +40,7 @@ Como você acha que mudou nos últimos 25 anos o número de comunidades católic
     3. Diminuiu pela metade
     4. Aumentou em 50%
 
-Como você acha que quantos voluntários no país estão envolvidos em organizações eclesiais?
+Quantos voluntários no país você acha que estão envolvidos em organizações eclesiais?
     1. 25%
     2. 50%
     3. 75%
@@ -135,7 +135,7 @@ A abertura plena (humanística complementada com a sobrenatural) é necessária 
 Conclusão - oração
 ==================
 
-Propusemos ao final orar com a oração de santa Teresa:
+Propomos no final orar com a oração de santa Teresa:
 
     | Que nada te entristeça,
     | que nada te amedronte.

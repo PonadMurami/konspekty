@@ -22,7 +22,7 @@ Chciałabym żebyśmy wyszli od cytatu i~trochę w~jego klimacie zostali.
 
    -- Józef Tischner
 
-O wolności rozmawiamy od dwóch dni. Wiemy, że ją mamy. Wiemy, że jest. Wiemy na czym polega. I~właśnie to na czym ona polega – czy to nie jest straszne?  KKK [1734] mówi, że wolność czyni nas odpowiedzialnym za swoje czyny. Ja bym poszła w~interpretacji jeszcze dalej. Nie tylko za czyny, ale również za ludzi z~którymi żyjemy, jesteśmy, spotykamy się, których kochamy. Za to co mówimy, jak mówimy itp. itd.
+O wolności rozmawiamy od dwóch dni. Wiemy, że ją mamy. Wiemy, że jest. Wiemy na czym polega. I~właśnie to na czym ona polega – czy to nie jest straszne? KKK [1734] mówi, że wolność czyni nas odpowiedzialnym za swoje czyny. Ja bym poszła w~interpretacji jeszcze dalej. Nie tylko za czyny, ale również za ludzi, z~którymi żyjemy, jesteśmy, spotykamy się, których kochamy. Za to co mówimy, jak mówimy itp. itd.
 
 * Czy taka wolność nie jest czymś przerażającym?
 * Czy kiedykolwiek przyszło mi do głowy, jak wiele obowiązków na mnie ciąży, właśnie dlatego, że dano mi wolność?
@@ -35,7 +35,7 @@ Przeczytajmy:
 
    Wolność nie jest darem, ma krople potu na czole.
 
-   -- Zbigniew Jerzyna [poeta,dramaturg, eseista]
+   -- Zbigniew Jerzyna [poeta, dramaturg, eseista]
 
 * Czy ja jestem gotowa/y na taką wolność?
 * Czy ja takiej wolności chcę?
@@ -57,7 +57,7 @@ Dlaczego człowiek boi się tego, że może być sprawcą dobra w~życiu swoim i
 Wolność i~szczęście...?
 =======================
 
-Przykład: Stoję przed wyborem. Widzę korzyści, widzę wady podjęcia takiej, a~nie innej decyzji. Wiem jaką decyzję powinnam podjąć .. ale nie chcę. Wiem co byłoby dobre dla innych, ale chciałabym podjąć decyzję pod swoim kątem. Wiem, czego ja bym chciała. Ostatecznie jednak sumienie wygrywa. Wybieram to, co czuję, że powinnam wybrać, mimo iż tego nie chcę.
+Przykład: Stoję przed wyborem. Widzę korzyści, widzę wady podjęcia takiej, a~nie innej decyzji. Wiem, jaką decyzję powinnam podjąć... ale nie chcę. Wiem co byłoby dobre dla innych, ale chciałabym podjąć decyzję pod swoim kątem. Wiem, czego ja bym chciała. Ostatecznie jednak sumienie wygrywa. Wybieram to, co czuję, że powinnam wybrać, mimo iż tego nie chcę.
 
 * Czy jestem w~takim wypadku człowiekiem wolnym?
 

@@ -130,7 +130,7 @@ Abram connaissait les promesses données par Dieu. Cela ne l'a cependant pas emp
 
 * As-tu déjà dit à Dieu ce qui repose au fond de ton cœur ? Qu'est-ce qu'il y a de difficile là-dedans ?
 
-Abram s'est surmonté, s'est tourné spontanément vers Dieu avec ce qu'il est et ce qu'il portait en lui. Il ne pensait pas à savoir si Dieu allait lui reprocher « pourtant je fais tant pour toi Abram ! ». C'est la meilleure façon possible d'utiliser le temps de la désolation. On peut chuchoter les désirs à Dieu, on peut les crier - cela ne vaut pas la peine de les garder en soi.
+Abram a franchi le pas, s'est tourné spontanément vers Dieu avec ce qu'il est et ce qu'il portait en lui. Il ne pensait pas à savoir si Dieu allait lui reprocher « pourtant je fais tant pour toi Abram ! ». C'est la meilleure façon possible d'utiliser le temps de la désolation. On peut chuchoter les désirs à Dieu, on peut les crier - cela ne vaut pas la peine de les garder en soi.
 
 Mes désirs
 ==========

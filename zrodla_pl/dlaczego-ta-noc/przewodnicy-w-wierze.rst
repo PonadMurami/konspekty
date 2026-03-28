@@ -40,7 +40,7 @@ Przeczytajmy:
 
     -- Wj 13,8
 
-- Jak interpretuje to, że Bóg chce naszej opowieści?
+- Jak interpretuję to, że Bóg chce naszej opowieści?
 
 Istnieje pokusa, aby szukać Boga, który przychodzi zawsze z~jasnym sposobem radzenia sobie z~zadaniami, przed którymi stoimy. Nasz Bóg zleca nam zadanie, abyśmy sami opowiadali. Podnosi nas do rangi przewodników w~wierze. Nie wybiera tylko niektórych spośród nas - to zadanie dla każdego.
 
@@ -110,11 +110,11 @@ Przeczytajmy:
 
     A~kiedy im umył nogi, przywdział szaty i~znów zajął miejsce przy stole, rzekł do nich: «Czy rozumiecie, co wam uczyniłem? Wy Mnie nazywacie "Nauczycielem" i~"Panem" i~dobrze mówicie, bo nim jestem. Jeżeli więc Ja, Pan i~Nauczyciel, umyłem wam nogi, to i~wyście powinni sobie nawzajem umywać nogi. Dałem wam bowiem przykład, abyście i~wy tak czynili, jak Ja wam uczyniłem. Zaprawdę, zaprawdę, powiadam wam: Sługa nie jest większy od swego pana ani wysłannik od tego, który go posłał. Wiedząc to będziecie błogosławieni, gdy według tego będziecie postępować.
 
-    --J 13,12-17
+    -- J 13,12-17
 
 .. note:: Jest to miejsce na świadectwo animatora jak przeżywa te treści. Myśli do rozważenia [o ile rzecz jasna animator się z~nimi zgadza - jeśli nie to należy je zaadaptować]:
 
-Ewangelia nie jest o~cudach, ale o~relacjach. Dlatego Jezus w~tak ważnym momencie umywa nogi, a~nie dokonuje spektakularnych cudów. Z~racji, że treścią Ewangelii jest relacją to nikt nie przekaże jej lepiej bliskim niż ja, który mam z~nimi relacje.
+Ewangelia nie jest o~cudach, ale o~relacjach. Dlatego Jezus w~tak ważnym momencie umywa nogi, a~nie dokonuje spektakularnych cudów. Z~racji, że treścią Ewangelii jest relacja, to nikt nie przekaże jej lepiej bliskim niż ja, który mam z~nimi relacje.
 
 .. note:: To kluczowy moment spotkania. Jeśli w~to nie wierzymy, to po co mamy aktorów w~Chorzowskim Teatrze Rozrywki, a~nie oglądamy wszystkich transmisji z~Broadway'u? Jeśli w~to nie wierzymy, to po co sami śpiewamy w~kościołach pieśni zamiast używać mp3 itd.
 

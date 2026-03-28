@@ -130,7 +130,7 @@ Lisons :
 
 * Que signifie le fait que les justes étaient étonnés par une telle tournure des événements ?
 
-Être bon n'est pas un effort énorme. Les « bienheureux » ont cela inscrit dans leur ADN, ils sont ainsi « en passant ». Comment autrement pourraient-ils être heureux si chaque sourire, poignée de main ou autre aide était un effort avec de la sueur sur le front ? Nous avons reçu une bougie qui se consume. Ce consumérisme dans le christianisme est joyeux, est naturel. Autrement personne ne serait chrétien plus de quelques années pour des raisons d'épuisement mental :).
+Être bon n'est pas un effort énorme. Les « bienheureux » ont cela inscrit dans leur ADN, ils sont ainsi « en passant ». Comment autrement pourraient-ils être heureux si chaque sourire, poignée de main ou autre aide était un effort avec de la sueur sur le front ? Nous avons reçu une bougie qui se consume. Ce fait de se consumer dans le christianisme est joyeux, est naturel. Autrement personne ne serait chrétien plus de quelques années pour des raisons d'épuisement mental :).
 
 .. note:: Que chaque animateur trouve ici son propre exemple. Je donne celui de KWC (Croisade de Libération de l'Homme), car il est communément connu.
 

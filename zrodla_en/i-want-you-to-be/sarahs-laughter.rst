@@ -50,7 +50,7 @@ Let's read:
 
 * What could this behavior mean for God? How did He react?
 
-*"Is anything too hard for the Lord?"* This question of God realizes how hugely His looking exceeds ours and how the category of "impossible" is completely absent in God's plan of salvation. The path of faith, to which God invites the patriarchs, relies not on man, but on the almighty God. It is He who "laughs" last.
+*"Is anything too hard for the Lord?"* This question from God makes us realize how hugely His perspective exceeds ours and how the category of "impossible" is completely absent in God's plan of salvation. The path of faith, to which God invites the patriarchs, relies not on man, but on the almighty God. It is He who "laughs" last.
 
 * Do I sometimes feel amused/confused by God's ideas? Why?
 
@@ -114,7 +114,7 @@ We see what results from such truth. God and Abraham are at such a degree of fam
 
 * What do quarrels with other people look like for me? How do I behave then?
 
-God kept his word, because ultimately, God destroys the city, but Lot, the only righteous one who lived there, leaves Sodom and survives..
+God kept his word, because ultimately, God destroys the city, but Lot, the only righteous one who lived there, leaves Sodom and survives.
 
 
 God is faithful. Let God surprise you.

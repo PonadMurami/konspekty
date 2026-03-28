@@ -39,7 +39,7 @@ Aby swobodniej czuć się w~grupie, musimy się najpierw poznać. Następuje kr�
 
 * Jakie elementy poprzedzające rekolekcje Cię zaciekawiły lub zaintrygowały?
 
-* W~jakim celem tutaj przyjechałeś?
+* W~jakim celu tutaj przyjechałeś?
 
 * Czego oczekujesz od tych rekolekcji?
 
@@ -127,7 +127,7 @@ W ramach podsumowania tego punktu, można puścić piosenkę Bartka Króla i~Mic
    | Uczciwie powiedz...że to,że to
    | na-pewno nie Ty...
 
-   -- Bartek Król i~Michał Jelonek -- Znalem kiedyś człowieka
+   -- Bartek Król i~Michał Jelonek -- Znałem kiedyś człowieka
 
 Ciekawość Zacheusza
 ===================
@@ -154,7 +154,7 @@ Ciekawość jest często motorem, który popycha do działania. Potrafi nawet uz
 
 * Dlaczego akurat w~jego domu? Czy nie dziwi nas fakt, że Jezus pragnie się zatrzymać w~domu człowieka, którego widzi pierwszy raz? O~czym to świadczy?
 
-Nie bez powodu Jezus chciał się zatrzymać w~domu Zacheusza. Dom to miejsce, w~którym codziennie przebywamy. Gromadzimy w~nim nasze dobra. To, czym się otaczamy,  jest niejako odzwierciedleniem naszej osoby (Tu warto zwrócić uwagę, że w~domyśle chodzi też o~pokój, ponieważ w~tym wieku rzadko mamy wpływ na kształt całego domu. Można zadać pytanie: *Czym dla mnie jest dom/mój pokój;  w~jaki sposób odzwierciedla moją osobę?*).
+Nie bez powodu Jezus chciał się zatrzymać w~domu Zacheusza. Dom to miejsce, w~którym codziennie przebywamy. Gromadzimy w~nim nasze dobra. To, czym się otaczamy, jest niejako odzwierciedleniem naszej osoby (Tu warto zwrócić uwagę, że w~domyśle chodzi też o~pokój, ponieważ w~tym wieku rzadko mamy wpływ na kształt całego domu. Można zadać pytanie: *Czym dla mnie jest dom/mój pokój;  w~jaki sposób odzwierciedla moją osobę?*).
 
 Dom może symbolizować sytuację, w~której się aktualnie  znajdujemy.
 
@@ -175,7 +175,7 @@ Czasami odczuwamy wrażenie jakby ktoś nas skrępował i~zamknął w~czterech �
 
 * Czy ciekawość może być motywacją do opuszczenia murów? W~jaki sposób?
 
-* Dlaczego Jezus chciał koniecznie pozostać  w~domu Zacheusza (który miał opinię grzesznika "Do grzesznika poszedł w~gościnę"), a~nie wolał zatrzymać się np. u~jakiegoś kapłana?
+* Dlaczego Jezus chciał koniecznie pozostać w~domu Zacheusza (który miał opinię grzesznika "Do grzesznika poszedł w~gościnę"), a~nie wolał zatrzymać się np. u~jakiegoś kapłana?
 
 .. note:: "Dziś muszę się zatrzymać w~twoim domu". δει ("dei" z~grec.):  jest konieczne/musi. To samo słowo jest również użyte m. in. Mk 8,31 "I~zaczął ich uczyć, że Syn Człowieczy musi wiele wycierpieć(...)". μειναι (meinai): pozostać. To samo słowo użyte w~"I~przymusili Go, mówiąc: Zostań z~nami, gdyż ma się ku wieczorowi dzień się nachylił. I~wstąpił, by z~nimi zostać"
 
@@ -191,12 +191,12 @@ Tak często mówi się o~Bożych Planach. Ale zwróćmy uwagę na to, że Bóg n
 
 .. warning:: Trzeba podkreślić, że to nie są górnolotne słowa
 
-Dziś Zbawienie nam trochę "spowszedniało". Nie czujemy tego dreszczyku na plecach myśląc o~tym, że  SAM BÓG przygotował  WSZYSTKO co ma (no a~ile może mieć Bóg?) i~chcę dać to Tobie! I~to dzieje się już dziś! Źródłem wszystkich pragnień jest Bóg. Jednocześnie On sam jest naszym największym pragnieniem życia. On nie chce byśmy przez to właśnie życie przeszli mimochodem, szaro, płynęli wraz z~prądem. Przygotował dla każdego wspaniały plan pełen życia, odkrywania pragnień, realizowania marzeń, w~którym w~pełni możemy się realizować i~być sobą.
+Dziś Zbawienie nam trochę "spowszedniało". Nie czujemy tego dreszczyku na plecach myśląc o~tym, że SAM BÓG przygotował  WSZYSTKO co ma (no a~ile może mieć Bóg?) i~chcę dać to Tobie! I~to dzieje się już dziś! Źródłem wszystkich pragnień jest Bóg. Jednocześnie On sam jest naszym największym pragnieniem życia. On nie chce byśmy przez to właśnie życie przeszli mimochodem, szaro, płynęli wraz z~prądem. Przygotował dla każdego wspaniały plan pełen życia, odkrywania pragnień, realizowania marzeń, w~którym w~pełni możemy się realizować i~być sobą.
 
 Radykalna decyzja
 =================
 
-Św, Jan w~swojej Ewangelii opisuje podobną sytuację, gdzie jedna decyzja człowieka całkowicie odmienia jego życia.
+Św. Jan w~swojej Ewangelii opisuje podobną sytuację, gdzie jedna decyzja człowieka całkowicie odmienia jego życia.
 
    Potem nastąpiło święto żydowskie i~Jezus udał się do Jerozolimy. W~Jerozolimie zaś znajduje się sadzawka Owcza, nazwana po hebrajsku Betesda, zaopatrzona w~pięć krużganków. Wśród nich leżało mnóstwo chorych: niewidomych, chromych, sparaliżowanych, [którzy czekali na poruszenie się wody. Anioł bowiem zstępował w~stosownym czasie i~poruszał wodę. A~kto pierwszy wchodził po poruszeniu się wody, doznawał uzdrowienia niezależnie od tego, na jaką cierpiał chorobę]. Znajdował się tam pewien człowiek, który już od lat trzydziestu ośmiu cierpiał na swoją chorobę. Gdy Jezus ujrzał go leżącego i~poznał, że czeka już długi czas, rzekł do niego: «Czy chcesz stać się zdrowym?» Odpowiedział Mu chory: «Panie, nie mam człowieka, aby mnie wprowadził do sadzawki, gdy nastąpi poruszenie wody. Gdy ja sam już dochodzę, inny wchodzi przede mną». Rzekł do niego Jezus: «Wstań, weź swoje łoże i~chodź!» Natychmiast wyzdrowiał ów człowiek, wziął swoje łoże i~chodził.
 

@@ -16,7 +16,7 @@ Nie narzucam, co kto lubi. Choć może tak w~klimacie – żeby się Ojcze nasz 
 Wprowadzenie - Ojcze Nasz
 =========================
 
-Modlitwa Ojcze nasz dla nas, jako chrześcijan, jest modlitwą szczególną. Jest pierwszą modlitwą, której nauczył nas Jezus. A~nauczył jej, bo o~to prosili Go uczniowie "Panie naucz nas modlić się" (Łk11,1-2). I~Jezus nauczył. Natomiast pytanie brzmi:
+Modlitwa Ojcze nasz dla nas, jako chrześcijan, jest modlitwą szczególną. Jest pierwszą modlitwą, której nauczył nas Jezus. A~nauczył jej, bo o~to prosili Go uczniowie "Panie naucz nas modlić się" (Łk 11,1-2). I~Jezus nauczył. Natomiast pytanie brzmi:
 
 * Na ile ta najważniejsza dla nas modlitwa jest modlitwą świadomą?
 * Czego ja tak naprawdę oczekuję, jak ja ją rozumiem?
@@ -30,7 +30,7 @@ W pochylaniu się nad Modlitwą pańską to jest pierwsza rzecz, na którą trze
 
 * Czy słowo Ojciec znajduje swoje uzasadnienie w~mojej modlitwie, czy mam z~Bogiem takie relacje jak z~tatą [ojcem] (bliskie, szczere, prawdziwe, ufne). Czy może ten Ojciec jest, ale równocześnie jest dystans i~nienaturalność?
 
-.. warning:: Zadając powyższe pytania należy uważać na to jakie są relacje uczestników do ich ojców - szczególnie jeśli animator wie, że relacje te nie są "bliskie, szczere, prawdziwe, ufne".
+.. warning:: Zadając powyższe pytania należy uważać na to, jakie są relacje uczestników do ich ojców - szczególnie jeśli animator wie, że relacje te nie są "bliskie, szczere, prawdziwe, ufne".
 
 Wprowadzenie - Bądź wola Twoja
 ==============================
@@ -54,7 +54,7 @@ Nooo dobra, wszystko pięknie. Jezus mówi "Nieustannie się módlcie" i~"O coko
 * Skoro wolą Bożą jest nasze nawrócenie, dojście do zbawienia, to dlaczego nie wszystkie moje prośby są wysłuchane (przecież czasami wiem, że to o~co proszę **jest dobre**)
 * Po co się modlić, skoro Bóg i~tak będzie postępował po swojemu?
 
-Św. Augustyn powiedział, że Bóg zawsze wysłuchuje człowieka, ale po swojemu, niekoniecznie tak ja my byśmy chcieli i~wtedy kiedy byśmy chcieli.
+Św. Augustyn powiedział, że Bóg zawsze wysłuchuje człowieka, ale po swojemu, niekoniecznie tak, jak my byśmy chcieli i~wtedy kiedy byśmy chcieli.
 
    Był pewien chory chłopiec. Jego matka od wielu, wielu lat modliła się o~jego uzdrowienie. Chodziła na pielgrzymki 4 razy w~roku, pościła w~środy i~piątki, uczestniczyła we mszy. Stan chłopca nie tyle się nie poprawiał, co jeszcze pogarszał. W~ końcu chłopiec umarł. Zrozpaczona matka nie widziała sensu życia. Kiedy już stała na moście, chcąc skoczyć do rzeki, przejeżdżał nieopodal ksiądz wracający od chorego. Powstrzymał kobietę i~zaczął z~nią rozmawiać. Kobieta pełna żalu wykrzyczała, że od lat modliła się o~zdrowie syna, żeby mógł wreszcie normalnie żyć i~na nic się to nie zdało. A~ksiądz odparł "Ty modliłaś się o~zdrowie ciała – Bóg dał zdrowie duszy, ty modliłaś się o~życie ziemskie – Bóg dał życie wieczne". Bóg zawsze słucha i~wysłuchuje – ale po swojemu i~w swoim czasie.
 
@@ -72,7 +72,7 @@ Bóg próśb wysłuchuje, ale wysłuchuje próśb swoich dzieci. Warunkiem jest 
 Podsumowanie
 ============
 
-Bóg  zachęca do modlitwy:
+Bóg zachęca do modlitwy:
 
 1. Natrętnej (!) [Łk 11,5-13]
 
@@ -88,7 +88,7 @@ Podsumujmy:
 
    -- Łk 11,9
 
-Ok..proszę ale nie otrzymuję..
+Ok... proszę, ale nie otrzymuję...
 
    Modlicie się a~nie otrzymujecie, bo źle się modlicie
 
@@ -106,6 +106,6 @@ To wiara jest potrzebna do tego, aby prośba została wysłuchana.
 
    -- 1 J 5,14
 
-Nasze prośby Bogu potrzebne nie są. One są potrzebne nam. Prosząc zapraszam Boga do swojego życia. I~wszystko teraz rozbija się o~zaufanie. Jezus powiedział, że wszystkie prośby są przez Boga wysłuchane (Mt 11,24). Zatem, jeżeli WIERZĘ w~te słowa to oznacza, że nie ma modlitwy niewysłuchanej. Dlaczego tak często mam zupełnie  inne wrażenie? Bo otrzymujemy, ale inaczej niż samo sobie to wyobrażamy. Bogu trzeba zostawić wolność [tak jak On dał ją nam] w~decydowaniu o~tym, co ma nam dać. Bądź wola Twoja Boże – oznacza, Boże daj mi to o~co proszę, ale w~taki sposób w~jaki Ty chcesz, a~nie w~jaki ja chcę. Na Twoich, a~nie moich warunkach.
+Nasze prośby Bogu potrzebne nie są. One są potrzebne nam. Prosząc zapraszam Boga do swojego życia. I~wszystko teraz rozbija się o~zaufanie. Jezus powiedział, że wszystkie prośby są przez Boga wysłuchane (Mt 11,24). Zatem, jeżeli WIERZĘ w~te słowa to oznacza, że nie ma modlitwy niewysłuchanej. Dlaczego tak często mam zupełnie inne wrażenie? Bo otrzymujemy, ale inaczej niż samo sobie to wyobrażamy. Bogu trzeba zostawić wolność [tak jak On dał ją nam] w~decydowaniu o~tym, co ma nam dać. Bądź wola Twoja Boże – oznacza, Boże daj mi to o~co proszę, ale w~taki sposób w~jaki Ty chcesz, a~nie w~jaki ja chcę. Na Twoich, a~nie moich warunkach.
 
 .. centered:: **Prosić z~wiarą = prosić zgodnie z~wolą Bożą**

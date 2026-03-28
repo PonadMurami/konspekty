@@ -97,7 +97,7 @@ Leamos:
 
     -- Sab 4, 8-9
 
-* ¿Qué es el indicador de nuestra madurez en la fe?
+* ¿Cuál es el indicador de nuestra madurez en la fe?
 
 * ¿Qué papel tiene el Espíritu Santo en mi vida?
 

@@ -22,7 +22,7 @@ Modlitwa do Ducha Świętego z~prośbą o~jego światło i~prowadzenie na czas t
 Wprowadzenie
 ============
 
-Tematem rekolekcje jest "Wolność". Pojęcie to jest bardzo szerokie i~pozostawia olbrzymią swobodę interpretacji. Dlatego, aby lepiej się rozumieć, postaramy się zastanowić nad tym czym dla nas jest wolność? Jaka jest definicja wolności odpowiadająca naszemu doświadczeniu, światopoglądowi, wierze...
+Tematem rekolekcje jest "Wolność". Pojęcie to jest bardzo szerokie i~pozostawia olbrzymią swobodę interpretacji. Dlatego, aby lepiej się rozumieć, postaramy się zastanowić nad tym, czym dla nas jest wolność? Jaka jest definicja wolności odpowiadająca naszemu doświadczeniu, światopoglądowi, wierze...
 
 Czym dla mnie osobiście	jest wolność?
 =====================================
@@ -118,7 +118,7 @@ Poniżej jeszcze kilka fragmentów Nowego Testamentu na temat wolności i~niewol
 Podsumowanie uczestników
 ========================
 
-Na początku spotkania każdy z~nas stworzył definicję wolności. Podzielmy się teraz tym czy coś w~tych definicjach zmieniliśmy? Czy to spotkanie jakoś nas zmieniło, dało inne spojrzenie na wolność?
+Na początku spotkania każdy z~nas stworzył definicję wolności. Podzielmy się teraz tym, czy coś w~tych definicjach zmieniliśmy? Czy to spotkanie jakoś nas zmieniło, dało inne spojrzenie na wolność?
 
 Pytania (bez odpowiedzi?)
 =========================

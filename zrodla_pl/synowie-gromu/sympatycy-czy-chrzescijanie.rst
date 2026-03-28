@@ -50,7 +50,7 @@ Większość ludzi ma jakąś pasję. Coś, na czym mu zależy, na co poświęca
 
 * Czy wiara może być pasją?
 
-Wśród ludzi  Piśmie Świętym spotykamy wielu ludzi, dla których wiara była ich największą pasją, dla której byli w~stanie wiele poświęcić.
+Wśród ludzi w~Piśmie Świętym spotykamy wielu ludzi, dla których wiara była ich największą pasją, dla której byli w~stanie wiele poświęcić.
 
 Przeczytajmy:
 

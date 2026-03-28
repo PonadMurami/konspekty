@@ -88,7 +88,7 @@ Motivos de busca no cinema
 
 * Como achas, por que razão o herói procurava isso?
 
- Escrevamos as nossas descobertas [escrita no mapa do mundo preparado]
+Escrevamos as nossas descobertas [escrita no mapa do mundo preparado]
 
 Escutem agora um texto:
 
@@ -96,7 +96,7 @@ Escutem agora um texto:
    Escapou-se até à árvore para capturar o pássaro. Mas quando já o tinha quase nas mãos, o pássaro bateu as asas, levantou-se no ar e sentou-se nos ramos de um abeto. O desejo do pastor, que queria possuir aquele pássaro, era tão enorme que decidiu segui-lo. Quando se aproximou do abeto, o pássaro voou de novo. Nesse lugar o pastor encontrou um melro ferido, que estava em perigo, porque um gato o espreitava. Afastou então o gato e no mesmo momento avistou o pássaro colorido à beira de um tanque. Quando o pastor lá chegou, o pássaro voou. No seu lugar encontrou apenas um peixe emaranhado nas redes, que lhe pediu ajuda. Quando já libertou o peixe, avistou o pássaro no cimo de uma elevação. Correu para lá, e quando já estava muito perto, o pássaro voou novamente. No seu lugar o pastor encontrou uma flor seca pela seca, que lhe pediu ajuda. Regou-a e ao fim de um momento avistou o pássaro à beira do mar. Mas quando o pastor lá chegou, o pássaro levantou-se e voou sobre a água na direção do sol poente.
    "Ah - pensou o pastor - este pássaro fez de mim um tolo". Desiludido partiu de regresso para as suas ovelhas. Quando caminhava pela elevação, apareceu aos seus olhos uma flor lindíssima. À beira do tanque esperava por ele o peixe, que se alegrava por poder continuar a viver. E na copa do abeto o melro cumprimentou-o com canto alegre. Então o pastor compreendeu que sentido tem a saudade que dura toda a vida pela perfeição, mesmo que não se possa capturá-la nas mãos.
 
-   -- Willia Hoffsümmer -- Desejo de perfeição
+   -- Willi Hoffsümmer -- Desejo de perfeição
 
 * O que procurava o pastor?
 

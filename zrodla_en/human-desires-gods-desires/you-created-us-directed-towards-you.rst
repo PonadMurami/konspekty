@@ -83,7 +83,7 @@ We close our eyes and try to imagine the scene of exile from paradise, following
 * Does God long for man?
 * How does the rest of salvation history answer this?
 
-(we try to recall known fragments speaking of God seeking man – at the beginning the animator can recall God who seeks Adam ("Adam, where are you?") or Abel ("where is your brother, Abel?") because I suspect that the participants' associations will rather go in the direction of the Gospels – which is far recommended)
+(we try to recall known fragments speaking of God seeking man – at the beginning the animator can recall God who seeks Adam ("Adam, where are you?") or Abel ("where is your brother, Abel?") because I suspect that the participants' associations will rather go in the direction of the Gospels – which is highly recommended)
 
 * which of these fragments particularly strike us? What moves us in them?
 

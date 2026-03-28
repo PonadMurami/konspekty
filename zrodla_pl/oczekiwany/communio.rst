@@ -8,7 +8,7 @@ Cele spotkania + wprowadzenie dla animatora
 
 .. important:: Na końcu konspektu znajdują się załączniki, które należy wydrukować przed spotkaniem dla każdego uczestnika!
 
-Ostatnie spotkanie grupowe skupia się głównie na aspekcie wspólnotowym. To “Myśmy poznali i~uwierzyli”. Myśmy przeżyli rekolekcje. W~czasie spotkania specjalnie został wydzielony czas na świadectwa, ponieważ nie wszyscy czują się komfortowo podczas ogólnego podsumowania na koniec rekolekcji. To jest ważna część tego spotkania, dlatego można ją wydłużyć kosztem np. formy aktywizacji. Ważne jest również to, aby każdy uczestnik wyjechał z~wybranym przez siebie i~zapisanym zastosowaniem z~rekolekcji. Pytania znajdujące się w~tym konspekcie są jedynie naprowadzające, nie trzeba zadawać ich wszystkich. Czasami jest ich tak dużo, żeby kogoś “pociągnać za język”, zobrazować mu o~co dokładnie chodzi.
+Ostatnie spotkanie grupowe skupia się głównie na aspekcie wspólnotowym. To “Myśmy poznali i~uwierzyli”. Myśmy przeżyli rekolekcje. W~czasie spotkania specjalnie został wydzielony czas na świadectwa, ponieważ nie wszyscy czują się komfortowo podczas ogólnego podsumowania na koniec rekolekcji. To jest ważna część tego spotkania, dlatego można ją wydłużyć kosztem np. formy aktywizacji. Ważne jest również to, aby każdy uczestnik wyjechał z~wybranym przez siebie i~zapisanym zastosowaniem z~rekolekcji. Pytania znajdujące się w~tym konspekcie są jedynie naprowadzające, nie trzeba zadawać ich wszystkich. Czasami jest ich tak dużo, żeby kogoś “pociągnąć za język”, zobrazować mu o~co dokładnie chodzi.
 
 Cele:
     - Pokazanie tego, w~jaki sposób Jezus uobecnia się w~czasie liturgii
@@ -29,7 +29,7 @@ Pytając o~wrażenia odnośnie modlitwy, którą rozpoczęliśmy wczoraj i~zako�
 Chrystus obecny w~Eucharystii
 =============================
 
-Centrum tej części spotkania skupia się na obecności Chrystusa w~Eucharystii (gr. eucharistía ‘dziękczynienie’). Msza Święta jest szczególnym wydarzeniem, w~którym Jezus Chrystus jednoczy się z~nami w~postaci Chleba i~Wina, a~także uobecnia się w~Piśmie Świętym, w~postaci kapłana oraz zgromadzonego ludu., «Eucharystyczna ofiara jest źródłem i~szczytem całego kultu Kościoła i~całego życia chrześcijańskiego. W~tej ofierze dziękczynienia, przebłagania, prośby i~uwielbienia wierni uczestniczą pełniej, kiedy nie tylko ofiarują Ojcu całym sercem, w~jedności z~kapłanem, świętą ofiarę, a~w niej samych siebie, lecz otrzymują również tę samą ofiarę w~sakramencie» (Święta Kongregacja Rytów, Eucharisticum Mysterium, 3 e).
+Centrum tej części spotkania skupia się na obecności Chrystusa w~Eucharystii (gr. eucharistía ‘dziękczynienie’). Msza Święta jest szczególnym wydarzeniem, w~którym Jezus Chrystus jednoczy się z~nami w~postaci Chleba i~Wina, a~także uobecnia się w~Piśmie Świętym, w~postaci kapłana oraz zgromadzonego ludu. «Eucharystyczna ofiara jest źródłem i~szczytem całego kultu Kościoła i~całego życia chrześcijańskiego. W~tej ofierze dziękczynienia, przebłagania, prośby i~uwielbienia wierni uczestniczą pełniej, kiedy nie tylko ofiarują Ojcu całym sercem, w~jedności z~kapłanem, świętą ofiarę, a~w niej samych siebie, lecz otrzymują również tę samą ofiarę w~sakramencie» (Święta Kongregacja Rytów, Eucharisticum Mysterium, 3 e).
 
 Możemy w~tym momencie przeczytać co o~Eucharystii mówili święci Kościoła:
 
@@ -84,7 +84,7 @@ W zgromadzeniu
 "Myśmy poznali"
 ===============
 
-Komunia jednoczy nas nie tylko z~Jezusem, ale i~z sobą nawzajem. Łączą nas Jego więzy  krwi. We fragmencie, który jest dla nas motywem przewodnim tych rekolekcji, św. Jan pisze „MYŚMY poznali i~uwierzyli (...) ”. Nie przemawia jedynie w~swoim imieniu, ale akcentuje fakt, że dokonało się to w~grupie, wspólnocie.
+Komunia jednoczy nas nie tylko z~Jezusem, ale i~z sobą nawzajem. Łączą nas Jego więzy krwi. We fragmencie, który jest dla nas motywem przewodnim tych rekolekcji, św. Jan pisze „MYŚMY poznali i~uwierzyli (...) ”. Nie przemawia jedynie w~swoim imieniu, ale akcentuje fakt, że dokonało się to w~grupie, wspólnocie.
 
 Przeczytajmy fragment z~Konstytucji Dogmatycznej o~Kościele Lumen Gentium:
 
@@ -109,9 +109,9 @@ Jesteśmy ciałem Chrystusa. To dlatego św. Paweł może powiedzieć: Żyję wi
 
 * Co to dla mnie oznacza, że nie tyle mam naśladować Jezusa, ale być Nim?
 
-Wspólnotowość również jest wpisana to, kim jesteśmy, w~naszą naturę. Zostaliśmy stworzeni na podobieństwo Trójosobowego Boga i~zaproszeni do relacji jaką mają ze sobą poszczególne Osoby Trójcy.  W~piękny sposób opisuje to  ks.Piotr Sękowski we fragmencie swojej książki  “Krzyż Jezusa Chrystusa. Opowieść o~drzewie życia”:
+Wspólnotowość również jest wpisana w~to, kim jesteśmy, w~naszą naturę. Zostaliśmy stworzeni na podobieństwo Trójosobowego Boga i~zaproszeni do relacji jaką mają ze sobą poszczególne Osoby Trójcy. W~piękny sposób opisuje to ks. Piotr Sękowski we fragmencie swojej książki “Krzyż Jezusa Chrystusa. Opowieść o~drzewie życia”:
 
-    „Czytałem kiedyś takie zdanie francuskiego  Jezuity, Pierre Varillon: „Gdyby Bóg nie był Trójcą, to ja niczego bym już  nie rozumiał”. Co to oznacza? Najprościej mówiąc, że Bóg potrafi kochać. Ojciec kocha Syna, czyli Jezusa, a~Syn kocha Ojca. Miłość między nimi jest tak wielka, że jest ona odrębną Osobą, Duchem Świętym, Ożywicielem. Bóg jest skonstruowany z~samej Miłości. A~nas skonstruował On na Swoje podobieństwo. Dlatego najgłębszą struną w~nas jest potrzeba, pragnienie relacji, miłości, przyjaźni drugiego człowieka. Mało tego: kiedy kogoś kochamy, mamy potrzebę, żeby całkowicie oddawać siebie tej osobie. Kiedy mąż kocha żonę, kiedy mama kocha dziecko, chętnie odda jej/jemu wszystko, nic dla siebie nie zostawi. W~takim przypadku dzieje się w~nas Trójca. ”
+    „Czytałem kiedyś takie zdanie francuskiego Jezuity, Pierre Varillon: „Gdyby Bóg nie był Trójcą, to ja niczego bym już nie rozumiał”. Co to oznacza? Najprościej mówiąc, że Bóg potrafi kochać. Ojciec kocha Syna, czyli Jezusa, a~Syn kocha Ojca. Miłość między nimi jest tak wielka, że jest ona odrębną Osobą, Duchem Świętym, Ożywicielem. Bóg jest skonstruowany z~samej Miłości. A~nas skonstruował On na Swoje podobieństwo. Dlatego najgłębszą struną w~nas jest potrzeba, pragnienie relacji, miłości, przyjaźni drugiego człowieka. Mało tego: kiedy kogoś kochamy, mamy potrzebę, żeby całkowicie oddawać siebie tej osobie. Kiedy mąż kocha żonę, kiedy mama kocha dziecko, chętnie odda jej/jemu wszystko, nic dla siebie nie zostawi. W~takim przypadku dzieje się w~nas Trójca. ”
 
 * Kiedy ja mogę doświadczyć tego, że dzieje się we mnie Trójca?
 
@@ -128,7 +128,7 @@ Wspólnota pomaga nam konkretyzować ideał miłości, staje się przestrzenią 
 Świadectwa
 ==========
 
-Wyrazem miłości może być także dawanie innym świadectwa, dajmy więc sobie teraz przestrzeń do podzielenia się tym, w~jaki sposób Bóg działał w~czasie tych rekolekcji. Każdy z~nas przyjechał tutaj z~jakimiś oczekiwaniami, możemy w~tym momencie zapytać cz i~w jaki sposób się one zrealizowały. Pytania pomocnicze:
+Wyrazem miłości może być także dawanie innym świadectwa, dajmy więc sobie teraz przestrzeń do podzielenia się tym, w~jaki sposób Bóg działał w~czasie tych rekolekcji. Każdy z~nas przyjechał tutaj z~jakimiś oczekiwaniami, możemy w~tym momencie zapytać czy i~w jaki sposób się one zrealizowały. Pytania pomocnicze:
 
 * Co na tych rekolekcjach było dla mnie najważniejsze i~wzbudziło najwięcej refleksji?
 

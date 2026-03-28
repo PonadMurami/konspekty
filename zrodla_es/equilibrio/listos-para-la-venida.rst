@@ -94,7 +94,7 @@ Metanoia, gr. "μετανοια", metanoia, 'transformación (meta) de la mente 
     -- Mt 4, 17
 
 
-**¡Convertíos**, y no convertidse!
+**¡Convertíos**, y no convertidos!
 
 .. note:: querido Animador, en este lugar vale la pena llamar la atención de los participantes sobre el aspecto imperfectivo de este verbo :)
 

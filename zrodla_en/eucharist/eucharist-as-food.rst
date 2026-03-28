@@ -13,7 +13,7 @@ The goal of today's meeting is:
 3. realizing what changes Jesus Christ introduces to this relationship, who is the **true** food;
 4. asking a question about the role of the Eucharist, receiving Jesus in communion, in my life and thus deepening the awareness of this moment of the Eucharist.
 
-Today's meeting takes place late, we are already after the Tent of Meeting and baking bread. This meeting will primarily refer to these two points. It is a meeting largely based on fragments from the Holy Scripture. However, it is not about quickly reading them and moving as quickly as possible to the next fragment. Each fragment should be discussed very thoroughly with participants, explained. Helpful, especially in younger groups, will be telling the situation shown in the Holy Scripture, i.e. where it takes place, who takes part, what it could look like, what emotions accompanied it etc., referring to the meaning of bread in their life, even through such questions as: "how often do you eat bread, which do you like most etc." and referring to baking bread, which took place earlier. "What is it like to be a baker?" Generally, one should strive for this meeting to be as much as possible a CONVERSATION with participants. It absolutely cannot be a theological lecture by the animator. During the meeting, differences between OT and NT should be shown, what new things Jesus Christ brings.
+Today's meeting takes place late, we are already after the Tent of Meeting and baking bread. This meeting will primarily refer to these two points. It is a meeting largely based on fragments from the Holy Scripture. However, it is not about quickly reading them and moving as quickly as possible to the next fragment. Each fragment should be discussed very thoroughly with participants, explained. Helpful, especially in younger groups, will be describing the situation shown in the Holy Scripture, i.e. where it takes place, who takes part, what it could look like, what emotions accompanied it, etc., referring to the meaning of bread in their life, even through such questions as: "how often do you eat bread, which do you like most etc." and referring to baking bread, which took place earlier. "What is it like to be a baker?" Generally, one should strive for this meeting to be as much as possible a CONVERSATION with participants. It absolutely cannot be a theological lecture by the animator. During the meeting, differences between OT and NT should be shown, what new things Jesus Christ brings.
 
 Introduction
 ============
@@ -24,7 +24,7 @@ Let's read:
 
     -- Ex 16:1-18.35
 
-The Israelites grumble against the Lord because they have no food, they have no bread. They think it would be better for them to live in Egypt, where at least they had guaranteed food. On this occasion, it is worth talking to participants about what bread looks like, what it is made of. In Israel, bread (flatbread) was made of water, salt and flour (possibly also olive oil). These are basic ingredients. The simplest. Unleavened bread, used during Passover, was made without leaven (i.e. the rest of the dough remaining from the previous baking), only from water and flour. After baking bread, participants should be aware of the simplicity of bread. Let them share at the beginning of this meeting the experiences, reflections they had during baking bread. Through this simplicity, bread is the basic food of many people, especially the poor (where at the same time it is the only component of food). Let's ask what poor people ask for most often (besides money).
+The Israelites grumble against the Lord because they have no food, they have no bread. They think it would be better for them to live in Egypt, where at least they had guaranteed food. On this occasion, it is worth talking to participants about what bread looks like, what it is made of. In Israel, bread (flatbread) was made of water, salt and flour (possibly also olive oil). These are basic ingredients. The simplest. Unleavened bread, used during Passover, was made without leaven (i.e. the rest of the dough remaining from the previous baking), only from water and flour. After baking bread, participants should be aware of the simplicity of bread. Let them share at the beginning of this meeting the experiences, reflections they had during baking bread. Through this simplicity, bread is the basic food of many people, especially the poor (where at the same time it is their only food). Let's ask what poor people ask for most often (besides money).
 
 Then let's talk about how bread is treated in our homes.
 
@@ -33,7 +33,7 @@ Then let's talk about how bread is treated in our homes.
 God cares for us
 ================
 
-God also cares about our daily life, about our temporal food (in "Our Father" we ask for daily bread, which can also be understood as this earthly one). God listens to the grumbling of the Israelites, sends down his food. With this fragment from the book of Exodus, let's pay attention to two things. First, the Israelites asked "what is it?", it was an unusual, new phenomenon for them. Second, everyone could gather enough to eat their fill. God does not allow anyone to be hungry. Let's talk about this fragment, what happened in it, what were the causes, what were the effects. Let it be a loose conversation about this fragment. One can quote a fragment of the psalm:
+God also cares about our daily life, about our temporal food (in "Our Father" we ask for daily bread, which can also be understood as this earthly one). God listens to the grumbling of the Israelites, sends down his food. With this fragment from the book of Exodus, let's pay attention to two things. First, the Israelites asked "what is it?", it was an unusual, new phenomenon for them. Second, everyone could gather enough to eat their fill. God does not allow anyone to be hungry. Let's talk about this fragment, what happened in it, what were the causes, what were the effects. Let it be a casual conversation about this fragment. One can quote a fragment of the psalm:
 
     | They tested God in their heart by demanding the food they craved.
     | They spoke against God, saying, "Can God spread a table in the wilderness?
@@ -82,11 +82,11 @@ Let's read:
 
 Based on the above fragment and the Tent of Meeting, let's talk about the Eucharist, about the Bread we can eat today. Let participants share their thoughts from the Tent of Meeting.
 
-* What are the analogies between our life and the wandering of the Israelites? Let's note that manna was God's answer to people's grumbling. The scene from the Tent of Meeting takes place after the multiplication of bread, when Jesus reproaches people that they follow him only because they ate their fill, while they do not care about eternal life. What difference occurs here between the Old Testament and the New? Let's consider how it is in our life – do we approach communion only to eat our fill?
+* What are the analogies between our life and the wandering of the Israelites? Let's note that manna was God's answer to people's grumbling. The scene from the Tent of Meeting takes place after the multiplication of bread, when Jesus reproaches people for following him only because they ate their fill, while they do not care about eternal life. What difference occurs here between the Old Testament and the New? Let's consider how it is in our life – do we approach communion only to eat our fill?
 
 Let's refer to thoughts from the Tent of Meeting:
 
-* What really is receiving Jesus, consuming His Body and Blood? It is a much greater gift than just help in temporal life as it was in the OT. Here bread means eternal life, means union with Christ (about which tomorrow, so let's not develop this thread), finally means PARTICIPATION IN THE SACRIFICE OF CHRIST, and also a pledge, a foretaste of heaven.
+* What really is receiving Jesus, consuming His Body and Blood? It is a much greater gift than just help in temporal life, as it was in the OT. Here bread means eternal life, means union with Christ (about which tomorrow, so let's not develop this thread), finally means PARTICIPATION IN THE SACRIFICE OF CHRIST, and also a pledge, a foretaste of heaven.
 
 "What is it?" = "yet the world did not know him"
 ================================================
@@ -112,7 +112,7 @@ The Eucharist cannot be the source and summit of a Christian's life, his most im
 Summary
 =======
 
-    Listen about a little girl I found on one of the streets of Calcutta. She was maybe six years old, and by her face I knew she was hungry and hadn't eaten for a few days. I gave her a slice of bread, and she started eating it, slowly, crumb by crumb. I said: Eat the bread, don't be afraid, eat. The child said: I am afraid, because when the bread runs out, I will be hungry again.
+    Listen to the story of a little girl I found on one of the streets of Calcutta. She was maybe six years old, and by her face I knew she was hungry and hadn't eaten for a few days. I gave her a slice of bread, and she started eating it, slowly, crumb by crumb. I said: Eat the bread, don't be afraid, eat. The child said: I am afraid, because when the bread runs out, I will be hungry again.
 
     -- Mother Teresa of Calcutta
 

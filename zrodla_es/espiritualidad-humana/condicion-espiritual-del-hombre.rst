@@ -100,7 +100,7 @@ Se trata de llegar juntos a que si nos atenemos a los principios de los que habl
 
 * ¿Vemos tal necesidad? ¿Qué hay de tan peligroso en estas preguntas?
 
-Peligroso es descubrir quiénes somos realmente, sin máscaras. Las preguntas más importantes, ante las que nos encontramos solos, deben descubrir la verdad sobre nosotros. No es nada agradable. A veces buscador. Es "complicarse" la vida - aunque en realidad esto es la verdadera existencia - porque consciente.
+Peligroso es descubrir quiénes somos realmente, sin máscaras. Las preguntas más importantes, ante las que nos encontramos solos, deben descubrir la verdad sobre nosotros. No es nada agradable. A veces impactante. Es "complicarse" la vida - aunque en realidad esto es la verdadera existencia - porque consciente.
 
 * ¿Qué hacemos con esta verdad sobre nosotros mismos? ¿Siempre tenemos conciencia de que nunca conocimos toda la verdad? ¿Intentamos preguntarnos constantemente sobre quiénes somos?
 

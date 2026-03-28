@@ -62,7 +62,7 @@ A primeira escolha montanha ou mar provém do grupo tático-material-sentimental
 
 As decisões que discutimos até agora são decisões simples, no entanto, a vida pode complicar mais a tomada de decisões.
 
-Imaginemos uma rede de estradas públicas pelas quais nos movemos. Em cada cruzamento devemos decidir onde virar (red de estradas – vida; cruzamento – decisões). Sigamos a vida de algumas pessoas e tiremos os seus cruzamentos.
+Imaginemos uma rede de estradas públicas pelas quais nos movemos. Em cada cruzamento devemos decidir onde virar (rede de estradas – vida; cruzamento – decisões). Sigamos a vida de algumas pessoas e tiremos os seus cruzamentos.
 
 Personagens propostas:
 
@@ -93,7 +93,7 @@ Marca apenas uma resposta em cada pergunta. Anota as respostas tanto na folha de
 
    * menos de 18 anos
    * 18 ou mais
-* Teste, não estudaste, mas recebeste um cábula de uma amiga.
+* Teste, não estudaste, mas recebeste uma cábula de uma amiga.
 
    * Copias, porque afinal todos o fazem.
    * És honesto/a, no máximo repetirás o ano.

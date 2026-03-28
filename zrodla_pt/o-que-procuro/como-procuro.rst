@@ -6,7 +6,7 @@ Encontro 3. - Como procuro?
 Objetivo do Encontro
 ====================
 
-Partilhar a experiência da própria busca. Descobrir a ilusão entre a declaração de busca e a busca factual. O objetivo educativo é colocar a cada um dos participantes a pergunta fundamental: o que procuras?
+Partilhar a experiência da própria busca. Descobrir a ilusão entre a declaração de busca e a busca efetiva. O objetivo educativo é colocar a cada um dos participantes a pergunta fundamental: o que procuras?
 
 Observações para o animador
 ============================
@@ -184,7 +184,7 @@ Este fragmento é claro que é muito bem conhecido por todos e talvez por isso s
 
 * Será que são "que não encaixam"? Como os leríamos no contexto do Hino ao Amor?
 
-Sim – estando na terra nunca conheceremos a Verdade até ao fim. Não significa no entanto que aqui não possamos fazer nada. Reconhecemos que quando amamos alguém há 3 anos já sabemos até ao fim o que é o amor? Não! Daqui a 15 anos diremos que o nosso amor desse tempo ainda era tão imaturo, tão pouco ainda sabíamos sobre ele. Mas tanto o nosso amor aqui e agora como aquele como o entenderemos no final da nossa vida e todo o bagagem de experiências lutas/orações/conversas **é o mesmo** e de Deus provém!
+Sim – estando na terra nunca conheceremos a Verdade até ao fim. Não significa no entanto que aqui não possamos fazer nada. Reconhecemos que quando amamos alguém há 3 anos já sabemos até ao fim o que é o amor? Não! Daqui a 15 anos diremos que o nosso amor desse tempo ainda era tão imaturo, tão pouco ainda sabíamos sobre ele. Mas tanto o nosso amor aqui e agora como aquele como o entenderemos no final da nossa vida e com toda a bagagem de experiências de lutas/orações/conversas **é o mesmo** e de Deus provém!
 
 São Paulo diz "vejo como que num espelho, obscuramente, conheço apenas parte" logo ao lado "se não tivesse amor seria nada". Isto nunca se exclui... complementa-se. Por isso procurar incessantemente é algo normal... é caminho.
 

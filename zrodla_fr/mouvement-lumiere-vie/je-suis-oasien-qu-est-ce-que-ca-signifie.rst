@@ -10,7 +10,7 @@ Ne pas en faire une liste de règles à réaliser mais une rencontre de partage.
 
 Réfléchir sur ce sur quoi nous fondons notre propre identité.
 
-Analogia : Notre cadeau se compose de plusieurs parties. Il faut essayer de comprendre chacune d'elles, leur rôle, pour connaître ce que nous avons reçu. Quand cesse la première joie liée au fait d'avoir reçu quelque chose, nous demandons : à quoi sert ce cadeau ?
+Analogie : Notre cadeau se compose de plusieurs parties. Il faut essayer de comprendre chacune d'elles, leur rôle, pour connaître ce que nous avons reçu. Quand cesse la première joie liée au fait d'avoir reçu quelque chose, nous demandons : à quoi sert ce cadeau ?
 
 Prière
 ======
@@ -29,7 +29,7 @@ Réponses probables : Tente de la Rencontre, Eucharistie, Retraites, Krościenko
 Qu'est-ce que cela signifie d'être Oasien ? – partage de vie
 ============================================================
 
-Puisque les rencontres ont maintenant un caractère vert, nous voulons partager notre vie.
+Puisque les rencontres ont maintenant un caractère de partage, nous voulons partager notre vie.
 
 L'animateur dans un endroit approprié (choisi à l'avance) étend sur le sol une corde (au moins 3 mètres) et marque dessus 3 points :
 

@@ -24,7 +24,7 @@ Leamos:
 
     -- Ex 16,1-18.35
 
-Los israelitas murmuran contra el Señor porque no tienen alimento, no tienen pan. Consideran que sería mejor para ellos vivir en Egipto, donde al menos tenían garantizado el alimento. En esta ocasión vale la pena conversar con los participantes sobre cómo es el pan, de qué está hecho. En Israel el pan (torta) se hacía con agua, sal y harina (y posiblemente aceite). Estos son los ingredientes básicos. Los más simples. El pan ázimo, usado durante la Pascua, se hacía sin levadura (es decir, sin el resto de masa que quedaba del horneado anterior), solo con agua y harina. Después de hornear el pan, los participantes deberían tener conciencia de la simplicidad del pan. Al inicio de este encuentro compartan experiencias, reflexiones que tuvieron durante el horneado del pan. A través de esta simplicidad, el pan es el alimento básico de muchas personas, especialmente de los pobres (donde al mismo tiempo es el único componente de la alimentación). Preguntemos por qué suelen pedir los pobres (además de dinero).
+Los israelitas murmuran contra el Señor porque no tienen alimento, no tienen pan. Consideran que sería mejor para ellos vivir en Egipto, donde al menos tenían garantizado el alimento. En esta ocasión vale la pena conversar con los participantes sobre cómo es el pan, de qué está hecho. En Israel el pan (torta) se hacía con agua, sal y harina (y posiblemente aceite). Estos son los ingredientes básicos. Los más simples. El pan ázimo, usado durante la Pascua, se hacía sin levadura (es decir, sin el resto de masa que quedaba del horneado anterior), solo con agua y harina. Después de hornear el pan, los participantes deberían tener conciencia de la simplicidad del pan. Al inicio de este encuentro compartan experiencias, reflexiones que tuvieron durante el horneado del pan. A través de esta simplicidad, el pan es el alimento básico de muchas personas, especialmente de los pobres (donde al mismo tiempo es el único componente de la alimentación). Preguntemos qué suelen pedir los pobres (además de dinero).
 
 Luego conversemos sobre cómo se trata el pan en nuestros hogares.
 
@@ -45,7 +45,7 @@ El Señor Dios también se preocupa por nuestra vida cotidiana, por nuestro alim
     | Luego dio orden a las nubes desde lo alto y abrió las compuertas del cielo,
     | e hizo llover maná para comer:
     | les dio trigo del cielo.
-    | El hombre comió pan de ángeles — les envió comida hasta saciar.
+    | El hombre comió pan de ángeles — les envió comida hasta saciarlos.
 
     -- Sal 78,18-25
 
@@ -82,7 +82,7 @@ Leamos:
 
 Basándonos en el fragmento anterior y en el Templo del Encuentro, conversemos sobre la Eucaristía, sobre el Pan que podemos comer hoy. Que los participantes compartan sus reflexiones del Templo del Encuentro.
 
-* ¿Cuáles son las analogías entre nuestra vida y la peregrinación de los israelitas? Prestemos atención a que el maná fue la respuesta de Dios a las murmuraciones de la gente. La escena del Templo del Encuentro tiene lugar después de la multiplicación del pan, cuando Jesús reprende a la gente porque lo siguen solo porque se saciaron, pero no se preocupan por la vida eterna. ¿Qué diferencia sigue aquí entre el Antiguo Testamento y el Nuevo? Reflexionemos cómo es en nuestra vida – ¿acudimos a la comunión solo para saciarnos?
+* ¿Cuáles son las analogías entre nuestra vida y la peregrinación de los israelitas? Prestemos atención a que el maná fue la respuesta de Dios a las murmuraciones de la gente. La escena del Templo del Encuentro tiene lugar después de la multiplicación del pan, cuando Jesús reprende a la gente porque lo siguen solo porque se saciaron, pero no se preocupan por la vida eterna. ¿Qué diferencia hay aquí entre el Antiguo Testamento y el Nuevo? Reflexionemos cómo es en nuestra vida – ¿acudimos a la comunión solo para saciarnos?
 
 Retomemos las reflexiones del Templo del Encuentro:
 
@@ -101,7 +101,7 @@ Jesús quiere permanecer con nosotros porque es una manifestación de su amor po
 
 * ¿El hombre contemporáneo desea la unión con Dios? ¿Es también nuestro mayor deseo?
 
-No puede ser la Eucaristía fuente y cumbre de la vida del cristiano, su momento más importante, si no desea ante todo la unión con su Salvador, si no será este su objetivo más importante. Nos planteamos aquí la pregunta sobre si Dios es lo más importante para mí. Si miramos esta situación desde el lado de Dios, percibiremos que para Él no hay nada más importante que unirse con su pueblo, con su creación. ¡Él se despojó a sí mismo para poder estar con nosotros!
+No puede ser la Eucaristía fuente y cumbre de la vida del cristiano, su momento más importante, si no desea ante todo la unión con su Salvador, si este no es su objetivo más importante. Nos planteamos aquí la pregunta sobre si Dios es lo más importante para mí. Si miramos esta situación desde el lado de Dios, percibiremos que para Él no hay nada más importante que unirse con su pueblo, con su creación. ¡Él se despojó a sí mismo para poder estar con nosotros!
 
     En la Eucaristía, a diferencia de cualquier otro sacramento, el misterio [de la comunión] es tan perfecto que lleva a la cumbre de todos los bienes: aquí encuentra fin todo deseo, porque aquí recibimos a Dios y Dios entra en perfecta unión con nosotros.
 
@@ -112,11 +112,11 @@ No puede ser la Eucaristía fuente y cumbre de la vida del cristiano, su momento
 Resumen
 =======
 
-    Escuchad sobre una niña pequeña que encontré en una de las calles de Calcuta. Tendría unos seis años, y por su rostro supe que tenía hambre y no había comido desde hacía varios días. Le di una rebanada de pan, y ella comenzó a comerla, lentamente, de miga en miga. Dije: Come el pan, no tengas miedo, come. La niña dijo: Tengo miedo, porque cuando se acabe el pan, volveré a tener hambre
+    Escuchad la historia de una niña pequeña que encontré en una de las calles de Calcuta. Tendría unos seis años, y por su rostro supe que tenía hambre y no había comido desde hacía varios días. Le di una rebanada de pan, y ella comenzó a comerla, lentamente, de miga en miga. Dije: Come el pan, no tengas miedo, come. La niña dijo: Tengo miedo, porque cuando se acabe el pan, volveré a tener hambre
 
     -- Madre Teresa de Calcuta
 
-El hombre no puede vivir sin el alimento cotidiano, el cristiano no puede vivir sin el Cuerpo y la Sangre de Cristo. Consumiéndolos ya no vivimos nosotros, sino que vive en nosotros Cristo.
+El hombre no puede vivir sin el alimento cotidiano, el cristiano no puede vivir sin el Cuerpo y la Sangre de Cristo. Consumiéndolos, ya no vivimos nosotros, sino que vive en nosotros Cristo.
 
 * ¿También en nosotros hay temor de que cuando se acabe el pan, volveremos a tener hambre?
 

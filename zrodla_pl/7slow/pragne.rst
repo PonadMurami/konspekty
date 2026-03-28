@@ -33,7 +33,7 @@ Dzisiaj na spotkaniu chcemy porozmawiać o~pragnieniach ludzi wierzących. Przec
 - O~jakim pragnieniu mówi Samarytanka, a~o jakim Jezus?
 - Chrystus mówi o~usunięciu (wygumowaniu) pragnienia z~życia, czy o~jego stałym zaspokojeniu (czy wręcz ciągłym zaspokajaniu)?
 
-Cała rozmowa rozpoczyna się od wody czyli od potrzeby zaspokojenia pragnienia biologicznego. Chrystus jednak bardzo szybko od tego powszechnego doświadczenia ludzi żyjących na Bliskich Wschodzie (jak i~zresztą wszystkich ludzi w~ogóle) przechodzi głębiej.
+Cała rozmowa rozpoczyna się od wody czyli od potrzeby zaspokojenia pragnienia biologicznego. Chrystus jednak bardzo szybko od tego powszechnego doświadczenia ludzi żyjących na Bliskim Wschodzie (jak i~zresztą wszystkich ludzi w~ogóle) przechodzi głębiej.
 
     Gdyż ten sam Bóg, który oświadcza, że nie musi nam wcale mówić, czy jest głodny, nie wahał się żebrać u~Samarytanki o~trochę wody. Był spragniony... Lecz mówiąc “Daj mi pić”, Stworzyciel domagał się właśnie miłości od swego biednego stworzenia. Był spragniony miłości... Ach! Czuję to bardziej niż kiedykolwiek: Jezusowi chce się pić
 
@@ -71,9 +71,9 @@ Przeczytajmy:
 
 We fragmencie tym użyte jest greckie słowo “διψω” (dipso), które dosłownie oznacza “chcę pić”. Takie tłumaczenie dosłowne ma sens i~niewątpliwie Jezusowi konającemu na krzyżu brakowało wody. Podobnie jednak jak we fragmencie z~Samarytanką widzimy w~tym także drugie znaczenie. Kieruje nas ku tej interpretacji choćby Ps 42,2: “Jak łania pragnie wody ze strumieni, tak dusza moja pragnie Ciebie, Boże!” (Zestawianie tych dwóch “rodzajów” pragnienia wcale nie jest nowym pomysłem). Ewangelista napisał, że Chrystus chciał, „aby się wypełniło Pismo”. Jakie Pismo?
 
-.. note:: Mogą być pytania o~hizop – majeranek syryjski, którego gałązki osiągają do 90 cm długości. Trudno wyjaśnić, dlaczego tej rośliny użyto podczas ukrzyżowania. Wielu współczesnych tłumaczy uważa, że słowo mogło zostać pomylone podczas przepisywania, z~racji jego podobieństwa do greckiego słowa oznaczającego włócznię.  Co bardziej wnikliwi mogą też doszukiwać się niespójności w~przekazach ewangelicznych - Mt mówi o~pojeniu Jezusa octem, zaznaczając, że Jezus “skosztował, ale nie chciał pić”. Niemniej jednak użyte w~obydwu tekstach słowa wskazują na dwie różne rzeczy - Mk i~Mt wspominają o~środku odurzającym, podawanym skazańcom dla uśmierzenia bólu, podczas gdy napój, o~którym mowa u~Jana to rozcieńczony ocet winny, który pili żołnierze i~robotnicy.
+.. note:: Mogą być pytania o~hizop – majeranek syryjski, którego gałązki osiągają do 90 cm długości. Trudno wyjaśnić, dlaczego tej rośliny użyto podczas ukrzyżowania. Wielu współczesnych tłumaczy uważa, że słowo mogło zostać pomylone podczas przepisywania, z~racji jego podobieństwa do greckiego słowa oznaczającego włócznię. Co bardziej wnikliwi mogą też doszukiwać się niespójności w~przekazach ewangelicznych - Mt mówi o~pojeniu Jezusa octem, zaznaczając, że Jezus “skosztował, ale nie chciał pić”. Niemniej jednak użyte w~obydwu tekstach słowa wskazują na dwie różne rzeczy - Mk i~Mt wspominają o~środku odurzającym, podawanym skazańcom dla uśmierzenia bólu, podczas gdy napój, o~którym mowa u~Jana to rozcieńczony ocet winny, który pili żołnierze i~robotnicy.
 
-.. note:: Warto wiedzieć, że w~kręgach sceptyków powszechna jest teoria że to nie jest wypełnianie się proroctw tylko Ewangelie powstały o~tyle lat później od wydarzeń na Golgocie, że autorzy “pobożnie” pisali je tak żeby wyszło dobrze. Warto mieć to na uwadzę prowadząc te spotkanie. Warto, abyś animatorze wcześniej zastanowił się jak sam się do tego odnosisz. Jako współautor konspektu mogę powiedzieć z~przekonaniem, że całe życie Jezusa było tak naznaczone symboliką, że świadome nawiązywanie Jezusa do nich w~momencie kulminacyjnym mi w~ogóle nie kłóci się z~wiarą i~logiką.
+.. note:: Warto wiedzieć, że w~kręgach sceptyków powszechna jest teoria że to nie jest wypełnianie się proroctw tylko Ewangelie powstały o~tyle lat później od wydarzeń na Golgocie, że autorzy “pobożnie” pisali je tak żeby wyszło dobrze. Warto mieć to na uwadze prowadząc to spotkanie. Warto, abyś animatorze wcześniej zastanowił się jak sam się do tego odnosisz. Jako współautor konspektu mogę powiedzieć z~przekonaniem, że całe życie Jezusa było tak naznaczone symboliką, że świadome nawiązywanie Jezusa do nich w~momencie kulminacyjnym mi w~ogóle nie kłóci się z~wiarą i~logiką.
 
 Przeczytajmy:
 
@@ -98,7 +98,7 @@ Opowiedzieliśmy sobie o~naszych pragnieniach. Zobaczyliśmy, że nasze pragnien
 
 - Czyje pragnienia znam?
 - Z~kim dzielę się pragnieniami?
-- Jak to jest słyszeć o~czyiś pragnieniach?
+- Jak to jest słyszeć o~czyichś pragnieniach?
 - Jak to jest mówić o~swoich pragnieniach?
 
 Dzielenie się swoimi pragnieniami to jeden z~podstawowych “budulców” głębokich relacji międzyosobowych. Wiele osób zna moje osiągnięcia i~wady, mój styl mówienia i~nawyki. Takie rzeczy stanowią “przestrzeń publiczną” mojej osoby. O~tym kto zna moje pragnienia decyduję sam. Dzielenie się pragnieniami jest jednym z~wyróżników relacji przyjaźni.
@@ -144,7 +144,7 @@ Przeczytajmy:
 
 Przeczytajmy:
 
-    [Jezus] wziął znowu Dwunastu i~zaczął mówić im o~tym, co miało Go spotkać: «Oto idziemy do Jerozolimy. A~[tam]  Syn Człowieczy zostanie wydany arcykapłanom i~uczonym w~Piśmie. Oni skażą Go na śmierć i~wydadzą poganom. I~będą z~Niego szydzić, oplują Go, ubiczują i~zabiją, a~po trzech dniach zmartwychwstanie»
+    [Jezus] wziął znowu Dwunastu i~zaczął mówić im o~tym, co miało Go spotkać: «Oto idziemy do Jerozolimy. A~[tam] Syn Człowieczy zostanie wydany arcykapłanom i~uczonym w~Piśmie. Oni skażą Go na śmierć i~wydadzą poganom. I~będą z~Niego szydzić, oplują Go, ubiczują i~zabiją, a~po trzech dniach zmartwychwstanie»
 
     -- Mk 10,32b-34
 
@@ -197,7 +197,7 @@ Przeczytajmy:
     -- św. Grzegorz z~Nyssy
 
 - Jaki jest “sens” istnienia źródła? Co źródło “może robić”?
-- Pragnieniem Chrystusa jest zaspokoić Twoje pragnienia - jak ta perspektywa oddziaływuje na Twoje życie?
+- Pragnieniem Chrystusa jest zaspokoić Twoje pragnienia - jak ta perspektywa oddziałuje na Twoje życie?
 
 Przeczytajmy:
 

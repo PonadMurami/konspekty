@@ -123,7 +123,7 @@ Nous sommes appelés à aller en eau profonde et à devenir courageusement une �
 
 Lisons :
 
-    "Jésus ne veut rien de nous. Il nous veut nous"
+    "Jésus ne veut rien de nous. Il nous veut"
 
     -- P. Franciszek Blachnicki
 
@@ -217,9 +217,9 @@ Notre foi n'est pas tombée du ciel. L'Eucharistie n'a pas été révélée sur 
 * Avec quel espoir y allons-nous ?
 * Que voudrions-nous qui soit connecté ?
 
-Nous mangerons le dîner. Nous verserons du vin et romprons le pain. Nous parlerons et plaisanterons. Ce sera simple, mais pas simpliste. Ce sera ordinaire, mais magnifiquement ordinaire. C'est tout le temps une seule et même histoire de Dieu à notre égard : une brise légère, et non des tonnerres ; une étable, et non des palais ; un simple pêcheur, et non un érudit ; le commandement de l'amour plus que 500 règles.
+Nous dînerons. Nous verserons du vin et romprons le pain. Nous parlerons et plaisanterons. Ce sera simple, mais pas simpliste. Ce sera ordinaire, mais magnifiquement ordinaire. C'est tout le temps une seule et même histoire de Dieu à notre égard : une brise légère, et non des tonnerres ; une étable, et non des palais ; un simple pêcheur, et non un érudit ; le commandement de l'amour plus que 500 règles.
 
-Jésus nous a montré que manger un dîner avec quelqu'un change le monde. Mangeons ensemble le dîner de manière à nous tirer mutuellement vers le haut et inscrivons-nous dans cette histoire du Très-Haut.
+Jésus nous a montré que dîner avec quelqu'un change le monde. Dînons ensemble de manière à nous tirer mutuellement vers le haut et inscrivons-nous dans cette histoire du Très-Haut.
 
 Prière
 ======

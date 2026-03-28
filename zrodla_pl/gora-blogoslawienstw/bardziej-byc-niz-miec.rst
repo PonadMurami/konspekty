@@ -29,9 +29,9 @@ Przeczytajmy:
 
 * Na jaką rzeczywistość wiary jest Ci się trudno otworzyć? (opcjonalne!)
 
-Nasze rekolekcje to symboliczna wyprawa na górę. Wczoraj wdrapywaliśmy się na nią obserwując jak zmienia się perspektywa. Dzisiaj rano patrzeliśmy z~góry na Stary i~Nowy Testament widząc różne powiązania. Jutro będziemy z~tej góry schodzić do swoich domów.
+Nasze rekolekcje to symboliczna wyprawa na górę. Wczoraj wdrapywaliśmy się na nią obserwując jak zmienia się perspektywa. Dzisiaj rano patrzyliśmy z~góry na Stary i~Nowy Testament widząc różne powiązania. Jutro będziemy z~tej góry schodzić do swoich domów.
 
-Co przed nami dzisiaj? Po pierwszym zachwycie nowymi perspektywami chcemy się teraz jednej z~nich dokładniej przyjrzeć. Ocenić jaki jest mój rzeczywisty stosunek do niej, czy chce coś w~niej zmienić, zdecydować z~czym chce wrócić jutro do domu.
+Co przed nami dzisiaj? Po pierwszym zachwycie nowymi perspektywami chcemy się teraz jednej z~nich dokładniej przyjrzeć. Ocenić jaki jest mój rzeczywisty stosunek do niej, czy chcę coś w~niej zmienić, zdecydować z~czym chcę wrócić jutro do domu.
 
 Świat wartości
 ==============
@@ -45,7 +45,7 @@ Celem ćwiczenia jest pokazanie, że wartości, które są dane jakiejś rzeczy,
 
 Naszym zadaniem jest ułożenie ich według odpowiedniej kolejności od tych najmniej wpływających na mnie (po lewej) do tych najbardziej (po prawej). Jest to dość trudne więc warto dać chwilę czasu. Następnie każdy dzieli się tym kto ma (chyba, że ktoś nie chce). Przy okazji pytamy o~to czemu akurat takie cechy i~czemu w~takim miejscu. Nie negujemy tu żadnych odpowiedzi - chodzi o~to, żeby każdy zaczął się nad tym głębiej zastanawiać. Wszystkie cechy są tak samo dobre!
 
-.. note:: (opcjonalne) Drugim etapem ćwiczenia jest przesunięcie (lub nie) każdej z~kartek w~górę lub w~dół. Im bardziej kartka wędruje w~górę tym bardziej, według naszej oceny, wykorzystujemy w~ostatnim czasie tą cechą. Im bardziej w~dół - tym analogicznie mniej.
+.. note:: (opcjonalne) Drugim etapem ćwiczenia jest przesunięcie (lub nie) każdej z~kartek w~górę lub w~dół. Im bardziej kartka wędruje w~górę tym bardziej, według naszej oceny, wykorzystujemy w~ostatnim czasie tę cechę. Im bardziej w~dół - tym analogicznie mniej.
 
 * Co pokazało Ci to ćwiczenie?
 
@@ -55,7 +55,7 @@ Naszym zadaniem jest ułożenie ich według odpowiedniej kolejności od tych naj
 
 * Co było najłatwiejsze?
 
-Następnie warto pokazać, że wartość czegoś kojarzy nam się nieraz z~czymś nabytym, z~czymś co dana rzeczy ma od początku, a~tym czasem warto zmienić perspektywę:
+Następnie warto pokazać, że wartość czegoś kojarzy nam się nieraz z~czymś nabytym, z~czymś co dana rzecz ma od początku, a~tym czasem warto zmienić perspektywę:
 
 To jaką wartość coś ma, zależy od tego jaką wartość nadamy. Przykłady:
 
@@ -67,7 +67,7 @@ To jaką wartość coś ma, zależy od tego jaką wartość nadamy. Przykłady:
 
 #. Prawo - zbiór reguł, które same w~sobie nie mają wartości. Mają wartość wtedy, kiedy w~nie wierzymy i~wiemy, że są dla naszego dobra - sami nadajemy im wartość.
 
-**Wniosek:** To jaką coś ma wartość w~bardzo dużym stopniu zależy więc ode mnie. Tak samo się to ma do wartości drugiego człowiek, czy nawet mnie.
+**Wniosek:** To jaką coś ma wartość w~bardzo dużym stopniu zależy więc ode mnie. Tak samo się to ma do wartości drugiego człowieka, czy nawet mnie.
 
 Jak to jest z~tym miłosierdziem?
 ================================
@@ -88,7 +88,7 @@ Przeczytajmy:
 
 * Gdzie Ty doświadczasz miłosierdzia?
 
-Miłosierdzie musi być konkretne. Nie jest ideałem chrześcijańskim, aby “kochać cały świat” i~tylko na tym się zatrzymywać. Takie okrągłe zdania często nie mają żadnego przełożenia na praktykę życia. Trzeba wysiłku. aby kochać kogoś w~RPA czy Brazylii, bez wątpienia. Prawdziwym wyzwaniem jednak jest kochać brata, siostrę, rodziców, sąsiada i~nauczycielkę j. polskiego, która przyczepiła się naszego wypracowania.
+Miłosierdzie musi być konkretne. Nie jest ideałem chrześcijańskim, aby “kochać cały świat” i~tylko na tym się zatrzymywać. Takie okrągłe zdania często nie mają żadnego przełożenia na praktykę życia. Trzeba wysiłku, aby kochać kogoś w~RPA czy Brazylii, bez wątpienia. Prawdziwym wyzwaniem jednak jest kochać brata, siostrę, rodziców, sąsiada i~nauczycielkę j. polskiego, która przyczepiła się do naszego wypracowania.
 
 Często sami w~Kościele wpadamy w~pewną “pobożną naiwność” zatracając mocno sens tego co robimy. Być miłosiernym nie oznacza robienia wszystkiego, aby ktoś nie poczuł się źle.
 
@@ -102,7 +102,7 @@ Spróbujmy zmierzyć się z~sytuacjami naiwnego i~dojrzałego miłosierdzia. Spr
 Chrystus Sługa
 ==============
 
-Zacznijmy od ćwiczenia, które wykonamy indywidualnie każdy dla siebie. Weźmy proszę notatniki i~zanotujmy różne określenia Jezusa np Jezus-Zbawca, Jezus-Uzdrowiciel itd.
+Zacznijmy od ćwiczenia, które wykonamy indywidualnie każdy dla siebie. Weźmy proszę notatniki i~zanotujmy różne określenia Jezusa np. Jezus-Zbawca, Jezus-Uzdrowiciel itd.
 
 Przeczytajmy:
 
@@ -116,7 +116,7 @@ Przeczytajmy:
 
 Piotr dał obmyć sobie nogi. W~czasie wesela przyniesiono Jezusowi wodę, aby rozwiązał ich kryzys. Jak Ty pozwalasz Jezusowi, aby służył także Tobie?
 
-Tutaj dygresja: słowa “być sługą” może kojarzyć się obecnie bardzo negatywnie. Kultura tak ukształtowała nasz język. Sługa to nie jest przecież człowiek wolny. Czasami sam język, który słyszy w~Kościele może nas odstraszać tylko dlatego, że jest dla nas obecnie niezrozumiały. Te rekolekcje opowiadają o~odwadze do zmiany perspektywy. Przy wysiłku własnym można z~tym językiem się oswoić i~dotrzeć do treści, które za nim stoją.
+Tutaj dygresja: słowa “być sługą” mogą kojarzyć się obecnie bardzo negatywnie. Kultura tak ukształtowała nasz język. Sługa to nie jest przecież człowiek wolny. Czasami sam język, który słyszy w~Kościele może nas odstraszać tylko dlatego, że jest dla nas obecnie niezrozumiały. Te rekolekcje opowiadają o~odwadze do zmiany perspektywy. Przy wysiłku własnym można z~tym językiem się oswoić i~dotrzeć do treści, które za nim stoją.
 
 Być sługą z~wyboru
 ==================
@@ -154,11 +154,11 @@ Przeczytajmy: (lub J 13,1-17 (obmywanie nóg))
 
 * Czym dla Ciebie jest służba?
 
-* Czy doświadczyłeś kiedyś radości ze służby? Jeżeli możesz opowiedz o~tym.
+* Czy doświadczyłeś kiedyś radości ze służby? Jeżeli możesz, opowiedz o~tym.
 
 * Jak się czujesz gdy wyobrażasz sobie, że inni nazywają Cię np “Kamil sługa ludzi”? Dlaczego?
 
-Przeczytajmy fragment Homilii Jana Pawła II z~1987r z~Westerplatte dzieląc ją na dwa etapy:
+Przeczytajmy fragment Homilii Jana Pawła II z~1987 r. z~Westerplatte dzieląc ją na dwa etapy:
 
     | **[1]** Aktualne są tu słowa kardynała Newmana, że potrzeba „ludzi, którzy znają swoją religię i~którzy ją zgłębiają; którzy dokładnie wiedzą, jaka jest ich pozycja; którzy są świadomi tego, w~co wierzą, a~w co nie; którzy tak dobrze znają swoje Credo, że potrafią z~niego zdać sprawę; którzy do tego stopnia poznali historię, że umieją jej bronić” (John Henry Newman, On Consulting the Faithful in Matters of Doctrine).
     | **[2]** Młodzieniec z~Ewangelii miał bardzo jasny pogląd na zasady, wedle których winno się budować ludzkie życie. A~jednak i~on w~pewnym momencie nie zdołał przekroczyć progu swoich uwarunkowań. Kiedy Chrystus, zwracając się do niego z~miłością, powiedział: „pójdź za Mną” (por. Mk 10, 21) - nie poszedł. Nie poszedł, ponieważ „miał majętności wiele” (por. Mk 10, 22). Pragnienie, aby zachować to wszystko, co miał, przeszkodziło mu. Pragnienie, ażeby „mieć”, ażeby „więcej mieć”, przeszkodziło mu w~tym, aby „bardziej być”.
@@ -222,7 +222,7 @@ Nie zostańmy tylko na etapie interpretacji. Podzielmy się swoim doświadczenie
 
 * Kto Tobie służył? Czy jesteś mu za to wdzięczny?
 
-* Jaka sprawa/rzecz/osoba jest dla Ciebie tak ważna, że chciałbyś aby Twoje było nastawione na służbę w~tym kierunku?
+* Jaka sprawa/rzecz/osoba jest dla Ciebie tak ważna, że chciałbyś aby Twoje życie było nastawione na służbę w~tym kierunku?
 
 * Pewien ksiądz powiedział, że musimy “posiadać siebie w~dawaniu siebie” - jak rozumiesz takie sformułowanie? Doświadczyłeś, że to prawda?
 
@@ -231,11 +231,11 @@ Nie zostańmy tylko na etapie interpretacji. Podzielmy się swoim doświadczenie
 Opuścić strefę komfortu?
 ========================
 
-Służba jest wychodzeniem ze swojej strefy komfortu (czyli poza co nam przychodzi w~miarę łatwo, bo czujemy się na tyle dobrze). Niesie za sobą wymaganie, aby wyjść poza to co dla nas jest w~widocznym zasięgu ręki, poza to co “chcielibyśmy” robić. Dzięki temu też służba staje się niesamowitym rozwojem - w~zakresie wiary, miłości do drugiego człowieka i~po prostu w~sensie rozwoju własnej osobowości, dlaczego?
+Służba jest wychodzeniem ze swojej strefy komfortu (czyli poza to, co nam przychodzi w~miarę łatwo, bo czujemy się na tyle dobrze). Niesie za sobą wymaganie, aby wyjść poza to co dla nas jest w~widocznym zasięgu ręki, poza to co “chcielibyśmy” robić. Dzięki temu też służba staje się niesamowitym rozwojem - w~zakresie wiary, miłości do drugiego człowieka i~po prostu w~sensie rozwoju własnej osobowości, dlaczego?
 
 Zaobserwujmy to na prostym przykładzie spoza dziedziny Kościoła:
 
-#. Młody stolarz po technikum został nauczony podstawowych umiejętności. Potrafi zrobić krzesła, stoły i~proste półki. Jednakże zawsze ma wujka, który w~przypadku problemów może mu pomóc. Pewnego dnia przychodzi pewien mężczyzna i~chciałby zamówić u~niego małą szafę. Znacznie przewyższa to rzeczy, które robił do tej. Czy powinien się tego podejmować? Zdecydowanie, bo lepiej się wtedy rozwinie i~nauczy się czegoś nowego.
+#. Młody stolarz po technikum został nauczony podstawowych umiejętności. Potrafi zrobić krzesła, stoły i~proste półki. Jednakże zawsze ma wujka, który w~przypadku problemów może mu pomóc. Pewnego dnia przychodzi pewien mężczyzna i~chciałby zamówić u~niego małą szafę. Znacznie przewyższa to rzeczy, które robił do tej pory. Czy powinien się tego podejmować? Zdecydowanie, bo lepiej się wtedy rozwinie i~nauczy się czegoś nowego.
 #. Tak więc nie ma co się bać wyzwań i~nowych rzeczy nawet jeżeli coś może pójść nie tak.
 #. Jezus powołuje uczniów - prostych ludzi. Daje im zadania, które znacznie przewyższają ich dotychczasowe obowiązki.
 

@@ -49,22 +49,22 @@ A closer look at the structure of our desires
 
 * Why do I really have such a desire?
 
-*Goal: To make the group aware that small desires are embedded in larger ones, e.g. That I desire to drink is an element of my desire to sustain my life. The animator must show their own ingenuity at this point to adapt to the group and reach them!*
+*Goal: To make the group aware that small desires are embedded in larger ones, e.g., the fact that I desire to drink is an element of my desire to sustain my life. The animator must show their own ingenuity at this point to adapt to the group and reach them!*
 
 Let's try to highlight (with color, frame, underline, etc.) the main desires on our drawing, indicating which could be the "embedded" ones. If necessary, you can add some new ones.
 
 Our restless heart!
 ===================
 
-Let's look at how many of these desires cannot be satisfied. When I desire a computer with Intel Pentium IV, in a year I will already desire to have Intel Pentium VII. When I have a garage with a garden that I collected finances for 5 years, I will desire to build myself a pool, etc.
+Let's look at how many of these desires cannot be satisfied. When I desire a computer with Intel Pentium IV, in a year I will already desire to have Intel Pentium VII. When I have a garage with a garden that I saved up for over 5 years, I will desire to build myself a pool, etc.
 
 * (discussion) Do desires force a person into constant chasing and struggling in their life?
 
-.. note:: on this question, maybe the meeting should "stand" - if only the group pulls it, don't interfere with them and rush with the outline!
+.. note:: this question may be worth centering the meeting around — if the group engages with it, don't interrupt them or rush through the outline!
 
 * Do you notice this constant chase for satisfying your desires in your life? In the life around you?
 
-.. note:: You can tell here about modern advertisements that convince us that we should still desire something, so that we constantly want more.... so that the economy develops
+.. note:: You can tell here about modern advertisements that convince us that we should still desire something, so that we constantly want more... so that the economy develops
 
 The answer to this situation, which is a question (!)
 =====================================================

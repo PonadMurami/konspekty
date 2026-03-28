@@ -23,7 +23,7 @@ Objectifs
 
 1. Introduction au Cantique des Cantiques ; présentation de ce livre comme extraordinaire et sans égal dans toute l'Écriture Sainte.
 
-2. Tentative de réflexion sur la recherche de l'amour. Tant dans la dimension homme – homme, que homme – Dieu. Que cherchons-nous ? À quoi ressemble la recherche ? Conclusion : pour trouver l'amour, il faut le chercher (cela semble banal). Et cette recherche implique effort et travail.
+2. Tentative de réflexion sur la recherche de l'amour tant dans la dimension homme – homme, que homme – Dieu. Que cherchons-nous ? À quoi ressemble la recherche ? Conclusion : pour trouver l'amour, il faut le chercher (cela semble banal). Et cette recherche implique effort et travail.
 
 3. L'amour implique le drame de la séparation, la douleur – sans cela, on ne peut pas trouver l'amour et l'apprécier.
 

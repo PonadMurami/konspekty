@@ -21,7 +21,7 @@ Peregrinación
 
 Actualmente nos resulta difícil pensar en la temporalidad en el contexto de la vivienda. Nuestra cultura y costumbres, así como el clima, condicionan que nuestros edificios estén construidos sobre cimientos sólidos con materiales duraderos. Creamos ciudades y aglomeraciones de hormigón, acero y vidrio.
 
-La experiencia de Sukkot - Fiesta de las Tiendas - nos muestra que no siempre tiene que ser así. La tienda/cabana, en su construcción, no está hecha de materiales duraderos. Experimentamos esto nosotros mismos construyendo nuestra tienda con madera y telas. Su constitución recuerda a los judíos y ahora también a nosotros la temporalidad.
+La experiencia de Sukkot - Fiesta de las Tiendas - nos muestra que no siempre tiene que ser así. La tienda/cabaña, en su construcción, no está hecha de materiales duraderos. Experimentamos esto nosotros mismos construyendo nuestra tienda con madera y telas. Su constitución recuerda a los judíos y ahora también a nosotros la temporalidad.
 
 .. note:: Algunos de nosotros vivimos en Silesia - un lugar donde la conciencia de la fugacidad de la vida estaba presente a diario. La mayoría de la sociedad sabía perfectamente que el viaje de hoy de alguien de la familia podría ser su último. Una experiencia similar tienen todos los rescatistas. Esta experiencia alguna vez común ahora se vuelve más distante.
 
@@ -267,7 +267,7 @@ La etapalidad no es una "necesidad desagradable". La elección consciente de dó
 
 Con el corazón estamos demasiado a menudo en otro lugar que donde estamos con el cuerpo. La concreción de la mesa, como lugar de vivencia de la fe, la convierte en una "escuela de no-huida". El lugar del cual ninguna parte de nosotros quiere huir a otros, se llama "hogar espiritual".
 
-.. note:: El animador reparte fichas de pequeñas casas/tiendas, y luego saca al centro la mapa. Y da un momento para familiarizarse con el mapa
+.. note:: El animador reparte fichas de pequeñas casas/tiendas, y luego saca al centro el mapa. Y da un momento para familiarizarse con el mapa
 
 Hemos preparado para vosotros un mapa de la tierra de la espiritualidad. No tenemos aspiraciones de capturar aquí todas las posibles sutilezas de la espiritualidad del hombre. Sin embargo, pensamos que algunos de nosotros ya podrán encontrarse en ella.
 

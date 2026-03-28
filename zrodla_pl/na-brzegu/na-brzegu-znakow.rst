@@ -34,7 +34,7 @@ Słuchaliśmy dzisiaj konferencji, które poruszały temat zadawania pytań odno
 Wiara jako rozwój i~droga
 =========================
 
-Pytania, ciekawość, życzliwe konfrontowanie prowadzą do naszego rozwoju. To odwaga ucznia, który na pytanie nauczyciela “czy wszystko jest jasne?” odpowiada “nie, nie wiem dlaczego się tego uczymy” rozpoczyna najważniejszy etap edukacji - schodzi na głębszy poziom motywacji. Jak każda inna sfera naszego życia, wiara przechodzi różne etapy, dojrzewa razem z~nami. Paweł pisze:
+Pytania, ciekawość, życzliwe konfrontowanie prowadzą do naszego rozwoju. To odwaga ucznia, który na pytanie nauczyciela “czy wszystko jest jasne?” odpowiada “nie, nie wiem, dlaczego się tego uczymy”, rozpoczyna najważniejszy etap edukacji - schodzi na głębszy poziom motywacji. Jak każda inna sfera naszego życia, wiara przechodzi różne etapy, dojrzewa razem z~nami. Paweł pisze:
 
     | Gdy byłem dzieckiem, mówiłem jak dziecko,
     | czułem jak dziecko, myślałem jak dziecko.
@@ -49,12 +49,12 @@ Gdy jesteśmy dziećmi, nasz sposób postrzegania rzeczywistości jest dziecięc
 
 A jak moja wiara wygląda w~węższym horyzoncie czasowym? Co teraz we mnie pracuje? Co się teraz zmienia/ostatnio zmieniło? Na jakich płaszczyznach się “zmienia”?
 
-.. note:: Świadectwo animatora: o~widzeniu w~swoim życiu roli “światła” i~jego rozwoju tak samo jak i~“życia. Rozwój wiary wznosi się na obu tych skrzydłach. Gdy za dużo światła i~życie kuleje bliższy jestem faryzeuszom. Gdy zaniedbuje rozwój rozmowy moja wiara będzie zagrożona stagnacją.
+.. note:: Świadectwo animatora: o~widzeniu w~swoim życiu roli “światła” i~jego rozwoju tak samo jak i~“życia”. Rozwój wiary wznosi się na obu tych skrzydłach. Gdy za dużo światła i~życie kuleje bliższy jestem faryzeuszom. Gdy zaniedbuję rozwój rozmowy, moja wiara będzie zagrożona stagnacją.
 
 Decyzyjność w~wierze
 ====================
 
-Możliwość podejmowania decyzji jest jednym z~najbardziej bezpośrednich skutków wolności jaką jesteśmy obdarzeni. Podejmujemy tysiące mało widocznych decyzji dziennie. Podejmujemy też takie, które zapadają nam w~pamięć na całe życie i~dosłownie zmieniają rzeczywistość. Często mówimy, że “nie da się przed nimi uciec”, ponieważ bywają trudne, ale decyzje są przestrzenią pchania naszego życia do przodu, a~bez nich nie mielibyśmy szansy na rozwój. Zwiększająca się decyzyjność/sprawczość jest najlepszym wskaźnikiem naszego dojrzewania.
+Możliwość podejmowania decyzji jest jednym z~najbardziej bezpośrednich skutków wolności, jaką jesteśmy obdarzeni. Podejmujemy tysiące mało widocznych decyzji dziennie. Podejmujemy też takie, które zapadają nam w~pamięć na całe życie i~dosłownie zmieniają rzeczywistość. Często mówimy, że “nie da się przed nimi uciec”, ponieważ bywają trudne, ale decyzje są przestrzenią pchania naszego życia do przodu, a~bez nich nie mielibyśmy szansy na rozwój. Zwiększająca się decyzyjność/sprawczość jest najlepszym wskaźnikiem naszego dojrzewania.
 
 Spróbujmy się przyjrzeć decyzjom znanych nam postaci:
 
@@ -89,7 +89,7 @@ Decyzja 3:
 Rola Ducha Świętego w~mojej decyzyjności
 ========================================
 
-Bóg chce, abyśmy byli dojrzali, abyśmy osiągnęli mądrość na której będą bazowały nasze decyzje.
+Bóg chce, abyśmy byli dojrzali, abyśmy osiągnęli mądrość, na której będą bazowały nasze decyzje.
 
 Przeczytajmy:
 
@@ -112,7 +112,7 @@ Sakramentem dojrzałości jest bierzmowanie. To sakrament często “niedowarto�
 Wprowadzenie do modlitwy wieczornej (Akatyst)
 =============================================
 
-Akatyst jest modlitwą będącą **na brzegu** Kościoła Wschodniego i~Zachodniego. Jego nazwa pochodzi z~greki od słowa  a~- „bez”,  kathiden - „siedzieć”,hymn ten śpiewa się na stojąco.
+Akatyst jest modlitwą będącą **na brzegu** Kościoła Wschodniego i~Zachodniego. Jego nazwa pochodzi z~greki od słowa a~- „bez”, kathiden - „siedzieć”, hymn ten śpiewa się na stojąco.
 
 Będziemy modlić się za pomocą Akatystu. Jest on bogaty w~treści i~pewnej (być może nowej?) wrażliwości na Ducha Świętego. Myślimy, że dość powszechnym doświadczeniem ludzi wierzących jest to, że mamy pewną trudność w~skupieniu się na treści modlitw śpiewanych.
 
@@ -132,13 +132,13 @@ Przeczytajmy teraz wspólnie wybrane fragmenty tej modlitwy i~podzielmy się nim
 
 * Co w~tym fragmencie Cię zaskakuje?
 
-* Co z~ tego fragmentu możesz zabrać dla swojego życia duchowego obecnie?
+* Co z~tego fragmentu możesz zabrać dla swojego życia duchowego obecnie?
 
-* Akatyst jest przewietrzeniem naszego sposobu myślenia o~Trzeciej Osoby Trójcy Świętej. Czy kiedykolwiek wcześniej pomyślałeś o~nim jak powyżej?
+* Akatyst jest przewietrzeniem naszego sposobu myślenia o~Trzeciej Osobie Trójcy Świętej. Czy kiedykolwiek wcześniej pomyślałeś o~nim jak powyżej?
 
 W zależności od czasu spotkania proponujemy w~tym miejscu przeczytać inne fragmenty Akatystu - mogą być losowo wybrane przez kogoś z~grupy. Do każdego z~nich zadajemy dokładnie takie same pytania jak te powyżej.
 
 Zastosowanie
 ============
 
-Dla chętnych: w~czasie dzisiejszej modlitwy Akatystem miejmy w~ręku nie tylko notatnik, aby śledzić tekst ale także długopis. Zaznaczmy sobie na marginesie momenty do których chcielibyśmy w~najbliższym czasie wrócić, albo po prostu które wydają nam się szczególnie do nas skierowane.
+Dla chętnych: w~czasie dzisiejszej modlitwy Akatystem miejmy w~ręku nie tylko notatnik, aby śledzić tekst, ale także długopis. Zaznaczmy sobie na marginesie momenty, do których chcielibyśmy w~najbliższym czasie wrócić, albo po prostu które wydają nam się szczególnie do nas skierowane.

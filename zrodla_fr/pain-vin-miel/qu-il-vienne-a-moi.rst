@@ -40,7 +40,7 @@ La fête de Soukkot est pour les Juifs une fête joyeuse. Célébrer, se réjoui
 - Quel est pour moi le plus grand défi dans cette forme d'invitation des gens qui cherchent encore la vérité ?
 - Que puis-je faire pour transformer ma façon de vivre la foi en Fête des Tentes ?
 
-Un des éléments de la fête de Soukkot était le "rassemblement" d'objets symboliques : le fruit de l'etrog, la branche de palmier dattier, la myrte et le saule :
+Un des éléments de la fête de Soukkot était le "rassemblement" d'objets symboliques : le fruit de l'etrog, la branche de palmier dattier, le myrte et le saule :
 
     Le quinzième jour du septième mois, quand vous aurez recueilli les produits de la terre, vous célébrerez une fête à l'Éternel pendant sept jours. Le premier jour sera un sabbat, et le huitième jour sera aussi un sabbat. **Vous prendrez, le premier jour, du fruit des beaux arbres, des branches de palmiers, des rameaux d'arbres touffus et des saules des rivières**. Vous vous réjouirez devant l'Éternel, votre Dieu, pendant sept jours.
 

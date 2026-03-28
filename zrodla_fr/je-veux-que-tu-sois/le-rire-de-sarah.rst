@@ -110,7 +110,7 @@ Nous voyons ce qui résulte d'une telle vérité. Dieu et Abraham sont à un tel
 
 * À quoi ressemblent chez moi les disputes avec d'autres personnes ? Comment je me comporte alors ?
 
-Dieu a tenu parole, car finalement, Dieu détruit la ville, mais Lot, le seul juste qui y habitait, quitte Sodome et survit..
+Dieu a tenu parole, car finalement, Dieu détruit la ville, mais Lot, le seul juste qui y habitait, quitte Sodome et survit.
 
 Dieu est fidèle. Laisse-toi surprendre par Dieu.
 ================================================

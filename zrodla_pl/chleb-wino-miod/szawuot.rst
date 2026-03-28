@@ -116,7 +116,7 @@ Za chwilę każdy z~nas dostanie swój tekst, z~miejscami do uzupełnienia oraz 
 
        -- 1 J 4,9-10
 
-       **Kto w~tej scenie miał był ofiarą i~przez kogo złożoną?**
+       **Kto w~tej scenie miał być ofiarą i~przez kogo złożoną?**
 
        Syn złożony w~ofierze przez Ojca.
 
@@ -299,7 +299,7 @@ Pisze do wszystkich którzy otrzymali “wiarę równie godną czci jak i~nasza�
 
 .. note:: Poniższy fragment można opuścić jeśli ujmie się go w~formę świadectwa animatora
 
-Czasem wydaje nam się, że aby dać coś Kościołowi trzeba być kimś specjalnym. Wydaje nam się, że w~wierze istnieje podział na “artystów” na scenie, którzy mogą mówić, być liderami, zmieniać świat, wyznaczać nowe kierunki, wpływać na rzeczywistość i~na tzw. “resztę”, która siedzi na widowni i~może jedynie opowiedzieć się za lub przeciw jakimś pomysłom. W~wierze powołanie kierowane jest do wszystkich, nie ma sceny i~widowni, wszyscy jesteśmy posłani, aby rozwijać swoją relację z~Bogiem, kontemplować, rozeznawać, dyskutować, a~owoce tych procesów przekazywać dalej. Nie musimy mieć mandatu, żeby włączyć duchowy wzrok i~zacząć łączyć kropki. Co więcej, dzieje się to nie tylko w~sytuacjach takich, jak Medytacja Słowa Bożego, na którym dokładnie to robiliśmy, ale po prostu w~każdej sferze życia. Każdy z~nas ma potencjał, aby iść w~głąb, patrzeć między wierszami, szukać sensu i~dzielić się tym, co odkryje. Jesteśmy posłani by być solą ziemi, a~więc także tymi, którzy będą te wycieczki w~głąb prowokować].
+Czasem wydaje nam się, że aby dać coś Kościołowi trzeba być kimś specjalnym. Wydaje nam się, że w~wierze istnieje podział na “artystów” na scenie, którzy mogą mówić, być liderami, zmieniać świat, wyznaczać nowe kierunki, wpływać na rzeczywistość i~na tzw. “resztę”, która siedzi na widowni i~może jedynie opowiedzieć się za lub przeciw jakimś pomysłom. W~wierze powołanie kierowane jest do wszystkich, nie ma sceny i~widowni, wszyscy jesteśmy posłani, aby rozwijać swoją relację z~Bogiem, kontemplować, rozeznawać, dyskutować, a~owoce tych procesów przekazywać dalej. Nie musimy mieć mandatu, żeby włączyć duchowy wzrok i~zacząć łączyć kropki. Co więcej, dzieje się to nie tylko w~sytuacjach takich, jak Medytacja Słowa Bożego, na którym dokładnie to robiliśmy, ale po prostu w~każdej sferze życia. Każdy z~nas ma potencjał, aby iść w~głąb, patrzeć między wierszami, szukać sensu i~dzielić się tym, co odkryje. Jesteśmy posłani by być solą ziemi, a~więc także tymi, którzy będą te wycieczki w~głąb prowokować.
 
 - Jakie uczucia budzi we mnie obraz tego, że nie ma opozycji widownia-artysta?
 - Co możemy zrobić, aby przełamać obecne w~nas poczucie, że prezbiterium to scena, a~nawy to widownia?

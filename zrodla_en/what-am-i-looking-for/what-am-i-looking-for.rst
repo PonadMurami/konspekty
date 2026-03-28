@@ -94,7 +94,7 @@ Doesn't sound bad, right? But let's look:
    - Looking for a friend in me?
    - Seek him in me with all your heart and continually!
 
-The difference is huge! Continuous seeking is creating a dynamic relationship that is constantly open to finding something new, to being surprised by it. Additionally when we have to wait for something, when something does not come to us easily – we value it much more.
+The difference is huge! Continuous seeking is creating a dynamic relationship that is constantly open to finding something new, to being surprised by it. Additionally, when we have to wait for something, when something does not come to us easily – we value it much more.
 
 * Have you experienced (on any example – not necessarily friendship) the difference between these two principles? What did it consist in?
 
@@ -117,7 +117,7 @@ Examples:
 * Gossip in newspapers about stars ($#^&!%@ I am not even able to invent what to write here :D)
 * Cosmetic XYZ (because thanks to it you will be beautiful – as if you weren't now)
 
-All these things directly or less rely on someone telling us that we will find happiness somewhere where it is not!
+All these things directly or indirectly rely on someone telling us that we will find happiness somewhere where it is not!
 
 I say that I am looking for "A", but I am looking out for "B"
 =============================================================
@@ -129,7 +129,7 @@ We spoke about manipulation of us by the "world" in the matter of the direction 
 We will now discuss our various "searches". Each time let's try to see maximally broadly what one can really look for on the occasion of this activity! Let's try to understand the mechanism that causes such discrepancies that "I say I am looking for A, but I am really looking out for B". **Let's share mainly such associations that we know from our own life, on which we "catch" ourselves**. Each of us possesses a natural psychological defense mechanism that suggests to us that *"after all not us! We always do exactly as we think"*. Group work on individual situations can make someone else suggest such an answer against which we are just defending ourselves. Let's use well the conditions we have here and try to notice something in our life. For some examples it will be possible to list a million examples
 "pious" - do not write them down if they are not in our life!
 
-.. note:: It is worth giving an example here: Suppose we were to answer the question "Who is Mary for me?". Indeed the correct answer is "Ark of the Covenant" or "Tower of Ivory" (see Litany of Loreto), but if for none of us these terms are close to the heart then let's gift them – we met to share our own experience, and not to write encyclopedias!
+.. note:: It is worth giving an example here: Suppose we were to answer the question "Who is Mary for me?". Indeed the correct answer is "Ark of the Covenant" or "Tower of Ivory" (see Litany of Loreto), but if for none of us these terms are close to the heart then let's set them aside – we met to share our own experience, and not to write encyclopedias!
 
 Each time we use the form **"What are we/you looking for in .......?"** Everyone is to hear this question several times! Must confront finding an answer to it! This is the educational Goal of this meeting.
 

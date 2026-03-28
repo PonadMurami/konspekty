@@ -17,7 +17,7 @@ Każdy z~Was przed chwilą stworzył swoją własną maskę.
 
 * Czy kiedykolwiek robiliście coś podobnego?
 
-* Jakie mieliście wrażenia, gdy zobaczyliście swoja twarz odbita w~gipsie?
+* Jakie mieliście wrażenia, gdy zobaczyliście swoją twarz odbitą w~gipsie?
 
 Wiele na tych rekolekcjach mówiliśmy o~wolności, o~byciu Nowym Stworzeniem, o~byciu chrześcijaninem i~o stylu naszego życia w~świecie. Pomyślcie teraz o~takiej rzeczy, takim aspekcie Waszego życia, który Wam nie pozwala być sobą.
 
@@ -42,7 +42,7 @@ Przykładowe pytania:
 Dzielenie Słowem Bożym
 ======================
 
-Przeczytajmy z~uczestnikami tekst i~podzielmy się tym, co o~nim myślimy, jakie refleksje (także/szczególnie a~propos przeżytych rekolekcji) nam się pojawiają, gdy czytamy ten tekst. Możliwe, że przy dzieleniu uczestnicy będą chcieli powrócić do treści, które były poruszane podczas całych rekolekcji i~podzielić się jeszcze swoimi przezyciami.
+Przeczytajmy z~uczestnikami tekst i~podzielmy się tym, co o~nim myślimy, jakie refleksje (także/szczególnie a~propos przeżytych rekolekcji) nam się pojawiają, gdy czytamy ten tekst. Możliwe, że przy dzieleniu uczestnicy będą chcieli powrócić do treści, które były poruszane podczas całych rekolekcji i~podzielić się jeszcze swoimi przeżyciami.
 
    Wy zaś jesteście wybranym plemieniem, królewskim kapłaństwem, narodem świętym, ludem [Bogu] na własność przeznaczonym, abyście ogłaszali dzieła potęgi Tego, który was wezwał z~ciemności do przedziwnego swojego światła, wy, którzyście byli nie-ludem, teraz zaś jesteście ludem Bożym, którzyście nie dostąpili miłosierdzia, teraz zaś jako ci, którzy miłosierdzia doznali.
 

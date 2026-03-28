@@ -83,7 +83,7 @@ Analizamos una por una las 14 preguntas del p. Jarek. En cada una hacemos pregun
 
 * ¿Qué jugó el papel más importante? ¿Corazón? ¿Razón? ¿Conciencia? ¿Sentido de justicia? etc.
 
-.. warning:: Esta es la parte fundamental de la reunión y debería convertirse en una conversación libre, sin embargo conducida según tal esquema, cuya obligación de mantener tiene el animador. Si el grupo es ambicioso y el tiempo lo permite que cree por sí mismo otras situaciones llamados "temas difíciles" ej. In-vitro, anticoncepción, eutanasia, popularización de la fe, etc. ¡No nos concentremos sin embargo, como suele suceder, en el contenido mismo y los argumentos de las partes sino en el análisis de la elección y la esencia del dilema!
+.. warning:: Esta es la parte fundamental de la reunión y debería convertirse en una conversación libre, sin embargo conducida según tal esquema, cuya obligación de mantener tiene el animador. Si el grupo es ambicioso y el tiempo lo permite que cree por sí mismo otras situaciones llamadas "temas difíciles" ej. In-vitro, anticoncepción, eutanasia, popularización de la fe, etc. ¡No nos concentremos sin embargo, como suele suceder, en el contenido mismo y los argumentos de las partes sino en el análisis de la elección y la esencia del dilema!
 
 Ejemplo, para que como animadores veáis cuán reveladoras pueden ser estas conversaciones:
 

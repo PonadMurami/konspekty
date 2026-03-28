@@ -81,4 +81,4 @@ Adam's admiration for the woman is the same admiration that the bridegroom expre
 Closing Prayer
 ===============
 
-Closing prayer for the fruits of these retreats and good preparation for the Great Easter Feast. Form according to the animator's judgment
+Closing prayer for the fruits of these retreats and good preparation for the Great Easter Feast. Form according to the animator's judgment.

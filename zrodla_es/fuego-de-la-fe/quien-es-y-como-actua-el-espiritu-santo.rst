@@ -28,11 +28,11 @@ El Espíritu Santo en el AT:
 
    La tierra era caos y confusión: oscuridad cubría el abismo, y un viento de Dios aleteaba por encima de las aguas.
 
-   -- Gn 1,22
+   -- Gn 1,2
 
    Pero Dios se acordó de Noé y de todas las bestias y ganados que estaban con él en el arca. Dios hizo pasar un viento sobre la tierra y las aguas decrecieron.
 
-   -- Gn 8,13
+   -- Gn 8,1
 
    Yahveh dijo: «Levántate y úngelo, que éste es.» Tomó Samuel el cuerno de aceite y le ungió en medio de sus hermanos. Y a partir de entonces, vino sobre David el espíritu de Yahveh. Samuel se levantó y se fue a Ramá.
 

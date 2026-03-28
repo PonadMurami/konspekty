@@ -20,7 +20,7 @@ Różne treści w~życiu wzbudzają w~nas pytania. Poprzez stawianie pytań posz
 
 Dzielenie się pytaniami jest relacjo-twórcze. To nimi często dzielimy się z~bliskimi i~przyjaciółmi w~najintymniejszych rozmowach. Pytania niejednokrotnie budują naszą wiarę, bo “pracują” w~nas, mają w~sobie pewien rodzaj ruchu, z~natury są niedookreślone. Często w~tym ruchu, spotykamy się z~drugim człowiekiem. W~tych momentach możemy spotkać się z~jego pytaniami i~pokazać mu własne. Jest to jeden z~ważniejszych aspektów świadectwa dawanego sobie nawzajem. Dzielenie się wiarą to także, a~może nawet przede wszystkim, dzielenie się swoimi pytaniami.
 
-.. note:: “[...] wiara umożliwia mi wejście w~tę historię [ewangelię] i~zgodę na to, aby się nią nie tylko zachwycić, ale też ją przetworzyć, w~ten sposób dla mnie ukazuje się prawda tej historii” T. Halik  “Czas pustych kościołów”
+.. note:: “[...] wiara umożliwia mi wejście w~tę historię [ewangelię] i~zgodę na to, aby się nią nie tylko zachwycić, ale też ją przetworzyć, w~ten sposób dla mnie ukazuje się prawda tej historii” T. Halik “Czas pustych kościołów”
 
 Pytania drogą do doświadczenia
 ==============================

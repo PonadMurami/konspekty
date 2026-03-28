@@ -99,6 +99,6 @@ Po modlitwie proponujemy dzielenie na temat roli Ducha Świętego w~naszej codzi
 Podzielenie się intencjami
 ==========================
 
-Za chwilę wspólnie będziemy uczestniczyć w~transmisji Mszy świętej. Wczoraj mówiliśmy o~tym, że w~listach jedności chodzi nie tylko o~same słowa, ale też o~ konkretne wsparcie, dlatego też nasi podróżnicy odwiedzając różne osoby, pytają o~intencje, w~których będziemy  ofiarowywać Eucharystię. Zróbmy teraz to samo w~przestrzeni naszej małej grupki, podzielmy się tym, o~co chcemy żeby inni się modlili dla nas:
+Za chwilę wspólnie będziemy uczestniczyć w~transmisji Mszy świętej. Wczoraj mówiliśmy o~tym, że w~listach jedności chodzi nie tylko o~same słowa, ale też o~konkretne wsparcie, dlatego też nasi podróżnicy odwiedzając różne osoby, pytają o~intencje, w~których będziemy ofiarowywać Eucharystię. Zróbmy teraz to samo w~przestrzeni naszej małej grupki, podzielmy się tym, o~co chcemy żeby inni się modlili dla nas:
 
 * O~modlitwę w~jakiej intencji chciałbyś poprosić naszą grupę?

@@ -37,7 +37,7 @@ Leamos:
 
     -- Comentario de san Juan Crisóstomo
 
-A través de la Eucaristía, y especialmente la recepción de Jesús en la Comunión, se hace que nos volvamos uno con todos los que reciben este Cuerpo. Nuestra diversidad construye la comunidad.
+La Eucaristía, y especialmente la recepción de Jesús en la Comunión, hace que nos volvamos uno con todos los que reciben este Cuerpo. Nuestra diversidad construye la comunidad.
 
 * ¿Cuál es mi relación, actitud hacia los demás participantes de la Misa?
 

@@ -308,7 +308,7 @@ Wniosek - struktura tego prologu to:
 
 Przy czym C i~C’ są dodatkowo wzmocnione jako cytaty z~Księgi Izajasza z~tego samego miejsca - co wskazuje na absolutny zamierzone działanie autora.
 
-   Głos się rozlega: "Drogę dla Pana przygotujcie na pustyni, wyrównajcie na pustkowiu  gościniec naszemu Bogu!
+   Głos się rozlega: "Drogę dla Pana przygotujcie na pustyni, wyrównajcie na pustkowiu gościniec naszemu Bogu!
 
    -- Iz 40,3
 

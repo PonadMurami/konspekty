@@ -37,7 +37,7 @@ Podejmowanie przez nas decyzji jest nieuniknione. Co jednak dzieje się potem? Z
 
 * Jak możesz wspólnie z~innymi oczekiwać efektów swoich / waszych decyzji?
 
-* Jak ważne dla Ciebie jest to, że możesz dzielić się z~innymi swoimi wątpliwościami, uczuciami związanymi z~czekanie?
+* Jak ważne dla Ciebie jest to, że możesz dzielić się z~innymi swoimi wątpliwościami, uczuciami związanymi z~czekaniem?
 
 Poszukajmy w~grupie podobieństw w~naszym czekaniu.
 

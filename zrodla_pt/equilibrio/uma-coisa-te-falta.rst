@@ -79,7 +79,7 @@ Leiamos:
 
 .. note:: Respeito aos mandamentos, é importante recordar a mesma ordem, muitas vezes temos tendência a centrar-nos nos mandamentos mais distantes (por exemplo, no sexto), porque causam maiores remorsos de consciência, enquanto que não sem razão os mais importantes estão no início.
 
-Ou seja, manter o equilíbrio! Os fariseus escolheram mal as prioridades na sua vida. É difícil dizer que cumprir a lei do dízimo é algo mau. O mal é descuidar o mais importante. Os fariseus fizeram-no de propósito? Ou talvez simplesmente se perdieron em todas as regras e mandamentos? Não descobrimos ontem mesmo que temos tendência a perder de vista o mais importante?
+Ou seja, manter o equilíbrio! Os fariseus escolheram mal as prioridades na sua vida. É difícil dizer que cumprir a lei do dízimo é algo mau. O mal é descuidar o mais importante. Os fariseus fizeram-no de propósito? Ou talvez simplesmente se perderam em todas as regras e mandamentos? Não descobrimos ontem mesmo que temos tendência a perder de vista o mais importante?
 
 Leiamos:
 
@@ -162,7 +162,7 @@ Leiamos:
 
     -- Lc 10,38-42
 
-* Alguma das irmãs escolheu o mal? (Não! A preocupação por receber adequadamente o hóspede é um elemento de la cultura)
+* Alguma das irmãs escolheu o mal? (Não! A preocupação por receber adequadamente o hóspede é um elemento da cultura)
 
 * Quais poderiam ser as motivações de Marta e quais as de Maria? (Por exemplo, Marta realmente, sinceramente queria servir? Fazer o que convém? O que lhe parecia que deveria fazer?)
 
@@ -187,7 +187,7 @@ A chave é fazer-se frequentemente a pergunta "para quê faço isto?". "Por que 
 Nós damos valor
 ================
 
-Nós também em diferentes etapas da nossa vida devemos determinar o que é o mais importante para nós. Queremos decidir o mais conscientemente possível que valores seguimos e quais realizamos. Não podemos partir do pressuposto de que tudo é importante, porque quando tudo é importante, de repente resulta que na realidade nada o é (inflación de valores).
+Nós também em diferentes etapas da nossa vida devemos determinar o que é o mais importante para nós. Queremos decidir o mais conscientemente possível que valores seguimos e quais realizamos. Não podemos partir do pressuposto de que tudo é importante, porque quando tudo é importante, de repente resulta que na realidade nada o é (inflação de valores).
 
 * Por que reconheço que algo é importante para mim?
 

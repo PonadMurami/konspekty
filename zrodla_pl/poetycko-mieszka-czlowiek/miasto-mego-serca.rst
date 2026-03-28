@@ -27,7 +27,7 @@ Miasto to...
 
 * Czy macie doświadczenia innego życia?
 
-Miasto przede wszystkim tworzą ludzie. To oni decydują o~jego życiu, o~rytmie, w~jakim w~nim toczy się życie. Miasto to wydarzenia, które się w~nim odbywają, które są publiczne lub całkiem prywatne. Miasto to także miejsca- miejsca, do których dążymy, w~których jesteśmy, pracujemy, odpoczywamy. Zwykle kojarzy się ono -zwłaszcza w~porównaniu do wsi- z~pośpiechem, hałasem, szybkim tempem życia, wieloma mijanymi nieznanymi osobami, korkami na drogach... Jednocześnie miasto otwiera przed jego mieszkańcami większe perspektywy- lepszy dostęp do szkół, uczelni, pracy, lepsza komunikacja (autobusy), większe możliwości rozwoju (ze wsi na uczelnię będą dojeżdżać tylko ci, którym naprawdę zależy; chęć nauki może się rozwinąć u~tych z~miasta, którzy przez "owczy pęd" pójdą na studia np dopiero na 2 czy 3 roku, ludzie ze wsi byliby wtedy "stratni" (bo np rodzice powiedzieli, że jak nie chcą iść teraz się uczyć, to nie pójdą w~ogóle, tlyko będą pracować), co nie oznacza, że nie mogą mieć własnych pasji lub ich nie potrzebują - potrzebują nawet bardziej!) ,niejako "łatwiejszy start". Nakłada to też pewien obowiązek- żeby całkiem nie zwariować, potrzebne są pasje, sprawy, które pozwalają nam zapomnieć o~tej całej bieganinie.
+Miasto przede wszystkim tworzą ludzie. To oni decydują o~jego życiu, o~rytmie, w~jakim w~nim toczy się życie. Miasto to wydarzenia, które się w~nim odbywają, które są publiczne lub całkiem prywatne. Miasto to także miejsca- miejsca, do których dążymy, w~których jesteśmy, pracujemy, odpoczywamy. Zwykle kojarzy się ono -zwłaszcza w~porównaniu do wsi- z~pośpiechem, hałasem, szybkim tempem życia, wieloma mijanymi nieznanymi osobami, korkami na drogach... Jednocześnie miasto otwiera przed jego mieszkańcami większe perspektywy- lepszy dostęp do szkół, uczelni, pracy, lepsza komunikacja (autobusy), większe możliwości rozwoju (ze wsi na uczelnię będą dojeżdżać tylko ci, którym naprawdę zależy; chęć nauki może się rozwinąć u~tych z~miasta, którzy przez "owczy pęd" pójdą na studia np dopiero na 2 czy 3 roku, ludzie ze wsi byliby wtedy "stratni" (bo np rodzice powiedzieli, że jak nie chcą iść teraz się uczyć, to nie pójdą w~ogóle, tylko będą pracować), co nie oznacza, że nie mogą mieć własnych pasji lub ich nie potrzebują - potrzebują nawet bardziej!) , niejako "łatwiejszy start". Nakłada to też pewien obowiązek- żeby całkiem nie zwariować, potrzebne są pasje, sprawy, które pozwalają nam zapomnieć o~tej całej bieganinie.
 
 Moje miasto to...
 =================
@@ -57,7 +57,7 @@ Zapiszmy je na karteczkach-domkach, by móc je potem wykorzystać podczas budowa
 Ja w~moim mieście
 =================
 
-* Jak myślicie, jakie miejsce, jaką postawę zajmujecie w~swoim mieście?  Jak ono na Was wpływa?
+* Jak myślicie, jakie miejsce, jaką postawę zajmujecie w~swoim mieście? Jak ono na Was wpływa?
 
 * Potraficie podać konkretne przykłady, w~których mieliście konflikt wartości i~na decyzję wpłynęła ważniejsza wartość?
 
@@ -93,7 +93,7 @@ Przeczytajmy
 
    -- Prz 4,23
 
-Przypis mówi, że : Wobec nieznajomości nagrody i~kary po śmierci, pomyślność oceniano jako główną zapłatę za dobre życie.
+Przypis mówi, że: Wobec nieznajomości nagrody i~kary po śmierci, pomyślność oceniano jako główną zapłatę za dobre życie.
 
 My znamy już (mniej więcej) karę i~nagrodę, jaką możemy otrzymać po śmierci, co nie wyklucza tego, że Bóg, dając nam pragnienia, pozwalając nam rozwijać swoje pasje, sprawia, że wzrasta w~nas życie, że dzięki tym sprawom jesteśmy radośni, pełni energii i~zapału. Zachęca nas do tego, byśmy w~sobie te pasje rozwijali i~ich strzegli (np. w~przypowieści o~talentach). Bóg wie, co jest dla nas i~w nas najważniejsze: Pan jednak rzekł do Samuela: «Nie zważaj ani na jego wygląd, ani na wysoki wzrost, gdyż nie wybrałem go, nie tak bowiem człowiek widzi <jak widzi Bóg>, bo człowiek patrzy na to, co widoczne dla oczu, Pan natomiast patrzy na serce».(1 Sm 16,7). Jeśli więc by nasze serce było "rynkiem"- tym, czym możemy się szczycić, a~przede wszystkim cieszyć.
 

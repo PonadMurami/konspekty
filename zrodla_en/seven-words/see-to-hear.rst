@@ -102,7 +102,7 @@ At this moment—fully aware that Jesus truly was one of us, that like us He fel
 The cross — silence — words
 ===========================
 
-**KRZYŻ**
+**THE CROSS**
 
 “Crucifixion was the cruelest and most humiliating punishment used by the Romans. The cross was a symbol of shame; no Roman citizen could be executed on it. Jews considered the body of a man executed on the cross to be defiled and accursed.”
 

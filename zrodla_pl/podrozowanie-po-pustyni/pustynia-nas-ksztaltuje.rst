@@ -36,7 +36,7 @@ Skąd wynikają nasze odczucia na Drodze Krzyżowej jakiegoś znużenia/nudy/nie
 
 Animator rozdaje grupie wydruki i~wspólnie z~nimi próbuje je analizować. Poniżej zamieszczam przykładowy schemat:
 
-* Czego to jest piramida? Piramid potrzeb Maslowa Jak można ją odczytujecie?
+* Czego to jest piramida? Piramida potrzeb Maslowa. Jak ją odczytujecie?
 
 (że człowiek ma różne potrzeby i~ciężko mu koncentrować się na spełnianiu innych gdy nie są zrealizowane wcześniejsze.)
 
@@ -57,7 +57,7 @@ Animator rozdaje grupie wydruki i~wspólnie z~nimi próbuje je analizować. Poni
 
 To  pytanie  jest  najważniejsze.  Wczorajszego  dnia  i~dzisiaj  na  konferencji  mówiliśmy o~tym, że Pustynia jest "brakiem czegoś", tak jak Droga Krzyżowa "obfitowała w~brak zajęć". W~życiu człowiek wyrabia w~sobie pewne schematy działania – gdy mu czegoś brakuje robi to i~to i~to. Ten schemat działa na każdej z~płaszczyzn piramidy. Pustynia poprzez zmianę warunków naszego życia niszczy te przyzwyczajenia i~utarte szlaki działań. Dlatego nożyczki – pewne wybory dokonywane przez nas normalnie teraz są niedostępne. To zmusza nas do pójścia nową drogą, to zmusza nas do doświadczenia więcej.
 
-* Czy patrzeliście kiedykolwiek w~taki sposób na momenty pustyni w~waszym życiu? Czy mieliście doświadczenie w~swoim życiu takiego "odcięcia możliwości, która normalnie była przez was wybierana"? Co to było? Jak to pamiętacie? (chodzi o~rzeczy nie tylko z~"górnych warstw")
+* Czy patrzyliście kiedykolwiek w~taki sposób na momenty pustyni w~waszym życiu? Czy mieliście doświadczenie w~swoim życiu takiego "odcięcia możliwości, która normalnie była przez was wybierana"? Co to było? Jak to pamiętacie? (chodzi o~rzeczy nie tylko z~"górnych warstw")
 
 * Czy macie doświadczenie "zobaczenia więcej" dzięki "zmuszeniu was" do wybrania innej drogi przez okoliczności pustyni?
 
@@ -86,7 +86,7 @@ Reakcja   ludzi   na   kryzys/pustynie   jest   czasami   przedziwna.   Może   
 "naprawić"  tj. usunąć.  Tak samo  chęć  samodzielnego  udania  się na pustynię  (rekolekcje)
 czasami może się spotykać z,~delikatnie mówiąc, niezrozumieniem.
 
-* Jak ja reaguje, gdy ktoś dzieli się ze mną doświadczeniem pustyni?
+* Jak ja reaguję, gdy ktoś dzieli się ze mną doświadczeniem pustyni?
 
 * Czy znam osobę, która nie próbowała w~pomaganiu "usuwać" kryzysu, a~starała się o~to, abym przeszedł/przeszła przez niego jak najowocniej?
 
@@ -95,7 +95,7 @@ czasami może się spotykać z,~delikatnie mówiąc, niezrozumieniem.
 Wytrwać do końca
 ================
 
-Przed czasem pustyni zatem nie należy uciekać, a~go jak najlepiej wykorzystać. Myślę, że najczęstszym   błędem   na   pustyni   jest   brak   cierpliwości.   Pustynia   to   "doświadczenie graniczne" które pozwala otworzyć nowy rozdział, dać nowe spojrzenie na jakiś etap życia. Przykładem tutaj może być rozpacz i~pustynia duchowa Judasza po zdradzie Jezusa. Te doświadczenie  pustki doprowadziło  go do fatalnej decyzji o~odebraniu sobie życia. Gdyby udało mu się przetrwać tą noc i~podnieść się... Zobaczmy jak bardzo tryumfowałoby Miłosierdzie, jak wielkie byłoby to świadectwo gdyby nauczał o~odpuszczeniu grzechów itd. Kto wie – być może byłby jednym z~największych świętych.
+Przed czasem pustyni zatem nie należy uciekać, a~go jak najlepiej wykorzystać. Myślę, że najczęstszym   błędem   na   pustyni   jest   brak   cierpliwości.   Pustynia   to   "doświadczenie graniczne" które pozwala otworzyć nowy rozdział, dać nowe spojrzenie na jakiś etap życia. Przykładem tutaj może być rozpacz i~pustynia duchowa Judasza po zdradzie Jezusa. Te doświadczenie  pustki doprowadziło  go do fatalnej decyzji o~odebraniu sobie życia. Gdyby udało mu się przetrwać tę noc i~podnieść się... Zobaczmy jak bardzo tryumfowałoby Miłosierdzie, jak wielkie byłoby to świadectwo gdyby nauczał o~odpuszczeniu grzechów itd. Kto wie – być może byłby jednym z~największych świętych.
 
 Przeczytajmy teraz wiersz Jacka Kaczmarskiego "O krok". Niech każdy z~nas zaznaczy w~nim "najbliższe mu wersy".
 

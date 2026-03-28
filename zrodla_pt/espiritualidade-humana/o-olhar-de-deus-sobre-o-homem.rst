@@ -100,4 +100,4 @@ Proposta para que cada um de nós assuma agora um pequeno propósito relacionado
 Oração final
 =============
 
-Livre pela intenção de bom vivenciamento do Tríduo Pascal.
+Livre pela intenção de boa vivência do Tríduo Pascal.
